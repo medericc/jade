@@ -1,273 +1,240 @@
 'use client'
 
-import Link from 'next/link'
 import { useState } from 'react'
+import Link from 'next/link'
 
 export default function ConjugaisonPage() {
-  const [selectedVerb, setSelectedVerb] = useState('estre')
-  const [selectedTense, setSelectedTense] = useState('present')
+
+  const [tab, setTab] = useState('verbs')
+  const [verb, setVerb] = useState('esta')
+  const [tense, setTense] = useState('present')
 
   const verbs = {
-    estre: {
-      name: 'Estre (Être)',
-      present: ['que sòi', 'qu\'ès', 'qu\'ei', 'que sèm', 'qu\'ètz', 'que sòn'],
-      passe: ['qu\'èri', 'qu\'ères', 'qu\'ère', 'qu\'èrem', 'qu\'èretz', 'qu\'èren'],
-      futur: ['que serèi', 'que seràs', 'que serà', 'que seram', 'que seratz', 'que seràn']
+
+    // AUXILIAIRES
+    esta: {
+      name: 'esta (être)',
+      tenses: {
+        present: ['que souy','qu’ès','qu’éy','qu’èm','qu’èt','que soun'],
+        imparfait: ['qu’èri','qu’ères','qu’ère','qu’èrem','qu’èret','qu’èren'],
+        futur: ['que serèy','que seras','que sera','que seram','que serat','que seran'],
+        subjonctif: ['sii','siis','sii','siim','siit','siin'],
+        conditionnel: ['sii','sies','sie','siem','siet','sien'],
+        imperatif: ['siis','siim','siit'],
+        passe: ['terminaison présent de esta + estat(de)']
+      }
     },
-    aver: {
-      name: 'Aver (Avoir)',
-      present: ['qu\'èi', 'qu\'as', 'qu\'a', 'qu\'avèm', 'qu\'avètz', 'qu\'an'],
-      passe: ['qu\'avèvi', 'qu\'avèves', 'qu\'avève', 'qu\'avèvem', 'qu\'avèvetz', 'qu\'avèven'],
-      futur: ['qu\'aurèi', 'qu\'auràs', 'qu\'aurà', 'qu\'auram', 'qu\'auratz', 'qu\'auràn']
+
+    abe: {
+      name: 'abé (avoir)',
+      tenses: {
+        present: ['qu’èy','qu’as','qu’a','qu’abém','qu’abét','qu’an'],
+        imparfait: ['qu’abi / abèbi','qu’abès / abèbes','qu’abè / abèbe','qu’abèm / abèbem','qu’abèt(s) / abèbet(s)','qu’abèn / abèben'],
+        futur: ['qu’aberèy / aurèy','qu’aberas / auras','qu’abera / aura','qu’aberam / auram','qu’aberat(s) / aurat(s)','qu’aberan / auran'],
+        subjonctif: ['ayi','ayis','ayi','ayim','ayit','ayin'],
+        imperatif: ['ayis','ayim','ayit'],
+        passe: ['terminaison présent de abé + abut']
+      }
     },
-    parlar: {
-      name: 'Parlar (Parler)',
-      present: ['que parli', 'que parlas', 'que parla', 'que parlam', 'que parlatz', 'que parlan'],
-      passe: ['que parlèvi', 'que parlèves', 'que parlève', 'que parlèvem', 'que parlèvetz', 'que parlèven'],
-      futur: ['que parlarèi', 'que parlaràs', 'que parlarà', 'que parlaram', 'que parlaratz', 'que parlaràn']
+
+    // IRRÉGULIERS
+    ana: {
+      name: 'ana (aller)',
+      tenses: {
+        present: ['que bau','que bas','que ba','que bam','que bat','que ban'],
+        futur: ['qu’anerèy','qu’aneras','qu’anera','qu’aneram','qu’anerat','qu’aneran'],
+        subjonctif: ['anii','anis','ani','anim','anit','anin'],
+        imperatif: ['bén','aném','anat']
+      }
     },
-    har: {
-      name: 'Har (Faire)',
-      present: ['que hèi', 'que hès', 'que hè', 'que hèm', 'que hètz', 'que hèn'],
-      passe: ['que hasèvi', 'que hasèves', 'que hasève', 'que hasèvem', 'que hasèvetz', 'que hasèven'],
-      futur: ['que harèi', 'que haràs', 'que harà', 'que haram', 'que haratz', 'que haràn']
+
+    da: {
+      name: 'da (donner)',
+      tenses: {
+        present: ['que dau','que das','que da','que dam','que dat','que dan'],
+        imperatif: ['da','dém','dat']
+      }
+    },
+
+    ha: {
+      name: 'ha (faire)',
+      tenses: {
+        present: ['que hèy','que hès','que hè','que hèm','que hèt','que hèn'],
+        imparfait: ['que hesi','que hesès','que hesè','que hesèm','que hesèt','que hesèn'],
+        subjonctif: ['hasquii','hasquis','hasqui','hasquim','hasquit','hasquin'],
+        imperatif: ['hè','hèm','hèt'],
+        passe: ['verbe avoir + hèyt/hèyte']
+      }
+    },
+
+    bede: {
+      name: 'bédẹ (voir)',
+      tenses: {
+        present: ['que béy','que béts','que bét','que bedém','que bedét','que bédẹn'],
+        subjonctif: ['bedii','bedis','bedi','bedim','bedit','bedin'],
+        imperatif: ['bét','bedém','bedét']
+      }
+    },
+
+    biene: {
+      name: 'biénẹ (venir)',
+      tenses: {
+        present: ['3e personne : bién'],
+        subjonctif: ['bienii','bienis','bieni','bienim','bienit','bienin'],
+        imperatif: ['ça-i','bieném','ça-biét'],
+        passe: ['etre + bienut/bienude']
+      }
+    },
+
+    dise: {
+      name: 'dise (dire)',
+      tenses: {
+        present: ['que disi','que dits','que dit','que disém','que disét','que disẹn'],
+        subjonctif: ['disii','disis','disi','disim','disit','disin'],
+        passe: ['avoir + dit/dite']
+      }
+    },
+
+    boule: {
+      name: 'boùlẹ (vouloir)',
+      tenses: {
+        present: ['que bouy','que bos','que bòu','que boulém','que boulét','que bòlen'],
+        subjonctif: ['boulhii','boulhis','boulhi','boulhim','boulhit','boulhin'],
+        passe: ['avoir + boulut/boulude']
+      }
+    },
+
+    sabe: {
+      name: 'sabé (savoir)',
+      tenses: {
+        present: ['que séy','que saps','que sap','que sabém','que sabét','que sàbẹn'],
+        subjonctif: ['sàpii','sàpiis','sàpi','sàpiim','sàpiit','sàpiin'],
+        imperatif: ['sàpies','sapiam','sapiat'],
+        passe: ['avoir + sabut/sabude']
+      }
+    },
+
+    tiene: {
+      name: 'tiénẹ (venir)',
+      tenses: {
+        present: ['3e personne : que tien'],
+        subjonctif: ['tienii','tienis','tieni','tienim','tienit','tienin'],
+        imperatif: ['té','tieném','tienét'],
+        passe: ['avoir + tienut/tienude']
+      }
+    },
+
+    prene: {
+      name: 'prénẹ (prendre)',
+      tenses: {
+        present: ['3e personne : que prén'],
+        subjonctif: ['prenii','prenis','preni','prenim','prenit','prenin'],
+        imperatif: ['prén','preném','prenét'],
+        passe: ['avoir + prés/prése']
+      }
+    },
+
+    crede: {
+      name: 'crédẹ (croire)',
+      tenses: {
+        present: ['que créy','que crédẹs','que crét','que credém','que credét','que crédẹn'],
+        subjonctif: ['crédii','crédis','crédi','crédim','crédit','crédin'],
+        imperatif: ['crét','credém','credét'],
+        passe: ['avoir + credut/credude']
+      }
+    },
+
+    poudut: {
+      name: 'poudut (pouvoir)',
+      tenses: {
+        present: ['que pouch','que pots','que pot','que poudém','que poudét','que pòdẹn'],
+        subjonctif: ['pouchquii','pouchquis','pouchqui','pouchquim','pouchquit','pouchquin'],
+        passe: ['avoir + poudut/poudude']
+      }
     }
+
   }
 
-  const tenses = {
-    present: 'Present',
-    passe: 'Passat (Imparfait)',
-    futur: 'Futur'
-  }
+  const pronouns = ['You','Tu','Éth/Ére','Nousauts','Bousauts','Eths/Éres']
 
-  const pronouns = ['Jo', 'Tu', 'Eth/Era', 'Nosauts', 'Vosauts', 'Eth/Eras']
+  const currentVerb = verbs[verb as keyof typeof verbs]
+  const currentTense = currentVerb.tenses[tense as keyof typeof currentVerb.tenses]
 
   return (
-    <>
-      <style jsx global>{`
-        :root {
-          --violet-profond: #4B1E6D;
-          --violet-clair: #9B6BB7;
-          --violet-tres-clair: #E9DDF2;
-          --jaune-vif: #FFD700;
-          --jaune-pastel: #FFF4CC;
-          --blanc: #FDFBF7;
-          --blanc-pur: #FFFFFF;
-          --texte-principal: #2D0A45;
-          --texte-secondaire: #6B4B7A;
-          --fs-xs: clamp(0.75rem, 1.5vw, 0.875rem);
-          --fs-sm: clamp(0.875rem, 2vw, 1rem);
-          --fs-base: clamp(1rem, 2.5vw, 1.125rem);
-          --fs-md: clamp(1.25rem, 3vw, 1.5rem);
-          --fs-lg: clamp(1.5rem, 4vw, 2.5rem);
-          --fs-xl: clamp(2rem, 5vw, 3.5rem);
-          --space-xs: clamp(0.5rem, 1vw, 0.75rem);
-          --space-sm: clamp(0.75rem, 1.5vw, 1rem);
-          --space-md: clamp(1rem, 2vw, 1.5rem);
-          --space-lg: clamp(1.5rem, 3vw, 2.5rem);
-          --space-xl: clamp(2rem, 4vw, 4rem);
-        }
+    <main style={{ padding: 20, maxWidth: 1200, margin: 'auto' }}>
 
-        * { box-sizing: border-box; padding: 0; margin: 0; }
-        html, body { max-width: 100vw; overflow-x: hidden; background-color: var(--blanc); color: var(--texte-principal); font-family: system-ui, sans-serif; }
-        body { -webkit-font-smoothing: antialiased; }
-        a { color: inherit; text-decoration: none; }
-        .container { width: 100%; max-width: 1200px; margin-left: auto; margin-right: auto; padding-left: var(--space-md); padding-right: var(--space-md); }
-        @media (min-width: 1920px) { .container { max-width: 1600px; } }
-        @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-        .animate-fade-up { animation: fadeUp 0.4s ease-out forwards; }
-      `}</style>
+      <Link href="/apprendre">← Retour</Link>
 
-      <main style={{ minHeight: '100vh' }}>
-        
-        {/* Header */}
-        <header style={{
-          background: 'var(--violet-profond)',
-          padding: 'var(--space-md) 0',
-          borderBottom: '3px solid var(--jaune-vif)'
-        }}>
-          <div className="container" style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: 'var(--space-md)',
-            flexWrap: 'wrap'
-          }}>
-            <Link href="/apprendre">
-              <span style={{
-                color: 'var(--jaune-vif)',
-                fontSize: 'var(--fs-md)',
-                cursor: 'pointer'
-              }}>
-                ← Retour
-              </span>
-            </Link>
-            <h1 style={{
-              color: 'var(--blanc-pur)',
-              fontSize: 'var(--fs-lg)',
-              display: 'flex',
-              alignItems: 'center',
-              gap: 'var(--space-sm)'
-            }}>
-              <span>📝</span>
-              Conjugason
-            </h1>
+      <h1 style={{ fontSize: 32, margin: '20px 0' }}>
+        Conjugason
+      </h1>
+
+      {/* TABS */}
+      <div style={{ display: 'flex', gap: 10 }}>
+        <button onClick={()=>setTab('verbs')}>Verbes</button>
+        <button onClick={()=>setTab('rules')}>Règles</button>
+      </div>
+
+      {tab === 'verbs' && (
+        <>
+          <select value={verb} onChange={(e)=>setVerb(e.target.value)}>
+            {Object.entries(verbs).map(([k,v])=>(
+              <option key={k} value={k}>{v.name}</option>
+            ))}
+          </select>
+
+          <select value={tense} onChange={(e)=>setTense(e.target.value)}>
+            {Object.keys(currentVerb.tenses).map(t=>(
+              <option key={t}>{t}</option>
+            ))}
+          </select>
+
+          <div style={{ marginTop:20 }}>
+            {Array.isArray(currentTense) && currentTense.length === 6 ? (
+              currentTense.map((f,i)=>(
+                <div key={i}>
+                  <strong>{pronouns[i]}</strong> — {f}
+                </div>
+              ))
+            ) : (
+              <div>{currentTense}</div>
+            )}
           </div>
-        </header>
+        </>
+      )}
 
-        {/* Sélecteurs */}
-        <section style={{
-          padding: 'var(--space-lg) 0',
-          background: 'var(--violet-tres-clair)'
-        }}>
-          <div className="container">
-            <div style={{
-              display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
-              gap: 'var(--space-md)'
-            }}>
-              
-              {/* Sélecteur de verbe */}
-              <div className="animate-fade-up">
-                <label style={{
-                  display: 'block',
-                  marginBottom: 'var(--space-xs)',
-                  color: 'var(--violet-profond)',
-                  fontWeight: 'bold'
-                }}>
-                  Vèrbe :
-                </label>
-                <select 
-                  value={selectedVerb}
-                  onChange={(e) => setSelectedVerb(e.target.value)}
-                  style={{
-                    width: '100%',
-                    padding: 'var(--space-sm)',
-                    fontSize: 'var(--fs-base)',
-                    borderRadius: '10px',
-                    border: '2px solid var(--violet-clair)',
-                    background: 'var(--blanc-pur)',
-                    color: 'var(--texte-principal)',
-                    cursor: 'pointer'
-                  }}
-                >
-                  {Object.entries(verbs).map(([key, verb]) => (
-                    <option key={key} value={key}>{verb.name}</option>
-                  ))}
-                </select>
-              </div>
+      {tab === 'rules' && (
+        <div style={{ marginTop:20, lineHeight:1.6 }}>
+            <p>Le pronom personnel sujet ne s&lsquo;écrit pas, on débute par &quot;que&quot;.</p>
+          <p>Le Participe présent se forme avec infinitif +n.</p>
+          <p>Le participe passé se forme avec a/u/i + t/de si féminin.</p>
 
-              {/* Sélecteur de temps */}
-              <div className="animate-fade-up" style={{ animationDelay: '0.1s' }}>
-                <label style={{
-                  display: 'block',
-                  marginBottom: 'var(--space-xs)',
-                  color: 'var(--violet-profond)',
-                  fontWeight: 'bold'
-                }}>
-                  Temps :
-                </label>
-                <select 
-                  value={selectedTense}
-                  onChange={(e) => setSelectedTense(e.target.value)}
-                  style={{
-                    width: '100%',
-                    padding: 'var(--space-sm)',
-                    fontSize: 'var(--fs-base)',
-                    borderRadius: '10px',
-                    border: '2px solid var(--violet-clair)',
-                    background: 'var(--blanc-pur)',
-                    color: 'var(--texte-principal)',
-                    cursor: 'pointer'
-                  }}
-                >
-                  {Object.entries(tenses).map(([key, name]) => (
-                    <option key={key} value={key}>{name}</option>
-                  ))}
-                </select>
-              </div>
-            </div>
-          </div>
-        </section>
+          <h3>Présent</h3>
+          <p>1e groupe : i, es, e, am, at, en</p>
+          <p>2e groupe : i, es, radical, ém, ét, ẹn</p>
+          <p>3e groupe : i, s, -, im, it, in</p>
 
-        {/* Tableau de conjugaison */}
-        <section style={{
-          padding: 'var(--space-xl) 0',
-          background: 'var(--blanc-pur)'
-        }}>
-          <div className="container">
-            <div className="animate-fade-up" style={{
-              background: 'var(--jaune-pastel)',
-              borderRadius: '20px',
-              padding: 'var(--space-lg)',
-              boxShadow: '0 10px 30px rgba(75, 30, 109, 0.1)'
-            }}>
-              <h2 style={{
-                fontSize: 'var(--fs-md)',
-                color: 'var(--violet-profond)',
-                marginBottom: 'var(--space-lg)',
-                textAlign: 'center'
-              }}>
-                {verbs[selectedVerb as keyof typeof verbs].name} - {tenses[selectedTense as keyof typeof tenses]}
-              </h2>
-              
-              <div style={{
-                display: 'grid',
-                gap: 'var(--space-sm)'
-              }}>
-                {pronouns.map((pronoun, index) => (
-                  <div key={index} style={{
-                    display: 'grid',
-                    gridTemplateColumns: '120px 1fr',
-                    alignItems: 'center',
-                    padding: 'var(--space-sm)',
-                    borderBottom: '1px solid var(--violet-clair)'
-                  }}>
-                    <span style={{
-                      fontWeight: 'bold',
-                      color: 'var(--violet-profond)'
-                    }}>
-                      {pronoun}
-                    </span>
-                    <span style={{
-                      fontSize: 'var(--fs-md)',
-                      color: 'var(--texte-principal)',
-                      fontFamily: 'monospace'
-                    }}>
-                      {verbs[selectedVerb as keyof typeof verbs][selectedTense as keyof typeof tenses][index]}
-                    </span>
-                  </div>
-                ))}
-              </div>
-            </div>
+          <h3>Futur</h3>
+          <p>infinitif + r + èy, as, a, am, at, an</p>
 
-            {/* Note grammaticale */}
-            <div className="animate-fade-up" style={{
-              animationDelay: '0.2s',
-              marginTop: 'var(--space-lg)',
-              padding: 'var(--space-md)',
-              background: 'var(--violet-tres-clair)',
-              borderRadius: '15px'
-            }}>
-              <p style={{ color: 'var(--texte-secondaire)', fontSize: 'var(--fs-sm)' }}>
-                <strong>💡 Nòta :</strong> En béarnais, le &quot;que&quot; énonciatif 
-                s&apos;utilise devant le verbe dans les phrases affirmatives.
-              </p>
-            </div>
-          </div>
-        </section>
+          <h3>Conditionnel</h3>
+          <p>infinitif + i, és, é, ém, ét, én</p>
 
-        {/* Footer */}
-        <footer style={{
-          padding: 'var(--space-lg) 0',
-          background: 'var(--violet-profond)',
-          color: 'var(--blanc-pur)',
-          textAlign: 'center'
-        }}>
-          <div className="container">
-            <p>© 2026 • Aprén lo biarnés</p>
-          </div>
-         </footer>
-      </main>
-    </>
+          <h3>Imparfait</h3>
+          <p>1e groupe : àbi, abes, abe...</p>
+          <p>2e groupe : ni, nès...</p>
+          <p>3e groupe : ibi, ibes...</p>
+
+          <h3>Impératif</h3>
+          <p>canta → cante, cantém, cantat</p>
+          <p>bené → bén, beném, benét</p>
+          <p>droumi → droum, droumim, doumit</p>
+
+          <h3>Subjonctif</h3>
+          <p>radical + i, is, i, im, it, in</p>
+        </div>
+      )}
+
+    </main>
   )
 }

@@ -358,62 +358,9 @@ export default function ApprendrePage() {
                 </div>
               </Link>
 
-              {/* Carte Exercices */}
-              <Link href="/apprendre/exercices">
-                <div className="animate-fade-up" style={{
-                  animationDelay: '0.3s',
-                  background: 'var(--jaune-vif)',
-                  padding: 'var(--space-xl) var(--space-lg)',
-                  borderRadius: '20px',
-                  textAlign: 'center',
-                  cursor: 'pointer',
-                  transition: 'all 0.3s',
-                  border: '2px solid transparent',
-                  height: '100%',
-                  display: 'flex',
-                  flexDirection: 'column',
-                  alignItems: 'center'
-                }}
-                onMouseEnter={(e) => {
-                  e.currentTarget.style.transform = 'translateY(-5px)'
-                  e.currentTarget.style.borderColor = 'var(--violet-profond)'
-                  e.currentTarget.style.boxShadow = '0 15px 30px rgba(75, 30, 109, 0.2)'
-                }}
-                onMouseLeave={(e) => {
-                  e.currentTarget.style.transform = 'translateY(0)'
-                  e.currentTarget.style.borderColor = 'transparent'
-                  e.currentTarget.style.boxShadow = 'none'
-                }}>
-                  <div style={{ fontSize: '60px', marginBottom: 'var(--space-md)' }}>🎯</div>
-                  <h3 style={{
-                    fontSize: 'var(--fs-md)',
-                    color: 'var(--violet-profond)',
-                    marginBottom: 'var(--space-sm)'
-                  }}>
-                    Exercicis
-                  </h3>
-                  <p style={{
-                    color: 'var(--texte-principal)',
-                    fontSize: 'var(--fs-sm)',
-                    lineHeight: 1.5
-                  }}>
-                    Teste tes connaissances avec des quiz interactifs et gagne des points !
-                  </p>
-                  <span style={{
-                    marginTop: 'var(--space-md)',
-                    color: 'var(--violet-profond)',
-                    fontWeight: 'bold',
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: 'var(--space-xs)'
-                  }}>
-                    Jouer → 
-                  </span>
-                </div>
-              </Link>
 
-              {/* Carte Vocabulaire */}
-              <Link href="/apprendre/vocabulaire">
+              {/* Carte dictionnaire */}
+              <Link href="/apprendre/dictionnaire">
                 <div className="animate-fade-up" style={{
                   animationDelay: '0.4s',
                   background: 'var(--blanc-pur)',

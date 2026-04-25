@@ -359,48 +359,28 @@ export default function CarrierePage() {
               gap: 'var(--space-md)'
             }}>
               {careerHighlights.map((highlight, index) => (
-                <div 
-                  key={index}
-                  className="animate-fade-up highlight-card stat-card"
-                  style={{
-                    animationDelay: `${index * 0.1}s`,
-                    background: 'linear-gradient(135deg, var(--jaune-pastel) 0%, var(--blanc-pur) 100%)',
-                    padding: 'var(--space-lg)',
-                    borderRadius: '20px',
-                    border: '1px solid var(--violet-tres-clair)'
-                  }}
-                >
-                  <div style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: 'var(--space-md)',
-                    marginBottom: 'var(--space-md)'
-                  }}>
-                    <span style={{ fontSize: '40px' }}>{highlight.icon}</span>
-                    <div>
-                      <div style={{
-                        fontSize: 'var(--fs-sm)',
-                        color: 'var(--texte-secondaire)'
-                      }}>
-                        {highlight.year}
-                      </div>
-                      <div style={{
-                        fontSize: 'var(--fs-md)',
-                        fontWeight: 'bold',
-                        color: 'var(--violet-profond)'
-                      }}>
-                        {highlight.title}
-                      </div>
-                    </div>
-                  </div>
-                  <p style={{
-                    fontSize: 'var(--fs-sm)',
-                    color: 'var(--texte-principal)',
-                    lineHeight: 1.5
-                  }}>
-                    {highlight.description}
-                  </p>
-                </div>
+              <div
+  key={index}
+  className="group rounded-2xl p-6 bg-white border border-gray-200 shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
+>
+  {/* Year */}
+  <span className="text-sm font-medium text-violet-500">
+    {highlight.year}
+  </span>
+
+  {/* Title */}
+  <h3 className="text-lg font-semibold text-gray-900 mt-2 mb-2">
+    {highlight.title}
+  </h3>
+
+  {/* Description */}
+  <p className="text-sm text-gray-500 leading-relaxed">
+    {highlight.description}
+  </p>
+
+  {/* Accent line */}
+  <div className="mt-4 h-[2px] w-10 bg-violet-500 group-hover:w-20 transition-all duration-300"></div>
+</div>
               ))}
             </div>
           </div>
