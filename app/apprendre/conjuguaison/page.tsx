@@ -206,24 +206,25 @@ export default function ConjugaisonPage() {
       {tab === 'rules' && (
         <div style={{ marginTop:20, lineHeight:1.6 }}>
             <p>Le pronom personnel sujet ne s&lsquo;écrit pas, on débute par &quot;que&quot;.</p>
-          <p>Le Participe présent se forme avec infinitif +n.</p>
+          <p>Le Participe présent se forme avec infinitif +n (en chantant, en cantan).</p>
           <p>Le participe passé se forme avec a/u/i + t/de si féminin.</p>
+           <p>Le passé simple se forme avec auxiliaire + participe passé.</p>
 
           <h3>Présent</h3>
-          <p>1e groupe : i, es, e, am, at, en</p>
-          <p>2e groupe : i, es, radical, ém, ét, ẹn</p>
-          <p>3e groupe : i, s, -, im, it, in</p>
+          <p>1e groupe : radical + i, es, e, am, at, en</p>
+          <p>2e groupe : radical + i, es, rien(si b,d,s,l,z changement phonétique comme béb/councéb devient éu, hob/embob/cab/esmàb donne p ou debèrz/espàrz donne debèrs/espars, mais aucun si –m, -n, -p, -r, -t, -y)), ém, ét, ẹn</p>
+          <p>3e groupe : radical + éch(des fois) + i, s, -, im, it, in</p>
 
           <h3>Futur</h3>
-          <p>infinitif + r + èy, as, a, am, at, an</p>
+          <p>infinitif + r + èy, as, a, am, at, an (1e groupe le &ldquo;a&ldquo; de l&#39;inifnitif peut devenir &ldquo;e&ldquo;)</p>
 
           <h3>Conditionnel</h3>
-          <p>infinitif + i, és, é, ém, ét, én</p>
+          <p>infinitif sans accent + i, és, é, ém, ét, én (1e groupe le &ldquo;a&ldquo; de l&#39;inifnitif peut devenir &ldquo;e&ldquo;)</p>
 
           <h3>Imparfait</h3>
-          <p>1e groupe : àbi, abes, abe...</p>
-          <p>2e groupe : ni, nès...</p>
-          <p>3e groupe : ibi, ibes...</p>
+          <p>1e groupe : àbi, abes, abe, àbem, àbet, aben</p>
+          <p>2e groupe : i, ès, è, èm, èt, èn</p>
+          <p>3e groupe : ibi, ibes, ibe, ibem, ibet, iben</p>
 
           <h3>Impératif</h3>
           <p>canta → cante, cantém, cantat</p>
