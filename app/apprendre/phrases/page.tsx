@@ -42,6 +42,11 @@ export default function LeconsPage() {
 
           <h3>6. Orthographe</h3>
           <p>Alphabet : 23 lettres. Le V est réservé aux mots français récents. Le K aux noms propres ou unités.</p>
+    
+    
+          <h3>7. Particule Verbale</h3>
+          <p>Le verbe conjugué est précédé de la particule &quot;que&quot; ou &quot;ne&quot; et suivit de &quot;pas&quot; dans une phrase négative.</p>
+     
         </>
       )
     },
@@ -98,6 +103,17 @@ export default function LeconsPage() {
           <p>lou lou / lous lous — la loue / las loues</p>
 
           <p><strong>Segu e soulìde, qu’éy lou soû !</strong></p>
+     
+       <p>You → moi</p>
+          <p>Tu → toi</p>
+          <p>Éth/ére → lui/elle</p>
+          <p>Nosauts → nous</p>
+          <p>Bousauts → vous</p>
+          <p>Éths/éres → eux/elles</p>
+
+     
+     
+     
         </>
       )
     },
@@ -112,6 +128,12 @@ export default function LeconsPage() {
           <p>Laba-s</p>
           <p>Portat-p</p>
           <p>Quoan me làbi</p>
+      <p>Lou/la → Lous/las / des → rien / du → dou / de → de </p>
+  
+   
+    <p>Qu&apos;ou (que + lou) crey.</p>
+       
+          <p>Toutes aquéres maysoûs que soun bastides p&lsquo;ou (per+lou) medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon.</p>
         </>
       )
     },
@@ -231,9 +253,22 @@ export default function LeconsPage() {
          
           <p>Quoan pe déu ?</p>
 
+
+
+<p>à + lou → a*u</p> <p>à + lous → dou*</p> <p>de + lou → dous*</p> <p>de + lous → au</p> <p>(en)ta + lou → (en)tau</p> <p>(en)ta + lous → (en)taus</p>
 <p>Qu’ous debi 30 $.</p>
 
           <p>Qu’èm lou 17 de yulhét 2026</p>
+      
+      
+             <p>Verbes exclusivement impersonnels</p>
+   
+             <p>apari-u « arriver » → Que l&lsquo;aparéch soubén benalèyes.</p> <p>baga-u « avoir le temps » → Que-u bague toustém ad ére !</p> <p>càlẹ / calé « falloir » → Estudia que cau !</p> <p>prùdẹ-u « démanger » → Que-u prut de-p at dìsẹ.</p>
+   
+        <p>Verbes employés impersonnellement</p>
+    <p>coumbiénẹ « convenir » → Que coumbieneré de-us at dìsẹ.</p> <p>escàdẹ-s « arriver, se trouver » → Oéy que-s escat que souy esbagat.</p> <p>esta-u-se desbroumbat « oublier » → Que se-m éy desbroumbat de-p at dìsẹ.</p> <p>paréchẹ-s « paraître » → Que-s paréch que-y ba bàdẹ céps.</p> <p>pressa-u « avoir hâte » → Que-u prèsse de l&apos;ana bédẹ ad ére.</p> <p>soubiénẹ-u « se souvenir » → Que (se-) m soubién ço qui-m digous.</p>
+   
+      
         </>
       )
     },
@@ -262,6 +297,15 @@ export default function LeconsPage() {
 
           <p> Aciu, que soupam tout die à sèt ores e miéye.</p>
           <p>Que-s y minye plâ</p>
+
+
+
+            <p>Les verbes transitifs de mouvement (mia(-n), embia(-n), manda(-n)) s&apos;emploient avec la préposition ta avant l&apos;infinitif</p>
+            <p>Qu&apos;ou ne bau embia ta croumpa pâ. → Je vais l&apos;envoyer acheter du pain.</p>
+    
+       <p>Les verbes bédẹ, enténẹ, escouta, espia s&apos;emploient avec la préposition à avant l&apos;infinitif</p>
+            <p>Qu&apos;ous (que+lous) entenèn à canta. → Ils les entendaient chanter.</p>
+    
         </>
       )
     }
@@ -354,7 +398,7 @@ export default function LeconsPage() {
       <p>Faire beau (temps) → ha bèth.</p> 
  <p>Petit-petite / Coumû-coumune / Gran-grane</p> 
 
-       <p>Rouy, négrẹ, blanc, blu (blau le choc), brun/marroû, bért/de, rose,briulét/te, màubẹ (maube la fleur), irandye, gris, yàunẹ (mouyòu pour l’oeuf)</p> 
+       <p>ls couleurs : Rouy, négrẹ, blanc, blu (blau le choc), brun/marroû, bért/de, rose,briulét/te, màubẹ (maube la fleur), irandye, gris, yàunẹ (mouyòu pour l’oeuf)</p> 
     </> 
   ) 
 },

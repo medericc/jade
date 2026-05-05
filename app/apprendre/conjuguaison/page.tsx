@@ -207,13 +207,21 @@ export default function ConjugaisonPage() {
         <div style={{ marginTop:20, lineHeight:1.6 }}>
             <p>Le pronom personnel sujet ne s&lsquo;écrit pas, on débute par &quot;que&quot;.</p>
           <p>Le Participe présent se forme avec infinitif +n (en chantant, en cantan).</p>
+         
+         
           <p>Le participe passé se forme avec a/u/i + t/de si féminin.</p>
-           <p>Le passé simple se forme avec auxiliaire + participe passé.</p>
+         <p>Ils ont un participe passé irréguliers :</p>
+        
+        <p>2e groupe : arrìdẹ « rire » → arrigut/arridut</p> <p>aucìdẹ « tuer » → aucigut/aucidut</p> <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p> <p>biénẹ « venir » → biengut/bienut</p> <p>còsẹ « cuire » → coéyt/coéyte</p> <p>counéchẹ « connaître » → counegut/counechut</p> <p>crédẹ « croire » → cregut/credut</p> <p>débẹ « devoir » → degut/debut</p> <p>dìsẹ « dire » → dit/dite</p> <p>escrìbẹ « écrire » → escriut/escribut</p> <p>ha « faire » → hèyt/hèyte</p> <p>léyẹ « lire » → legut/leyut</p> <p>paréchẹ « paraître » → parescut/parechut</p> <p>pèrdẹ « perdre » → pergut/perdut</p> <p>plàgnẹ « plaindre » → plangut/plagnut</p> <p>plàsẹ « plaire » → plagut/plasut</p> <p>prénẹ « prendre » → prés/prése</p> <p>roùmpẹ « rompre » → arrout/roumput</p> <p>sèdẹ « asseoir » → segut/sedut</p> <p>tiénẹ « tenir » → tiengut/tienut</p> <p>tòrsẹ « tordre » → tourcut/toursut</p>
+                <p>3e groupe : <p>aubri « ouvrir » → ubèr(t)/aubrit</p> <p>aufri « offrir » → aufèr(t)/aufrit</p> <p>coubri / croubi « couvrir » → coubèr(t)/coubrit</p> <p>mouri « mourir » → mour(t)/mourte</p> <p>soufri « souffrir » → soufèr(t)/soufrit</p></p>
+        
+        
+           <p>Le passé composé se forme avec auxiliaire + participe passé.</p>
 
           <h3>Présent</h3>
           <p>1e groupe : radical + i, es, e, am, at, en</p>
           <p>2e groupe : radical + i, es, rien(si b,d,s,l,z changement phonétique comme béb/councéb devient éu, hob/embob/cab/esmàb donne p ou debèrz/espàrz donne debèrs/espars, mais aucun si –m, -n, -p, -r, -t, -y)), ém, ét, ẹn</p>
-          <p>3e groupe : radical + éch(des fois) + i, s, -, im, it, in</p>
+          <p>3e groupe : radical + éch sauf pour im et it (des fois) + i, s, -, im, it, in</p>
 
           <h3>Futur</h3>
           <p>infinitif + r + èy, as, a, am, at, an (1e groupe le &ldquo;a&ldquo; de l&#39;inifnitif peut devenir &ldquo;e&ldquo;)</p>
@@ -230,9 +238,18 @@ export default function ConjugaisonPage() {
           <p>canta → cante, cantém, cantat</p>
           <p>bené → bén, beném, benét</p>
           <p>droumi → droum, droumim, doumit</p>
+ <p>L&apos;impératif négatif utilise le présent du subjonctif : Ne càntes pas !</p>
 
           <h3>Subjonctif</h3>
-          <p>radical + i, is, i, im, it, in</p>
+          <p>radical (sauf pour nous et vous on appuie sur 1e syllabe) + i, is, i, im, it, in</p>
+<p>Il s&apos;empoie dans les propositions temporelles introduites par quoan « quand », talèu qui « dès que », û cop qui « une fois que », et dans les propositions introduites par coum « comme » ou des expressions comme lou purmè qui « le premier qui ».</p>
+        
+           <h3>Passé Simple</h3>
+           <p>1e groupe : radical + èy,ès/as,è/a,èm/am,èt/at,èn/an</p>
+          <p>2e groupe : radical (ajout de g parfois,d remplacé par g et gn devient ng) + ouy,ous,ou,oum,out,oun</p>
+          <p>3e groupe : radical + i,is,i,im,it,in</p>
+
+
         </div>
       )}
 
