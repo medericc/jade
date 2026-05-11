@@ -1,0 +1,89 @@
+.fanzone-section {
+  backdrop-filter: blur(12px);
+  border-radius: 24px;
+  padding: 1.5rem;
+}
+
+.fan-stat-card strong {
+  display: block;
+  color: var(--jaune-vif);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 900;
+}
+
+.fan-stat-card span {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.social-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.social-buttons button {
+  border: none;
+  border-radius: 999px;
+  padding: 1rem 1.25rem;
+  background: rgba(255, 255, 255, 0.12);
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  transition:
+    transform 0.25s ease,
+    background 0.25s ease;
+}
+
+.social-buttons button:hover {
+  transform: translateY(-4px);
+  background: rgba(255, 215, 0, 0.2);
+}
+
+.fanzone-card {
+  position: relative;
+  background: linear-gradient(180deg, #ffd700 0%, #ffef9a 100%);
+  border-radius: 36px;
+  padding: clamp(2rem, 5vw, 3.5rem);
+  overflow: hidden;
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.22);
+}
+
+.fanzone-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.4), transparent 60%);
+}
+
+.fanzone-icon {
+  position: relative;
+  z-index: 2;
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.fanzone-card h3 {
+  position: relative;
+  z-index: 2;
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: var(--violet-profond);
+  margin-bottom: 1rem;
+}
+
+.fanzone-card p {
+  position: relative;
+  z-index: 2;
+  color: #4b1e6d;
+  line-height: 1.8;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 900px) {
+  .fanzone-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .fan-stats {
+    grid-template-columns: 1fr;
+  }
+}
