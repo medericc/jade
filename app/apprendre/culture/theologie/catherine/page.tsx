@@ -83,10 +83,9 @@ export default function CatherinePage() {
               }}
             >
               Sainte Catherine de Sienne, simple religieuse laïque
-              dominicaine du XIVe siècle, fut pourtant l’un des
-              personnages politiques majeurs de son époque.
-              Elle exhorta le pape lui-même à quitter Avignon
-              pour revenir à Rome.
+              dominicaine du XIVe siècle, fut le
+              personnage politique majeur qui
+              fait revenir le pape à Rome.
             </p>
           </div>
         </div>
@@ -237,13 +236,10 @@ export default function CatherinePage() {
             <div className="quote-emoji">🔥</div>
 
             <p className="quote-text">
-              « Si vous êtes ce que vous devez être,
-              vous mettrez le feu au monde entier. »
+              « La Vierge Marie à Sainte Bernadette (souvent malade) : « Je ne vous promets pas de vous rendre heureuse dans ce monde, mais dans l&lsquo;autre. »
             </p>
 
-            <p className="quote-author">
-              — Sainte Catherine de Sienne
-            </p>
+           
           </div>
         </div>
       </section>

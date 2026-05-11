@@ -86,8 +86,7 @@ export default function SaintAugustinPage() {
                 color: 'var(--texte-secondaire)'
               }}
             >
-              Une vision de la prière tournée vers la vie éternelle,
-              le désir de Dieu et la purification du cœur.
+             « Se tromper était humain, mais persévérer dans l’erreur, c’est l’orgueil satanique. »
             </p>
           </div>
         </div>
