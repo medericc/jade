@@ -10,23 +10,30 @@ const theologyCards = [
   {
     title: 'Saint Augustin',
     emoji: '📖',
-    href: '/apprendre/theologie/saint-augustin',
+    href: '/apprendre/theologie/augustin',
     description:
       'Découvre les écrits, la pensée et la conversion du grand docteur de l’Église.'
   },
   {
     title: "Sainte Thérèse d'Avila",
     emoji: '⛪',
-    href: '/apprendre/theologie/sainte-therese-avila',
+    href: '/apprendre/theologie/therese',
     description:
       'Explore la mystique chrétienne et les enseignements de la réformatrice du Carmel.'
   },
   {
     title: 'Sainte Catherine de Sienne',
     emoji: '🕊️',
-    href: '/apprendre/theologie/sainte-catherine-sienne',
+    href: '/apprendre/theologie/catherine',
     description:
       'Découvre la vie, les lettres et la foi profonde de la patronne de l’Europe.'
+  },
+  {
+    title: 'Sainte Hildegarde de Bingen',
+    emoji: '🌾',
+    href: '/apprendre/theologie/hildegarde',
+    description:
+      'Découvre la vie dès la conception et l\'âme humaine.'
   },
   {
     title: 'Défense de la foi',
