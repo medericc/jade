@@ -19,7 +19,8 @@ export default function HildegardePage() {
                 comme une œuvre cosmique :
                 le corps reçoit progressivement sa forme,
                 puis Dieu y insuffle l’âme,
-                feu vivant destiné à conduire l’homme vers la lumière.
+                feu vivant destiné à conduire l’homme vers la lumière,
+                par la croissance jusqu'à l'âge mûr.
               </p>
             </div>
           </div>
@@ -49,7 +50,86 @@ export default function HildegardePage() {
             </div>
           </div>
         </section>
+ <section className="content-section">
+          <div className="container">
+            <div className="grid">
+              <div className="card large">
+                 <h3>💞 L’importance de l’union des parents</h3>
 
+        <p>
+          Hildegarde explique que le foie entretient la chaleur vitale
+          en réchauffant le cœur,
+          tandis que le poumon le protège et l’enveloppe.
+          
+        </p>
+
+        <p>
+          Déjà dans le sein maternel,
+          l’âme commence à éveiller doucement les cinq sens de l’enfant,
+          comme une présence spirituelle qui prépare peu à peu
+          « l’homme extérieur » avant la naissance.
+        </p>
+
+        <p>
+          Mais Hildegarde insiste surtout sur un point essentiel :
+          l’état intérieur des parents au moment de l’acte
+          influence profondément l’enfant à venir.
+          Une union vécue dans la charité,
+          l’amour sincère et la paix du cœur
+          favorise selon elle la naissance d’un être harmonieux,
+          prudent et vertueux.
+        </p>
+
+        <p>
+          À l’inverse,
+          une conception marquée par l’amertume,
+          la colère,
+          les vices ou l’absence d’amour
+          peut troubler cette harmonie.
+          L’enfant risque alors de porter une complexion plus difficile :
+          tempérament sombre,
+          colère,
+          tristesse ou comportements désordonnés.
+        </p>
+
+        <p>
+          Hildegarde décrit aussi certains déséquilibres entre le père et la mère :
+          si l’amour véritable habite l’un mais non l’autre,
+          l’enfant pourra naître plus fragile,
+          plus instable ou peiner davantage à trouver la joie et l’équilibre.
+        </p>
+
+        <p>
+          Elle associe également les phases de la lune
+          aux dispositions naturelles de l’enfant :
+          certaines périodes favoriseraient l’orgueil ou la dureté,
+          tandis que d’autres annonceraient fidélité,
+          santé et bonheur.
+        </p>
+
+        <p>
+          Pourtant,
+          rien n’est totalement figé.
+          Même lorsqu’une naissance semble marquée par des difficultés,
+          Hildegarde affirme que Dieu peut encore transformer cette nature.
+          Comme des épices adoucissent un aliment amer,
+          la force spirituelle,
+          une vie droite
+          et une bonne manière de vivre
+          peuvent guérir et rééquilibrer l’être humain.
+        </p>
+
+        <p>
+          Ainsi,
+          malgré les faiblesses ou les désordres présents au moment de la conception,
+          la grâce divine demeure toujours capable d’aider,
+          de réparer
+          et de conduire l’être humain vers davantage d’harmonie.
+        </p>
+              </div>
+            </div>
+          </div>
+        </section>
         {/* SECTION 1 */}
         <section className="content-section">
           <div className="container">
@@ -153,7 +233,7 @@ export default function HildegardePage() {
                   La volonté,
                   enracinée dans le cœur,
                   transforme l’intention en action
-                  et gouverne les passions.
+                  et gouverne les passions grâce à la crainte de Dieu.
                 </p>
               </div>
 
@@ -197,7 +277,7 @@ export default function HildegardePage() {
               <p>
                 Les bonnes œuvres la couvrent de lumière
                 et d’un éclat semblable à l’or.
-                Le péché,
+                Le péché comme la fornication,
                 au contraire,
                 la recouvre de ténèbres,
                 comme un poison rongeant intérieurement.
