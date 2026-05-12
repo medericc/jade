@@ -20,7 +20,7 @@ export default function HildegardePage() {
                 le corps reçoit progressivement sa forme,
                 puis Dieu y insuffle l’âme,
                 feu vivant destiné à conduire l’homme vers la lumière,
-                par la croissance jusqu'à l'âge mûr.
+                par la croissance jusqu&lsquo;à l&lsquo;âge mûr.
               </p>
             </div>
           </div>
