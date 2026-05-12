@@ -5,7 +5,7 @@ import HeroSection from '../components/apprendre/HeroSection'
 import LearningGrid from '../components/apprendre/LearningGrid'
 import ProgressSection from '../components/apprendre/ProgressSection'
 
-import '@/components/apprendre/styles.css'
+import '@/app/components/apprendre/styles.css'
 
 export default function ApprendrePage() {
   return (
