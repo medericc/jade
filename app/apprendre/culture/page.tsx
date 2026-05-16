@@ -16,6 +16,7 @@ export default function Page() {
         <a href="/culture/monde" className="px-6 py-3 bg-black text-white rounded-xl">
           Monde
         </a>
+ {/* L’évangéliste Jean (qui reconnaissait l’autorité du pape Clément sur lui) retrace la Genèse et St Jean Damascène dira que Marie est la première née de la nouvelle création (“Anne portait le paradis en son sein”). Elle n’a pas besoin de l’eau du baptême car elle est l’arche (comme Noé, sauvé du péché, sur les eaux qui l’engloutisse, par la grâce de Dieu) et avec l’arche d’alliance on remporte toutes nos batailles ! */}
 
         <a href="/culture/theologie" className="px-6 py-3 bg-black text-white rounded-xl">
           Théologie

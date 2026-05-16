@@ -2,6 +2,18 @@
 
 import data from '@/data/culture/bearn.json'
 
+
+// un dessin de la personne dessus
+// pour le json : {
+//   "id": 1,
+//   "title": "Fébus",
+//   "date": "1390",
+//   "fr": "...",
+//   "bearnais": "...",
+//   "tags": ["croisade"]
+// }
+
+
 export default function Page() {
   return (
     <main className="p-6 space-y-10">
