@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 import Footer from '../../../../components/layout/Footer'
 
-import '../../../../components/apprendre/styles.mudule.css'
+import '../../../../components/apprendre/styles.module.css'
 
 const teachings = [
   {
