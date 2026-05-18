@@ -10,6 +10,10 @@ import '@/app/components/apprendre/styles.module.css'
 export default function ApprendrePage() {
   return (
     <main className="apprendre-page">
+
+{/* Le courage de Gaston IV le Croisé, la défense de Catherine de Navarre, la rigueur de Jeanne d’Albret, l’amour d’Henri d’Albret, la ténacité de Catherine de Bourbon et, si possible, le génie de Fébus : toute l'âme du Béarn. */}
+
+
       <ApprendreHeader />
 
       <HeroSection />
