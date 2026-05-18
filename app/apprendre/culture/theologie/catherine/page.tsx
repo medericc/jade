@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 import Footer from '../../../../components/layout/Footer'
 
-import '../../../../components/apprendre/styles.css'
+import '../../../../components/apprendre/styles.module.css'
 
 const teachings = [
   `Ne pas corriger un pécheur par peur ou polir ses phrases par confort social, c'est comme un médecin qui met un pansement sur une plaie purulente sans la nettoyer. On peut même accomplir soi-même sa pénitence car ce péché est seulement endormi en nous.`,
@@ -41,7 +41,7 @@ export default function CatherinePage() {
       <header className="apprendre-header">
         <div className="container apprendre-header-content">
           <Link
-            href="/apprendre/theologie"
+            href="/apprendre/culture/theologie"
             className="back-link"
           >
             ← Retour

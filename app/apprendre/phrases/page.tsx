@@ -9,6 +9,9 @@ export default function LeconsPage() {
 
   const sections = [
 
+
+    // li [li] lui, à lui, à elle. ◊ Parlat-li → Parlez-lui. ◊ Parlat-lis → Parlez-leur. ♦
+
     {
       title: 'Partie 0 — Principes de base',
       content: (

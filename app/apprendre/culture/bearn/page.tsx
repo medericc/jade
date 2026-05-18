@@ -1,5 +1,3 @@
-'use client'
-
 import data from '@/data/culture/bearn.json'
 
 

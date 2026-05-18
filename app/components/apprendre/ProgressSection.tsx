@@ -1,3 +1,7 @@
+// ProgressSection.tsx
+
+import styles from './styles.module.css'
+
 const stats = [
   {
     value: 0,
@@ -15,28 +19,41 @@ const stats = [
 
 export default function ProgressSection() {
   return (
-    <section className="progress-section">
+    <section className={styles.progressSection}>
       <div className="container">
-        <div className="stats-grid">
-          {stats.map((stat) => (
-            <div key={stat.label} className="stat-card">
-              <div className="value">{stat.value}</div>
 
-              <div>{stat.label}</div>
+        <div className={styles.statsGrid}>
+          {stats.map((stat) => (
+            <div
+              key={stat.label}
+              className={styles.statCard}
+            >
+
+              <div className={styles.statValue}>
+                {stat.value}
+              </div>
+
+              <div className={styles.statLabel}>
+                {stat.label}
+              </div>
+
             </div>
           ))}
         </div>
 
-        <div className="progress-wrapper">
-          <div className="progress-header">
+        <div className={styles.progressWrapper}>
+
+          <div className={styles.progressHeader}>
             <span>Niveau 1 - Aprenent</span>
             <span>0/100 XP</span>
           </div>
 
-          <div className="progress-bar">
-            <div className="progress-fill" />
+          <div className={styles.progressBar}>
+            <div className={styles.progressFill} />
           </div>
+
         </div>
+
       </div>
     </section>
   )

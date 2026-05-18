@@ -1,8 +1,8 @@
-import './footer.css'
 
+import styles from './footer.module.css'
 export default function Footer() {
   return (
-    <footer className="footer">
+    <footer className={styles.footer}>
       <div className="footer-glow" />
 
       <div className="container footer-content">

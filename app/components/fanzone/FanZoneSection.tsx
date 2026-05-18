@@ -1,22 +1,13 @@
 import Link from 'next/link'
 
 import Button from '../ui/Button'
+import styles from './fan.module.css'
 
-import './fanzone.css'
 
 const stats = [
-  {
-    value: '127K',
-    label: 'Followers'
-  },
-  {
-    value: '45K',
-    label: 'Likes'
-  },
-  {
-    value: '892',
-    label: 'Posts'
-  }
+  { value: '127K', label: 'Followers' },
+  { value: '45K', label: 'Likes' },
+  { value: '892', label: 'Posts' }
 ]
 
 const socials = [
@@ -27,10 +18,12 @@ const socials = [
 
 export default function FanZoneSection() {
   return (
-    <section className="section fanzone-section">
-      <div className="container fanzone-layout">
-        <div className="fanzone-left">
-          <span className="section-badge">Communauté</span>
+    <section className={styles.fanzoneSection}>
+      <div className={`container ${styles.fanzoneLayout}`}>
+
+        {/* LEFT SIDE */}
+        <div className={styles.fanzoneLeft}>
+          <span className={styles.sectionBadge}>Communauté</span>
 
           <h2>Fan Zone</h2>
 
@@ -39,24 +32,25 @@ export default function FanZoneSection() {
             autour de Jade Célerier.
           </p>
 
-          <div className="fan-stats">
+          <div className={styles.fanStats}>
             {stats.map((stat) => (
-              <div key={stat.label} className="fan-stat-card">
+              <div key={stat.label} className={styles.fanStatCard}>
                 <strong>{stat.value}</strong>
                 <span>{stat.label}</span>
               </div>
             ))}
           </div>
 
-          <div className="social-buttons">
+          <div className={styles.socialButtons}>
             {socials.map((social) => (
               <button key={social}>{social}</button>
             ))}
           </div>
         </div>
 
-        <div className="fanzone-card">
-          <div className="fanzone-icon">🗣️</div>
+        {/* RIGHT CARD */}
+        <div className={styles.fanzoneCard}>
+          <div className={styles.fanzoneIcon}>🗣️</div>
 
           <h3>E tù, que parles biarnés ?</h3>
 

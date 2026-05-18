@@ -1,6 +1,9 @@
+// LearningCard.tsx
+
 'use client'
 
 import Link from 'next/link'
+import styles from './styles.module.css'
 
 type Props = {
   href: string
@@ -20,14 +23,27 @@ export default function LearningCard({
   variant
 }: Props) {
   return (
-    <Link href={href} className={`learning-card ${variant}`}>
-      <div className="emoji">{emoji}</div>
+    <Link
+      href={href}
+      className={`${styles.learningCard} ${styles[variant]}`}
+    >
+
+      <div className={styles.cardEmoji}>
+        {emoji}
+      </div>
 
       <h3>{title}</h3>
 
       <p>{description}</p>
 
-      <span>{button}</span>
+      <span className={styles.cardLink}>
+        {button}
+
+        <span className={styles.cardArrow}>
+          →
+        </span>
+      </span>
+
     </Link>
   )
 }

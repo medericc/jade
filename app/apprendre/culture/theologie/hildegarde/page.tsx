@@ -6,6 +6,12 @@ export default function HildegardePage() {
   return (
     <>
       <main className="hildegarde-page">
+
+        <div className="back-wrapper">
+  <a href="/apprendre/culture/theologie" className="back-button">
+    ← Retour
+  </a>
+</div>
         {/* HERO */}
         <section className="hero">
           <div className="container">
@@ -491,6 +497,36 @@ export default function HildegardePage() {
           .hero {
             padding-top: 3rem;
           }
+
+          .back-wrapper {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 0;
+}
+
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  background: white;
+  color: #4b1e6d;
+
+  padding: 0.8rem 1.3rem;
+
+  border-radius: 999px;
+
+  font-weight: 700;
+
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+
+  transition: all 0.25s ease;
+}
+
+.back-button:hover {
+  transform: translateY(-2px);
+  background: #f5edff;
+}
         }
       `}</style>
     </>

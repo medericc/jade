@@ -1,9 +1,17 @@
+// HeroSection.tsx
+
+import styles from './styles.module.css'
+
 export default function HeroSection() {
   return (
-    <section className="hero-section">
-      <div className="container hero-grid">
-        <div>
-          <h2>La lenga nosta, lo noste tresaur</h2>
+    <section className={styles.heroSection}>
+      <div className={`container ${styles.heroGrid}`}>
+
+        <div className={styles.heroContent}>
+
+          <h2>
+            La lenga nosta, lo noste tresaur
+          </h2>
 
           <p>
             Le béarnais, langue de Gaston Fébus et des rois de Navarre,
@@ -11,23 +19,36 @@ export default function HeroSection() {
             Aujourd&apos;hui, plus de 50 000 personnes le parlent encore !
           </p>
 
-          <div className="hero-tags">
-            <span>🇫🇷 → 🏔️</span>
-            <span className="highlight">
+          <div className={styles.heroTags}>
+
+            <span className={`${styles.heroTag} ${styles.primary}`}>
+              🇫🇷 → 🏔️
+            </span>
+
+            <span className={`${styles.heroTag} ${styles.secondary}`}>
               5 leçons gratuites
             </span>
+
           </div>
+
         </div>
 
-        <div className="quote-card">
-          <div className="quote-emoji">💬</div>
+        <div className={styles.quoteCard}>
 
-          <p>
+          <div className={styles.quoteEmoji}>
+            💬
+          </div>
+
+          <p className={styles.quoteText}>
             &quot;Qui parla biarnés, parla la lenga deus reis&quot;
           </p>
 
-          <span>Proverbe béarnais</span>
+          <span className={styles.quoteAuthor}>
+            Proverbe béarnais
+          </span>
+
         </div>
+
       </div>
     </section>
   )

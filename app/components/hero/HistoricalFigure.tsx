@@ -1,3 +1,5 @@
+import styles from './historicalFigure.module.css'
+
 interface Props {
   icon: string
   name: string
@@ -5,8 +7,8 @@ interface Props {
 
 export default function HistoricalFigure({ icon, name }: Props) {
   return (
-    <div className="historical-card fade-up">
-      <div className="historical-avatar">
+    <div className={`${styles.historicalCard} fade-up`}>
+      <div className={styles.historicalAvatar}>
         <span>{icon}</span>
       </div>
 

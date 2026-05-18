@@ -1,17 +1,27 @@
+// LearningGrid.tsx
+
 import LearningCard from './LearningCard'
 import { learningCards } from './data'
+import styles from './styles.module.css'
 
 export default function LearningGrid() {
   return (
-    <section className="learning-section">
+    <section className={styles.learningSection}>
       <div className="container">
-        <h2>Qué vòs apréner ?</h2>
 
-        <div className="learning-grid">
+        <h2 className={styles.sectionTitle}>
+          Qué vòs apréner ?
+        </h2>
+
+        <div className={styles.learningGrid}>
           {learningCards.map((card) => (
-            <LearningCard key={card.href} {...card} />
+            <LearningCard
+              key={card.href}
+              {...card}
+            />
           ))}
         </div>
+
       </div>
     </section>
   )

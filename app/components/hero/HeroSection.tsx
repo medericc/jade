@@ -3,33 +3,22 @@ import HistoricalFigure from './HistoricalFigure'
 import PlayerSpotlight from './PlayerSpotlight'
 import Button from '../ui/Button'
 
-import './hero.css'
+import styles from './hero.module.css'
 
 const figures = [
-  {
-    icon: '👑',
-    name: 'Gaston Fébus'
-  },
-  {
-    icon: '⚔️',
-    name: 'Gaston IV'
-  },
-  {
-    icon: '👸',
-    name: 'Catherine de Bourbon'
-  },
-  {
-    icon: '⚜️',
-    name: 'Jeanne d’Albret'
-  }
+  { icon: '👑', name: 'Gaston Fébus' },
+  { icon: '⚔️', name: 'Gaston IV' },
+  { icon: '👸', name: 'Catherine de Bourbon' },
+  { icon: '⚜️', name: 'Jeanne d’Albret' }
 ]
 
 export default function HeroSection() {
   return (
-    <section className="hero-section">
+    <section className={styles.heroSection}>
       <HeroBackground />
 
-      <div className="container hero-content">
+      <div className="container">
+
         <div className="historical-grid">
           {figures.map((figure) => (
             <HistoricalFigure
@@ -42,7 +31,7 @@ export default function HeroSection() {
 
         <PlayerSpotlight />
 
-        <div className="hero-bottom fade-up">
+        <div className={`${styles.heroBottom} fade-up`}>
           <blockquote>
             “Après la pluie viendra le soleil”
           </blockquote>
@@ -51,6 +40,7 @@ export default function HeroSection() {
             Commencer l’aventure
           </Button>
         </div>
+
       </div>
     </section>
   )

@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 import Footer from '../../../../components/layout/Footer'
 
-import '../../../../components/apprendre/styles.css'
+import '../../../../components/apprendre/styles.mudule.css'
 
 const teachings = [
   {
@@ -45,7 +45,7 @@ export default function SaintAugustinPage() {
       <header className="apprendre-header">
         <div className="container apprendre-header-content">
           <Link
-            href="/apprendre/theologie"
+            href="/apprendre/culture/theologie"
             className="back-link"
           >
             ← Retour

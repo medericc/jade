@@ -1,0 +1,27 @@
+.playerWrapper {
+  text-align: center;
+  position: relative;
+}
+
+.playerImageWrapper {
+  position: relative;
+  width: 420px;
+  height: 520px;
+  margin-inline: auto;
+}
+
+.playerImage {
+  object-fit: cover;
+  object-position: top;
+}
+
+.playerOverlay {
+  position: absolute;
+  inset: 0;
+
+  background: linear-gradient(
+    135deg,
+    rgba(255,215,0,.2),
+    transparent 50%
+  );
+}

@@ -4,41 +4,41 @@ import Link from 'next/link'
 
 import Footer from '../../../components/layout/Footer'
 
-import '../../../components/apprendre/styles.css'
+import '../../../components/apprendre/styles.module.css'
 
 const theologyCards = [
   {
     title: 'Saint Augustin',
     emoji: '📖',
-    href: '/apprendre/theologie/augustin',
+    href: 'theologie/augustin',
     description:
       'Découvre les écrits, la pensée et la conversion du grand docteur de l’Église.'
   },
   {
     title: "Sainte Thérèse d'Avila",
     emoji: '⛪',
-    href: '/apprendre/theologie/therese',
+    href: 'theologie/therese',
     description:
       'Explore la mystique chrétienne et les enseignements de la réformatrice du Carmel.'
   },
   {
     title: 'Sainte Catherine de Sienne',
     emoji: '🕊️',
-    href: '/apprendre/theologie/catherine',
+    href: 'theologie/catherine',
     description:
       'Découvre la vie, les lettres et la foi profonde de la patronne de l’Europe.'
   },
   {
     title: 'Sainte Hildegarde de Bingen',
     emoji: '🌾',
-    href: '/apprendre/theologie/hildegarde',
+    href: 'theologie/hildegarde',
     description:
       'Découvre la vie dès la conception et l\'âme humaine.'
   },
   {
     title: 'Défense de la foi',
     emoji: '⚔️',
-    href: '/apprendre/theologie/defense-foi',
+    href: 'theologie/defense-foi',
     description:
       'Réponses aux objections, apologétique chrétienne et fondements de la foi.'
   }
