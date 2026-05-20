@@ -1,29 +1,94 @@
 /* SECTION */
 
 .careerSection {
-  padding: 6rem 0;
+  position: relative;
+
+  padding: 7rem 0;
+
+  background:
+    linear-gradient(
+      180deg,
+      #1d0b2f 0%,
+      #14051f 100%
+    );
+
+  overflow: hidden;
+}
+
+/* LIGHT EFFECT */
+
+.careerSection::before {
+  content: '';
+
+  position: absolute;
+  top: -200px;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  width: 900px;
+  height: 900px;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(255,215,0,.08),
+      transparent 70%
+    );
+
+  pointer-events: none;
 }
 
 /* HEADER */
 
 .sectionHeader {
   text-align: center;
-  margin-bottom: 4rem;
+  margin-bottom: 5rem;
 }
 
 .badge {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+
+  padding: .6rem 1.2rem;
+
+  border-radius: 999px;
+
+  background: rgba(255,215,0,.08);
+  border: 1px solid rgba(255,215,0,.18);
+
+  color: #ffd54a;
+
+  font-weight: 700;
+  letter-spacing: .5px;
+
+  margin-bottom: 1.5rem;
+}
+
+.sectionHeader h2 {
+  font-size: clamp(3rem, 6vw, 5rem);
+
+  color: white;
+
+  font-weight: 900;
+
   margin-bottom: 1rem;
-  color: #9b6bb7;
-  font-weight: 600;
-  letter-spacing: 1px;
+}
+
+.sectionHeader p {
+  color: rgba(255,255,255,.72);
+
+  font-size: 1.1rem;
 }
 
 /* GRID */
 
 .careerGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(280px, 1fr));
+
   gap: 2rem;
 }
 
@@ -31,66 +96,110 @@
 
 .timelineCard {
   position: relative;
-  padding: 2rem;
-  border-radius: 32px;
-  background: rgba(255, 255, 255, 0.82);
-  border: 1px solid rgba(155, 107, 183, 0.18);
-  backdrop-filter: blur(14px);
 
-  box-shadow: 0 20px 40px rgba(75, 30, 109, 0.08);
+  padding: 2.2rem;
+
+  border-radius: 32px;
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255,255,255,.08),
+      rgba(255,255,255,.03)
+    );
+
+  border: 1px solid rgba(255,255,255,.08);
+
+  backdrop-filter: blur(16px);
+
+  box-shadow:
+    0 20px 40px rgba(0,0,0,.28),
+    inset 0 1px 0 rgba(255,255,255,.04);
+
+  overflow: hidden;
 
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 
   opacity: 0;
-  animation: fadeUp 0.8s ease forwards;
-  transition: all 0.35s ease;
+  animation: fadeUp .8s ease forwards;
+
+  transition:
+    transform .35s ease,
+    border-color .35s ease,
+    box-shadow .35s ease;
 }
 
 .timelineCard:hover {
   transform: translateY(-10px);
-  border-color: rgba(255, 215, 0, 0.5);
-  box-shadow: 0 30px 60px rgba(75, 30, 109, 0.18);
+
+  border-color: rgba(255,215,0,.28);
+
+  box-shadow:
+    0 30px 60px rgba(0,0,0,.4),
+    0 0 40px rgba(255,215,0,.08);
 }
 
 /* GLOW */
 
 .timelineGlow {
   position: absolute;
-  top: -100px;
-  right: -100px;
-  width: 220px;
-  height: 220px;
-  background: radial-gradient(
-    circle,
-    rgba(255, 215, 0, 0.22),
-    transparent 70%
-  );
+
+  top: -120px;
+  right: -120px;
+
+  width: 260px;
+  height: 260px;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(255,215,0,.12),
+      transparent 70%
+    );
+
+  pointer-events: none;
 }
 
 /* YEAR */
 
 .timelineYear {
-  font-size: clamp(2.5rem, 4vw, 4rem);
+  display: inline-block;
+
+  font-size: clamp(2.8rem, 5vw, 4.5rem);
+
   font-weight: 900;
   line-height: 1;
-  background: linear-gradient(135deg, #4b1e6d 0%, #9b6bb7 100%);
+
+  margin-bottom: 2rem;
+
+  background:
+    linear-gradient(
+      135deg,
+      #ffd54a 0%,
+      #fff1b0 100%
+    );
+
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-bottom: 2rem;
 }
 
 /* CONTENT */
 
 .timelineContent h3 {
+  color: white;
+
   font-size: 1.5rem;
-  margin-bottom: 0.8rem;
+  font-weight: 800;
+
+  margin-bottom: .8rem;
 }
 
 .timelineContent p {
-  line-height: 1.7;
-  color: var(--texte-secondaire);
+  color: rgba(255,255,255,.72);
+
+  line-height: 1.8;
 }
 
 /* CTA */
@@ -98,12 +207,14 @@
 .careerCta {
   display: flex;
   justify-content: center;
-  margin-top: 4rem;
+
+  margin-top: 5rem;
 }
 
 /* ANIMATION */
 
 @keyframes fadeUp {
+
   from {
     opacity: 0;
     transform: translateY(40px);
@@ -113,12 +224,19 @@
     opacity: 1;
     transform: translateY(0);
   }
+
 }
 
 /* MOBILE */
 
 @media (max-width: 768px) {
+
+  .careerSection {
+    padding: 5rem 0;
+  }
+
   .careerGrid {
     grid-template-columns: 1fr;
   }
+
 }

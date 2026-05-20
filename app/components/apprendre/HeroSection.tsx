@@ -21,12 +21,10 @@ export default function HeroSection() {
 
           <div className={styles.heroTags}>
 
-            <span className={`${styles.heroTag} ${styles.primary}`}>
-              🇫🇷 → 🏔️
-            </span>
+         
 
             <span className={`${styles.heroTag} ${styles.secondary}`}>
-              5 leçons gratuites
+              Leçons gratuites
             </span>
 
           </div>

@@ -7,7 +7,10 @@
     --cream: #faf7f2;
     --text-primary: #111111;
     --container: 1400px;
+--violet-800: #2a0c45;
+  --violet-900: #14051f;
 
+  --gold-500: #f5c542;
     --fs-xs: clamp(.75rem, 1vw, .875rem);
     --fs-sm: clamp(.875rem, 1.5vw, 1rem);
     --fs-base: clamp(1rem, 2vw, 1.125rem);

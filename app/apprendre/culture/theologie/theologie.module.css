@@ -1,0 +1,427 @@
+/* =========================================
+   PAGE
+========================================= */
+
+.theologiePage {
+  --violetProfond: #1d0b2f;
+  --violetNuit: #14051f;
+
+  --or: #f4c542;
+  --orClair: #ffe9a3;
+
+  --rougeRoyal: #9e2a2b;
+  --bleuRoyal: #284b8f;
+
+  --blanc: #ffffff;
+  --creme: #f6f1e7;
+
+  --texte: rgba(255,255,255,.78);
+  --texteDark: #2a1735;
+
+  --shadow:
+    0 25px 60px rgba(0,0,0,.28);
+
+  min-height: 100vh;
+
+  background:
+    linear-gradient(
+      180deg,
+      #1d0b2f 0%,
+      #14051f 100%
+    );
+
+  overflow: hidden;
+}
+
+/* =========================================
+   HEADER
+========================================= */
+
+.theologieHeader {
+  position: relative;
+
+  overflow: hidden;
+
+  padding: 1.5rem 0;
+
+  border-bottom:
+    1px solid rgba(244,197,66,.22);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255,255,255,.04),
+      rgba(255,255,255,.01)
+    );
+
+  backdrop-filter: blur(10px);
+}
+
+.theologieHeader::before {
+  content: '';
+
+  position: absolute;
+  top: -250px;
+  right: -250px;
+
+  width: 600px;
+  height: 600px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(244,197,66,.12),
+      transparent 70%
+    );
+
+  pointer-events: none;
+}
+
+.theologieHeaderContent {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+
+  position: relative;
+  z-index: 2;
+}
+
+/* =========================================
+   BACK
+========================================= */
+
+.backLink {
+  color: var(--or);
+
+  font-weight: 700;
+
+  transition:
+    transform .25s ease,
+    opacity .25s ease;
+}
+
+.backLink:hover {
+  transform: translateX(-4px);
+  opacity: .8;
+}
+
+/* =========================================
+   TITLE
+========================================= */
+
+.theologieTitle {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+
+  font-size: clamp(2.2rem, 5vw, 4rem);
+
+  font-weight: 900;
+
+  background:
+    linear-gradient(
+      135deg,
+      #ffffff 0%,
+      #f4c542 50%,
+      #fff4c9 100%
+    );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.theologieSubtitle {
+  margin-left: auto;
+
+  color: rgba(255,255,255,.68);
+
+  font-weight: 600;
+}
+
+/* =========================================
+   HERO
+========================================= */
+
+.heroSection {
+  position: relative;
+
+  padding: 7rem 0 5rem;
+
+  overflow: hidden;
+}
+
+.heroSection::before {
+  content: '';
+
+  position: absolute;
+  top: -200px;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  width: 900px;
+  height: 900px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(244,197,66,.08),
+      transparent 70%
+    );
+
+  pointer-events: none;
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+
+  max-width: 950px;
+
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+.heroContent h2 {
+  font-size: clamp(2.8rem, 6vw, 5rem);
+
+  line-height: 1.05;
+  font-weight: 900;
+
+  color: white;
+
+  margin-bottom: 1.5rem;
+}
+
+.heroContent p {
+  color: var(--texte);
+
+  font-size: clamp(1rem, 2vw, 1.2rem);
+
+  line-height: 1.9;
+}
+
+/* =========================================
+   SECTION
+========================================= */
+
+.learningSection {
+  position: relative;
+
+  padding: 3rem 0 7rem;
+}
+
+/* =========================================
+   GRID
+========================================= */
+
+.learningGrid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(260px, 1fr));
+
+  gap: 2rem;
+}
+
+/* =========================================
+   CARD
+========================================= */
+
+.learningCard {
+  position: relative;
+
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  min-height: 100%;
+
+  padding: 2.5rem 2rem;
+
+  border-radius: 32px;
+
+  text-align: center;
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255,255,255,.08),
+      rgba(255,255,255,.03)
+    );
+
+  border:
+    1px solid rgba(255,255,255,.08);
+
+  backdrop-filter: blur(14px);
+
+  box-shadow: var(--shadow);
+
+  transition:
+    transform .35s ease,
+    border-color .35s ease,
+    box-shadow .35s ease;
+
+  color: white;
+}
+
+.learningCard::before {
+  content: '';
+
+  position: absolute;
+  inset: 0;
+
+  background:
+    radial-gradient(
+      circle at top right,
+      rgba(244,197,66,.12),
+      transparent 35%
+    );
+
+  opacity: 0;
+
+  transition: opacity .35s ease;
+}
+
+.learningCard:hover {
+  transform: translateY(-10px);
+
+  border-color:
+    rgba(244,197,66,.28);
+
+  box-shadow:
+    0 35px 70px rgba(0,0,0,.42),
+    0 0 40px rgba(244,197,66,.08);
+}
+
+.learningCard:hover::before {
+  opacity: 1;
+}
+
+/* =========================================
+   VARIANTS
+========================================= */
+
+.white {
+  border-color:
+    rgba(255,255,255,.14);
+}
+
+.purple {
+  background:
+    linear-gradient(
+      145deg,
+      rgba(42,12,69,.92),
+      rgba(20,5,31,.96)
+    );
+}
+
+/* =========================================
+   EMOJI
+========================================= */
+
+.cardEmoji {
+  font-size: 4rem;
+
+  margin-bottom: 1.5rem;
+
+  line-height: 1;
+}
+
+/* =========================================
+   CONTENT
+========================================= */
+
+.learningCard h3 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+
+  font-weight: 800;
+
+  margin-bottom: 1rem;
+
+  line-height: 1.2;
+}
+
+.learningCard p {
+  flex: 1;
+
+  color: rgba(255,255,255,.72);
+
+  line-height: 1.8;
+
+  margin-bottom: 2rem;
+}
+
+/* =========================================
+   LINK
+========================================= */
+
+.cardLink {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+
+  color: var(--or);
+
+  font-weight: 700;
+}
+
+.cardArrow {
+  transition: transform .25s ease;
+}
+
+.learningCard:hover .cardArrow {
+  transform: translateX(4px);
+}
+
+/* =========================================
+   ANIMATION
+========================================= */
+
+@keyframes fadeUp {
+
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+}
+
+.animateFadeUp {
+  animation: fadeUp .8s ease forwards;
+}
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+
+@media (max-width: 768px) {
+
+  .heroSection {
+    padding: 5rem 0 4rem;
+  }
+
+  .learningSection {
+    padding-bottom: 5rem;
+  }
+
+  .theologieSubtitle {
+    width: 100%;
+    margin-left: 0;
+  }
+
+}

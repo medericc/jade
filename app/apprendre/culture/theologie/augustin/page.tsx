@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 import Footer from '../../../../components/layout/Footer'
 
-import '../../../../components/apprendre/styles.module.css'
+import styles from './augustin.module.css'
 
 const teachings = [
   {
@@ -40,175 +40,145 @@ const teachings = [
 
 export default function SaintAugustinPage() {
   return (
-    <main className="apprendre-page">
-      {/* HEADER */}
-      <header className="apprendre-header">
-        <div className="container apprendre-header-content">
-          <Link
-            href="/apprendre/culture/theologie"
-            className="back-link"
-          >
-            ← Retour
-          </Link>
+   <main className={styles.augustinPage}>
 
-          <h1 className="apprendre-title">
-            <span>📖</span>
-            <span>Saint Augustin</span>
-          </h1>
-        </div>
-      </header>
+  {/* HEADER */}
+  <header className={styles.augustinHeader}>
+    <div className={`container ${styles.augustinHeaderContent}`}>
 
-      {/* HERO */}
-      <section className="hero-section">
-        <div className="container">
-          <div
-            style={{
-              maxWidth: '950px',
-              margin: '0 auto',
-              textAlign: 'center'
-            }}
-          >
-            <h2
-              style={{
-                fontSize: 'clamp(2.5rem, 5vw, 4.5rem)',
-                color: 'var(--violet-profond)',
-                fontWeight: 900,
-                marginBottom: '1.5rem'
-              }}
-            >
-              Comment prier selon Saint Augustin
-            </h2>
-
-            <p
-              style={{
-                fontSize: '1.1rem',
-                lineHeight: 1.9,
-                color: 'var(--texte-secondaire)'
-              }}
-            >
-             « Se tromper était humain, mais persévérer dans l’erreur, c’est l’orgueil satanique. »
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* CADRE */}
-      <section
-        style={{
-          padding: '2rem 0 4rem'
-        }}
+      <Link
+        href="/apprendre/culture/theologie"
+        className={styles.backLink}
       >
-        <div className="container">
-          <div
-            className="quote-card"
-            style={{
-              maxWidth: '1000px',
-              margin: '0 auto'
-            }}
-          >
-            <div className="quote-emoji">🕊️</div>
+        ← Retour
+      </Link>
 
-            <p className="quote-text">
-              « Le célibat ou le mariage virginal permet
-              de se préparer au paradis où nous serons seuls. »
-            </p>
+      <h1 className={styles.augustinTitle}>
+        <span>📖</span>
+        <span>Saint Augustin</span>
+      </h1>
 
-            <p className="quote-author">
-              — Saint Augustin
-            </p>
-          </div>
+    </div>
+  </header>
+
+  {/* HERO */}
+  <section className={styles.heroSection}>
+    <div className="container">
+
+      <div className={styles.heroContent}>
+
+        <h2>
+          Comment prier selon
+          <br />
+          Saint Augustin
+        </h2>
+
+        <p>
+          « Se tromper était humain,
+          mais persévérer dans l’erreur,
+          c’est l’orgueil satanique. »
+        </p>
+
+      </div>
+
+    </div>
+  </section>
+
+  {/* QUOTE */}
+  <section className={styles.quoteSection}>
+    <div className="container">
+
+      <div className={styles.quoteCard}>
+
+        <div className={styles.quoteEmoji}>
+          🕊️
         </div>
-      </section>
 
-      {/* ENSEIGNEMENTS */}
-      <section className="learning-section">
-        <div className="container">
-          <h2 className="section-title">
-            Enseignements sur la prière
-          </h2>
+        <p className={styles.quoteText}>
+          « Le célibat ou le mariage virginal
+          permet de se préparer au paradis
+          où nous serons seuls. »
+        </p>
 
-          <div
-            className="learning-grid"
-            style={{
-              gridTemplateColumns:
-                'repeat(auto-fit, minmax(350px, 1fr))'
-            }}
+        <span className={styles.quoteAuthor}>
+          — Saint Augustin
+        </span>
+
+      </div>
+
+    </div>
+  </section>
+
+  {/* LEARNING */}
+  <section className={styles.learningSection}>
+    <div className="container">
+
+      <h2 className={styles.sectionTitle}>
+        Enseignements sur la prière
+      </h2>
+
+      <div className={styles.learningGrid}>
+
+        {teachings.map((teaching, index) => (
+
+          <article
+            key={index}
+            className={`
+              ${styles.learningCard}
+              ${index % 2 === 0
+                ? styles.white
+                : styles.purple}
+            `}
           >
-            {teachings.map((teaching, index) => (
-              <div
-                key={index}
-                className={`learning-card ${
-                  index % 2 === 0
-                    ? 'white'
-                    : 'purple'
-                }`}
-                style={{
-                  alignItems: 'flex-start',
-                  textAlign: 'left'
-                }}
-              >
-                <div
-                  style={{
-                    fontSize: '2rem',
-                    marginBottom: '1rem'
-                  }}
-                >
-                  ✝️
-                </div>
 
-                <h3
-                  style={{
-                    marginBottom: '1rem',
-                    lineHeight: 1.3
-                  }}
-                >
-                  {teaching.title}
-                </h3>
+            <div className={styles.cardIcon}>
+              ✝️
+            </div>
 
-                <p
-                  style={{
-                    lineHeight: 1.9,
-                    fontSize: '1rem'
-                  }}
-                >
-                  {teaching.text}
-                </p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+            <h3>
+              {teaching.title}
+            </h3>
 
-      {/* CITATION FINALE */}
-      <section
-        style={{
-          padding: '5rem 0'
-        }}
-      >
-        <div className="container">
-          <div
-            className="quote-card"
-            style={{
-              maxWidth: '900px',
-              margin: '0 auto'
-            }}
-          >
-            <div className="quote-emoji">🔥</div>
-
-            <p className="quote-text">
-              « Tu nous as faits pour toi Seigneur,
-              et notre cœur est sans repos
-              tant qu’il ne repose pas en toi. »
+            <p>
+              {teaching.text}
             </p>
 
-            <p className="quote-author">
-              — Saint Augustin
-            </p>
-          </div>
-        </div>
-      </section>
+          </article>
 
-      <Footer />
-    </main>
+        ))}
+
+      </div>
+
+    </div>
+  </section>
+
+  {/* FINAL QUOTE */}
+  <section className={styles.finalQuoteSection}>
+    <div className="container">
+
+      <div className={styles.quoteCard}>
+
+        <div className={styles.quoteEmoji}>
+          🔥
+        </div>
+
+        <p className={styles.quoteText}>
+          « Tu nous as faits pour toi Seigneur,
+          et notre cœur est sans repos
+          tant qu’il ne repose pas en toi. »
+        </p>
+
+        <span className={styles.quoteAuthor}>
+          — Saint Augustin
+        </span>
+
+      </div>
+
+    </div>
+  </section>
+
+  <Footer />
+
+</main>
   )
 }

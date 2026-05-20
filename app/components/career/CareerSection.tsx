@@ -5,24 +5,24 @@ import styles from './career.module.css'
 
 const career = [
   {
-    year: '2022',
-    title: 'Draft WNBA',
-    desc: 'Sélectionnée par les New York Liberty'
+    year: '-2021',
+    title: 'Début à Malaussane',
+    desc: 'Commence le Basket-ball'
   },
   {
-    year: '2023',
-    title: 'Championne de France',
-    desc: 'Titre avec l’Élan Béarnais'
+    year: '-2025',
+    title: 'Entrèe au TGB',
+    desc: 'Continue le Basket en Bigorre'
   },
   {
-    year: '2024',
-    title: 'MVP LFB',
-    desc: 'Meilleure joueuse du championnat'
+    year: '-2025',
+    title: 'Début en LFB',
+    desc: 'Joue ses premiers matchs en LFB'
   },
   {
-    year: '2025',
-    title: 'Euroleague',
-    desc: 'Final Four avec l’Élan'
+    year: '2025-',
+    title: 'En NJCAA à Dodge',
+    desc: 'Continue sa carrière aux USA'
   }
 ]
 
@@ -35,8 +35,7 @@ export default function CareerSection() {
           <span className={styles.badge}>Parcours</span>
           <h2>Sa Carrière</h2>
           <p>
-            Une progression constante entre ambition,
-            leadership et culture béarnaise.
+            Une multitude de clubs en quelques années
           </p>
         </div>
 

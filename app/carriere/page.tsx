@@ -8,30 +8,30 @@ export default function CarrierePage() {
 
   const careerHighlights = [
     {
-      year: '2024',
-      title: 'Championne WNBA',
-      description: 'Titre WNBA avec New York Liberty, première française depuis 15 ans',
+      year: '-2021',
+      title: 'Début à Malaussane',
+      description: 'Commence le Basket-ball à côté de chez elle',
       icon: '🏆',
       color: '#FFD700'
     },
     {
-      year: '2025',
-      title: 'MVP des Finales',
-      description: '28 points, 8 passes, 6 rebonds de moyenne en finales WNBA',
+      year: '-2025',
+      title: 'Entrèe au TGB',
+      description: 'Elle passe 5 ans au Centre de Formation de Tarbes',
       icon: '⭐',
       color: '#FFD700'
     },
     {
-      year: '2025',
-      title: 'All-Star WNBA',
-      description: 'Sélectionnée pour le All-Star Game, 22 points marqués',
+      year: '-2025',
+      title: 'Début en LFB',
+      description: 'Elle participe à la LFB 2025 et à l\'Eurocup 2025',
       icon: '🌟',
       color: '#FFD700'
     },
     {
-      year: '2026',
-      title: 'Record de franchise',
-      description: '52 points en un match, record historique de Dodge City',
+      year: '2025-',
+      title: 'En NJCAA à Dodge',
+      description: 'Elle rejoint une équipe de la KJCCC, Dodge City',
       icon: '🔥',
       color: '#FFD700'
     }
@@ -39,80 +39,73 @@ export default function CarrierePage() {
 
   const careerTimeline = [
     {
-      period: '2020 - 2022',
-      team: 'MMBS (Mont-de-Marsan)',
+      period: '2024 - 2025',
+      team: 'Tarbes Gespe Bigorre',
       logo: '🟡',
       league: 'LFB',
       stats: {
-        points: '14.2',
-        passes: '4.8',
-        rebonds: '3.5',
-        evaluation: '15.6'
+        points: '1.6',
+        passes: '1.3',
+        rebonds: '0.9',
+        evaluation: '2.0'
       },
       achievements: [
-        'Championne de France Espoirs 2021',
-        'Meilleure jeune LFB 2022',
-        'Sélectionnée en Équipe de France U20'
+        'Premier Club après le MMBS'
+       
       ],
-      description: 'Révélation du championnat de France. Développement accéléré sous la houlette de coach Martinez. Première sélection en équipe nationale.',
-      games: 56,
-      starter: 48,
-      color: '#9B6BB7'
+      description: '9 points dès son premier match au Quai de l\'Adour.',
+      games: 7,
+      starter: 0,
+     color: '#9B6BB7'
     },
     {
-      period: '2022 - 2024',
+      period: '2024 - 2025',
       team: 'Tarbes Gespe Bigorre',
       logo: '🔴',
-      league: 'LFB + Eurocup',
+      league: 'Eurocup',
       stats: {
-        points: '18.7',
-        passes: '6.2',
-        rebonds: '4.1',
-        evaluation: '21.3'
+        points: '6.0',
+        passes: '2.2',
+        rebonds: '1.6',
+        evaluation: '7.6'
       },
       achievements: [
-        'Demi-finaliste Eurocup 2023',
-        'All-Star LFB 2023, 2024',
-        'Meilleure marqueuse LFB 2024',
-        'Draftée WNBA #4 par New York Liberty'
+        'Premier Match en LFB',
+        'Premier Match en Eurocup'
+   
       ],
-      description: 'Explosion au plus haut niveau européen. Meneuse titulaire indiscutable. Draft WNBA après une saison exceptionnelle.',
-      games: 72,
-      starter: 70,
+      description: 'Elle participe à son premier match en carrière et inscrit un lancer contre Madrid.',
+      games: 5,
+      starter: 0,
       color: '#FF6B6B'
     },
     {
-      period: '2024 - Présent',
+      period: '2025 - Présent',
       team: 'Dodge City',
       logo: '🟣',
-      league: 'WNBA',
+      league: 'NJCAA',
       stats: {
-        points: '22.4',
-        passes: '7.8',
-        rebonds: '4.5',
-        evaluation: '26.1'
+        points: '6.7',
+        passes: '3.1',
+        rebonds: '3.7',
+        evaluation: '6.7'
       },
       achievements: [
-        'Championne WNBA 2024 (rookie)',
-        'MVP des Finales WNBA 2025',
-        'All-WNBA First Team 2025',
-        'All-Star WNBA 2025, 2026',
-        'Record de franchise : 52 pts'
+        'Meilleure passeuse par minutes de la KJCCC 2026',
+        'Meilleure interceptrice par minutes de la KJCCC 2026',
+       
       ],
-      description: 'Consécration ultime. Titre WNBA dès sa première saison. Devient le visage de la franchise et une superstar mondiale.',
-      games: 68,
-      starter: 68,
+      description: 'Elle rejoint les U.S.A au Kansas et termine meilleure passeuse et interceptrice par minutes.',
+      games: 20,
+      starter: 20,
       color: '#4B1E6D'
     }
   ]
 
   const seasonStats = [
-    { season: '2020-21 (MMBS)', gp: 22, pts: 8.4, ast: 3.2, reb: 2.1, fg: '42%', '3pt': '34%' },
-    { season: '2021-22 (MMBS)', gp: 34, pts: 14.2, ast: 4.8, reb: 3.5, fg: '45%', '3pt': '37%' },
-    { season: '2022-23 (Tarbes)', gp: 36, pts: 17.1, ast: 5.5, reb: 3.8, fg: '47%', '3pt': '39%' },
-    { season: '2023-24 (Tarbes)', gp: 36, pts: 20.3, ast: 6.9, reb: 4.4, fg: '49%', '3pt': '41%' },
-    { season: '2024 (Dodge)', gp: 34, pts: 19.8, ast: 6.5, reb: 4.0, fg: '46%', '3pt': '38%' },
-    { season: '2025 (Dodge)', gp: 34, pts: 25.1, ast: 9.2, reb: 5.1, fg: '51%', '3pt': '43%' }
+  { season: '2024-25 (LFB)', gp: 7, pts: 1.6, ast: 1.3, reb: 0.9, fg: '36.4%', '3pt': '37.5%'},
+    { season: '2024-25 (Eurocup)', gp: 5, pts: 6.0, ast: 2.2, reb: 1.6, fg: '45.5%', '3pt': '42.9%'},
+   { season: '2025-26 (NJCAA)', gp: 20, pts: 6.7, ast: 3.1, reb: 3.7, fg: '45%', '3pt': '24%' }
   ]
 
   return (
@@ -285,8 +278,7 @@ export default function CarrierePage() {
                   marginBottom: 'var(--space-lg)',
                   maxWidth: '500px'
                 }}>
-                  Championne WNBA • MVP des Finales • All-Star • 
-                  Recordwoman de franchise
+                  Joueuse de LFB • Joueuse d&lsquo;Eurocup • Joueuse de NJCAA
                 </p>
                 
                 {/* Stats rapides */}
@@ -296,15 +288,15 @@ export default function CarrierePage() {
                   flexWrap: 'wrap'
                 }}>
                   <div>
-                    <div style={{ fontSize: 'var(--fs-xxl)', color: 'var(--jaune-vif)', fontWeight: 'bold' }}>22.4</div>
+                    <div style={{ fontSize: 'var(--fs-xxl)', color: 'var(--jaune-vif)', fontWeight: 'bold' }}>5.5</div>
                     <div style={{ color: 'var(--violet-tres-clair)', fontSize: 'var(--fs-sm)' }}>PTS</div>
                   </div>
                   <div>
-                    <div style={{ fontSize: 'var(--fs-xxl)', color: 'var(--jaune-vif)', fontWeight: 'bold' }}>7.8</div>
+                    <div style={{ fontSize: 'var(--fs-xxl)', color: 'var(--jaune-vif)', fontWeight: 'bold' }}>2.6</div>
                     <div style={{ color: 'var(--violet-tres-clair)', fontSize: 'var(--fs-sm)' }}>AST</div>
                   </div>
                   <div>
-                    <div style={{ fontSize: 'var(--fs-xxl)', color: 'var(--jaune-vif)', fontWeight: 'bold' }}>4.5</div>
+                    <div style={{ fontSize: 'var(--fs-xxl)', color: 'var(--jaune-vif)', fontWeight: 'bold' }}>2.7</div>
                     <div style={{ color: 'var(--violet-tres-clair)', fontSize: 'var(--fs-sm)' }}>REB</div>
                   </div>
                 </div>
@@ -702,7 +694,7 @@ export default function CarrierePage() {
                 lineHeight: 1.6,
                 marginBottom: 'var(--space-lg)'
               }}>
-                &quot;De MMBS à Dodge City, chaque étape a construit.&quot;
+                &quot;Après la Nuit viendra le Soleil.&quot;
               </p>
               <p style={{
                 fontSize: 'var(--fs-md)',
@@ -727,7 +719,7 @@ export default function CarrierePage() {
               #04 • Jade Celerier • Dodge City 🏀
             </p>
             <p style={{ marginTop: 'var(--space-xs)', fontSize: 'var(--fs-xs)' }}>
-              © 2026 • Carrière officielle
+              © 2026 • Compte Fan
             </p>
           </div>
         </footer>

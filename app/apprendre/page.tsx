@@ -3,7 +3,6 @@ import Footer from '../components/layout/Footer'
 import ApprendreHeader from '../components/apprendre/ApprendreHeader'
 import HeroSection from '../components/apprendre/HeroSection'
 import LearningGrid from '../components/apprendre/LearningGrid'
-import ProgressSection from '../components/apprendre/ProgressSection'
 
 import '@/app/components/apprendre/styles.module.css'
 
@@ -20,7 +19,7 @@ export default function ApprendrePage() {
 
       <LearningGrid />
 
-      <ProgressSection />
+     
 
       <Footer />
     </main>

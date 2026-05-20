@@ -1,27 +1,94 @@
 .playerWrapper {
   text-align: center;
-  position: relative;
+    position: relative;
+  overflow: visible;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
+/* FOND */
+.backgroundShape {
+  position: absolute;
+
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+  width: 1800px;
+  height: 1800px;
+
+  z-index: 0;
+  opacity: .95;
+
+  pointer-events: none;
+}
+
+.backgroundImage {
+  object-fit: contain;
+}
+
+/* IMAGE JOUEUSE */
 .playerImageWrapper {
   position: relative;
-  width: 420px;
-  height: 520px;
-  margin-inline: auto;
+
+  width: 620px;
+  height: 760px;
+
+  z-index: 2;
 }
 
 .playerImage {
-  object-fit: cover;
-  object-position: top;
+  object-fit: contain;
+  object-position: center bottom;
+
+  transform: scale(1.12);
 }
 
-.playerOverlay {
-  position: absolute;
-  inset: 0;
+/* OVERLAY */
 
-  background: linear-gradient(
-    135deg,
-    rgba(255,215,0,.2),
-    transparent 50%
-  );
+
+/* TITRES */
+.playerWrapper h1 {
+  margin-top: 1rem;
+
+  font-size: clamp(2.8rem, 6vw, 5rem);
+  color: white;
+
+  letter-spacing: 6px;
+  font-weight: 900;
+
+  text-shadow: 0 10px 30px rgba(0,0,0,.5);
+
+  z-index: 3;
+}
+
+.playerWrapper p {
+  color: var(--gold-500);
+
+  font-size: 1.2rem;
+  font-weight: 700;
+
+  z-index: 3;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+
+  .backgroundShape {
+    width: 700px;
+    height: 700px;
+    top: -80px;
+  }
+
+  .playerImageWrapper {
+    width: 340px;
+    height: 500px;
+  }
+
+  .playerWrapper h1 {
+    font-size: 2rem;
+    letter-spacing: 3px;
+  }
 }

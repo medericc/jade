@@ -4,6 +4,9 @@ import styles from './playerSpotlight.module.css'
 export default function PlayerSpotlight() {
   return (
     <div className={`${styles.playerWrapper} fade-up`}>
+
+   
+      {/* JOUEUSE */}
       <div className={styles.playerImageWrapper}>
         <Image
           src="/jadece.png"

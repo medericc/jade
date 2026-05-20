@@ -1,5 +1,4 @@
 import HeroBackground from './HeroBackground'
-import HistoricalFigure from './HistoricalFigure'
 import PlayerSpotlight from './PlayerSpotlight'
 import Button from '../ui/Button'
 
@@ -19,15 +18,7 @@ export default function HeroSection() {
 
       <div className="container">
 
-        <div className="historical-grid">
-          {figures.map((figure) => (
-            <HistoricalFigure
-              key={figure.name}
-              icon={figure.icon}
-              name={figure.name}
-            />
-          ))}
-        </div>
+     
 
         <PlayerSpotlight />
 

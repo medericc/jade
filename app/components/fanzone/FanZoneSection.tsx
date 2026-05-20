@@ -5,15 +5,14 @@ import styles from './fan.module.css'
 
 
 const stats = [
-  { value: '127K', label: 'Followers' },
-  { value: '45K', label: 'Likes' },
-  { value: '892', label: 'Posts' }
+  { value: '1.9K', label: 'Followers' },
+  { value: '1K', label: 'Likes' },
+  { value: '10', label: 'Posts' }
 ]
 
 const socials = [
   '📸 Instagram',
-  '🐦 X (Twitter)',
-  '🎥 TikTok'
+
 ]
 
 export default function FanZoneSection() {
@@ -59,7 +58,7 @@ export default function FanZoneSection() {
             béarnaise.
           </p>
 
-          <Link href="/apprendre">
+          
          <Button
   href="/apprendre"
   variant="secondary"
@@ -68,7 +67,7 @@ export default function FanZoneSection() {
 >
   Commencer l’aventure
 </Button>
-          </Link>
+          
         </div>
       </div>
     </section>

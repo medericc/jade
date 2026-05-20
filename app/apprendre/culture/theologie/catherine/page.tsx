@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 import Footer from '../../../../components/layout/Footer'
 
-import '../../../../components/apprendre/styles.module.css'
+import styles from './catherine.module.css'
 
 const teachings = [
   `Ne pas corriger un pécheur par peur ou polir ses phrases par confort social, c'est comme un médecin qui met un pansement sur une plaie purulente sans la nettoyer. On peut même accomplir soi-même sa pénitence car ce péché est seulement endormi en nous.`,
@@ -36,215 +36,146 @@ const teachings = [
 
 export default function CatherinePage() {
   return (
-    <main className="apprendre-page">
-      {/* HEADER */}
-      <header className="apprendre-header">
-        <div className="container apprendre-header-content">
-          <Link
-            href="/apprendre/culture/theologie"
-            className="back-link"
-          >
-            ← Retour
-          </Link>
-
-          <h1 className="apprendre-title">
-            <span>🕊️</span>
-            <span>Sainte Catherine de Sienne</span>
-          </h1>
-        </div>
-      </header>
-
-      {/* HERO */}
-      <section className="hero-section">
-        <div className="container">
-          <div
-            style={{
-              maxWidth: '950px',
-              margin: '0 auto',
-              textAlign: 'center'
-            }}
-          >
-            <h2
-              style={{
-                fontSize: 'clamp(2.3rem, 5vw, 4.5rem)',
-                color: 'var(--violet-profond)',
-                fontWeight: 900,
-                marginBottom: '1.5rem'
-              }}
-            >
-              Une femme simple qui parla aux puissants
-            </h2>
-
-            <p
-              style={{
-                fontSize: '1.15rem',
-                lineHeight: 1.9,
-                color: 'var(--texte-secondaire)'
-              }}
-            >
-              Sainte Catherine de Sienne, simple religieuse laïque
-              dominicaine du XIVe siècle, fut le
-              personnage politique majeur qui
-              fait revenir le pape à Rome.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* CITATION */}
-      <section
-        style={{
-          padding: '2rem 0'
-        }}
+  <main className={styles.catherinePage}>
+  {/* HEADER */}
+  <header className={styles.catherineHeader}>
+    <div className={`container ${styles.catherineHeaderContent}`}>
+      <Link
+        href="/apprendre/culture/theologie"
+        className={styles.backLink}
       >
-        <div className="container">
-          <div
-            className="quote-card"
-            style={{
-              maxWidth: '950px',
-              margin: '0 auto'
-            }}
-          >
-            <div className="quote-emoji">✉️</div>
+        ← Retour
+      </Link>
 
-            <p className="quote-text">
-              « Vous n’avez pas été bien ferme.
-              Je prie pour que vous agissiez en homme viril.
-              Ayez faim du salut de vos brebis. »
-            </p>
+      <h1 className={styles.catherineTitle}>
+        <span>🕊️</span>
+        <span>Sainte Catherine de Sienne</span>
+      </h1>
+    </div>
+  </header>
 
-            <p className="quote-author">
-              — Sainte Catherine au pape
-            </p>
-          </div>
+  {/* HERO */}
+  <section className={styles.heroSection}>
+    <div className="container">
+      <div className={styles.heroContent}>
+        <h2>
+          Une femme simple
+          <br />
+          qui parla aux puissants
+        </h2>
+
+        <p>
+          Sainte Catherine de Sienne,
+          simple religieuse laïque dominicaine
+          du XIVe siècle, fut le personnage
+          politique majeur qui fit revenir
+          le pape à Rome.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  {/* QUOTE */}
+  <section className={styles.quoteSection}>
+    <div className="container">
+      <div className={styles.quoteCard}>
+        <div className={styles.quoteEmoji}>
+          ✉️
         </div>
-      </section>
 
-      {/* DOCTEUR */}
-      <section
-        style={{
-          padding: '2rem 0 5rem'
-        }}
-      >
-        <div className="container">
-          <div
-            style={{
-              maxWidth: '1000px',
-              margin: '0 auto',
-              background: 'white',
-              borderRadius: '30px',
-              padding: '2.5rem',
-              boxShadow: 'var(--shadow-md)',
-              border: '2px solid var(--violet-tres-clair)'
-            }}
+        <p className={styles.quoteText}>
+          « Vous n’avez pas été bien ferme.
+          Je prie pour que vous agissiez
+          en homme viril. Ayez faim du salut
+          de vos brebis. »
+        </p>
+
+        <span className={styles.quoteAuthor}>
+          — Sainte Catherine au pape
+        </span>
+      </div>
+    </div>
+  </section>
+
+  {/* DOCTOR */}
+  <section className={styles.doctorSection}>
+    <div className="container">
+      <div className={styles.doctorCard}>
+        <h3>
+          Docteur de l’Église
+        </h3>
+
+        <p>
+          Une femme sans instruction universitaire,
+          n’ayant jamais étudié dans une école
+          de théologie ni ouvert de manuel
+          de droit canon, fut pourtant reconnue
+          comme parfaitement conforme à l’orthodoxie
+          après examen de ses écrits.
+
+          <br />
+          <br />
+
+          L’Église l’a proclamée
+          Docteur de l’Église,
+          reconnaissant dans ses paroles
+          une sagesse inspirée
+          par l’Esprit Saint.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  {/* LEARNING */}
+  <section className={styles.learningSection}>
+    <div className="container">
+      <h2 className={styles.sectionTitle}>
+        Enseignements spirituels
+      </h2>
+
+      <div className={styles.learningGrid}>
+        {teachings.map((text, index) => (
+          <article
+            key={index}
+            className={`${styles.learningCard} ${
+              index % 2 === 0
+                ? styles.white
+                : styles.purple
+            }`}
           >
-            <h3
-              style={{
-                fontSize: '2rem',
-                color: 'var(--violet-profond)',
-                marginBottom: '1.5rem',
-                fontWeight: 800
-              }}
-            >
-              Docteur de l’Église
-            </h3>
+            <div className={styles.cardIcon}>
+              ✝️
+            </div>
 
-            <p
-              style={{
-                lineHeight: 1.9,
-                color: 'var(--texte-principal)',
-                fontSize: '1.05rem'
-              }}
-            >
-              Une femme sans instruction universitaire,
-              n’ayant jamais étudié dans une école de théologie
-              ni ouvert de manuel de droit canon,
-              fut pourtant reconnue comme parfaitement conforme
-              à l’orthodoxie après examen de ses écrits.
-              L’Église l’a proclamée Docteur de l’Église,
-              reconnaissant dans ses paroles une sagesse
-              inspirée par l’Esprit Saint.
+            <p>
+              {text}
             </p>
-          </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* FINAL */}
+  <section className={styles.finalSection}>
+    <div className="container">
+      <div className={styles.quoteCard}>
+        <div className={styles.quoteEmoji}>
+          🔥
         </div>
-      </section>
 
-      {/* ENSEIGNEMENTS */}
-      <section className="learning-section">
-        <div className="container">
-          <h2 className="section-title">
-            Enseignements spirituels
-          </h2>
+        <p className={styles.quoteText}>
+          « La Vierge Marie à Sainte Bernadette
+          (souvent malade) :
+          Je ne vous promets pas
+          de vous rendre heureuse dans ce monde,
+          mais dans l’autre. »
+        </p>
+      </div>
+    </div>
+  </section>
 
-          <div
-            className="learning-grid"
-            style={{
-              gridTemplateColumns:
-                'repeat(auto-fit, minmax(320px, 1fr))'
-            }}
-          >
-            {teachings.map((text, index) => (
-              <div
-                key={index}
-                className={`learning-card ${
-                  index % 2 === 0
-                    ? 'white'
-                    : 'purple'
-                }`}
-                style={{
-                  textAlign: 'left',
-                  alignItems: 'flex-start'
-                }}
-              >
-                <div
-                  style={{
-                    fontSize: '2rem',
-                    marginBottom: '1rem'
-                  }}
-                >
-                  ✝️
-                </div>
-
-                <p
-                  style={{
-                    lineHeight: 1.9,
-                    fontSize: '1rem'
-                  }}
-                >
-                  {text}
-                </p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* FIN */}
-      <section
-        style={{
-          padding: '5rem 0'
-        }}
-      >
-        <div className="container">
-          <div
-            className="quote-card"
-            style={{
-              maxWidth: '900px',
-              margin: '0 auto'
-            }}
-          >
-            <div className="quote-emoji">🔥</div>
-
-            <p className="quote-text">
-              « La Vierge Marie à Sainte Bernadette (souvent malade) : « Je ne vous promets pas de vous rendre heureuse dans ce monde, mais dans l&lsquo;autre. »
-            </p>
-
-           
-          </div>
-        </div>
-      </section>
-
-      <Footer />
-    </main>
+  <Footer />
+</main>
   )
 }

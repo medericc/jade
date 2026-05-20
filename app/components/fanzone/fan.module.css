@@ -1,45 +1,90 @@
 .fanzoneSection {
-  backdrop-filter: blur(12px);
-  border-radius: 24px;
-  padding: 3rem 0;
+  padding: 5rem 0;
 }
 
 /* LAYOUT */
 .fanzoneLayout {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 4rem;
+  gap: 5rem;
   align-items: center;
 }
 
+/* LEFT */
 .fanzoneLeft h2 {
-  font-size: var(--fs-xl);
+  color: #ffffff;
+
+  font-size: clamp(3rem, 6vw, 5rem);
+
+  font-weight: 900;
+
   margin-bottom: 1rem;
 }
 
+.fanzoneLeft p {
+  color: rgba(255,255,255,.82);
+
+  font-size: 1.1rem;
+  line-height: 1.9;
+}
+
 .sectionBadge {
-  display: inline-block;
-  margin-bottom: 1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+
+  padding: .55rem 1rem;
+
+  border-radius: 999px;
+
+  background: rgba(255,215,0,.12);
+  border: 1px solid rgba(255,215,0,.25);
+
+  color: #ffd54a;
   font-weight: 700;
+
+  margin-bottom: 1.5rem;
 }
 
 /* STATS */
 .fanStats {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+
   gap: 1rem;
-  margin: 2rem 0;
+  margin: 2.5rem 0;
+}
+
+.fanStatCard {
+  padding: 1.5rem;
+
+  border-radius: 24px;
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255,255,255,.08),
+      rgba(255,255,255,.03)
+    );
+
+  border: 1px solid rgba(255,255,255,.08);
+
+  backdrop-filter: blur(10px);
 }
 
 .fanStatCard strong {
   display: block;
-  color: var(--jaune-vif);
+
+  color: #ffd54a;
+
   font-size: clamp(2rem, 4vw, 3rem);
   font-weight: 900;
+
+  margin-bottom: .4rem;
 }
 
 .fanStatCard span {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255,255,255,.7);
 }
 
 /* SOCIALS */
@@ -50,72 +95,126 @@
 }
 
 .socialButtons button {
-  border: none;
+  border: 1px solid rgba(255,255,255,.1);
+
   border-radius: 999px;
-  padding: 1rem 1.25rem;
-  background: rgba(255, 255, 255, 0.12);
+
+  padding: 1rem 1.3rem;
+
+  background: rgba(255,255,255,.06);
+
   color: white;
   font-weight: 700;
+
   cursor: pointer;
-  transition: transform .25s ease, background .25s ease;
+
+  transition:
+    transform .25s ease,
+    background .25s ease,
+    border-color .25s ease;
 }
 
 .socialButtons button:hover {
   transform: translateY(-4px);
-  background: rgba(255, 215, 0, 0.2);
+
+  background: rgba(255,215,0,.12);
+
+  border-color: rgba(255,215,0,.4);
 }
 
-/* CARD */
+/* RIGHT CARD */
 .fanzoneCard {
   position: relative;
-  background: linear-gradient(180deg,#ffd700 0%,#ffef9a 100%);
-  border-radius: 36px;
-  padding: clamp(2rem,5vw,3.5rem);
+
+  border-radius: 40px;
+
+  padding: clamp(2rem,5vw,4rem);
+
   overflow: hidden;
-  box-shadow: 0 30px 60px rgba(0,0,0,.22);
+
+  background:
+    linear-gradient(
+      145deg,
+      #2d0a45 0%,
+      #16051f 100%
+    );
+
+  border: 1px solid rgba(255,215,0,.22);
+
+  box-shadow:
+    0 35px 80px rgba(0,0,0,.45),
+    0 0 80px rgba(255,215,0,.08);
 }
 
 .fanzoneCard::before {
-  content:'';
-  position:absolute;
-  inset:0;
-  background:linear-gradient(
-    135deg,
-    rgba(255,255,255,.4),
-    transparent 60%
-  );
+  content: '';
+
+  position: absolute;
+  inset: 0;
+
+  background:
+    radial-gradient(
+      circle at top right,
+      rgba(255,215,0,.15),
+      transparent 40%
+    );
 }
 
+/* ICON */
 .fanzoneIcon {
-  position:relative;
-  z-index:2;
-  font-size:4rem;
-  margin-bottom:1rem;
+  position: relative;
+  z-index: 2;
+
+  font-size: 4rem;
+  margin-bottom: 1rem;
 }
 
+/* TITLE */
 .fanzoneCard h3 {
-  position:relative;
-  z-index:2;
-  font-size:clamp(2rem,4vw,3rem);
-  color:var(--violet-profond);
-  margin-bottom:1rem;
+  position: relative;
+  z-index: 2;
+  font-weight: 800;
+  line-height: 1.2;
+  font-size: clamp(2rem,4vw,3rem);
+
+  color: white;
+
+  margin-bottom: 1rem;
 }
 
+/* TEXT */
 .fanzoneCard p {
-  position:relative;
-  z-index:2;
-  color:#4b1e6d;
-  line-height:1.8;
-  margin-bottom:2rem;
-}
+  position: relative;
+  z-index: 2;
 
+  color: rgba(255,255,255,.78);
+
+  line-height: 1.9;
+
+  margin-bottom: 2rem;
+}
+.fanzoneSection {
+  padding: 5rem 0;
+
+  background:
+    linear-gradient(
+      180deg,
+      #14051f 0%,
+      #1d082d 100%
+    );
+
+
+}
 /* RESPONSIVE */
-@media (max-width:900px) {
+@media (max-width: 900px) {
+
   .fanzoneLayout {
-    grid-template-columns:1fr;
+    grid-template-columns: 1fr;
+    gap: 3rem;
   }
 
   .fanStats {
-    grid-template-columns:1fr;
+    grid-template-columns: 1fr;
   }
+
 }

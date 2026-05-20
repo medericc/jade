@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 import Footer from '../../../components/layout/Footer'
 
-import '../../../components/apprendre/styles.module.css'
+import styles from './theologie.module.css'
 
 const theologyCards = [
   {
@@ -33,7 +33,7 @@ const theologyCards = [
     emoji: '🌾',
     href: 'theologie/hildegarde',
     description:
-      'Découvre la vie dès la conception et l\'âme humaine.'
+      'Découvre la vie dès la conception et l’âme humaine.'
   },
   {
     title: 'Défense de la foi',
@@ -46,80 +46,73 @@ const theologyCards = [
 
 export default function TheologiePage() {
   return (
-    <main className="apprendre-page">
+    <main className={styles.theologiePage}>
+
       {/* HEADER */}
-      <header className="apprendre-header">
-        <div className="container apprendre-header-content">
-          <Link href="/apprendre" className="back-link">
+      <header className={styles.theologieHeader}>
+        <div className={`container ${styles.theologieHeaderContent}`}>
+
+          <Link
+            href="/apprendre"
+            className={styles.backLink}
+          >
             ← Retour
           </Link>
 
-          <h1 className="apprendre-title">
+          <h1 className={styles.theologieTitle}>
             <span>✝️</span>
             <span>Théologie</span>
           </h1>
 
-          <span className="apprendre-subtitle">
+          <span className={styles.theologieSubtitle}>
             Foi • Saints • Spiritualité
           </span>
+
         </div>
       </header>
 
       {/* HERO */}
-      <section className="hero-section">
+      <section className={styles.heroSection}>
         <div className="container">
-          <div
-            style={{
-              textAlign: 'center',
-              maxWidth: '900px',
-              margin: '0 auto'
-            }}
-          >
-            <h2
-              style={{
-                fontSize: 'clamp(2.2rem, 5vw, 4rem)',
-                color: 'var(--violet-profond)',
-                marginBottom: '1.5rem',
-                fontWeight: 800
-              }}
-            >
+
+          <div className={styles.heroContent}>
+
+            <h2>
               Étudier la foi chrétienne
             </h2>
 
-            <p
-              style={{
-                fontSize: 'clamp(1rem, 2vw, 1.2rem)',
-                lineHeight: 1.8,
-                color: 'var(--texte-secondaire)'
-              }}
-            >
+            <p>
               Découvre les grands saints, la spiritualité chrétienne
               et les fondements de la foi catholique à travers
               des enseignements accessibles et structurés.
             </p>
+
           </div>
+
         </div>
       </section>
 
       {/* GRID */}
-      <section className="learning-section">
+      <section className={styles.learningSection}>
         <div className="container">
-          <div
-            className="learning-grid"
-            style={{
-              gridTemplateColumns:
-                'repeat(auto-fit, minmax(240px, 1fr))'
-            }}
-          >
+
+          <div className={styles.learningGrid}>
+
             {theologyCards.map((card, index) => (
+
               <Link
                 key={card.href}
                 href={card.href}
-                className={`learning-card ${
-                  index % 2 === 0 ? 'white' : 'purple'
-                } animate-fade-up`}
+                className={`
+                  ${styles.learningCard}
+                  ${index % 2 === 0
+                    ? styles.white
+                    : styles.purple}
+                  ${styles.animateFadeUp}
+                `}
               >
-                <div className="card-emoji">
+
+                <div className={styles.cardEmoji}>
                   {card.emoji}
                 </div>
 
@@ -127,17 +120,25 @@ export default function TheologiePage() {
 
                 <p>{card.description}</p>
 
-                <div className="card-link">
+                <div className={styles.cardLink}>
                   Explorer
-                  <span className="card-arrow">→</span>
+
+                  <span className={styles.cardArrow}>
+                    →
+                  </span>
                 </div>
+
               </Link>
+
             ))}
+
           </div>
+
         </div>
       </section>
 
       <Footer />
+
     </main>
   )
 }

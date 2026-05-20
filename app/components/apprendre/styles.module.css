@@ -3,45 +3,51 @@
 ========================================= */
 
 .apprendrePage {
-  --violetProfond: #4b1e6d;
-  --violetClair: #9b6bb7;
-  --violetTresClair: #e9ddf2;
+  --violetProfond: #2a0c45;
+  --violetNuit: #14051f;
 
-  --jauneVif: #ffd700;
-  --jaunePastel: #fff4cc;
+  --orBearn: #f4c542;
+  --orClair: #ffe38a;
 
-  --blanc: #fdfbf7;
+  --rougeBearn: #a22c29;
+  --bleuBearn: #2c4d8f;
+
+  --fondCreme: #f6f1e7;
   --blancPur: #ffffff;
 
-  --textePrincipal: #2d0a45;
-  --texteSecondaire: #6b4b7a;
+  --textePrincipal: #24132f;
+  --texteSecondaire: #6c5b78;
 
-  --shadowSm: 0 4px 10px rgba(75, 30, 109, 0.08);
-  --shadowMd: 0 10px 30px rgba(75, 30, 109, 0.12);
-  --shadowLg: 0 20px 40px rgba(75, 30, 109, 0.2);
+  --shadowSm: 0 8px 20px rgba(20,5,31,.08);
+  --shadowMd: 0 18px 40px rgba(20,5,31,.14);
+  --shadowLg: 0 30px 70px rgba(20,5,31,.22);
 
-  --radiusSm: 14px;
-  --radiusMd: 20px;
-  --radiusLg: 30px;
+  --radiusSm: 16px;
+  --radiusMd: 24px;
+  --radiusLg: 40px;
 
-  --transition: all 0.3s ease;
+  --transition: all .35s ease;
 
   min-height: 100vh;
-  background: var(--blanc);
+
+  background: var(--fondCreme);
+
   color: var(--textePrincipal);
 }
 
 /* =========================================
    SECTION TITLE
 ========================================= */
-
 .sectionTitle {
-  font-size: clamp(2rem, 5vw, 3.5rem);
-  color: var(--violetProfond);
+  font-size: clamp(2.5rem, 5vw, 4rem);
+
   text-align: center;
+
   margin-bottom: 4rem;
-  font-weight: 800;
-  letter-spacing: -0.03em;
+
+  font-weight: 900;
+
+  color: white;
 }
 
 /* =========================================
@@ -69,9 +75,21 @@
 ========================================= */
 
 .apprendreHeader {
-  background: var(--violetProfond);
-  border-bottom: 4px solid var(--jauneVif);
-  padding: 1.25rem 0;
+  position: relative;
+
+  overflow: hidden;
+
+  padding: 1.5rem 0;
+
+  background:
+    linear-gradient(
+      135deg,
+      #2a0c45 0%,
+      #14051f 100%
+    );
+
+  border-bottom:
+    3px solid var(--orBearn);
 }
 
 .apprendreHeaderContent {
@@ -80,13 +98,27 @@
   gap: 1rem;
   flex-wrap: wrap;
 }
+.apprendreHeader::before {
+  content: '';
 
+  position: absolute;
+  inset: 0;
+
+  background:
+    radial-gradient(
+      circle at top right,
+      rgba(244,197,66,.18),
+      transparent 30%
+    );
+
+  pointer-events: none;
+}
 .backLink {
   display: flex;
   align-items: center;
   gap: 0.5rem;
 
-  color: var(--jauneVif);
+  color: rgb(255,255,0);
 
   font-size: clamp(1rem, 2vw, 1.3rem);
   font-weight: 600;
@@ -105,17 +137,28 @@
   gap: 1rem;
   flex-wrap: wrap;
 
-  color: var(--blancPur);
+  font-size: clamp(2.2rem, 5vw, 4rem);
 
-  font-size: clamp(2rem, 5vw, 3.5rem);
-  font-weight: 800;
-  letter-spacing: -0.04em;
+  font-weight: 900;
+
+  letter-spacing: -.04em;
+
+  background:
+    linear-gradient(
+      135deg,
+      #ffffff 0%,
+      #f4c542 45%,
+      #fff2be 100%
+    );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .apprendreSubtitle {
   margin-left: auto;
 
-  color: var(--jauneVif);
+  color: rgb(255,255,0);
 
   font-size: clamp(1rem, 2vw, 1.1rem);
   font-weight: 600;
@@ -127,20 +170,39 @@
 
 .heroSection {
   position: relative;
+
   overflow: hidden;
 
-  padding: 6rem 0;
+  padding: 7rem 0;
 
   background:
-    radial-gradient(circle at top right,
-      rgba(255,255,255,0.6),
-      transparent 30%
-    ),
     linear-gradient(
-      135deg,
-      var(--violetTresClair) 0%,
-      var(--jaunePastel) 100%
+      180deg,
+      #f6f1e7 0%,
+      #efe3c4 100%
     );
+}
+
+.heroSection::before {
+  content: '';
+
+  position: absolute;
+  top: -250px;
+  right: -200px;
+
+  width: 700px;
+  height: 700px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(244,197,66,.18),
+      transparent 70%
+    );
+
+  pointer-events: none;
 }
 
 .heroGrid {
@@ -153,11 +215,12 @@
 .heroContent h2 {
   margin-bottom: 1.5rem;
 
-  color: var(--violetProfond);
+  font-size: clamp(2.8rem, 5vw, 4.5rem);
 
-  font-size: clamp(2rem, 4vw, 3rem);
-  line-height: 1.1;
-  font-weight: 800;
+  line-height: 1.05;
+  font-weight: 900;
+
+  color: var(--violetProfond);
 }
 
 .heroContent p {
@@ -186,13 +249,31 @@
 }
 
 .primary {
-  background: var(--violetProfond);
-  color: var(--blancPur);
+  background:
+    linear-gradient(
+      135deg,
+      rgb(255,0,0),
+      #c53b37
+    );
+
+  color: white;
+
+  box-shadow:
+    0 10px 25px rgba(162,44,41,.25);
 }
 
 .secondary {
-  background: var(--jauneVif);
-  color: var(--violetProfond);
+  background:
+    linear-gradient(
+      135deg,
+      #d6da08,
+      #babd0d
+    );
+
+  color: black;
+
+  box-shadow:
+    0 10px 25px rgba(44,77,143,.25);
 }
 
 /* =========================================
@@ -206,12 +287,39 @@
 
   border-radius: var(--radiusLg);
 
-  background: rgba(255,255,255,0.8);
-  backdrop-filter: blur(10px);
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,.85),
+      rgba(255,255,255,.72)
+    );
 
-  box-shadow: var(--shadowMd);
+  border:
+    1px solid rgba(244,197,66,.22);
+
+  backdrop-filter: blur(14px);
+
+  box-shadow: var(--shadowLg);
 
   text-align: center;
+
+  overflow: hidden;
+}
+
+.quoteCard::before {
+  content: '';
+
+  position: absolute;
+  inset: 0;
+
+  background:
+    radial-gradient(
+      circle at top right,
+      rgba(244,197,66,.15),
+      transparent 35%
+    );
+
+  pointer-events: none;
 }
 
 .quoteEmoji {
@@ -244,10 +352,17 @@
 ========================================= */
 
 .learningSection {
-  padding: 7rem 0;
-  background: var(--blancPur);
-}
+  position: relative;
 
+  padding: 7rem 0;
+
+  background:
+    linear-gradient(
+      180deg,
+      #1d0b2f 0%,
+      #14051f 100%
+    );
+}
 .learningGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -265,19 +380,33 @@
   flex-direction: column;
   align-items: center;
 
-  min-height: 100%;
-
   padding: 2.5rem 2rem;
 
-  border-radius: var(--radiusMd);
+  border-radius: 30px;
 
   overflow: hidden;
 
   text-align: center;
 
-  transition: var(--transition);
-}
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255,255,255,.08),
+      rgba(255,255,255,.03)
+    );
 
+  border:
+    1px solid rgba(255,255,255,.08);
+
+  backdrop-filter: blur(12px);
+
+  transition: var(--transition);
+
+  color: white;
+}
+.learningCard p {
+  color: rgba(255,255,255,.72);
+}
 .learningCard::before {
   content: '';
 
@@ -308,26 +437,24 @@
 }
 
 .yellow {
-  background: var(--jaunePastel);
+  border-color: rgb(255,255,0);
 }
 
 .purple {
-  background: var(--violetTresClair);
+  border-color: rgba(255,255,255,.12);
 }
 
 .white {
-  background: var(--blancPur);
-  border: 2px solid var(--violetClair);
+  border-color: rgba(255,255,255,.18);
 }
 
 .gradient {
-  background: linear-gradient(
-    135deg,
-    var(--violetProfond),
-    var(--violetClair)
-  );
-
-  color: var(--blancPur);
+  background:
+    linear-gradient(
+      135deg,
+      #a22c29 0%,
+      #2c4d8f 100%
+    );
 }
 
 .cardEmoji {
@@ -461,7 +588,7 @@
 
   background: linear-gradient(
     90deg,
-    var(--jauneVif),
+    rgb(255,255,0)
     #ffe76a
   );
 
