@@ -3,7 +3,11 @@
 import Link from 'next/link'
 import { useMemo, useState } from 'react'
 import data from '@/data/dictionnaire_bearnais.json'
-
+import { Nunito } from 'next/font/google'
+import { Search } from 'lucide-react'
+const nunito = Nunito({
+  subsets: ['latin'],
+})
 const ITEMS_PER_PAGE = 20
 
 export default function DictionnairePage() {
@@ -89,12 +93,23 @@ export default function DictionnairePage() {
     <>
       <style jsx global>{`
         :root {
-          --violet-profond: #4b1e6d;
+      --violet-profond: #2a0c45;
+--violet-clair: #8c63b5;
+
+--fond-page: #f3eef8;
+--fond-recherche: #ede4f7;
+
+--jaune-pastel: #fff4cc;
+--jaune-vif: #f3c623;
+
+--texte-principal: #2d0a45;
+--texte-secondaire: #6b4b7a;
+
           --violet-clair: #9b6bb7;
-          --violet-tres-clair: #e9ddf2;
+        
           --jaune-vif: #ffd700;
           --jaune-pastel: #fff4cc;
-          --blanc: #fdfbf7;
+         
           --texte-principal: #2d0a45;
           --texte-secondaire: #6b4b7a;
 
@@ -130,20 +145,58 @@ export default function DictionnairePage() {
           border-color: var(--violet-profond);
         }
 
-        .card {
-          background: var(--jaune-pastel);
-          padding: 1.2rem;
-          border-radius: 18px;
-          margin-bottom: 1rem;
-          transition: 0.2s;
-          border: 2px solid transparent;
-        }
+      .card {
+      position: relative;
+overflow: hidden;
+  background: linear-gradient(
+    145deg,
+    #fff9de,
+    #fff4cc
+  );
 
-        .card:hover {
-          transform: translateY(-3px);
-          border-color: var(--violet-clair);
-        }
+  padding: 1.3rem;
 
+  border-radius: 18px;
+
+  margin-bottom: 1rem;
+
+  border: 1px solid rgba(75,30,109,.08);
+
+  box-shadow:
+    0 4px 10px rgba(0,0,0,.03),
+    0 10px 25px rgba(75,30,109,.06);
+
+  transition: all .25s ease;
+}
+
+      .card:hover {
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 15px 35px rgba(75,30,109,.12);
+}
+.card::after {
+  content: '';
+
+  position: absolute;
+
+  top: 0;
+  right: 0;
+
+  width: 120px;
+  height: 120px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      rgba(255,215,0,.20),
+      transparent
+    );
+
+  transform:
+    translate(40px,-40px);
+}
         .titre {
           font-size: var(--fs-md);
           font-weight: bold;
@@ -151,7 +204,7 @@ export default function DictionnairePage() {
           margin-bottom: 0.4rem;
         }
 
-        .type {
+    .type {
           font-size: var(--fs-sm);
           color: var(--texte-secondaire);
           margin-bottom: 0.8rem;
@@ -191,67 +244,114 @@ export default function DictionnairePage() {
           cursor: not-allowed;
         }
 
-        .count {
-          margin-bottom: 1.5rem;
-          color: var(--texte-secondaire);
-        }
+     .count {
+  font-size: 1rem;
+
+  font-weight: 600;
+
+  color: var(--violet-profond);
+
+  margin-bottom: 1.5rem;
+}
       `}</style>
 
       <main>
         {/* HEADER */}
-        <header
-          style={{
-            background: 'var(--violet-profond)',
-            padding: '1rem',
-          }}
-        >
-          <div
-            className="container"
-            style={{
-              display: 'flex',
-              gap: '1rem',
-              alignItems: 'center',
-            }}
-          >
-            <Link href="/apprendre">
-              <span
-                style={{
-                  color: 'var(--jaune-vif)',
-                  cursor: 'pointer',
-                }}
-              >
-                ← Retour
-              </span>
-            </Link>
+    <header
+  style={{
+    background: '#2a0c45',
+    padding: '1.25rem 0 2rem'
+  }}
+>
+  <div
+    className="container"
+    style={{
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      gap: '2rem'
+    }}
+  >
+    <Link href="/apprendre">
+      <button
+        style={{
+          background: 'rgba(255,255,255,.08)',
+          color: '#f3c623',
+          border: '1px solid rgba(255,255,255,.15)',
+          padding: '.6rem 1rem',
+          borderRadius: '12px',
+          fontWeight: 700
+        }}
+      >
+        ← Retour
+      </button>
+    </Link>
 
-            <h1 style={{ color: 'white', margin: 0 }}>
-              📖 Dicciounàri
-            </h1>
-          </div>
-        </header>
-
+    <h1
+      style={{
+        color: 'white',
+        margin: 0,
+        fontSize: '2.2rem',
+        fontWeight: 800,
+        textAlign: 'center'
+      }}
+    >
+      📖 Dicciounàri Biarnés
+    </h1>
+  </div>
+</header>
+<body className={nunito.className}>
         {/* SEARCH */}
-        <section
-          style={{
-            background: 'var(--violet-tres-clair)',
-            padding: '2rem 0',
-          }}
-        >
-          <div className="container">
-            <input
-              type="text"
-              placeholder="Tape un mot... ex: abitua"
-              value={query}
-            onChange={(e) => {
-  setQuery(e.target.value)
-  setPage(1)
-}}
-            />
-          </div>
-        </section>
+       <section
+  style={{
+    background: '#ede4f7',
+    padding: '3rem 0',
+  }}
+>
+  <div className="container">
+    <div
+      style={{
+        position: 'relative',
+        maxWidth: '850px',
+        margin: '0 auto',
+      }}
+    >
+      <Search
+        size={20}
+        style={{
+          position: 'absolute',
+          left: '16px',
+          top: '50%',
+          transform: 'translateY(-50%)',
+          color: '#9b6bb7',
+          pointerEvents: 'none',
+        }}
+      />
+
+      <input
+        type="text"
+        placeholder="Tape un mot... ex: abitua"
+        value={query}
+        onChange={(e) => {
+          setQuery(e.target.value)
+          setPage(1)
+        }}
+        style={{
+          paddingLeft: '48px',
+        }}
+      />
+    </div>
+  </div>
+</section>
 
         {/* RESULTS */}
-        <section style={{ padding: '2rem 0' }}>
+      <section
+  style={{
+    padding:'2rem 0',
+    background:'#f3eef8',
+    minHeight:'100vh'
+  }}
+>
           <div className="container">
             <div className="count">
               {results.length} résultat(s)
@@ -308,7 +408,7 @@ export default function DictionnairePage() {
             )}
           </div>
         </section>
-
+</body>
         {/* FOOTER */}
         <footer
           style={{

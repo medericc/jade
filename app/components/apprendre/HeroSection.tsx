@@ -10,7 +10,7 @@ export default function HeroSection() {
         <div className={styles.heroContent}>
 
           <h2>
-            La lenga nosta, lo noste tresaur
+            La noùste léncou, lou noùste tresor
           </h2>
 
           <p>
@@ -38,11 +38,11 @@ export default function HeroSection() {
           </div>
 
           <p className={styles.quoteText}>
-            &quot;Qui parla biarnés, parla la lenga deus reis&quot;
+            &quot;Que tieni lou Biarn qui de Diu&quot;
           </p>
 
           <span className={styles.quoteAuthor}>
-            Proverbe béarnais
+            Gastoû Febus
           </span>
 
         </div>

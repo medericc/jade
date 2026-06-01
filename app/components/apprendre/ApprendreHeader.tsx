@@ -14,7 +14,7 @@ export default function ApprendreHeader() {
 
         <h1 className={styles.apprendreTitle}>
           <span>🗣️</span>
-          <span>Aprén lo biarnés !</span>
+          <span>Aprén lou biarnés !</span>
         </h1>
 
         <span className={styles.apprendreSubtitle}>

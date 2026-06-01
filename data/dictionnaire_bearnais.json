@@ -6700,13 +6700,7 @@
     "type": "nom féminin",
     "search": "ascle morceau de bois fendu ; gousse d'ail, quartier de noix"
   },
-  {
-    "id": 961,
-    "titre": "à-sé",
-    "definition": "hier soir",
-    "type": "adverbe",
-    "search": "à-sé hier soir"
-  },
+
   {
     "id": 962,
     "titre": "aseda",
@@ -33419,13 +33413,7 @@
     "type": "verbe transitif (que desencadéni)",
     "search": "desencadena ôter une chaîne (à)"
   },
-  {
-    "id": 4778,
-    "titre": "1",
-    "definition": "enlever les clous (à un objet)",
-    "type": "verbe transitif",
-    "search": "1 enlever les clous (à un objet)"
-  },
+
   {
     "id": 4779,
     "titre": "desenclaba 2",
@@ -41002,7 +40990,7 @@
   },
   {
     "id": 5861,
-    "titre": "-s",
+    "titre": "esblasi-s",
     "definition": "se faner, se flétrir, perdre sa couleur",
     "type": "verbe pronominal (que m'esblaséchi)",
     "search": "-s se faner, se flétrir, perdre sa couleur"
@@ -42451,7 +42439,7 @@
   },
   {
     "id": 6068,
-    "titre": "-s",
+    "titre": "eslénqua",
     "definition": "glisser",
     "type": "verbe pronominal (que m'eslénqui)",
     "search": "-s glisser"
@@ -51836,13 +51824,7 @@
     "type": "nom masculin",
     "search": "ibiè gibier. ◊ Lou ibiè ne mancabe pas → le gibier ne manquait pas. ♦ Voir yibiè"
   },
-  {
-    "id": 7409,
-    "titre": "-te",
-    "definition": "géant. ◊ Càssous  → des chênes géants. ♦ Voir gigan, yigan",
-    "type": "adjectif et nom",
-    "search": "-te géant. ◊ Càssous  → des chênes géants. ♦ Voir gigan, yigan"
-  },
+
   {
     "id": 7410,
     "titre": "yélet",

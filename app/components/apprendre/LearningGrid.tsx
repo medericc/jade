@@ -10,7 +10,7 @@ export default function LearningGrid() {
       <div className="container">
 
         <h2 className={styles.sectionTitle}>
-          Qué vòs apréner ?
+          Que bos apréne ?
         </h2>
 
         <div className={styles.learningGrid}>

@@ -17,37 +17,37 @@ export const learningCards: LearningCardType[] = [
   {
     href: '/apprendre/conjugaison',
     emoji: '📝',
-    title: 'Conjugason',
+    title: 'Counyuguesoû',
     description:
       'Apprends à conjuguer les verbes essentiels : être, avoir, aller, faire...',
-    button: 'Commencer →',
+    button: 'Alenga →',
     variant: 'yellow'
   },
   {
-    href: '/apprendre/phrases',
+    href: '/apprendre/leçons',
     emoji: '💬',
-    title: 'Frasas correntas',
+    title: 'Mantûes Leçoûs',
     description:
       'Salutations, présentations, expressions de tous les jours...',
-    button: 'Découvrir →',
+    button: 'Apréne →',
     variant: 'purple'
   },
   {
     href: '/apprendre/dictionnaire',
     emoji: '📚',
-    title: 'Vocabulari',
+    title: 'Dicciounàri',
     description:
       'Animaux, nourriture, famille, nature... Enrichis ton vocabulaire !',
-    button: 'Explorer →',
+    button: 'Esploura →',
     variant: 'white'
   },
   {
     href: '/apprendre/culture',
     emoji: '🏔️',
-    title: 'Cultura',
+    title: 'Culture',
     description:
       "Apprenez le béarnais en immersion dans des textes en version française et béarnaise pour maîtriser la langue tout en découvrant l'histoire.",
-    button: 'Découvrir →',
+    button: 'Descoubri →',
     variant: 'gradient'
   }
 ]
