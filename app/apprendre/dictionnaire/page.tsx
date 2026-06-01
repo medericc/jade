@@ -225,7 +225,7 @@ export default function DictionnairePage() {
             </Link>
 
             <h1 style={{ color: 'white', margin: 0 }}>
-              📖 Dictionari
+              📖 Dicciounàri
             </h1>
           </div>
         </header>
@@ -318,7 +318,7 @@ export default function DictionnairePage() {
             padding: '1rem',
           }}
         >
-          © 2026 • Dictionari Biarnés
+          © 2026 • Dicciounàri Biarnés
         </footer>
       </main>
     </>
