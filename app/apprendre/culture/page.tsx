@@ -312,7 +312,7 @@ export default function HistoirePage() {
 
     {/* Défense de la Foi */}
     <Link
-      href="/theologie/defense-foi"
+      href="https://www.youtube.com/@france_jeunesse"
       style={{
         textDecoration: 'none',
         display: 'block',
@@ -338,7 +338,7 @@ export default function HistoirePage() {
             marginBottom: '1rem',
           }}
         >
-          🛡️
+          📺
         </div>
 
         <h3
@@ -350,7 +350,7 @@ export default function HistoirePage() {
             marginBottom: '.75rem',
           }}
         >
-          Défense de la Foi
+          Films et Animés Chrétiens
         </h3>
 
         <p
@@ -361,9 +361,7 @@ export default function HistoirePage() {
             marginBottom: '1rem',
           }}
         >
-          Réponses aux objections,
-          apologétique chrétienne et
-          fondements de la foi.
+         Chroniques de Saints, de la Bible ou de l&apos;Histoire
         </p>
 
         <div
