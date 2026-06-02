@@ -425,3 +425,32 @@
   }
 
 }
+
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+
+  .theologie-grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+
+  .theologie-intro-card {
+    display: block !important;
+  }
+
+  .theologie-defense-grid {
+    display: block !important;
+  }
+
+  .theologie-message {
+    display: none !important;
+  }
+
+  /* cache la carte Défense du bas */
+  a[href="/theologie/defense-foi"] {
+    display: none;
+  }
+
+  .theologie-defense-grid {
+    display: block !important;
+  }
+}
