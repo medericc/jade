@@ -364,14 +364,7 @@ export default function HistoirePage() {
          Chroniques de Saints, de la Bible ou de l&apos;Histoire
         </p>
 
-        <div
-          style={{
-            color: '#8c63b5',
-            fontWeight: 600,
-          }}
-        >
-          Découvrir →
-        </div>
+       
       </div>
     </Link>
   </div>

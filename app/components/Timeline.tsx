@@ -337,11 +337,7 @@ export default function Timeline() {
                   </p>
 
                   <Link
-                    href={`/culture/histoire${
-                      mode === 'bearn'
-                        ? 'bearn'
-                        : 'monde'
-                    }/${periode.slug}`}
+                    href={`/apprendre/culture/histoire/${periode.slug}`}
                     style={{
                       display: 'inline-block',
                       marginTop: '1rem',

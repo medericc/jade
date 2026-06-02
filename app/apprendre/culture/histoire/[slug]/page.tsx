@@ -2,10 +2,10 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-
-import ExpandableSection from '../../../components/ExpandableSection';
-import { histoireData } from '../../../../data/culture/bearn';
-import { worldData } from '../../../../data/culture/monde';
+import HistoireAnalyse from './HistoireAnalyse';
+import ExpandableSection from '../../../../components/ExpandableSection';
+import { histoireData } from '../../../../../data/culture/bearn';
+import { worldData } from '../../../../../data/culture/monde';
 
 export async function generateMetadata(
 props: {
@@ -23,8 +23,13 @@ categorie === 'monde'
 : histoireData;
 
 const data =
-dataSource[slug as keyof typeof dataSource];
-
+  histoireData[
+    slug as keyof typeof histoireData
+  ] ??
+  worldData[
+    slug as keyof typeof worldData
+  ];
+  
 if (!data) {
 return {
 title: 'Page non trouvée',
@@ -48,16 +53,18 @@ slug: string;
 const { categorie, slug } =
 await props.params;
 
-const dataSource =
-categorie === 'monde'
-? worldData
-: histoireData;
-
 const pageData =
-dataSource[
-slug as keyof typeof dataSource
-];
-
+  histoireData[
+    slug as keyof typeof histoireData
+  ] ??
+  worldData[
+    slug as keyof typeof worldData
+  ];
+console.log('slug =', slug);
+console.log(
+  'keys bearn =',
+  Object.keys(histoireData)
+);
 if (!pageData) notFound();
 
 return (
@@ -69,7 +76,6 @@ minHeight: '100vh',
 >
 {/* HERO */}
 
-```
   <section
     style={{
       background:
@@ -177,72 +183,9 @@ minHeight: '100vh',
         margin: '0 auto',
       }}
     >
-      <div
-        style={{
-          textAlign: 'center',
-          marginBottom: '3rem',
-        }}
-      >
-        <div
-          style={{
-            color: '#f3c623',
-            fontWeight: 700,
-            letterSpacing: '.15em',
-            textTransform: 'uppercase',
-            marginBottom: '.75rem',
-          }}
-        >
-          📜 Analyse
-        </div>
-
-        <h2
-          style={{
-            color: '#2a0c45',
-            fontSize:
-              'clamp(2rem,4vw,3rem)',
-            fontWeight: 800,
-            marginBottom: '1rem',
-          }}
-        >
-          Analyse détaillée
-        </h2>
-
-        <p
-          style={{
-            color: '#6b4b7a',
-            lineHeight: 1.8,
-          }}
-        >
-          Explorez les différents
-          aspects de cette période.
-        </p>
-      </div>
-
-      <div>
-        {pageData.sections?.map(
-          (section, index) =>
-            section && (
-              <ExpandableSection
-                key={index}
-                titre={section.titre}
-                enfants={
-                  <div
-                    style={{
-                      color:
-                        '#6b4b7a',
-                      lineHeight: 1.9,
-                    }}
-                  >
-                    {section.contenu}
-                  </div>
-                }
-                defaultOpen={
-                  index === 0
-                }
-              />
-            )
-        )}
-      </div>
+    <HistoireAnalyse
+  sections={pageData.sections}
+/>
     </div>
   </section>
 
@@ -256,7 +199,7 @@ minHeight: '100vh',
     }}
   >
     <Link
-      href="/histoire-condense"
+      href="/apprendre/culture"
       style={{
         textDecoration: 'none',
       }}
