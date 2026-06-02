@@ -143,7 +143,60 @@ export default function Timeline() {
   const data = mode === 'bearn' ? periodes : periodes2;
 
   return (
-    <div className="relative py-12">
+    <div className="relative py-7">
+     
+     
+     <div
+  style={{
+    position: 'absolute',
+    top: '-3rem',
+    right: 'clamp(.5rem, 3vw, 2rem)',
+    zIndex: 10,
+  }}
+>
+  <div
+    style={{
+      display: 'flex',
+      alignItems: 'center',
+      background: '#fff',
+      border: '2px solid #f3c623',
+      borderRadius: '999px',
+      padding: '4px',
+      boxShadow: '0 6px 18px rgba(42,12,69,.08)',
+    }}
+  >
+    <button
+      style={{
+        border: 'none',
+        background: '#2a0c45',
+        color: '#fff',
+        fontWeight: 700,
+        padding: '.6rem .9rem',
+        borderRadius: '999px',
+        cursor: 'pointer',
+        fontSize: '1.1rem',
+      }}
+    >
+      🇫🇷
+    </button>
+
+    <button
+      style={{
+        border: 'none',
+        background: 'transparent',
+        color: '#2a0c45',
+        fontWeight: 700,
+        padding: '.6rem .9rem',
+        borderRadius: '999px',
+        cursor: 'pointer',
+        fontSize: '1.1rem',
+      }}
+    >
+      🏴
+    </button>
+  </div>
+</div>
+     
       {/* Boutons */}
       <div className="flex justify-center mb-14">
         <div

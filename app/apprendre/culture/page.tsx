@@ -30,6 +30,47 @@ export default function HistoirePage() {
             margin: '0 auto',
           }}
         >
+
+<div
+  style={{
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: '2rem',
+    padding: '0 clamp(.5rem, 4vw, 4rem)',
+    gap: '1rem',
+  }}
+>
+  {/* Bouton retour */}
+ <Link
+  href="/apprendre"
+  style={{
+    textDecoration: 'none',
+  }}
+>
+  <div
+    style={{
+      display: 'flex',
+      alignItems: 'center',
+      gap: '.5rem',
+      background: '#fff',
+      border: '2px solid #f3c623',
+      borderRadius: '999px',
+      padding: '.7rem 1.1rem',
+      color: '#2a0c45',
+      fontWeight: 700,
+      boxShadow: '0 6px 18px rgba(42,12,69,.08)',
+      whiteSpace: 'nowrap',
+    }}
+  >
+    <span>←</span>
+    Retour
+  </div>
+</Link>
+
+  
+</div>
+
           <div
             style={{
               color: '#f3c623',
@@ -174,10 +215,7 @@ export default function HistoirePage() {
       className="theologie-grid"
       style={{
         display: 'grid',
-        gap: '1.5rem',
-        gridTemplateColumns:
-          'repeat(auto-fit,minmax(280px,1fr))',
-      }}
+    }}
     >
 
       <div
@@ -193,36 +231,7 @@ export default function HistoirePage() {
       '0 10px 25px rgba(42,12,69,.08)',
   }}
 >
-  <div
-    style={{
-      fontSize: '2rem',
-      marginBottom: '1rem',
-    }}
-  >
-    ✠
-  </div>
-
-  <h3
-    style={{
-      color: '#2a0c45',
-      fontSize: '1.25rem',
-      fontWeight: 800,
-      marginBottom: '.75rem',
-    }}
-  >
-    Tradition catholique
-  </h3>
-
-  <p
-    style={{
-      color: '#6b4b7a',
-      lineHeight: 1.7,
-    }}
-  >
-    Découvrez les enseignements des saints,
-    docteurs de l&apos;Église et grandes figures
-    de la tradition catholique.
-  </p>
+ 
 </div>
       {[
         {
@@ -259,7 +268,7 @@ export default function HistoirePage() {
                 'linear-gradient(180deg,#fff9de,#fff4cc)',
               borderRadius: '22px',
               padding: '2rem',
-              height: '100%',
+              height: '96%',
               boxShadow:
                 '0 10px 25px rgba(42,12,69,.08)',
               transition: 'all .25s ease',
@@ -298,56 +307,7 @@ export default function HistoirePage() {
         </Link>
       ))}
 
-      <Link
-  href="/theologie/defense-foi"
-  className="theologie-defense-grid"
-  style={{
-    textDecoration: 'none',
-    display: 'none',
-  }}
->
-  <div
-    style={{
-      background:
-        'linear-gradient(180deg,#fff9de,#fff4cc)',
-      borderRadius: '22px',
-      padding: '2rem',
-      height: '100%',
-      boxShadow:
-        '0 10px 25px rgba(42,12,69,.08)',
-      cursor: 'pointer',
-    }}
-  >
-    <div
-      style={{
-        fontSize: '2rem',
-        marginBottom: '1rem',
-      }}
-    >
-      🛡️
-    </div>
-
-    <h3
-      style={{
-        color: '#2a0c45',
-        fontSize: '1.25rem',
-        fontWeight: 800,
-        marginBottom: '.75rem',
-      }}
-    >
-      Défense de la Foi
-    </h3>
-
-    <div
-      style={{
-        color: '#8c63b5',
-        fontWeight: 600,
-      }}
-    >
-      Découvrir →
-    </div>
-  </div>
-</Link>
+    
     </div>
 
     {/* Défense de la Foi */}
@@ -374,6 +334,7 @@ export default function HistoirePage() {
         <div
           style={{
             fontSize: '2rem',
+             textAlign: 'center',
             marginBottom: '1rem',
           }}
         >
@@ -385,6 +346,7 @@ export default function HistoirePage() {
             color: '#2a0c45',
             fontSize: '1.4rem',
             fontWeight: 800,
+             textAlign: 'center',
             marginBottom: '.75rem',
           }}
         >
@@ -395,6 +357,7 @@ export default function HistoirePage() {
           style={{
             color: '#6b4b7a',
             lineHeight: 1.7,
+             textAlign: 'center',
             marginBottom: '1rem',
           }}
         >
