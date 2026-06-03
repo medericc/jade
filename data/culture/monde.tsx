@@ -722,7 +722,21 @@ Après les apparitions et les prophéties de Fatima, sœur Lucie confie que « l
       }
       ,
 
-
+{
+        titre: "Le Génocide Arménien",
+        contenu: (
+          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
+            <p>
+ Au début du XXe siècle, après la prise du pouvoir par les Jeunes-Turcs — composé d’Emmanuel Carasso (député juif et franc-maçon), Djemal Pacha (franc-maçon) ou Talaat Pacha (franc-maçon) —, le gouvernement musulman ottoman met en œuvre des arrestations, massacres et déportations massives visant la population chrétienne arménienne. De 1915 à 1920, entre 1 et 1,5 million d'Arméniens périssent sur une population arménienne de l'Empire ottoman estimée à environ 1,5 à 2 millions de personnes.
+ 
+  </p>
+  
+   <p>
+      Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
+         </p>   </div>
+        )
+      }
+,
 
        {
         titre: "Démocratie en Bas, Monarchie en Haut",
