@@ -219,8 +219,9 @@ Counyuguesoû
               <p>
                 Radical + i, es, forme variable, ém, ét, ẹn.
               </p>
-              forme variable : si b,d,s,l,z changement phonétique comme béb/councéb devient éu, hob/embob/cab/esmàb donne p ou debèrz/espàrz donne debèrs/espars, mais aucun si –m, -n, -p, -r, -t, -y
-            </Card>
+               <p>
+            forme variable : si -b, -d, -s, -l, -z la lettre change : b devient u (bébẹ « boire »   → béu) ou p (sabé → sap) ; z devient s (debèrzẹ « digérer »   → debèrs), mais aucun si –gn, –lh, –m, -n, -p, -r, -t, -y   </p>
+          </Card>
 
             <Card title="3e groupe" icon="📖">
               <p>
