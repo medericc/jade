@@ -289,6 +289,19 @@ Counyuguesoû
               <p>abé (avoir) : qu’aberèy / aurèy , qu’aberas / auras , qu’abera / aura , qu’aberam / auram , qu’aberat / aurat , qu’aberan / auran </p>
               <p>ana (aller) : qu’anerèy , qu’aneras , qu’anera , qu’aneram , qu’anerat , qu’aneran </p>
             </Card>
+
+              <Card title="Futur du Passé" icon="🔮">
+                   <p>3e personne du passé simple + -ri, -rẹs, -rẹ, -rẹm, -rẹt, -rẹn</p>
+        <p>
+        À utiliser après une proposition subordonnée introduite par « si » ou « que » avec un verbe au passé. S&apos;il est au présent, il faut utiliser le futur. </p>
+    
+    <p>
+         Exemple : Je savais que tu mangerais tout → Que sabi que-t-at minyèrẹs tout.   </p>
+
+            
+            </Card>
+
+
             <Card title="Conditionnel" icon="✨">
               <p>
                 Infinitif sans accent + r + i, és, é, ém, ét, én.
