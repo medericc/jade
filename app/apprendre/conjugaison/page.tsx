@@ -96,7 +96,8 @@ export default function ConjugaisonPage() {
               margin: 0,
             }}
           >
-            Conjugason
+Counyuguesoû
+
           </h1>
 
           <p
@@ -164,7 +165,7 @@ export default function ConjugaisonPage() {
 
               <p>
                 Pronoms :
-                You · Tu · Éth/Éra · Nousauts · Bousauts · Eths/Éras
+                You · Tu · Éth/Ére · Nousauts · Bousauts · Eths/Éras
               </p>
             </Card>
 
@@ -193,8 +194,8 @@ export default function ConjugaisonPage() {
                 et une forme féminine en -de.
               </p>
 
-               <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>   <p>plàgnẹ « plaindre » → plangut/plagnut</p> <p>plàsẹ « plaire » → plagut/plasut</p>  <p>tòrsẹ « tordre » → tourcut</p>
-                <p>3e groupe : <p>aubri « ouvrir » → ubèr(t)/aubrit</p> <p>aufri « offrir » → aufèr(t)/aufrit</p> <p>coubri / croubi « couvrir » → coubèr(t)/coubrit</p> <p>mouri « mourir » → mour(t)/mourte</p> <p>soufri « souffrir » → soufèr(t)/soufrit</p></p>
+               <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>   <p>plàgnẹ « plaindre » → plagnut</p> <p>plàsẹ « plaire » → plasut</p>  <p>tòrsẹ « tordre » → tourcut</p>
+                <p>ourbi (le &quot;u&quot; peut disparaître à la conjugaison) « ouvrir » → ubèr</p> <p>aufri « offrir » → aufèr</p> <p>coubri « couvrir » → coubèr</p> <p>mouri « mourir » → mour/mourte</p> <p>soufri « souffrir » → soufèr</p>
         
             </Card>
           </div>
@@ -280,13 +281,12 @@ export default function ConjugaisonPage() {
               </p>
 
               <p>
-                Exemple :
-                serèy · seras · sera · seram · serat · seran
-              </p>
+           Auxiliaire au futur + participe passé = futur antérieur
+             </p>
             </Card>
   <Card title="Futur Irrégulier" icon="⚠">
               <p>esta (être): que serèy , que seras , que sera , que seram , que serat , que seran </p>
-              <p>abé (avoir) : qu’aberèy / aurèy , qu’aberas / auras , qu’abera / aura , qu’aberam / auram , qu’aberat(s) / aurat(s) , qu’aberan / auran </p>
+              <p>abé (avoir) : qu’aberèy / aurèy , qu’aberas / auras , qu’abera / aura , qu’aberam / auram , qu’aberat / aurat , qu’aberan / auran </p>
               <p>ana (aller) : qu’anerèy , qu’aneras , qu’anera , qu’aneram , qu’anerat , qu’aneran </p>
             </Card>
             <Card title="Conditionnel" icon="✨">
@@ -298,7 +298,7 @@ export default function ConjugaisonPage() {
                 le « a » de l’infinitif peut devenir « e » comme ana.
               </p>
               <p>
-           radical :  aber- et aur- possible pour avoir, ser- pour être </p>
+           radical :  aber- et aur- possible pour « avoir », ser- pour « être »</p>
             </Card>
 
           </Container>
@@ -313,10 +313,10 @@ export default function ConjugaisonPage() {
 
             <Card title="Subjonctif" icon="✠">
               <p>
-                Radical + i + -, s, -, m, t, n.
+                Radical + éch? + i + -, s, -, m, t, n.
               </p>
  <p>
-              Sauf pour nous et vous, on appuie sur la 1ère syllabe (&#34;`&#34; pour le 1er groupe, &#34;´&#34; pour les autres))
+              Sauf pour nous et vous, on appuie sur la 1ère syllabe, 2e si «éch» (&#34;`&#34; pour le 1er groupe, &#34;´&#34; pour les autres)
               </p>
               <p>
                 Il s’emploie notamment après
@@ -329,25 +329,25 @@ export default function ConjugaisonPage() {
             </Card>
 
              <Card title="Subjonctif Irrégulier" icon="⚠">
-             <p>esta (être): sii , siis , sii , siim , siit , siin</p>
+             <p>esta (être): sìi , sìis , sìi , sìim , sìit , sìin</p>
                   <p>abé (avoir): radical : ay</p>
-              <p>ha (faire) : radical : hasqu</p>
-           <p>boulẹ (vouloir): radical : boulh</p>
+              <p>ha (faire) : radical : hesqu</p>
+           <p>boulé (vouloir): radical : boulh</p>
               <p>sabé (savoir) : radical : sap</p>
          <p>poudé (pouvoir): radical : pouchqu</p>
             </Card>
 
             <Card title="Impératif" icon="📢">
               <p>
-                canta → cante, cantém, cantat
+                canta « chanter » → cante, cantém, cantat
               </p>
 
               <p>
-                bené → bén, beném, benét
+                benẹ « vendre » → bén, beném, benét
               </p>
 
               <p>
-                droumi → droum, droumim, droumit
+                droumi « dormir » → droum, droumim, droumit
               </p>
 
               <p>
@@ -385,12 +385,14 @@ export default function ConjugaisonPage() {
 
             <Card title="Imparfait" icon="📜">
               <p>1er groupe : àbi, abes, abe, àbem, àbet, aben</p>
-              <p>2e groupe : i, ès, è, èm, èt, èn</p>
+              <p>2e groupe (sans accent sur 1ère voyelle) : i/èbi, ès/èbes, è/èbe, èm/èbem, èt/èbet, èn/èben</p>
               <p>3e groupe : ibi, ibes, ibe, ibem, ibet, iben</p>
+                <p>Auxiliaire à l&apos;imparfait + participe passé = plus-que-parfait</p>
+         
             </Card>
              <Card title="Imparfait Irrégulier" icon="⚠">
               <p>esta (être) : qu’èri , qu’ères , qu’ère , qu’èrem , qu’èret , qu’èren </p>
-              <p>abé (avoir): qu’abi / abèbi , qu’abès / abèbes , qu’abè / abèbe , qu’abèm / abèbem , qu’abèt(s) / abèbet(s) , qu’abèn / abèben </p>
+              <p>abé (avoir): qu’abi / abèbi , qu’abès / abèbes , qu’abè / abèbe , qu’abèm / abèbem , qu’abèt / abèbet , qu’abèn / abèben </p>
               <p>ha (faire) : que hesi , que hesès , que hesè , que hesèm , que hesèt , que hesèn </p>
             </Card>
 
@@ -402,18 +404,22 @@ export default function ConjugaisonPage() {
 
               <p>
                 2e groupe :
-                radical (ajout de g parfois, d remplacé par g et gn devient ng) + ouy, ous, ou, oum, out, oun
+                radical + ouy, ous, ou, oum, out, oun
               </p>
 
               <p>
                 3e groupe :
                 radical + i, is, i, im, it, in
               </p>
+                 Auxiliaire au passé simple + participe passé = passé antérieur
             </Card>
 
         <Card title="Passé Simple Irrégulier" icon="⚠">
-              
+               <p>Au 2ᵉ groupe, un &ldquo;g&ldquo; peut s&apos;ajouter, &ldquo;d&ldquo; peut être remplacé par &ldquo;g&ldquo; et &ldquo;gn&ldquo; peut devenir &ldquo;ng&ldquo;</p> 
+               
                <p>On utilise &ldquo;balha&ldquo; « donner » plutôt que &ldquo;da&ldquo; « donner » au passé simple</p> 
+                 <p>esta « être » → qu&apos;estouy/estéy · qu&apos;estous/estés · qu&apos;estou/esté · qu&apos;estoum/estém · qu&apos;estout/estét · qu&apos;estoun/estén</p> 
+            
                 <p>bìbẹ « vivre » → que biscouy</p> 
                 <p>biénẹ « venir » → que biengous</p>  
                  <p>counéchẹ « connaître » → que counegou</p> 
@@ -433,31 +439,36 @@ export default function ConjugaisonPage() {
               <p>
                 Auxiliaire + participe passé.
               </p>
+       
+               <p>esta (être) : terminaison présent de esta + estat(de)</p>
+       
 
               <p>
-                esta → estat
+                abé → abut/abude
               </p>
 
               <p>
-                abé → abut
+                ha → hèyt/hèyte
               </p>
 
               <p>
-                ha → hèyt
+                prénẹ → prés/prése
               </p>
-
-              <p>
-                prénẹ → prés
+               <p>
+                dise → dit/dite
               </p>
             </Card>
- <Card title="Passé Composé Irrégulier" icon="⚠">
-              <p>esta (être) : terminaison présent de esta + estat(de)</p>
-              <p>abé (avoir): terminaison présent de abé + abut</p>
-              <p>ha (faire) : terminaison présent de abé + hèyt/hèyte</p>
-              <p>dise (dire) : terminaison présent de abé + dit/dite</p>
-         <p>prénẹ (prendre) : terminaison présent de abé + prés/prése</p>
-         
-        
+   <Card title="Passé Surcomposé " icon="💡">
+             <p>
+              Une action dans le sens → « il m&apos;est arrivé de + infinitif »
+              </p>
+              <p>
+               On insère abut ou estat entre l&apos;auxiliaire et le participe
+              </p>
+       
+               <p>Qu&apos;èy abut tribalhat en ouctoùbrẹ. → Il m&apos;est arrivé de trvailler en octobre.</p>
+       
+
             </Card>
           </Container>
         </section>
