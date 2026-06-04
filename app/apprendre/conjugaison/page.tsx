@@ -409,9 +409,9 @@ export default function ConjugaisonPage() {
               </p>
             </Card>
 
-        <Card title="Passé Simple Irrégulier" icon="🏛">
+        <Card title="Passé Simple Irrégulier" icon="⚠">
               
-              
+               <p>On utilise &ldquo;balha&ldquo; « donner » plutôt que &ldquo;da&ldquo; « donner » au passé simple</p> 
                 <p>bìbẹ « vivre » → que biscouy</p> 
                 <p>biénẹ « venir » → que biengous</p>  
                  <p>counéchẹ « connaître » → que counegou</p> 
