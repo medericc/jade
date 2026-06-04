@@ -193,7 +193,7 @@ export default function ConjugaisonPage() {
                 et une forme féminine en -de.
               </p>
 
-               <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>   <p>plàgnẹ « plaindre » → plangut/plagnut</p> <p>plàsẹ « plaire » → plagut/plasut</p>  <p>tòrsẹ « tordre » → tourcut/toursut</p>
+               <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>   <p>plàgnẹ « plaindre » → plangut/plagnut</p> <p>plàsẹ « plaire » → plagut/plasut</p>  <p>tòrsẹ « tordre » → tourcut</p>
                 <p>3e groupe : <p>aubri « ouvrir » → ubèr(t)/aubrit</p> <p>aufri « offrir » → aufèr(t)/aufrit</p> <p>coubri / croubi « couvrir » → coubèr(t)/coubrit</p> <p>mouri « mourir » → mour(t)/mourte</p> <p>soufri « souffrir » → soufèr(t)/soufrit</p></p>
         
             </Card>
