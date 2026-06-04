@@ -3718,13 +3718,7 @@
     "type": "nom",
     "search": "anticàri antiquaire"
   },
-  {
-    "id": 535,
-    "titre": "antimoène",
-    "definition": "(familier) testicule",
-    "type": "nom masculin",
-    "search": "antimoène (familier) testicule"
-  },
+ 
   {
     "id": 536,
     "titre": "antipalhe",
@@ -3753,13 +3747,7 @@
     "type": "nom propre",
     "search": "Antoène, Antòni Antoine"
   },
-  {
-    "id": 540,
-    "titre": "antònis",
-    "definition": "(par plaisanterie) testicules",
-    "type": "nom masculin pluriel",
-    "search": "antònis (par plaisanterie) testicules"
-  },
+
   {
     "id": 541,
     "titre": "anuàri",
@@ -76668,20 +76656,7 @@
     "type": "nom masculin pluriel",
     "search": "sussoûs (Est) graisserons (rillons)"
   },
-  {
-    "id": 10959,
-    "titre": "susténguẹ",
-    "definition": "soutenir",
-    "type": "verbe transitif",
-    "search": "susténguẹ soutenir"
-  },
-  {
-    "id": 10960,
-    "titre": "sustié",
-    "definition": "soutenir",
-    "type": "verbe transitif",
-    "search": "sustié soutenir"
-  },
+
   {
     "id": 10961,
     "titre": "sustién",

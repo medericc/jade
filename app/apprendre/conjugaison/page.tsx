@@ -493,7 +493,8 @@ Counyuguesoû
     <p>
          Exemple : Ah, si je savais au moins ce que tu veux ! → Que saboùssi au ménch ço qui bos !   </p>
 
-            
+                <p>
+       Auxiliaire à l&apos;imparfait du subjonctif + participe passé = subjonctif plus que parfait  </p>
             </Card>
           </Container>
         </section>
