@@ -193,10 +193,11 @@ Counyuguesoû
                 a / u / i + t,
                 et une forme féminine en -de.
               </p>
-
+  <p>⚠ ẹ → &quot;e&quot; doucement fermé à l&lsquo;oral</p>
+            
                <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>   <p>plàgnẹ « plaindre » → plagnut</p> <p>plàsẹ « plaire » → plasut</p>  <p>tòrsẹ « tordre » → tourcut</p>
                 <p>ourbi (le &quot;u&quot; peut disparaître à la conjugaison) « ouvrir » → ubèr</p> <p>aufri « offrir » → aufèr</p> <p>coubri « couvrir » → coubèr</p> <p>mouri « mourir » → mour/mourte</p> <p>soufri « souffrir » → soufèr</p>
-        
+          
             </Card>
           </div>
         </section>
