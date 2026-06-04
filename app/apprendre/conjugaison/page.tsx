@@ -235,14 +235,33 @@ export default function ConjugaisonPage() {
 
             <Card title="Particularité" icon="⚠">
               <p>
-                Le verbe prénẹ possède une irrégularité au présent.
+                Le verbe prénẹ, biénẹ ou tiénẹ possède une irrégularité au présent.
               </p>
 
               <p>
                 À la 3e personne :
-                que prén
+                que prén, que bién, que tién
               </p>
             </Card>
+
+            <Card title="Présent Irrégulier" icon="⚠">
+              <p>esta (être): que souy , qu’ès , qu’éy , qu’èm , qu’èt , que soun </p>
+              <p>abé (avoir) : qu’èy , qu’as , qu’a , qu’abém , qu’abét , qu’an </p>
+              <p>ana (aller) : que bau , que bas , que ba , que bam , que bat , que ban </p>
+       
+                     <p>da (donner): que dau , que das , que da , que dam , que dat , que dan </p>
+              <p>ha (faire) : que hèy , que hès , que hè , que hèm , que hèt , que hèn </p>
+              <p>bédẹ (voir) : que béy , que béts , que bét , que bedém , que bedét , que bédẹn </p>
+       
+                     <p>dise (dire): que disi , que dits , que dit , que disém , que disét , que disẹn </p>
+              <p>boùlẹ (vouloir) : que bouy , que bos , que bòu , que boulém , que boulét , que bòlen </p>
+              <p>sabé (savoir) : que séy , que saps , que sap , que sabém , que sabét , que sàbẹn </p>
+       
+                     <p>crédẹ (croire): que créy , que crédẹs , que crét , que credém , que credét , que crédẹn</p>
+              <p>poude (pouvoir) : que pouch , que pots , que pot , que poudém , que poudét , que pòdẹn </p>
+          
+            </Card>
+              
 
           </Container>
         </section>
@@ -280,7 +299,7 @@ export default function ConjugaisonPage() {
               </p>
                 <p>
                 Pour certains verbes du premier groupe,
-                le « a » de l’infinitif peut devenir « e ».
+                le « a » de l’infinitif peut devenir « e » comme ana.
               </p>
             </Card>
 
@@ -312,11 +331,12 @@ export default function ConjugaisonPage() {
             </Card>
 
              <Card title="Subjonctif Irrégulier" icon="⚠">
-             <p>esta (être): 'sàpies','sapiam','sapiat'</p>
-              <p>abé (avoir) : 'té','tieném','tienét'</p>
-           <p>ana (aller): 'sàpies','sapiam','sapiat'</p>
-              <p>ha (faire) : 'té','tieném','tienét'</p>
-         <p>bédẹ (voir): 'té','tieném','tienét'</p>
+             <p>esta (être): sii , siis , sii , siim , siit , siin</p>
+                  <p>abé (avoir): radical : ay</p>
+              <p>ha (faire) : radical : hasqu</p>
+           <p>boulẹ (vouloir): radical : boulh</p>
+              <p>sabé (savoir) : radical : sap</p>
+         <p>poudé (pouvoir): radical : pouchqu</p>
             </Card>
 
             <Card title="Impératif" icon="📢">
