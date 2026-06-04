@@ -50,7 +50,8 @@ export default function CarrierePage() {
         evaluation: '2.0'
       },
       achievements: [
-        'Premier Club après le MMBS'
+        'Premier Club après le MMBS',
+ 'Premier Panier en LFB'
        
       ],
       description: '9 points dès son premier match au Quai de l\'Adour.',
@@ -70,14 +71,14 @@ export default function CarrierePage() {
         evaluation: '7.6'
       },
       achievements: [
-        'Premier Match en LFB',
-        'Premier Match en Eurocup'
+        
+        'Premier Panier en Eurocup'
    
       ],
       description: 'Elle participe à son premier match en carrière et inscrit un lancer contre Madrid.',
       games: 5,
       starter: 0,
-      color: '#FF6B6B'
+      color: '#4B1E6D'
     },
     {
       period: '2025 - Présent',
@@ -103,9 +104,9 @@ export default function CarrierePage() {
   ]
 
   const seasonStats = [
-  { season: '2024-25 (LFB)', gp: 7, pts: 1.6, ast: 1.3, reb: 0.9, fg: '36.4%', '3pt': '37.5%'},
-    { season: '2024-25 (Eurocup)', gp: 5, pts: 6.0, ast: 2.2, reb: 1.6, fg: '45.5%', '3pt': '42.9%'},
-   { season: '2025-26 (NJCAA)', gp: 20, pts: 6.7, ast: 3.1, reb: 3.7, fg: '45%', '3pt': '24%' }
+  { season: '2024-25 (LFB)',  logo: '/tgb.png', gp: 7, pts: 1.6, ast: 1.3, reb: 0.9, fg: '36.4%', '3pt': '37.5%'},
+    { season: '2024-25 (Eurocup)',  logo: '/tgb.png', gp: 5, pts: 6.0, ast: 2.2, reb: 1.6, fg: '45.5%', '3pt': '42.9%'},
+   { season: '2025-26 (NJCAA)',   logo: '/dodge.png', gp: 20, pts: 6.7, ast: 3.1, reb: 3.7, fg: '45%', '3pt': '24%' }
   ]
 
   return (
@@ -350,30 +351,109 @@ export default function CarrierePage() {
               gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
               gap: 'var(--space-md)'
             }}>
-              {careerHighlights.map((highlight, index) => (
-              <div
-  key={index}
-  className="group rounded-2xl p-6 bg-white border border-gray-200 shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
->
-  {/* Year */}
-  <span className="text-sm font-medium text-violet-500">
-    {highlight.year}
-  </span>
+           {careerHighlights.map((highlight, index) => (
+  <div
+    key={index}
+    style={{
+      position: 'relative',
+      overflow: 'hidden',
+      background: 'linear-gradient(135deg, #FFFFFF 0%, #FFFDF5 100%)',
+      borderRadius: '24px',
+      padding: '2rem',
+      border: '2px solid rgba(255,215,0,0.15)',
+      boxShadow: '0 15px 35px rgba(75,30,109,0.08)',
+      transition: 'all 0.35s ease',
+      cursor: 'pointer'
+    }}
+    onMouseEnter={(e) => {
+      e.currentTarget.style.transform = 'translateY(-8px)'
+      e.currentTarget.style.boxShadow =
+        '0 25px 50px rgba(75,30,109,0.18)'
+    }}
+    onMouseLeave={(e) => {
+      e.currentTarget.style.transform = 'translateY(0)'
+      e.currentTarget.style.boxShadow =
+        '0 15px 35px rgba(75,30,109,0.08)'
+    }}
+  >
+    {/* Bande or */}
+    <div
+      style={{
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        right: 0,
+        height: '5px',
+        background:
+          'linear-gradient(90deg,#FFD700,#FFF4CC,#FFD700)'
+      }}
+    />
 
-  {/* Title */}
-  <h3 className="text-lg font-semibold text-gray-900 mt-2 mb-2">
-    {highlight.title}
-  </h3>
+    {/* Année */}
+    <div
+      style={{
+        display: 'inline-flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        padding: '8px 16px',
+        borderRadius: '999px',
+        background: 'rgba(75,30,109,0.08)',
+        color: '#4B1E6D',
+        fontWeight: '700',
+        marginBottom: '1rem'
+      }}
+    >
+      {highlight.year}
+    </div>
 
-  {/* Description */}
-  <p className="text-sm text-gray-500 leading-relaxed">
-    {highlight.description}
-  </p>
+    {/* Icône */}
+    <div
+      style={{
+        fontSize: '3rem',
+        marginBottom: '1rem'
+      }}
+    >
+      {highlight.icon}
+    </div>
 
-  {/* Accent line */}
-  <div className="mt-4 h-[2px] w-10 bg-violet-500 group-hover:w-20 transition-all duration-300"></div>
-</div>
-              ))}
+    {/* Titre */}
+    <h3
+      style={{
+        fontSize: '1.3rem',
+        fontWeight: '800',
+        color: '#4B1E6D',
+        marginBottom: '0.75rem'
+      }}
+    >
+      {highlight.title}
+    </h3>
+
+    {/* Description */}
+    <p
+      style={{
+        color: '#6B4B7A',
+        lineHeight: '1.7'
+      }}
+    >
+      {highlight.description}
+    </p>
+
+    {/* Numéro décoratif */}
+    <div
+      style={{
+        position: 'absolute',
+        right: '-10px',
+        bottom: '-20px',
+        fontSize: '5rem',
+        fontWeight: '900',
+        color: 'rgba(75,30,109,0.05)',
+        pointerEvents: 'none'
+      }}
+    >
+      0{index + 1}
+    </div>
+  </div>
+))}
             </div>
           </div>
         </section>
@@ -445,19 +525,7 @@ export default function CarrierePage() {
                       marginBottom: 'var(--space-lg)',
                       flexWrap: 'wrap'
                     }}>
-                      <div style={{
-                        width: '60px',
-                        height: '60px',
-                        borderRadius: '15px',
-                        background: period.color,
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        fontSize: '30px',
-                        color: 'white'
-                      }}>
-                        {period.logo}
-                      </div>
+                    
                       <div style={{ flex: 1 }}>
                         <div style={{
                           fontSize: 'var(--fs-sm)',
@@ -647,13 +715,32 @@ export default function CarrierePage() {
                         borderBottom: '1px solid var(--violet-tres-clair)'
                       }}
                     >
-                      <td style={{ 
-                        padding: 'var(--space-md)', 
-                        fontWeight: 'bold',
-                        color: 'var(--violet-profond)'
-                      }}>
-                        {stat.season}
-                      </td>
+                      <td
+  style={{
+    padding: 'var(--space-md)',
+    fontWeight: 'bold',
+    color: 'var(--violet-profond)'
+  }}
+>
+  <div
+    style={{
+      display: 'flex',
+      alignItems: 'center',
+      gap: '12px'
+    }}
+  >
+    <img
+      src={stat.logo}
+      alt=""
+      style={{
+        width: '36px',
+        height: '36px',
+        objectFit: 'contain'
+      }}
+    />
+    <span>{stat.season}</span>
+  </div>
+</td>
                       <td style={{ padding: 'var(--space-md)', textAlign: 'center' }}>{stat.gp}</td>
                       <td style={{ 
                         padding: 'var(--space-md)', 
