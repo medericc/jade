@@ -193,7 +193,7 @@ export default function ConjugaisonPage() {
                 et une forme féminine en -de.
               </p>
 
-               <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>  <p>dìsẹ « dire » → dit/dite</p>  <p>ha « faire » → hèyt/hèyte</p>   <p>plàgnẹ « plaindre » → plangut/plagnut</p> <p>plàsẹ « plaire » → plagut/plasut</p>  <p>tòrsẹ « tordre » → tourcut/toursut</p>
+               <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>   <p>plàgnẹ « plaindre » → plangut/plagnut</p> <p>plàsẹ « plaire » → plagut/plasut</p>  <p>tòrsẹ « tordre » → tourcut/toursut</p>
                 <p>3e groupe : <p>aubri « ouvrir » → ubèr(t)/aubrit</p> <p>aufri « offrir » → aufèr(t)/aufrit</p> <p>coubri / croubi « couvrir » → coubèr(t)/coubrit</p> <p>mouri « mourir » → mour(t)/mourte</p> <p>soufri « souffrir » → soufèr(t)/soufrit</p></p>
         
             </Card>
@@ -269,10 +269,14 @@ export default function ConjugaisonPage() {
                 serèy · seras · sera · seram · serat · seran
               </p>
             </Card>
-
+  <Card title="Futur Irrégulier" icon="⚠">
+              <p>esta (être): que serèy , que seras , que sera , que seram , que serat , que seran </p>
+              <p>abé (avoir) : qu’aberèy / aurèy , qu’aberas / auras , qu’abera / aura , qu’aberam / auram , qu’aberat(s) / aurat(s) , qu’aberan / auran </p>
+              <p>ana (aller) : qu’anerèy , qu’aneras , qu’anera , qu’aneram , qu’anerat , qu’aneran </p>
+            </Card>
             <Card title="Conditionnel" icon="✨">
               <p>
-                Infinitif sans accent + i, és, é, ém, ét, én.
+                Infinitif sans accent + r + i, és, é, ém, ét, én.
               </p>
                 <p>
                 Pour certains verbes du premier groupe,
@@ -292,9 +296,11 @@ export default function ConjugaisonPage() {
 
             <Card title="Subjonctif" icon="✠">
               <p>
-                Radical (sauf pour nous et vous on appuie sur 1e syllabe) + i, is, i, im, it, in.
+                Radical + i + -, s, -, m, t, n.
               </p>
-
+ <p>
+              Sauf pour nous et vous, on appuie sur la 1ère syllabe (&#34;`&#34; pour le 1er groupe, &#34;´&#34; pour les autres))
+              </p>
               <p>
                 Il s’emploie notamment après
                 quoan « quand »,
@@ -303,6 +309,14 @@ export default function ConjugaisonPage() {
                 coum  « comme »
                 et certaines expressions similaires comme lou purmè qui « le premier qui ».
               </p>
+            </Card>
+
+             <Card title="Subjonctif Irrégulier" icon="⚠">
+             <p>esta (être): 'sàpies','sapiam','sapiat'</p>
+              <p>abé (avoir) : 'té','tieném','tienét'</p>
+           <p>ana (aller): 'sàpies','sapiam','sapiat'</p>
+              <p>ha (faire) : 'té','tieném','tienét'</p>
+         <p>bédẹ (voir): 'té','tieném','tienét'</p>
             </Card>
 
             <Card title="Impératif" icon="📢">
@@ -322,7 +336,25 @@ export default function ConjugaisonPage() {
                 L’impératif négatif utilise le présent du subjonctif : Ne càntes pas !
               </p>
             </Card>
+<Card title="Impératif Irrégulier" icon="⚠">
+                   <p>esta (être) : siis , siim , siit</p>
+              <p>abé (avoir): ayis , ayim , ayit</p>
+              <p>ana (aller) : bén , aném , anat</p>
+         
+          <p>da (donner) : da , dém , dat</p>
+              <p>ha (faire): hè , hèm , hèt</p>
+              <p>bédẹ (voir) : bét , bedém , bedét</p>
+         
 
+          <p>biénẹ (venir) : ça-i , bieném , ça-biét</p>
+              <p>sabé (savoir): sàpies , sapiam , sapiat</p>
+              <p>tiénẹ (venir) : té , tieném , tienét</p>
+         
+          <p>prénẹ (prendre): prén , preném , prenét</p>
+              <p>crédẹ (croire) : crét , credém , credét</p>
+         
+
+           </Card>
           </Container>
         </section>
       )}
@@ -337,6 +369,11 @@ export default function ConjugaisonPage() {
               <p>1er groupe : àbi, abes, abe, àbem, àbet, aben</p>
               <p>2e groupe : i, ès, è, èm, èt, èn</p>
               <p>3e groupe : ibi, ibes, ibe, ibem, ibet, iben</p>
+            </Card>
+             <Card title="Imparfait Irrégulier" icon="⚠">
+              <p>esta (être) : qu’èri , qu’ères , qu’ère , qu’èrem , qu’èret , qu’èren </p>
+              <p>abé (avoir): qu’abi / abèbi , qu’abès / abèbes , qu’abè / abèbe , qu’abèm / abèbem , qu’abèt(s) / abèbet(s) , qu’abèn / abèben </p>
+              <p>ha (faire) : que hesi , que hesès , que hesè , que hesèm , que hesèt , que hesèn </p>
             </Card>
 
             <Card title="Passé simple" icon="🏛">
@@ -356,7 +393,10 @@ export default function ConjugaisonPage() {
               </p>
             </Card>
 
-            <Card title="Passé composé" icon="⏳">
+
+
+
+            <Card title="Passé Composé" icon="⏳">
               <p>
                 Auxiliaire + participe passé.
               </p>
@@ -377,7 +417,15 @@ export default function ConjugaisonPage() {
                 prénẹ → prés
               </p>
             </Card>
-
+ <Card title="Passé Composé Irrégulier" icon="⚠">
+              <p>esta (être) : terminaison présent de esta + estat(de)</p>
+              <p>abé (avoir): terminaison présent de abé + abut</p>
+              <p>ha (faire) : terminaison présent de abé + hèyt/hèyte</p>
+              <p>dise (dire) : terminaison présent de abé + dit/dite</p>
+         <p>prénẹ (prendre) : terminaison présent de abé + prés/prése</p>
+         
+        
+            </Card>
           </Container>
         </section>
       )}
