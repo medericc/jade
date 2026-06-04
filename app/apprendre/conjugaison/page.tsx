@@ -395,21 +395,7 @@ Counyuguesoû
       {section === 'passe' && (
         <section style={{ padding: '0 1rem 5rem' }}>
           <Container>
-
-            <Card title="Imparfait" icon="📜">
-              <p>1er groupe : àbi, abes, abe, àbem, àbet, aben</p>
-              <p>2e groupe (sans accent sur 1ère voyelle) : i/èbi, ès/èbes, è/èbe, èm/èbem, èt/èbet, èn/èben</p>
-              <p>3e groupe : ibi, ibes, ibe, ibem, ibet, iben</p>
-                <p>Auxiliaire à l&apos;imparfait + participe passé = plus-que-parfait</p>
-         
-            </Card>
-             <Card title="Imparfait Irrégulier" icon="⚠">
-              <p>esta (être) : qu’èri , qu’ères , qu’ère , qu’èrem , qu’èret , qu’èren </p>
-              <p>abé (avoir): qu’abi / abèbi , qu’abès / abèbes , qu’abè / abèbe , qu’abèm / abèbem , qu’abèt / abèbet , qu’abèn / abèben </p>
-              <p>ha (faire) : que hesi , que hesès , que hesè , que hesèm , que hesèt , que hesèn </p>
-            </Card>
-
-            <Card title="Passé Simple" icon="🏛">
+  <Card title="Passé Simple" icon="🏛">
               <p>
                 1er groupe :
                 radical + èy, ès, è, èm, èt, èn
@@ -445,6 +431,21 @@ Counyuguesoû
                   <p>tòrsẹ « tordre » → que tourcou</p>
         
             </Card>
+
+            <Card title="Imparfait" icon="📜">
+              <p>1er groupe : àbi, abes, abe, àbem, àbet, aben</p>
+              <p>2e groupe (sans accent sur 1ère voyelle) : i/èbi, ès/èbes, è/èbe, èm/èbem, èt/èbet, èn/èben</p>
+              <p>3e groupe : ibi, ibes, ibe, ibem, ibet, iben</p>
+                <p>Auxiliaire à l&apos;imparfait + participe passé = plus-que-parfait</p>
+      
+            </Card>
+             <Card title="Imparfait Irrégulier" icon="⚠">
+              <p>esta (être) : qu’èri , qu’ères , qu’ère , qu’èrem , qu’èret , qu’èren </p>
+              <p>abé (avoir): qu’abi / abèbi , qu’abès / abèbes , qu’abè / abèbe , qu’abèm / abèbem , qu’abèt / abèbet , qu’abèn / abèben </p>
+              <p>ha (faire) : que hesi , que hesès , que hesè , que hesèm , que hesèt , que hesèn </p>
+            </Card>
+
+          
 
 
 
@@ -482,6 +483,17 @@ Counyuguesoû
                <p>Qu&apos;èy abut tribalhat en ouctoùbrẹ. → Il m&apos;est arrivé de trvailler en octobre.</p>
        
 
+            </Card>
+
+             <Card title="Imparfait du Subjonctif" icon="📜">
+               <p>⚠ Peu courant !</p>
+               <p>3e personne du passé simple + -ssi, -ssẹs, -ssẹ, -ssẹm, -ssẹt, -ssẹn</p>
+        <p>
+       Exprime de manière emphatique un souhait (souvent un regret) ! </p>
+    <p>
+         Exemple : Ah, si je savais au moins ce que tu veux ! → Que saboùssi au ménch ço qui bos !   </p>
+
+            
             </Card>
           </Container>
         </section>
