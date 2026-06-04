@@ -222,7 +222,7 @@ export default function ConjugaisonPage() {
 
             <Card title="3e groupe" icon="📖">
               <p>
-                Radical + éch? + i, s, -, im, it, in.
+                Radical + éch? (sauf nous et vous) + i, s, -, im, it, in.
               </p>
 
             </Card>
@@ -297,6 +297,8 @@ export default function ConjugaisonPage() {
                 Pour certains verbes du premier groupe,
                 le « a » de l’infinitif peut devenir « e » comme ana.
               </p>
+              <p>
+           radical :  aber- et aur- possible pour avoir, ser- pour être </p>
             </Card>
 
           </Container>
@@ -353,7 +355,7 @@ export default function ConjugaisonPage() {
               </p>
             </Card>
 <Card title="Impératif Irrégulier" icon="⚠">
-                   <p>esta (être) : siis , siim , siit</p>
+                   <p>esta (être) : sìis , sìim , sìit</p>
               <p>abé (avoir): ayis , ayim , ayit</p>
               <p>ana (aller) : bén , aném , anat</p>
          
