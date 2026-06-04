@@ -227,11 +227,7 @@ export default function ConjugaisonPage() {
 
             </Card>
 
-            <Card title="Exemple : esta" icon="⭐">
-              <p>
-                que souy · qu’ès · qu’éy · qu’èm · qu’èt · que soun
-              </p>
-            </Card>
+  
 
             <Card title="Particularité" icon="⚠">
               <p>
@@ -396,15 +392,15 @@ export default function ConjugaisonPage() {
               <p>ha (faire) : que hesi , que hesès , que hesè , que hesèm , que hesèt , que hesèn </p>
             </Card>
 
-            <Card title="Passé simple" icon="🏛">
+            <Card title="Passé Simple" icon="🏛">
               <p>
                 1er groupe :
-                radical + èy, ès/as, è/a, èm/am, èt/at, èn/an
+                radical + èy, ès, è, èm, èt, èn
               </p>
 
               <p>
                 2e groupe :
-                radical (ajout de g parfois,d remplacé par g et gn devient ng) + ouy, ous, ou, oum, out, oun
+                radical (ajout de g parfois, d remplacé par g et gn devient ng) + ouy, ous, ou, oum, out, oun
               </p>
 
               <p>
@@ -413,6 +409,21 @@ export default function ConjugaisonPage() {
               </p>
             </Card>
 
+        <Card title="Passé Simple Irrégulier" icon="🏛">
+              
+              
+                <p>bìbẹ « vivre » → que biscouy</p> 
+                <p>biénẹ « venir » → que biengous</p>  
+                 <p>counéchẹ « connaître » → que counegou</p> 
+                <p>disẹ « dire » → que digoum</p> 
+                 <p>ha « faire » → que hesout</p>
+                
+                 <p>paréchẹ « paraître » → que parescoun</p> 
+                 <p>prénẹ « prendre » → que prengouy</p>
+                  <p>tiénẹ « tenir » → que tiengous</p> 
+                  <p>tòrsẹ « tordre » → que tourcou</p>
+        
+            </Card>
 
 
 
