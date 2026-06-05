@@ -1374,6 +1374,83 @@ export default function LeconsPage() {
             </div>
           ))}
         </div>
+     
+     <div
+  style={{
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    gap: 16,
+    marginTop: 40,
+    flexWrap: 'wrap'
+  }}
+>
+  <button
+    onClick={() => setLesson((prev) => Math.max(prev - 1, 0))}
+    disabled={lesson === 0}
+    style={{
+      flex: 1,
+      minWidth: 180,
+      padding: '18px 24px',
+      borderRadius: 18,
+      border: 'none',
+      background: lesson === 0 ? '#d1d5db' : '#6d28d9',
+      color: 'white',
+      fontWeight: 700,
+      fontSize: 'clamp(1rem,1.2vw,1.25rem)',
+      cursor: lesson === 0 ? 'not-allowed' : 'pointer',
+      transition: '.2s'
+    }}
+  >
+    ← Leçon précédente
+  </button>
+
+  <div
+    style={{
+      padding: '12px 20px',
+      background: 'white',
+      borderRadius: 16,
+      boxShadow: '0 4px 15px rgba(0,0,0,.08)',
+      fontWeight: 700,
+      color: '#6d28d9',
+      fontSize: 'clamp(.95rem,1vw,1.1rem)'
+    }}
+  >
+    {lesson + 1} / {lessons.length}
+  </div>
+
+  <button
+    onClick={() =>
+      setLesson((prev) =>
+        Math.min(prev + 1, lessons.length - 1)
+      )
+    }
+    disabled={lesson === lessons.length - 1}
+    style={{
+      flex: 1,
+      minWidth: 180,
+      padding: '18px 24px',
+      borderRadius: 18,
+      border: 'none',
+      background:
+        lesson === lessons.length - 1
+          ? '#d1d5db'
+          : '#6d28d9',
+      color: 'white',
+      fontWeight: 700,
+      fontSize: 'clamp(1rem,1.2vw,1.25rem)',
+      cursor:
+        lesson === lessons.length - 1
+          ? 'not-allowed'
+          : 'pointer',
+      transition: '.2s'
+    }}
+  >
+    Leçon suivante →
+  </button>
+</div>
+     
+     
       </div>
     </main>
   )
