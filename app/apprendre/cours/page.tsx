@@ -9,7 +9,7 @@ const [open, setOpen] = useState(false)
   const lessons = [
     {
       title: 'Leçon 1 — Principes de base',
-      icon: '📚',
+      icon: '📖',
       sections: [
         {
           title: 'Principes de base',
@@ -124,8 +124,8 @@ const [open, setOpen] = useState(false)
 
 
       {
-      title: 'Leçon 3 — ',
-      icon: '',
+      title: 'Leçon 3 — Articles et pronoms',
+      icon: '🗣️',
       sections: [
        {
   title: 'Articles et formes de base',
@@ -240,8 +240,8 @@ const [open, setOpen] = useState(false)
     },
 
   {
-      title: 'Leçon 4 — ',
-      icon: '',
+      title: 'Leçon 4 — Expressions et connecteurs',
+      icon: '🔗',
       sections: [
      {
   title: 'Expressions courantes',
@@ -354,8 +354,8 @@ const [open, setOpen] = useState(false)
 
 
  {
-      title: 'Leçon 4 — ',
-      icon: '',
+      title: 'Leçon 5 — Expressions et tournures',
+      icon: '💬',
       sections: [
      {
   title: 'Expressions courantes',
@@ -468,8 +468,8 @@ const [open, setOpen] = useState(false)
 
 
      {
-      title: 'Leçon 5 — ',
-      icon: '',
+      title: 'Leçon 6 — Questions et repères',
+      icon: '❓',
       sections: [
     {
   title: 'Quantités et intensité',
@@ -595,8 +595,8 @@ const [open, setOpen] = useState(false)
 
 
   {
-      title: 'Leçon 5 — ',
-      icon: '',
+      title: 'Leçon 7 — Conversation courante',
+      icon: '🤝',
       sections: [
     {
   title: 'Quantités et intensité',
@@ -722,8 +722,8 @@ const [open, setOpen] = useState(false)
 
 
  {
-      title: 'Leçon 6 — ',
-      icon: '',
+      title: 'Leçon 8 — Conversation et expressions',
+      icon: '🗨️',
       sections: [
    {
   title: 'Concession et opposition',
@@ -833,8 +833,8 @@ const [open, setOpen] = useState(false)
 
     
  {
-      title: 'Leçon 7 — ',
-      icon: '',
+      title: 'Leçon 9 — Phrases complexes',
+      icon: '📝',
       sections: [
    {
   title: 'Concession et opposition',
@@ -943,8 +943,8 @@ const [open, setOpen] = useState(false)
     },
 
 {
-      title: 'Leçon 8 — ',
-      icon: '',
+      title: 'Leçon 10 — Repères et localisation',
+      icon: '🧭',
       sections: [
   {
   title: 'Se taire et répondre',
@@ -1056,8 +1056,8 @@ const [open, setOpen] = useState(false)
     },
 
 {
-      title: 'Leçon 9 — ',
-      icon: '',
+      title: 'Leçon 11 — Vocabulaire du quotidien',
+      icon: '📚',
       sections: [
   {
   title: 'Beauté et apparence',
@@ -1295,7 +1295,7 @@ const [open, setOpen] = useState(false)
       style={{
         width: '100%',
         padding: '14px 18px',
-        borderRadius: 14,
+       
         border: '1px solid #d8c58a',
         background: '#faf8f1',
         color: '#4a3a20',
