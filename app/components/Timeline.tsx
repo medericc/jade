@@ -252,7 +252,7 @@ export default function Timeline() {
         className="absolute left-1/2 transform -translate-x-1/2 hidden md:block"
         style={{
           width: '4px',
-          height: '100%',
+          height: '96%',
           background:
             'linear-gradient(180deg,#f3c623,#d8a514)',
           borderRadius: '999px',
