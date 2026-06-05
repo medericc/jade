@@ -15,8 +15,8 @@ export default function HeroSection() {
 
           <p>
             Le béarnais, langue de Gaston Fébus et des rois de Navarre,
-            est parlé depuis plus de 1000 ans dans nos vallées.
-            Aujourd&apos;hui, plus de 50 000 personnes le parlent encore !
+            est parlé depuis plus de 1000 ans. Le parler béarnais présenté ici est celui que j'ai appris.
+           
           </p>
 
           <div className={styles.heroTags}>

@@ -46,7 +46,7 @@ export const learningCards: LearningCardType[] = [
     emoji: '🏔️',
     title: 'Culture',
     description:
-      "Apprenez le béarnais en immersion dans des textes en version française et béarnaise pour maîtriser la langue tout en découvrant l'histoire.",
+      "Apprenez le béarnais grâce à des textes retraçant l’histoire du Béarn et du monde, condensée mais complète, afin de progresser dans la langue tout en explorant les événements historiques.",
     button: 'Descoubri →',
     variant: 'gradient'
   }
