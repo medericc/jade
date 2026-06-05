@@ -300,7 +300,7 @@ overflow: hidden;
     </h1>
   </div>
 </header>
-<body className={nunito.className}>
+<main className={nunito.className}>
         {/* SEARCH */}
        <section
   style={{
@@ -408,7 +408,7 @@ overflow: hidden;
             )}
           </div>
         </section>
-</body>
+</main>
         {/* FOOTER */}
         <footer
           style={{

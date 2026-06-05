@@ -241,7 +241,7 @@ export default function HistoirePage() {
         },
         {
           titre: 'Sainte Catherine de Sienne',
-          slug: 'catherine-sienne',
+          slug: 'catherine',
           icon: '🌹',
         },
         {
@@ -251,13 +251,13 @@ export default function HistoirePage() {
         },
         {
           titre: "Sainte Thérèse d'Avila",
-          slug: 'therese-avila',
+          slug: 'therese',
           icon: '⛪',
         },
       ].map((item) => (
         <Link
           key={item.slug}
-          href={`/theologie/${item.slug}`}
+          href={`culture/theologie/${item.slug}`}
           style={{
             textDecoration: 'none',
           }}
