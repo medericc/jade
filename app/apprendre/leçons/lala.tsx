@@ -125,7 +125,7 @@ export default function LeconsPage() {
       title: 'Partie 4 — Réfléchis',
       content: (
         <>
-          <p>me (-m), te (-t), se (-s), nse (le n peut être muet), pe</p>
+          <p>promos reflechis : me (-m), te (-t), se (-s), nse (le n peut être muet), pe</p>
          <p>Si pas de “que” ils s’attachent à la fin du verbe</p>
           <p>Que-m làbi</p>
           <p>Laba-s</p>

@@ -37815,9 +37815,9 @@
   {
     "id": 5409,
     "titre": "empougne",
-    "definition": "(dans l'expr hère d'empougne) foire d'empoigne",
+    "definition": "(dans l'expr hèyre d'empougne) foire d'empoigne",
     "type": "nom féminin",
-    "search": "empougne (dans l'expr hère d'empougne) foire d'empoigne"
+    "search": "empougne (dans l'expr hèyre d'empougne) foire d'empoigne"
   },
   {
     "id": 5410,
@@ -49502,13 +49502,7 @@
     "type": "nom masculin",
     "search": "hèr-blanc fer-blanc"
   },
-  {
-    "id": 7079,
-    "titre": "hre",
-    "definition": "foire. ♦ Marchandise de hére → marchandise de bonne qualité. ♦ Gouyate de hére → jeune fille qui présente bien. ◊ N'ès pas de hére → tu ne présentes pas bien. ♦ Confusion, foire",
-    "type": "nom féminin",
-    "search": "hre foire. ♦ Marchandise de hére → marchandise de bonne qualité. ♦ Gouyate de hére → jeune fille qui présente bien. ◊ N'ès pas de hére → tu ne présentes pas bien. ♦ Confusion, foire"
-  },
+ 
   {
     "id": 7080,
     "titre": "hère",
@@ -49607,13 +49601,8 @@
     "type": "nom féminin",
     "search": "herrulhe ferraille"
   },
-  {
-    "id": 7094,
-    "titre": "hès",
-    "definition": "beaucoup, nombreux. ◊ Qu'èm arribats hès → Nous sommes arrivés nombreux. ♦ Voir hères",
-    "type": "adjectif et adverbe",
-    "search": "hès beaucoup, nombreux. ◊ Qu'èm arribats hès → Nous sommes arrivés nombreux. ♦ Voir hères"
-  },
+
+  
   {
     "id": 7095,
     "titre": "hés",
@@ -54197,10 +54186,10 @@
   },
   {
     "id": 7752,
-    "titre": "mgrichot",
+    "titre": "megrichot",
     "definition": "maigrelet",
     "type": "adjectif et nom",
-    "search": "mgrichot maigrelet"
+    "search": "megrichot maigrelet"
   },
   {
     "id": 7753,
