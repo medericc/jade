@@ -114,40 +114,66 @@ Counyuguesoû
         </div>
       </section>
 
-      {/* SELECT */}
-
-      <section
+     <section
+  style={{
+    padding: '3rem 1rem',
+  }}
+>
+  <div
+    style={{
+      maxWidth: 1200,
+      margin: '0 auto',
+    }}
+  >
+    <div
+      style={{
+        position: 'relative',
+      }}
+    >
+      <select
+        value={section}
+        onChange={(e) => setSection(e.target.value)}
         style={{
-          padding: '3rem 1rem',
+          width: '100%',
+          padding: '1rem 3rem 1rem 1.25rem',
+          borderRadius: 18,
+          border: '2px solid #f3c623',
+          background: '#fffdf7',
+          color: '#2a0c45',
+          fontSize: '1rem',
+          fontWeight: 700,
+          cursor: 'pointer',
+          outline: 'none',
+          boxShadow: '0 8px 20px rgba(42,12,69,.06)',
+          appearance: 'none',
+          WebkitAppearance: 'none',
+          MozAppearance: 'none',
         }}
       >
-        <div
-          style={{
-            maxWidth: 1200,
-            margin: '0 auto',
-          }}
-        >
-          <select
-            value={section}
-            onChange={(e) => setSection(e.target.value)}
-            style={{
-              width: '100%',
-              padding: '1rem',
-              borderRadius: 18,
-              border: '2px solid #f3c623',
-              fontSize: '1rem',
-              fontWeight: 700,
-              color: '#2a0c45',
-            }}
-          >
-            {sections.map((s) => (
-              <option key={s.key} value={s.key}>
-                {s.label}
-              </option>
-            ))}
-          </select>
-        </div>
-      </section>
+        {sections.map((s) => (
+          <option key={s.key} value={s.key}>
+            {s.label}
+          </option>
+        ))}
+      </select>
+
+      <div
+        style={{
+          position: 'absolute',
+          right: 18,
+          top: '50%',
+          transform: 'translateY(-50%)',
+          color: '#b8941f',
+          fontSize: '1rem',
+          pointerEvents: 'none',
+          fontWeight: 700,
+        }}
+      >
+        ▼
+      </div>
+    </div>
+  </div>
+</section>
 
       {/* PRONOMS */}
 
