@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export default function LeconsPage() {
   const [lesson, setLesson] = useState(0)
-
+const [open, setOpen] = useState(false)
   const lessons = [
     {
       title: 'Leçon 1 — Principes de base',
@@ -1269,43 +1269,78 @@ export default function LeconsPage() {
           Leçons de Béarnais
         </h1>
 
-        <div
-          style={{
-            background: 'white',
-            padding: 20,
-            borderRadius: 20,
-            boxShadow: '0 10px 30px rgba(0,0,0,.08)',
-            marginBottom: 25
-          }}
-        >
-          <label
-            style={{
-              display: 'block',
-              marginBottom: 10,
-              fontWeight: 700
-            }}
-          >
-            Choisir une leçon
-          </label>
+     <div
+  style={{
+    background: '#fff',
+    padding: 20,
+    borderRadius: 20,
+    boxShadow: '0 10px 30px rgba(0,0,0,.08)',
+    marginBottom: 25,
+  }}
+>
+  <label
+    style={{
+      display: 'block',
+      marginBottom: 10,
+      fontWeight: 700,
+      color: '#5a4a2a',
+    }}
+  >
+    Choisir une leçon
+  </label>
 
-          <select
-            value={lesson}
-            onChange={(e) => setLesson(Number(e.target.value))}
+  <div style={{ position: 'relative' }}>
+    <button
+      onClick={() => setOpen(!open)}
+      style={{
+        width: '100%',
+        padding: '14px 18px',
+        borderRadius: 14,
+        border: '1px solid #d8c58a',
+        background: '#faf8f1',
+        color: '#4a3a20',
+        fontWeight: 600,
+        textAlign: 'left',
+        cursor: 'pointer',
+      }}
+    >
+      {lessons[lesson].title} ▾
+    </button>
+
+    {open && (
+      <div
+        style={{
+          border: '1px solid #d8c58a',
+          borderTop: 'none',
+          background: '#faf8f1',
+          borderBottomLeftRadius: 14,
+          borderBottomRightRadius: 14,
+          overflow: 'hidden',
+        }}
+      >
+        {lessons.map((l, i) => (
+          <div
+            key={i}
+            onClick={() => {
+              setLesson(i)
+              setOpen(false)
+            }}
             style={{
-              width: '100%',
-              padding: 14,
-              borderRadius: 12,
-              border: '1px solid #ddd',
-              fontSize: 16
+              padding: '12px 18px',
+              cursor: 'pointer',
+              background:
+                lesson === i ? '#f1e5b8' : 'transparent',
+              color: '#4a3a20',
+              borderTop: '1px solid rgba(216,197,138,.3)',
             }}
           >
-            {lessons.map((l, i) => (
-              <option key={i} value={i}>
-                {l.title}
-              </option>
-            ))}
-          </select>
-        </div>
+            {l.title}
+          </div>
+        ))}
+      </div>
+    )}
+  </div>
+</div>
 
         <div
           style={{

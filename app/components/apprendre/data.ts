@@ -24,7 +24,7 @@ export const learningCards: LearningCardType[] = [
     variant: 'yellow'
   },
   {
-    href: '/apprendre/leçons',
+    href: '/apprendre/cours',
     emoji: '💬',
     title: 'Mantûes Leçoûs',
     description:
