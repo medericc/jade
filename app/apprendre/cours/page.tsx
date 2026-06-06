@@ -14,7 +14,7 @@ const [open, setOpen] = useState(false)
         {
           title: 'Principes de base',
           content: [
-            "En béarnais, on lit toutes les lettres, y compris les consonnes doubles et finales.",
+            "En béarnais, on lit toutes les lettres, y compris les consonnes finales.",
             "Les consonnes doublées s'entendent nettement (caddèt, arrecatta)."
           ]
         },
@@ -28,25 +28,25 @@ const [open, setOpen] = useState(false)
             "y : son « i » en début ou milieu de mot, mais « ill » en fin de mot (pay).",
             "ny / dy : avec un léger son [d] de transition (minya, bilàdye).",
             "sch : double son « ch » (escharre).",
-            "bl / gl : entre deux voyelles, le son est renforcé (agradàble)."
+            "bl / gl : entre deux voyelles, on double le son [b] ou [g] (agradàble)."
           ]
         },
         {
           title: 'Voyelles et nasales',
           content: [
             "Le -e final se prononce [eu] très ouvert.",
-            "Le -ẹ final se prononce [é].",
+            "Le -ẹ final est doucement fermé à l'oral.",
             "Le o se prononce [ò] ouvert (bol).",
             "Devant une voyelle, le o devient [w] (boéu).",
-            "Le u se prononce [u].",
-            "Après une voyelle il forme souvent une diphtongue (au, èu, iu...).",
-            "Les groupes an, en, in, un ne sont pas nasalisés comme en français.",
-            "Les voyelles nasales utilisent l'accent circonflexe : â, ê, î, ô, û."
-          ]
+            "Le u se prononce [u]. Mais derrière une voyelle, il forme une diphtongue [ou] (au, èu, iu...).",
+          "Les groupes an, en, in, un ont le n prononcé.",
+         ]
         },
         {
           title: 'Accent tonique',
           content: [
+                    "Les voyelles nasales utilisent l'accent circonflexe et sont toniques : â, ê, î, ô, û."
+     ,
             "L'accent tonique tombe généralement sur l'avant-dernière syllabe.",
             "Il peut aussi tomber sur la dernière syllabe selon la forme verbale."
           ]
@@ -54,7 +54,7 @@ const [open, setOpen] = useState(false)
         {
           title: 'Accent écrit',
           content: [
-              "⚠ ẹ = &quot;e&quot; doucement fermé à l'oral",
+              
             "é et è portent toujours un accent.",
             "à, ì, ò et ù portent généralement un accent.",
             "Le tréma (ü) est rare (flaüte)."
@@ -90,7 +90,7 @@ const [open, setOpen] = useState(false)
             "Que souy à noùste/case.  → Je suis chez moi." ,
             "Que souy en ço de Bertoumiu. → Je suis chez Barthélémy.",
             "Qu’em espagnòus. → Nous sommes espagnols.",
-            "Que souy en trî de tribalha ta esta lou purmè arriba à Riu di Janèyrou. → Je suis en train de travailler pour être le premier à Rio."         ]
+            "Que souy en trî de tribalha ta esta lou purmè arriba à Riu di Janèyrou. → Je suis en train de travailler pour être le premier arriver à Rio."         ]
         },
         {
           title: 'Négation',
@@ -134,8 +134,10 @@ const [open, setOpen] = useState(false)
     "la / las → la / les",
     "û → un",
     "ûe → une",
+     "des → aucune forme particulière",
+    "de → de",
     "Que soun guits. → Ce sont des canards.",
-    "dou → du, de la",
+    "dou / de la → du / de la",
     "Qu’éy bén. → C’est bien.",
     "Lou Yan e la Cataline. → Jean et Catherine.",
     "Le pluriel se forme généralement avec -s, mais certains mots restent invariables."
@@ -170,38 +172,33 @@ const [open, setOpen] = useState(false)
 {
   title: 'Pronoms réfléchis',
   content: [
-    "me (-m)",
-    "te (-t)",
-    "se (-s)",
-    "nse (le n peut être muet)",
-    "pe",
+    "me (-m) → me",
+    "te (-t) → te",
+    "se (-s) → se",
+    "nse (le n peut être muet) → nous",
+    "pe → vous",
     "Lorsqu’il n’y a pas la particule « que », le pronom s’attache à la fin du verbe.",
     "Que-m làbi. → Je me lave.",
     "Laba-s. → Lave-toi.",
     "Portat-p. → Portez-vous.",
-    "Quoan me làbi. → Quand je me lave."
+    "Quoan me làbi. → Quand je me lave.",
+      
+  
   ]
 },
 
-{
-  title: 'Articles contractés et prépositions',
-  content: [
-    "Lou / la → Lous / las",
-    "des → aucune forme particulière",
-    "du → dou",
-    "de → de",
-    "Qu'ou crey. (que + lou) → Je le crois.",
-    "Toutes aquéres maysoûs que soun bastides p'ou medich murralhàyrẹ.",
-    "→ Toutes ces maisons sont construites par le même maçon."
-  ]
-},
+
 
 {
   title: 'Le pronom neutre « at »',
   content: [
     "Le pronom neutre « at » renvoie à l’idée de « ça ».",
     "Formes : at, -m at, -p at.",
-    "Que-m-at a dit ! → Il me l’a dit !"
+    "Que-m-at a dit ! → Il me l’a dit !",
+     "Qu'ou/ous - Que la/las  →  le/les - la/les",
+     "Qu'ou crey. (que + lou) → Je le crois.",
+          "Toutes aquéres maysoûs que soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon."
+ 
   ]
 },
 
@@ -209,22 +206,21 @@ const [open, setOpen] = useState(false)
   title: 'Ordre des pronoms',
   content: [
     "Aux troisièmes personnes du singulier et du pluriel, l’ordre des pronoms est inversé par rapport au français.",
-    "Més dits-l’at !",
-    "Qu’ou me da.",
-    "Que la pe ba balha !",
-    "Amuche-u-me !"
+    "Més dits-l’at ! → Mais dis-le !",
+    "Qu’ou me da. → Je me le donne.",
+    "Que la pe ba balha ! → Elle va vous la donner !",
+    "Amuche-u-me ! → Montre le moi !"
   ]
 },
 
 {
   title: 'Pronoms compléments : exemples',
   content: [
-    "Quoan lou me porte.",
-    "Qu’ou me cau.",
-    "Balhe-la-mé !",
-    "Croumpe-u-té !",
-    "Quoan lou nse porte.",
-    "Que las pe cau."
+   "Qu’ou me cau. → Il me le faut.",
+    "Balhe-la-me ! → Donne me la.",
+  
+    "Quoan lou nse porte. → Quand il nous l'apporte.",
+    "Que las pe cau. → "
   ]
 },
 
@@ -232,8 +228,8 @@ const [open, setOpen] = useState(false)
   title: 'Pronoms à l’impératif',
   content: [
     "À l’impératif, lorsque le pronom « la » ou « las » est placé après le verbe (en enclise), il devient « lè » ou « lès ».",
-    "Gahe-lè !",
-    "Dèche-lès !"
+    "Gahe-lè ! → Attrape-la !",
+    "Dèche-lès ! → Laisse-les !"
   ]
 },
       ]
@@ -264,7 +260,14 @@ const [open, setOpen] = useState(false)
     "Que bòu. → Il veut."
   ]
 },
-
+{
+  title: 'Le verbe « vouloir » dans une proposition',
+  content: [
+    "Je veux que tu m’écoutes. → Que bouy que-m escoutis.",
+    "Je voudrais que tu m’écoutes. → Que bouleri que-m escoutis.",
+    "Je voulais que tu m’écoutes. → Que bouli que-m escoutis."
+  ]
+},
 {
   title: 'Connecteurs et mots de liaison',
   content: [
@@ -272,16 +275,20 @@ const [open, setOpen] = useState(false)
     "Oun → ou",
     "E → et",
     "Dounc → donc",
-    "Toutû / Alabéts → alors",
+    "Toutû / Alabéts que → Or",
     "Ni → ni",
-    "Permou → pourtant",
+    "Permou → car",
+    "Permou que → parce que",
+    "Alabéts → Alors",
     "En purmè → premièrement",
     "Tout d’abor → tout d’abord",
     "Ta coumença → pour commencer",
+    "Tad alengua → pour commencer",
     "Puch → puis",
     "Ad arroun → ensuite",
     "En seguin → en suivant",
     "Ta acaba → pour terminer",
+     "Ta feni → pour finir",
     "À la fî → à la fin",
     "Per la fî → finalement",
     "Enfî → enfin"
@@ -296,20 +303,13 @@ const [open, setOpen] = useState(false)
   ]
 },
 
-{
-  title: 'Le verbe « vouloir » dans une proposition',
-  content: [
-    "Je veux que tu m’écoutes. → Que bouy que-m escoutis.",
-    "Je voudrais que tu m’écoutes. → Que bouleri que-m escoutis.",
-    "Je voulais que tu m’écoutes. → Que bouli que-m escoutis."
-  ]
-},
+
 
 {
   title: 'Le pronom « en »',
   content: [
     "Le « en » français se traduit généralement par ne / -n ou en.",
-    "On en voit souvent par ici. → Qu’em bedem souben par aciu.",
+    "On en voit souvent par ici. → Qu’en bedem souben par aciu.",
     "Maintenant, on en fait de jolis. → Adare, que se-n-y hè de beroys.",
     "Ils le sont toujours restés, jusqu’à la fin. → Que-n demourèn toustém, dinco la fî.",
     "S’il ne l’est pas encore, il le deviendra. → Si ne-n éy pas encoère, que-n badera !"
@@ -319,12 +319,12 @@ const [open, setOpen] = useState(false)
 {
   title: 'Questions avec « en »',
   content: [
-    "Combien vous en reste-t-il ? → Quoan pe-n demoure / soubre ?",
+    "Combien vous en reste-t-il ? → Quoan pe-n demoure ?",
     "Combien en vendez-vous ? → Quoan en benét ?",
-    "Combien vous en faut-il encore ? → Quoàn pe-n cau ?",
+    "Combien vous en faut-il ? → Quoàn pe-n cau ?",
     "Combien y en a-t-il ? → Quoàn-n y a ?",
-    "J’en veux beaucoup ! → Qu’en bouy hère(s) !",
-    "En veux-tu encore ? → E-n bos encoère ?"
+    "J’en veux beaucoup ! → Qu’en bouy hère !",
+    "En veux-tu encore ? → Que-n bos encoère ?"
   ]
 },
 
@@ -338,7 +338,7 @@ const [open, setOpen] = useState(false)
     "Arribat au soum dou touya. → Arrivé en haut de la colline.",
     "Ha à las quilhes. → Jouer aux quilles.",
     "Que-m bouleri minya ûe mouléte de céps. → Je voudrais manger une omelette aux cèpes.",
-    "Que boulerém pourét dap cébes. → Nous voudrions du poulet aux oignons.",
+    "Que boulerém pourét. → Nous voudrions du poulet.",
     "Aquéth tros de broutche aus oélhs blus. → Cette espèce de sorcière aux yeux bleus."
   ]
 },
@@ -346,7 +346,7 @@ const [open, setOpen] = useState(false)
 {
   title: 'Expression utile',
   content: [
-    "Ric-per-ric → strict, exactement conforme."
+    "Ric-per-ric → strictement."
   ]
 },
       ]
