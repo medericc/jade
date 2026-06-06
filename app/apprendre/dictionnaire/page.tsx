@@ -5,6 +5,8 @@ import { useMemo, useState } from 'react'
 import data from '@/data/dictionnaire_bearnais.json'
 import { Nunito } from 'next/font/google'
 import { Search } from 'lucide-react'
+import Fuse from 'fuse.js'
+
 const nunito = Nunito({
   subsets: ['latin'],
 })
@@ -23,7 +25,14 @@ export default function DictionnairePage() {
       .trim()
   }
 
-
+const fuse = useMemo(
+  () =>
+    new Fuse(data, {
+      keys: ['titre', 'definition', 'search'],
+      threshold: 0.3,
+    }),
+  []
+)
   // SEARCH + SCORE
   const results = useMemo(() => {
     const q = normalize(query)
@@ -41,9 +50,18 @@ export default function DictionnairePage() {
         const definition = normalize(item.definition || '')
         const type = normalize(item.type || '')
         const search = normalize(item.search || '')
-
+const defWords = definition.split(/\W+/)
         let score = 0
+const terms = q.split(' ').filter(Boolean)
+const occurrences =
+  definition.split(q).length - 1
 
+if (
+  terms.length > 1 &&
+  terms.every(term => search.includes(term))
+) {
+  score += 300
+}
         // EXACT TITRE
         if (titre === q) score += 1000
 
@@ -60,11 +78,15 @@ export default function DictionnairePage() {
         if (definition.startsWith(q)) score += 120
 
         // DEFINITION CONTIENT
-        if (definition.includes(q)) score += 80
+        if (definition.includes(q)) score += 120
 
+        if (defWords[0] === q) score += 1200
         // SEARCH
         if (search.includes(q)) score += 50
 
+        if (occurrences > 0) {
+  score += occurrences * 20
+}
         // TYPE
         if (type.includes(q)) score += 10
 
@@ -76,8 +98,16 @@ export default function DictionnairePage() {
       .filter((item) => item.score > 0)
       .sort((a, b) => b.score - a.score)
 
-    return scored
-  }, [query])
+      if (scored.length > 0) {
+  return scored
+}
+
+return fuse.search(q).map(r => ({
+  ...r.item,
+  score: 1
+}))
+   
+  }, [query, fuse])
 
   // PAGINATION
   const totalPages = Math.ceil(
