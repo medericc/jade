@@ -291,15 +291,9 @@ const [open, setOpen] = useState(false)
      "Ta feni → pour finir",
     "À la fî → à la fin",
     "Per la fî → finalement",
-    "Enfî → enfin"
-  ]
-},
-
-{
-  title: 'Expressions de narration',
-  content: [
-    "Û cop de méy la rasoû qu’abè abut lou dessus dou cabourrudè ! → Une fois de plus, la raison avait eu le dessus sur l’entêtement.",
-    "Darrères → la dernière fois, dernièrement."
+    "Enfî → enfin",
+        "Darrères → la dernière fois, dernièrement."
+ 
   ]
 },
 
@@ -335,7 +329,6 @@ const [open, setOpen] = useState(false)
     "Aus → aux",
     "À las → aux",
     "Au lieu → Au loc",
-    "Arribat au soum dou touya. → Arrivé en haut de la colline.",
     "Ha à las quilhes. → Jouer aux quilles.",
     "Que-m bouleri minya ûe mouléte de céps. → Je voudrais manger une omelette aux cèpes.",
     "Que boulerém pourét. → Nous voudrions du poulet.",
@@ -713,118 +706,9 @@ const [open, setOpen] = useState(false)
     },
 
     
- {
-      title: 'Leçon 8 — Phrases complexes',
-      icon: '📝',
-      sections: [
-   {
-  title: 'Concession et opposition',
-  content: [
-    "Maugrat qui + subjonctif → bien que.",
-    "Per + infinitif → pour.",
-    "Ya que + subjonctif → puisque, étant donné que.",
-    "Maugrat aco, que biénẹn estalla-s à la campagne. → Malgré cela, ils viennent s’installer à la campagne.",
-    "Per esta tâ rìchẹ, n’éy pas trop yenerous. → Pour être si riche, il n’est pas très généreux.",
-    "Si nou-n abét pas nade, que-n bau préne. → Si vous n’en avez pas, je vais en prendre."
-  ]
-},
 
 {
-  title: 'Situer une action',
-  content: [
-    "Aciu, que soupam tout die à sèt ores e miéye. → Ici, nous soupions tous les jours à sept heures et demie.",
-    "Que-s y minye plâ. → On y mange bien."
-  ]
-},
-
-{
-  title: 'Verbes de mouvement suivis d’un infinitif',
-  content: [
-    "Les verbes transitifs de mouvement comme mia(-n), embia(-n) et manda(-n) s’emploient avec la préposition « ta » devant l’infinitif.",
-    "Qu'ou ne bau embia ta croumpa pâ. → Je vais l’envoyer acheter du pain."
-  ]
-},
-
-{
-  title: 'Verbes de perception suivis d’un infinitif',
-  content: [
-    "Les verbes bédẹ, enténẹ, escouta et espia s’emploient avec la préposition « à » devant l’infinitif.",
-    "Qu'ous entenèn à canta. → Ils les entendaient chanter."
-  ]
-},
-
-{
-  title: 'Salutations et formules de politesse',
-  content: [
-    "Adiu ! → Bonjour, au revoir.",
-    "Adichat ! → Salut !",
-    "Adichat, bràbe moùnde ! → Salut, braves gens !",
-    "Boû die ! → Bonjour !",
-    "Boû brèspe ! → Bon après-midi !",
-    "Boune serade ! → Bonne soirée !",
-    "Boune noéyt ! → Bonne nuit !",
-    "Boune escadénce ! → Bonne chance !",
-    "Merci hère ! → Merci beaucoup !",
-    "D’arré. → De rien.",
-    "En te pregan. → Je t’en prie.",
-    "En pe pregan. → Je vous en prie.",
-    "Si-bou-plèt. → S’il vous plaît."
-  ]
-},
-
-{
-  title: 'Prendre des nouvelles',
-  content: [
-    "Quin te ba ? → Comment vas-tu ?",
-    "Quin ès ? → Comment vas-tu ?",
-    "Quin pe ba ? → Comment allez-vous ?",
-    "Quin èt ? → Comment allez-vous ?",
-    "Que ba plâ ! E aquiu ? → Ça va bien ! Et toi ?",
-    "Que ba mau ! E bous ? → Ça va mal ! Et vous ?",
-    "Plâ ! E tu ? → Bien ! Et toi ?",
-    "Quio, que ba ! → Oui, ça va !"
-  ]
-},
-
-{
-  title: 'Questions courantes',
-  content: [
-    "Ta qué ? → Pourquoi ?",
-    "Perqué ? → Pourquoi ?",
-    "Quoau / Quoaus s’emploient lorsqu’on choisit dans une liste.",
-    "Quin / Quins (masculin) et Quine / Quines (féminin) s’emploient pour parler d’un type ou d’une sorte.",
-    "Quins filmes e bas béde ? → Quels films vas-tu voir ?",
-    "Ne sèy pas quin dise-u tout aco. → Je ne sais pas qui raconte tout cela.",
-    "Ne sèy pas perqué caleré ha atau. → Je ne sais pas pourquoi il faudrait faire ainsi.",
-    "Que ço qui hès ? → Que fais-tu ?",
-    "Que hès ? → Que fais-tu ?"
-  ]
-},
-
-{
-  title: 'Déplacements et actions',
-  content: [
-    "Ana-se-n → s’en aller.",
-    "E y èt anades ? → Y êtes-vous allées ?"
-  ]
-},
-
-{
-  title: 'Expressions familières',
-  content: [
-    "Aco ray ! → Ça alors !",
-    "Atau tè ! → Eh bien donc !",
-    "De pìri en sourdéys. → De mal en pis.",
-    "Poutines ! → Mince !",
-    "Quin pèc ! → Quel idiot !",
-    "Quin pègue ! → Quelle bêtise !"
-  ]
-},
-      ]
-    },
-
-{
-      title: 'Leçon 9 — Repères et localisation',
+      title: 'Leçon 8 — Repères et localisation',
       icon: '🧭',
       sections: [
   {
@@ -834,10 +718,10 @@ const [open, setOpen] = useState(false)
     "Caret ! → Tais-toi !",
     "Carat-pe ! → Taisez-vous !",
     "Chou ! → Chut !",
-    "O ! → Oh !",
+    "O ! → Oui !",
     "Quio ! → Oui !",
     "Nou ! → Non !",
-    "Nani ! → Non !"
+    "Nani ! → Non (plus soutenu) !"
   ]
 },
 
@@ -848,16 +732,18 @@ const [open, setOpen] = useState(false)
     "Tau plasé. → Avec plaisir.",
     "Tau medich. → De même.",
     "En aban ! → En avant !",
-    "Biban ! → Vive !"
+    "Biban ! → Vivant ! (juron)"
   ]
 },
 
 {
   title: 'Positions et repères dans l’espace',
   content: [
+        "Houns → fond.",
+ 
     "Haut → haut.",
     "En haut → au soum, au bèc, en haut, cap-sus.",
-    "Arribat au soum dou touya. → Arrivé en haut du touya.",
+    "Arribat au soum dou touya. → Arrivé en haut de la colline.",
     "Là-haut → aquiu haut, acera cap-sus.",
     "Bas → bach.",
     "En bas → cabbath.",
@@ -870,11 +756,11 @@ const [open, setOpen] = useState(false)
   content: [
     "Près → près, au ras.",
     "Près de → au ras de, prés de.",
-    "Prêt → prèst / prèste.",
+    "Prêt → près / prèste.",
     "Pré → prat.",
     "Loégn → loin.",
-    "La Rosalie qu'éy partide drin loégn de la cabane, en cèrques d'aglans héns lou bosc besî.",
-    "→ Rosalie est partie loin de la cabane, à la recherche de glands dans le bois voisin."
+    "La Rosalie qu'éy partide û din loégn de la cabane, en cèrques d'aglans héns lou bosc besî.",
+    "→ Rosalie est partie un peu loin de la cabane, à la recherche de glands dans le bois voisin."
   ]
 },
 
@@ -882,13 +768,13 @@ const [open, setOpen] = useState(false)
   title: 'Entre, sur et sous',
   content: [
     "Entér / Éntre → entre.",
-    "Er'aygue que chourrabe dinque méy de miéye-came entér deths arrebots.",
+    "L'aygue que chourrabe dinco miéye-came entér lous arrebots.",
     "→ L’eau jaillissait jusqu’à mi-jambe entre les galets.",
     "Sus → sur.",
-    "Dessus → dessus, surface supérieure.",
+    "Dessus → dessus, une surface supérieure.",
     "En aquéres → sur ce.",
-    "Aquiu dessus, lou gran ausèth.",
-    "→ Là-dessus, le grand oiseau."
+    "Aquiu dessus, qu'éy lou gran ausèth. → Là-dessus, c'est le grand oiseau."
+ 
   ]
 },
 
@@ -899,10 +785,10 @@ const [open, setOpen] = useState(false)
     "Dauneya → dominer (pour une fille).",
     "Abé lou dessus → avoir le dessus.",
     "Influence → influence.",
-    "Û cop de méy la rasoû qu'abè abut lou dessus dou cabourrudè, dou machantè, de las mensounyes permou dou yelousè dou moùnde.",
-    "→ Une fois de plus, la raison avait eu le dessus sur l’obstination, la méchanceté et les mensonges dus à la jalousie des gens.",
-    "Que m'a hèyt chiscla hangue ta dessus.",
-    "→ Il m’a éclaboussé de boue."
+    "Que m'a hèyt chiscla hangue ta dessus. → Il m’a éclaboussé de boue."
+    ,
+     "Exemple : Û cop de méy la rasoû qu’abè abut lou dessus dou cabourrudè !",
+     "→ Une fois de plus, la raison avait eu le dessus sur l’entêtement."
   ]
 },
 
@@ -911,11 +797,11 @@ const [open, setOpen] = useState(false)
   content: [
     "Haut ou bach → environ.",
     "À chic près → à peu près.",
-    "À pus près → approximativement.",
-    "De cap à → de l’ordre de.",
+    "À pus près → à peu près.",
+    "De cap à → environ.",
     "Embiroû → environ.",
-    "Méy ou ménch → plus ou moins.",
-    "Qu'èren méys. → Ils étaient plus que cela.",
+    "Méy ou ménch → à peu près.",
+    "Qu'èren méys ! → Ils étaient plus nombreux !",
     "En méy → en plus.",
     "En suberpés → en supplément.",
     "Tapoc → non plus."
@@ -937,7 +823,7 @@ const [open, setOpen] = useState(false)
     },
 
 {
-      title: 'Leçon 10 — Vocabulaire du quotidien',
+      title: 'Leçon 9 — Vocabulaire du quotidien',
       icon: '📚',
       sections: [
   {
@@ -945,12 +831,11 @@ const [open, setOpen] = useState(false)
   content: [
     "Bèth → beau.",
     "Bère → belle.",
-    "Beroy → beau, robuste, bien bâti.",
-    "Beroye → belle, robuste, bien bâtie.",
-    "Abé bèth → avoir beau.",
+    "Beroy → beau, bien bâti.",
+    "Beroye → belle, bien bâtie.",
     "Ha bèth → faire beau (en parlant du temps).",
     "Petit / Petite → petit, petite.",
-    "Coumû / Coumune → commun, commune.",
+    "Coumû / Coumune → normal, normale.",
     "Gran / Grane → grand, grande."
   ]
 },
@@ -962,9 +847,9 @@ const [open, setOpen] = useState(false)
     "Négrẹ → noir.",
     "Blanc → blanc.",
     "Blu → bleu.",
-    "Blau → bleu clair.",
-    "Brun / Marroû → brun, marron.",
-    "Bért / Bérde → vert, verte.",
+    "Blau → bleu (bobo).",
+    "Marroû → marron.",
+    "Bért / Bérde → vert.",
     "Rose → rose.",
     "Briulét / Briuléte → violet.",
     "Màubẹ → mauve.",
@@ -975,12 +860,7 @@ const [open, setOpen] = useState(false)
   ]
 },
 
-{
-  title: 'Le fond',
-  content: [
-    "Houns → fond."
-  ]
-},
+
 {
   title: 'Les nombres',
   content: [
