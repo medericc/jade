@@ -71,7 +71,7 @@ const [open, setOpen] = useState(false)
         {
           title: 'Particule verbale',
           content: [
-            "Le verbe conjugué est précédé de « que » sauf devant des &quot;conjonctions de subordination&quot; (comme,si,quand...).",
+            "Le verbe conjugué est précédé de « que » sauf devant des conjonctions de subordination (comme,si,quand...).",
             "À la forme négative on utilise « ne ... pas ».",
             "Exemple : Que minyi.",
             "Exemple négatif : Ne minyi pas."
@@ -90,7 +90,7 @@ const [open, setOpen] = useState(false)
             "Que souy à noùste/case.  → Je suis chez moi." ,
             "Que souy en ço de Bertoumiu. → Je suis chez Barthélémy.",
             "Qu’em espagnòus. → Nous sommes espagnols.",
-            "Que souy en trî de tribalha ta esta lou purmè arriba à Riu di Janèyrou. → Je suis en train de travailler pour être le premier arriver à Rio."         ]
+            "Que souy en trî de tribalha ta esta lou purmè arriba à Riu di Yanèyrou. → Je suis en train de travailler pour être le premier arriver à Rio."         ]
         },
         {
           title: 'Négation',
@@ -138,7 +138,7 @@ const [open, setOpen] = useState(false)
     "de → de",
     "Que soun guits. → Ce sont des canards.",
     "dou / de la → du / de la",
-    "Qu’éy bén. → C’est bien.",
+    "Qu’éy bén. → C’est plâ.",
     "Lou Yan e la Cataline. → Jean et Catherine.",
     "Le pluriel se forme généralement avec -s, mais certains mots restent invariables."
   ]
@@ -179,7 +179,7 @@ const [open, setOpen] = useState(false)
     "pe → vous",
     "Lorsqu’il n’y a pas la particule « que », le pronom s’attache à la fin du verbe.",
     "Que-m làbi. → Je me lave.",
-    "Laba-s. → Lave-toi.",
+    "Laba-s. → Se laver.",
     "Portat-p. → Portez-vous.",
     "Quoan me làbi. → Quand je me lave.",
       
@@ -196,7 +196,7 @@ const [open, setOpen] = useState(false)
     "Formes : at, -m at, -p at.",
     "Que-m-at a dit ! → Il me l’a dit !",
      "Qu'ou/ous - Que la/las  →  le/les - la/les",
-     "Qu'ou crey. (que + lou) → Je le crois.",
+     "Qu'ou (que + lou) crey. → Je le crois.",
           "Toutes aquéres maysoûs que soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon."
  
   ]
@@ -207,7 +207,7 @@ const [open, setOpen] = useState(false)
   content: [
     "Aux troisièmes personnes du singulier et du pluriel, l’ordre des pronoms est inversé par rapport au français.",
     "Més dits-l’at ! → Mais dis-le !",
-    "Qu’ou me da. → Je me le donne.",
+    "Qu’ou me dau. → Je me le donne.",
     "Que la pe ba balha ! → Elle va vous la donner !",
     "Amuche-u-me ! → Montre le moi !"
   ]
@@ -242,7 +242,7 @@ const [open, setOpen] = useState(false)
      {
   title: 'Expressions courantes',
   content: [
-    "Que cau ha ço qui cau ! → Il faut faire ce qu’il faut faire !",
+    "Que cau ha ço qui cau ! → Il faut faire ce qu’il faut !",
     "Ne cau pas arré ! → Il ne faut rien !",
     "Que caleré maynàdyes aciu. → Il faudrait des enfants ici.",
     "Youga dou piano. → Jouer du piano.",
@@ -256,13 +256,7 @@ const [open, setOpen] = useState(false)
     "Que bouy. → Je veux.",
     "Que bouleri. → Je voudrais.",
     "Que bouli. → Je voulais.",
-    "Qu’aymam. → Nous aimons.",
-    "Que bòu. → Il veut."
-  ]
-},
-{
-  title: 'Le verbe « vouloir » dans une proposition',
-  content: [
+  "Que bòu. → Il veut.",
     "Je veux que tu m’écoutes. → Que bouy que-m escoutis.",
     "Je voudrais que tu m’écoutes. → Que bouleri que-m escoutis.",
     "Je voulais que tu m’écoutes. → Que bouli que-m escoutis."
@@ -287,7 +281,7 @@ const [open, setOpen] = useState(false)
     "Puch → puis",
     "Ad arroun → ensuite",
     "En seguin → en suivant",
-    "Ta acaba → pour terminer",
+    "Tad acaba → pour terminer",
      "Ta feni → pour finir",
     "À la fî → à la fin",
     "Per la fî → finalement",
@@ -330,7 +324,6 @@ const [open, setOpen] = useState(false)
     "À las → aux",
     "Au lieu → Au loc",
     "Ha à las quilhes. → Jouer aux quilles.",
-    "Que-m bouleri minya ûe mouléte de céps. → Je voudrais manger une omelette aux cèpes.",
     "Que boulerém pourét. → Nous voudrions du poulet.",
     "Aquéth tros de broutche aus oélhs blus. → Cette espèce de sorcière aux yeux bleus."
   ]
@@ -340,134 +333,6 @@ const [open, setOpen] = useState(false)
   title: 'Expression utile',
   content: [
     "Ric-per-ric → strictement."
-  ]
-},
-      ]
-    },
-
-
-
-     {
-      title: 'Leçon 5 — Questions et repères',
-      icon: '❓',
-      sections: [
-    {
-  title: 'Quantités et intensité',
-  content: [
-    "Chic → peu",
-    "Û din → un peu",
-    "Hère → beaucoup",
-    "Trop → trop",
-    "Trops → trop nombreux",
-    "Prou → assez",
-    "Que mìnyi chic. → Je mange peu.",
-    "Que mìnyi û din. → Je mange un peu.",
-    "Chic à chic. → Petit à petit.",
-    "Que y a hère de brumes. → Il y a beaucoup de brouillard.",
-    "Que soy trop coentat. → Je suis trop occupé.",
-    "Que-n y a trop. → Il y en a trop.",
-    "Lous camioûs que soun trops. → Les camions sont trop nombreux.",
-    "Ne bén pas prou. → Il ne vend pas assez.",
-    "Qu’èm prou. → Nous sommes assez nombreux."
-  ]
-},
-
-{
-  title: 'Questions courantes',
-  content: [
-    "Oun ? → Où ?",
-    "Quoan ? → Quand ? / Combien ?",
-    "Quin ? → Quel ? / Comment ?",
-    "Que et qui se traduisent généralement par « qui ».",
-    "Que ço qu'éy ? → Qu'est-ce que c'est ?",
-    "Que prenét ? → Que prenez-vous ?",
-    "Oun éy la clau ? → Où est la clé ?",
-    "Oun soun lous noùstes amics ? → Où sont nos amis ?"
-  ]
-},
-
-{
-  title: 'L’heure et les dates',
-  content: [
-    "Quin ore éy ? → Quelle heure est-il ?",
-    "Quin die éy ? → Quel jour sommes-nous ?",
-    "Qu’èm lou 17 de yulhét 2026. → Nous sommes le 17 juillet 2026.",
-    "A quine ore arriberan ? → À quelle heure arriveront-ils ?",
-    "Qu'éy sèt ores e quar. → Il est sept heures et quart.",
-    "Mieydie → midi.",
-    "Miéye-noeyt → minuit."
-  ]
-},
-
-{
-  title: 'Expressions temporelles',
-  content: [
-    "Si at bos, que y bam de tire. → Si tu veux, nous y allons tout de suite.",
-    "Quoan pe déu ? → Quand donc ?",
-    "Qu’ous debi 30 $. → Je vous dois 30 dollars."
-  ]
-},
-
-{
-  title: 'Verbes impersonnels',
-  content: [
-    "Certains verbes sont exclusivement impersonnels.",
-    "apari-u → arriver.",
-    "Que l’aparéch soubén benalèyes. → Il lui arrive souvent des ennuis.",
-    "baga-u → avoir le temps.",
-    "Que-u bague toustém ad ére ! → Il a toujours le temps pour elle !",
-    "càlẹ / calé → falloir.",
-    "Estudia que cau ! → Il faut étudier !",
-    "prùdẹ-u → démanger.",
-    "Que-u prut de-p at dìsẹ. → Cela le démange de le dire."
-  ]
-},
-
-{
-  title: 'Verbes employés impersonnellement',
-  content: [
-    "coumbiénẹ → convenir.",
-    "Que coumbieneré de-us at dìsẹ. → Il conviendrait de vous le dire.",
-    "escàdẹ-s → arriver, se trouver.",
-    "Oéy que-s escat que souy esbagat. → Aujourd’hui il se trouve que je suis fatigué.",
-    "esta-u-se desbroumbat → oublier.",
-    "Que se-m éy desbroumbat de-p at dìsẹ. → J’ai oublié de le dire.",
-    "paréchẹ-s → paraître.",
-    "Que-s paréch que-y ba bàdẹ céps. → Il paraît qu’il va y avoir des cèpes.",
-    "pressa-u → avoir hâte.",
-    "Que-u prèsse de l’ana bédẹ ad ére. → Il a hâte d’aller la voir.",
-    "soubiénẹ-u → se souvenir.",
-    "Que-m soubién ço qui-m digous. → Je me souviens de ce que tu m’as dit."
-  ]
-},
-
-
-{
-  title: 'Localisation et démonstratifs',
-  content: [
-    "Aciu → ici",
-    "Aquiu → là",
-    "Acera → là-bas",
-    "Aço / Aco → ceci, cela",
-    "Aquero → cela",
-    "Acero → cela là-bas",
-    "Aquéste / Aquéstes → ce, cette, ces",
-    "Aquéth / Aquére → celui-ci, celle-ci",
-    "Aquéths / Aquéres → ceux-ci, celles-ci",
-    "Acéth / Acére → celui-là, celle-là",
-    "Acéths / Acéres → ceux-là, celles-là",
-    "Aquéste chin ba à hoéc de calhau dinco à lou ! → Ce chien va jouer aux cailloux jusqu’à lui !"
-  ]
-},
-
-{
-  title: 'Expressions utiles',
-  content: [
-    "N’èy pas brigue coumprés. → Je n’ai rien compris.",
-    "Soulide → sûr, certain.",
-    "De segu → sûrement.",
-    "Per segu → certainement.",
-    "Nat / Nade → aucun, aucune."
   ]
 },
       ]
@@ -517,9 +382,9 @@ const [open, setOpen] = useState(false)
   title: 'L’heure et les dates',
   content: [
     "Quin ore éy ? → Quelle heure est-il ?",
-    "Quin die éy ? → Quel jour sommes-nous ?",
+    "Quin die éy/em ? → Quel jour sommes-nous ?",
     "Qu’èm lou 17 de yulhét 2026. → On est le 17 juillet 2026.",
-    "A quine ore arriberan ? → À quelle heure arriveront-ils ?",
+    "À quine ore arriberan ? → À quelle heure arriveront-ils ?",
     "Qu'éy sèt ores e quar. → Il est sept heures et quart.",
     "Mieydie → midi.",
     "Miéye-noeyt → minuit."
@@ -540,13 +405,12 @@ const [open, setOpen] = useState(false)
   content: [
     "Certains verbes sont exclusivement impersonnels.",
     "apari-u → arriver.",
-    "Que l’aparéch soubén benalèyes. → Il lui arrive souvent des ennuis.",
+    "Que l’aparéch soubén. → Il lui arrive souvent.",
     "baga-u → avoir le temps.",
     "Que-u bague toustém ad ére ! → Il a toujours le temps pour elle !",
     "càlẹ / calé → falloir.",
     "Estudia que cau ! → Il faut étudier !",
-    "prùdẹ-u → démanger.",
-    "Que-u prut de-p at dìsẹ. → Cela le démange de le dire."
+    
   ]
 },
 
@@ -556,9 +420,9 @@ const [open, setOpen] = useState(false)
     "coumbiénẹ → convenir.",
     "Que coumbieneré de-us at dìsẹ. → Il conviendrait de vous le dire.",
     "escàdẹ-s → arriver, se trouver.",
-    "Oéy que-s escat que souy esbagat. → Aujourd’hui il se trouve que je suis fatigué.",
-    "esta-u-se desbroumbat → oublier.",
-    "Que se-m éy desbroumbat de-p at dìsẹ. → J’ai oublié de le dire.",
+    "Oéy que-s escat que souy esbagat. → Aujourd’hui il se trouve que je suis disponible.",
+    "desbroumba → oublier.",
+    "Qu'éy desbroumbat de-p at dìsẹ. → J’ai oublié de le dire.",
     "paréchẹ-s → paraître.",
     "Que-s paréch que-y ba bàdẹ céps. → Il paraît qu’il va y avoir des cèpes.",
     "pressa-u → avoir hâte.",
@@ -631,7 +495,7 @@ const [open, setOpen] = useState(false)
     "Qu'ou ne bau embia ta croumpa pâ. → Je vais l’envoyer acheter du pain."
 ,
     "Les verbes bédẹ, enténẹ, escouta et espia s’emploient avec la préposition « à » devant l’infinitif.",
-    "Qu'ous (que + lous) entenèn à canta. → Ils les entendaient chanter."
+    "Qu'ous entenèn à canta. → Ils les entendaient chanter."
   ]
 },
 
@@ -759,7 +623,7 @@ const [open, setOpen] = useState(false)
     "Prêt → près / prèste.",
     "Pré → prat.",
     "Loégn → loin.",
-    "La Rosalie qu'éy partide û din loégn de la cabane, en cèrques d'aglans héns lou bosc besî.",
+    "La Rosalie qu'éy partide û din loégn de la cabane, à la recèrque de glans héns lou bosc besî.",
     "→ Rosalie est partie un peu loin de la cabane, à la recherche de glands dans le bois voisin."
   ]
 },
@@ -768,7 +632,7 @@ const [open, setOpen] = useState(false)
   title: 'Entre, sur et sous',
   content: [
     "Entér / Éntre → entre.",
-    "L'aygue que chourrabe dinco miéye-came entér lous arrebots.",
+    "L'aygue que chourrabe dinco miéye-came entér lous calhaus           .",
     "→ L’eau jaillissait jusqu’à mi-jambe entre les galets.",
     "Sus → sur.",
     "Dessus → dessus, une surface supérieure.",
@@ -908,7 +772,8 @@ const [open, setOpen] = useState(false)
     "Cén û → cent un.",
     "Dus céns → deux cents.",
     "Mile → mille.",
-    "Dus mile → deux mille."
+    "Dus mile → deux mille.",
+     "Û milioû → un million."
   ]
 },
 
