@@ -219,11 +219,11 @@ Counyuguesoû
                 a / u / i + t,
                 et une forme féminine en -de.
               </p>
-  <p>⚠ ẹ → &quot;e&quot; doucement fermé à l&lsquo;oral</p>
+
             
                <p>bédẹ « voir » → bis/biste</p> <p>bìbẹ « vivre » → biscut/biscude</p>  <p>còsẹ « cuire » → coéyt/coéyte</p>   <p>plàgnẹ « plaindre » → plagnut</p> <p>plàsẹ « plaire » → plasut</p>  <p>tòrsẹ « tordre » → tourcut</p>
                 <p>ourbi (le &quot;u&quot; peut disparaître à la conjugaison) « ouvrir » → ubèr</p> <p>aufri « offrir » → aufèr</p> <p>coubri « couvrir » → coubèr</p> <p>mouri « mourir » → mour/mourte</p> <p>soufri « souffrir » → soufèr</p>
-          
+            <p>⚠ ẹ → &quot;e&quot; doucement fermé à l&lsquo;oral</p>
             </Card>
           </div>
         </section>
@@ -245,8 +245,7 @@ Counyuguesoû
               <p>
                 Radical + i, es, forme variable, ém, ét, ẹn.
               </p>
-               <p>
-            forme variable : si -b, -d, -s, -l, -z la lettre change : b devient u (bébẹ « boire »   → béu) ou p (sabé → sap) ; z devient s (debèrzẹ « digérer »   → debèrs), mais aucun si –gn, –lh, –m, -n, -p, -r, -t, -y   </p>
+               <p>forme variable : si -b, -d, -s, -l, -z la lettre change : b devient u (bébẹ « boire »   → béu) ou p (sabé → sap) ; z devient s (debèrzẹ « digérer »   → debèrs), mais aucun si –gn, –lh, –m, -n, -p, -r, -t, -y   </p>
           </Card>
 
             <Card title="3e groupe" icon="📖">
@@ -258,16 +257,6 @@ Counyuguesoû
 
   
 
-            <Card title="Particularité" icon="⚠">
-              <p>
-                Le verbe prénẹ, biénẹ ou tiénẹ possède une irrégularité au présent.
-              </p>
-
-              <p>
-                À la 3e personne :
-                que prén, que bién, que tién
-              </p>
-            </Card>
 
             <Card title="Présent Irrégulier" icon="⚠">
               <p>esta (être): que souy , qu’ès , qu’éy , qu’èm , qu’èt , que soun </p>
@@ -371,11 +360,11 @@ Counyuguesoû
 
              <Card title="Subjonctif Irrégulier" icon="⚠">
              <p>esta (être): sìi , sìis , sìi , sìim , sìit , sìin</p>
-                  <p>abé (avoir): radical : ay</p>
-              <p>ha (faire) : radical : hesqu</p>
-           <p>boulé (vouloir): radical : boulh</p>
-              <p>sabé (savoir) : radical : sap</p>
-         <p>poudé (pouvoir): radical : pouchqu</p>
+                  <p>abé (avoir): ay-</p>
+              <p>ha (faire) :  hesqu-</p>
+           <p>boulé (vouloir): boulh-</p>
+              <p>sabé (savoir) : sap-</p>
+         <p>poudé (pouvoir): pouchqu-</p>
             </Card>
 
             <Card title="Impératif" icon="📢">
