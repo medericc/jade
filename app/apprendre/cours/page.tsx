@@ -8,7 +8,7 @@ export default function LeconsPage() {
 const [open, setOpen] = useState(false)
   const lessons = [
     {
-      title: 'Leçon 1 — Principes de base',
+      title: 'Leçon 0 — Principes de base',
       icon: '📖',
       sections: [
         {
@@ -81,7 +81,7 @@ const [open, setOpen] = useState(false)
     },
 
     {
-      title: 'Leçon 2 — Être et identité',
+      title: 'Leçon 1 — Être et identité',
       icon: '👤',
       sections: [
         {
@@ -124,7 +124,7 @@ const [open, setOpen] = useState(false)
 
 
       {
-      title: 'Leçon 3 — Articles et pronoms',
+      title: 'Leçon 2 — Articles et pronoms',
       icon: '🗣️',
       sections: [
        {
@@ -236,7 +236,7 @@ const [open, setOpen] = useState(false)
     },
 
   {
-      title: 'Leçon 4 — Expressions et connecteurs',
+      title: 'Leçon 3 — Expressions et connecteurs',
       icon: '🔗',
       sections: [
      {
@@ -340,7 +340,7 @@ const [open, setOpen] = useState(false)
 
 
   {
-      title: 'Leçon 6 — Conversation courante',
+      title: 'Leçon 4 — Conversation courante',
       icon: '🤝',
       sections: [
     {
@@ -468,7 +468,7 @@ const [open, setOpen] = useState(false)
 
 
  {
-      title: 'Leçon 7 — Conversation et expressions',
+      title: 'Leçon 5 — Conversation et expressions',
       icon: '🗨️',
       sections: [
    {
@@ -572,7 +572,7 @@ const [open, setOpen] = useState(false)
     
 
 {
-      title: 'Leçon 8 — Repères et localisation',
+      title: 'Leçon 6 — Repères et localisation',
       icon: '🧭',
       sections: [
   {
@@ -687,7 +687,7 @@ const [open, setOpen] = useState(false)
     },
 
 {
-      title: 'Leçon 9 — Vocabulaire du quotidien',
+      title: 'Leçon 7 — Vocabulaire du quotidien',
       icon: '📚',
       sections: [
   {
