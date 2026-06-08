@@ -11,7 +11,7 @@ export const histoireData = {
       {
         titre: "Les Origines Médiévales du Béarn",
         contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
+          <div >
             <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
          </p>

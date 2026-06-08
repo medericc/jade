@@ -7,6 +7,8 @@ import ExpandableSection from '../../../../components/ExpandableSection';
 import { histoireData } from '../../../../../data/culture/bearn';
 import { worldData } from '../../../../../data/culture/monde';
 
+
+
 export async function generateMetadata(
 props: {
 params: Promise<{
