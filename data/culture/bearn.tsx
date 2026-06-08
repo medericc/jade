@@ -10,68 +10,64 @@ export const histoireData = {
     sections: [
       {
         titre: "Les Origines Médiévales du Béarn",
-        contenu: (
-          <div >
-            <p>
+        
+       
+        fr: (    <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          <p>
+         </p>),
+  be: (        <p>
       Las Mascas ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+          
+        
       },
       {
         titre: "L'affirmation des Vicomtes",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
         Centulle IV récupère sans guerre la vicomté d’Oloron, dirigée conjointement avec un bâtard jusqu’à la mort de ce dernier, orientant désormais le Béarn vers les royaumes hispano-chrétiens au Sud. Centulle V, “défenseur des pauvres et propagateur de la paix”, épouse Gisèle d’Armagnac avec qui il a un fils (Gaston de Béarn) mais le pape les sépare (en pénitence Centulle donne le prieuré de Morlaàs à Cluny). Il se marie à Béatrix, comtesse de Bigorre, avec qui il a Bernard et Centulle de Bigorre, ce qui lui permet de se rapprocher du roi d’Aragon. Profitant de la disparition d’Étienne de Mauléon, Centulle s’impose en Soule (obtenant du duc Guillaume VIII les honores souletins) et accorde des franchises à Montory sur le modèle du for d’Oloron. Centulle fait battre monnaie, Oloron reçoit un viguier local et une poblacion (1080).  Centulle V entre en guerre contre le roi d’Aragon et les troupes aragonaises ravagent la région. Alphonse VI de Castille et de Gui-Geoffroi de Poitiers (Guillaume VIII d'Aquitaine) décident que Centulle doit prêter hommage au roi d’Aragon (vers 1089), tout en maintenant la suzeraineté française sur la Bigorre et Centulle obtient du duc des conduits le long des vallées des gaves.Il participe à plusieurs campagnes dont celle dans la vallée de Tena au printemps 1090. 
-            </p>
-             <p>
+            </p>),
+    be: (         <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "L'Épopée Croisée de Gaston IV",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
 En 1085, Gaston IV épouse Talèse d’Aragon, nièce du roi Sanche Ramírez, recevant probablement en dot la vicomté de Montaner. Après la fin des invasions vikings, l’Église peut se mettre en place et déjà canaliser la violence des guerriers de nature par la paix de Dieu (3 premiers jours de la semaine + jours de fête) et la trêve de Dieu (protège femmes, enfants, paysans,clercs). En 1095, le pape Urbain II lance l’appel pour la 1re croisade, les seigneurs peuvent satisfaire leur ardeur guerrière tout en apaisant les tensions internes de l’Europe. Gaston part avec son demi-frère, le comte de Bigorre, ainsi qu'avec le comte de Toulouse Raymond de Saint-Gilles, puisque Guillaume d’Aquitaine renonce à l’expédition. Pendant son absence, son épouse Talèse administre le Béarn avec un conseil de seigneurs et Pierre d’Aragon s’empare de Huesca (victoire d’Alcoraz, 1096), aidé par des contingents béarnais. À Salonique, le légat tombe de sa mule, l’expédition continue sans lui. Accueillis hostilement par les Byzantins, les croisés répondent aux Turcs qu’ils y vont pour Rome. Les musulmans sont divisés et Nicée capitule le 19 juin 1097. Ensuite à la bataille de Dorylée, l'avant-garde normande est surprise, Bohémond envoie un messager à Raymond et Gaston, qui accourent et les croisés repoussent les Seldjoukides. Puis il s’ensuit la traversée de l’Anatolie avec les croisés qui souffrent de faim et de soif, se nourrissant de plantes épineuses. Le 14 octobre 1097, l’armée se scinde. Gaston et Raymond prennent la route de l’Arménie (repos et soutien chrétien). Les croisés hors-Arménie mènent leurs propres ambitions. Le 20 octobre, ils atteignent Antioche et le siège dure huit mois, Gaston assure la garde alternée des fortifications. Gaston et Raymond recrutent des charpentiers à Saint-Siméon pour construire des machines de siège. Grâce à une trahison, Bohémond s’empare de la ville. Le 28 juin 1098, Gaston dirige les troupes de Raymond contre Kerbogha de Mossoul et remporte la victoire. Après Antioche, Gaston accompagne Baudouin de Boulogne à Édesse, tandis que Raymond et Bohémond s’affrontent pour le pouvoir. Gaston poursuit loyalement sa route vers Jérusalem et organise alors les travaux de siège. Les 14 et 15 juillet, les croisés pénètrent dans la ville, Tancrède et Gaston placent leurs bannières sur les réfugiés pour les protéger du massacre. Après la conquête, Gaston sert Godefroy de Bouillon. Le 12 août 1099, il participe à la victoire d’Ascalon, bien que la ville reste aux musulmans par désaccord interne entre Godefroy et Raymond. 
-  </p>
-   <p>
+  </p>),
+ be: (  <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Gaston IV, seigneur de Saragosse",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
           À son retour, Gaston IV fonde un hôpital destiné aux pauvres et aux pèlerins à Lescar, en remerciement à Dieu qui l’a protégé. Gaston se qualifie lui-même de « pécheur Gaston, vicomte de Béarn ». Ensuite, avec Alphonse le Batailleur, Gaston participe à la Reconquista et est nommé seigneur de Saragosse, puis il reçoit Uncastillo. Gaston propose la création d’un ordre militaire inspiré des Chevaliers du Saint-Sépulcre et fonde Monreal, confiée à ces Chevaliers des Palmes. En 1122, Alphonse Ier fonde la Confrérie des Chevaliers de Belchite, bénie par Gui de Lons, évêque de Lescar. Le 6 avril 1128, Gaston avec Talèse, fonde le prieuré de Sauvelade et lui confie la gestion de l’hôpital de Mifaget, créé entre 1110 et 1114.  Ayant perdu leur fils unique, Centulle, le couple rédige un acte de fondation dédié à la Sainte-Trinité, implorant la grâce d’un nouvel héritier, exaucée avec un autre Centulle. En 1131, trahi, Gaston surnommé « l’émir des chrétiens », voit sa tête plantée sur une pique dans les rues de Grenade par respect. En 1134, c’est Centulle VI qui périt à Fraga, les Béarnais appelés par Alphonse étaient conduits par Gui de Lons, évêque de Lescar, avec Gassion de Soule et Oger de Miramont mais sans Centulle de Bigorre. 
-            </p>
-             <p>
+            </p>),
+   be: (          <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Le Béarn sous Tutelle Aragonaise",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
 La région de Barcelone faisait partie du royaume des Francs mais le comte Borell appelle le roi des Francs face aux musulmans et il ne lui répond pas, c’est le début de l’autonomie catalane. En 1112, Raimond-Bérenger III épouse Douce de Provence donc une rivalité naît des 2 côtés des Pyrénées, le fils de Raymond (Raymond IV) deviendra prince d'Aragon et épousera Marie de Béarn. Les Anglais ont conquis l’Aquitaine et s'intéressent à la France (Raimond-Bérenger IV signe avec le roi d'Angleterre  en 1158 à Blaye) donc le Béarn gagne en autonomie sous tutelle de l’Aragon (serment de Canfranc 1154). En 1159, Louis VII défendra Toulouse des anglo-aragonais.  Ensuite, à la tête du Béarn, se succèdent Pierre, Guiscarde, puis Gaston V et Marie (élevés tous deux à Barcelone) sous la tutelle de l’Aragon. Raimond-Bérenger IV comte de Barcelone, prend Tortosa, Lleida et Fraga (1149). Ensuite à Tortosa des musulmans tentent de reprendre la ville mais des femmes laïques prennent les armes et contraignent les assaillants musulmans à lever le siège. Le Comte fonde l’Ordre de la Hache afin de les honorer (exemptées de certaines taxes). Puis, Marie épouse Guillaume Raymond III, fils cadet du sénéchal de Catalogne (Raymond Berenger 4), à Jaca le 30 avril 1170. Marie de Béarn, tête nue, reconnaissait tenir le Béarn du roi d’Aragon (il demande même le Gabardan et le Brulhois). Après la mort d’Alphonse VI de Castille, la nouvelle reine Urraque épouse Alphonse Ier d’Aragon mais il n’est pas reconnu roi de Castille alors qu’il le souhaite. Urraque prend la tête de ses troupes pour défendre ses cités contre l’armée de son mari, résistant notamment lors du siège d’Astorga. En parallèle, elle stoppe des nobles galiciens qui tentent de porter son fils sur le trône car il n'a aucun lien de parenté avec Alphonse. Le mariage est ensuite annulé. 
- </p>
-  <p>
+ </p>),
+be: (  <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       
     ]
@@ -86,142 +82,132 @@ La région de Barcelone faisait partie du royaume des Francs mais le comte Borel
     sections: [
       {
         titre: "Le Béarn face à la Croisade",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
     Élevée en Aragon, Pétronille de Comminges (possède Marsan et Bigorre) se marie à Gaston VI de Béarn. Après sa mort, elle se remarie plusieurs fois car elle n'est pas une guerrière et il faut un guerrier pour défendre un comté. Elle sécurise les routes pyrénéennes en cédant le Marsan à Guillaume Ier de Béarn. Elle verse des rentes aux pauvres et finit sa vie au monastère de l'Escaladieu. Gaston VI avait renoncé à Mixe et Ostabarret en échange d’Orthez face au vicomte de Dax et conclut la paix avec le vicomte de Soule.Il n'y a pas de cathares en Béarn mais, fidèle à son suzerain, Pierre II d’Aragon (catholique aussi qui a envie de dominer toutes les Pyrénées) il se bat contre la France et l'Église (croisade contre les Cathares). Ils perdent à Muret en 1213 (Pierre II d’Aragon est tué au combat), le pape l’excommunie et il devra donner une partie de la ville d'Oloron à l'Église pour revenir en communion. Guillaume Raymond, frère jumeau de Gaston VI, a aussi des terres catalanes de par sa lignée Moncade mais il est responsable de l'assassinat de l'évêque de Tarragone en 1194, excommunié par l'Église, il doit faire "pénitence". Il veut maintenir l'influence de l'Aragon en Béarn. Après des tensions avec Guy de Montfort, il conclut avec Pétronille, la comtesse de Bigorre, une "ligue perpétuelle" contrôler les routes des Pyrénées et se protéger de la France et de l'Angleterre, en échange, il reçoit le Marsan. Il publie les Fors de Morlaàs (1220) et d'Ossau (1221). Le seigneur ne peut pas faire n'importe quoi, il doit respecter les coutumes locales. Il court entre Béarn et Barcelone puis meurt à Oloron en 1224. Guillaume II était plus intéressé par la politique en Catalogne et en Aragon que par le Béarn. Donc, pour avoir la paix en Béarn et pouvoir partir à la Reconquista l'esprit tranquille, il rencontre le représentant du roi d'Angleterre à Captieux (1228) pour rendre hommage (le Béarn garde ses fors). Il meurt au combat en 1229. Son tombeau porte les deux vaches, c'est la preuve la plus ancienne de ce symbole.
-        </p>
-         <p>
+        </p>),
+   be: (      <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "Gaston VII face à l'Angleterre",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
      Gaston VII, qui a reçu le Marsan de sa femme Mathe de Mastas (fille de Pétronille de Comminges et de Boson de Mastas), mais pas la Bigorre (donnée à un petit-fils de Pétronille par testament), accompagne Henri III d'Angleterre en campagne en 1242 et lui rend hommage. Mais la même année il déplace le centre du pouvoir de Morlaàs à Orthez, renforce les places fortes (Sauveterre), fonde des bastides (comme Bellocq) et construit le château de Roquefort. Il crée les postes de "bailes" et de "péagers" pour collecter les taxes, instaure l'enquête inquisitoire. En 1245, il prend la tête d'une ligue anti-anglaise. En 1252, il lâche Henri III pour devenir le vassal d'Alphonse X de Castille. Après un traité entre Henri III et Alphonse, il se ressoumet en 1255. Puis Henri III d'Angleterre et son beau-fils meurent, il peut se rebeller contre les Anglais. Il fonde le couvent des Cordeliers à Mont-de-Marsan en 1260. En 1273, il est capturé, jugé à Sault-de-Navailles et contraint de livrer Orthez. En 1274, devant le Parlement de Paris, il insulte le roi Édouard Iᵉʳ et veut défier le roi en personne !  Il ira en prison à Winchester pendant 3 mois. C'est Constance de Marsan (veuve) qui négocie avec l'Angleterre, le Béarn rend hommage mais conserve ses fors. Gaston se révolte encore, mais en 1279, il obtient le pardon d’Édouard Iᵉʳ à des conditions avantageuses. Il donne le Béarn à Marguerite et unit Foix-Béarn (son mari étant Roger-Bernard III qui s'était proclamé « comte de Foix par la grâce de Dieu » en 1274 mais encerclé, il a renoncé). Lors de la réunion de la Cour de Béarn à Morlaàs le 11 mai 1286, Marguerite Moncade, par son père, reçoit le Béarn puis le Marsan après le décès de sa sœur Constance. Elle prête hommage au roi d'Angleterre pour ses fiefs gascons, en préservant les fors béarnais lui permettant de contrer les ambitions françaises mais ne prêtera plus jamais hommage. Elle reçoit le comté de Bigorre sous forme de don de la part de sa sœur Constance mais le Parlement de Paris l'oblige — après les protestations de l'Armagnac au nom de Mathe, sœur de Marguerite — à annuler cette donation en 1290. Elle a refusé l'arbitrage de Philippe le Bel en 1304 car il ne respectait pas le testament de son père en rappelant que les Béarnais devaient être jugés selon leurs lois et non celles des “Français” avant une intervention royale. Même quand son fils a été en âge de gouverner, elle a gardé les rênes du pouvoir et a assuré 2 régences avec l’appui des barons jusqu’à 1319 (elle a permis l'ascension de riches paysans et marchands).
-          </p>
-           <p>
+          </p>),
+   be: (        <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Jeanne d'Artois et les Fors",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
 Jeanne d’Artois ne fut rétablie dans ses droits de curatrice, tutrice et régente par Paris qu’après la mort de Marguerite qui laisse des milliers de sous aux filles pauvres d'Orthez et Pampelune pour leur mariage. Jeanne d’Artois accueille favorablement les réclamations des bourgs (accorda au bourg d’Orthez le bénéfice du for de Morlaàs) et des vallées (reconnut aux Ossalois les droits immenses qu’ils réclamaient en vain depuis une centaine d’années, au moins sur le Pont Long), moins prises en compte sous Marguerite (représentant le respect de la multiculturalité au sein du Béarn). Après l'affaire du baron de Navailles (qui avait fait appel à la France via son fief), Jeanne conteste car Saint Sever devait être saisie avant Paris. Mais elle utilisa aussi Charles IV le Bel pour protéger le Béarn d’Édouard II d'Angleterre. En guerre avec son fils, elle est emprisonnée, puis sera libérée par Fébus. Gaston IX combat pour les rois de France, ce qui fâche les Béarnais (ses sujets continuent de financer et de servir le roi d'Angleterre) car s'opposant à l’Angleterre, il sacrifie l'économie locale (pâturages landais, port de Bayonne et revenus du Marsan). Il place Foix sous l'autorité du Sénéchal de Toulouse et non plus de Carcassonne qu'il tient du roi de France mais doit fidélité au prince de Catalogne (roi d'Aragon) pour le Donezan et Castelbon. Gaston partageait aussi l'Andorre avec l'évêque d’Urgell. Lorsque Gaston IX partit combattre en Flandres pour le roi de France, il obtient la vicomté de Lautrec et la promesse de la vicomté basque de Soule, à condition d’en expulser les Anglo-Gascons. Le pape et Philippe d'Évreux font signer à Armagnac et à lui un compromis sur la Bigorre à Tarbes en 1329 : elle reste à la France. Ensuite, Armagnac sera enfermé lors du siège de Ferrare. Il participe aussi à une croisade en Andalousie et Aliénor (qui lui a apporté les Terres-Basse Albigeoises) assure la régence. 
 
 
-</p>
- <p>
+</p>),
+be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "La Régence d'Aliénor de Comminges",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
         Aliénor de Comminges, 8e enfant de Bernard VII de Comminges, promise à Gaston IX, 14 ans de moins qu’elle, répondit avec esprit : « Si c’est le comte de Foix, je n’hésiterais même pas à attendre qu’il naisse. » Très pieuse, Aliénor eut plusieurs enfants morts en bas âge et fonda une œuvre religieuse en leur mémoire ainsi que pour son fils survivant, Gaston. Aliénor assure la régence jusqu’aux 21 ans de Fébus. Elle rembourse la dette de Burgos, acquiert la seigneurie de Lannemezan et remet des comptes impeccables à Fébus. Avec son fils, elle parcourt le pays pour rencontrer ses sujets après 2 régences difficiles. Fébus disait vouloir servir la France comme son père mais limita son engagement à la défense de son Marsan et de son Gabardan qu’il tient de la France. Après la victoire anglaise de Calais, Philippe VI de France convoque ses vassaux à Amiens mais Fébus ne vient pas et déclare l'indépendance du Béarn le 25 septembre 1347, Fébus reste vassal du roi de France et d'Aragon pour ses autres terres.  La Navarre était devenue capétienne car le roi de France Philippe IV était marié à la reine de Navarre mais ensuite la succession française partit au mâle le plus proche, alors que la succession navarraise se transmettait par les filles (Jeanne II, mariée au Capétien et normand Philippe d'Évreux). Aliénor choisit Agnès, la princesse navarraise avec accord de la France pour son fils. Blanche de Navarre, sœur d’Agnès, se marie avec Philippe VI donc Febus est le beau-frère du Roi de Navarre et de la Reine de France. Jeanne de Navarre meurt sans payer la dot promise à sa fille. Philippe VI meurt vite, Jean II lui succède et il fait face au demande de Charles II de Navarre (frère d'Agnès) pour ses terres sur l'hexagone. La France soutenait  la famille de la Cerda face à la Castille. Jean II avait placé sa confiance en l’un de leurs descendants, Charles d’Espagne, en lui donnant le comté d’Angoulême en 1353 (celui que Charles II revendique). 
-          </p>
-           <p>
+          </p>),
+be: (           <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Les Campagnes Militaires de Fébus",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (    <p>
 En 1351 Gaston, est nommé lieutenant-général par Charles II, se range à ses côtés et participe aux combats contre les Anglo-Gascons dans la région de Condom. Puis, une trêve est signée et Charles II se marie avec la fille du roi de France. En 1352, Jean II nomma Jean Ier d'Armagnac lieutenant-général en Languedoc, choix qui déplut fortement à Gaston.  À Toulouse, les capitouls (magistrats municipaux) craignaient que Lafrançaise, tombée aux mains des Anglais, ne mette la ville en danger. Ne se sentant plus protégés, ils conclurent un accord financier avec le comte de Foix (une forte compensation pour qu’il contraigne Stafford à se retirer. Il agissait comme un entrepreneur de guerre indépendant en intervenant contre paiement, sans s’engager officiellement dans un camp. Puis, avec Gui de Comminges, il reprend Lafrançaise, contraignant Stafford à se retirer. Le 19 octobre 1353, alors qu’Arnaud-Guilhem (gouverneur de Béarn en l'absence de son demi-frère Febus) déjeunait au couvent des Frères Prêcheurs, des hommes et des femmes armés attaquèrent le bâtiment ! Arnaud-Guilhem les arrête. De retour en novembre, Fébus, au lieu de les pendre — ce qui aurait été normal —, demande une amende collective et suspend les fors. Une fois celle-ci payée, le 4 avril 1354, Orthez retrouva ses privilèges. Cette décision restait fidèle à l’esprit des Fors du Béarn, qui ne prévoyaient aucune peine afflictive mais seulement des compensations financières adaptées à la gravité du dommage et à la situation sociale de la victime.
-</p>
- <p>
+</p>),
+be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
 
         {
         titre: "Le Prince Noir débarque à Bordeaux",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
 Au début de 1354, un marchand de Sauveterre-de-Béarn, Pélegrin de Fosse, ayant acheté des marchandises à Bordeaux pour les vendre à Montpellier, fut arrêté par les autorités locales et se vit confisquer une somme de 300 écus destinée à son commerce sous prétexte qu'il était anglais.Febjs leur précise dans une lettre du 5 mai 1354, que les Béarnais sont sujets d’un pays souverain. Gaston X obtient la libération de Pélegrin, mais non la restitution de ses biens. Le 8 janvier 1354, Charles d’Espagne fut assassiné par des hommes du roi de Navarre. Jean le Bon, roi de France et beau-père de Charles II, réagit violemment en ordonnant à Comminges et à Armagnac d’envahir les domaines navarrais au nord des Pyrénées. Fébus refuse d'aider, ne serait-ce que Comminges et Armagnac à passer, étant ennemi de l'Armagnac qui venait de ravager ses terres à partir d’Aire-sur-l’Adour quand il combattait contre les Anglo-Gascons. Charles II se rapproche d' Édouard III d’Angleterre. Jean le Bon conclut un nouveau traité avec son gendre, lui cédant la Champagne et la Brie. En échange, Charles II restitue ses domaines normands, mais il garde la possibilité d’exercer un chantage politique en contrôlant le port stratégique de Cherbourg, désormais accessible aux Anglais. Grâce à ce port, Charles II proposa à Édouard III un partage du royaume de France. Édouard III projette un débarquement à Cherbourg (Gaston était du complot). Jean le Bon, paniqué, conclut la paix de Valognes le 10 septembre 1355, amnistiant les conjurés, parmi lesquels figurait le comte de Foix. Peu après, le prince Édouard de Woodstock (le futur Prince Noir), fils aîné d’Édouard III, débarqua à Bordeaux avec des renforts. Le Prince Noir est nommé lieutenant-général de Gascogne en 1353. Il y est chargé d’une vaste offensive en coordination avec Charles II de Navarre. Nonobstant, ce dernier s'étant réconcilié avec Jean le Bon, le prince de Galles débarque finalement à Bordeaux le 23 septembre 1355. Cette même année, il lance une grande chevauchée à travers le Languedoc, région prospère depuis le règne de Saint Louis et dévaste les campagnes. Jean Ier d’Armagnac, impuissant, s’était réfugié dans Toulouse. 
-</p>
- <p>
+</p>),
+be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
         {
         titre: "L'Art de la Neutralité Payante",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
 En janvier 1356, Jean le Bon signe des lettres de rémission pour amnistier son fils, le roi de Navarre, ainsi que le comte de Foix. Cette clémence renforce Charles II de Navarre dans la conviction qu’il peut tout se permettre et il monte alors un nouveau complot, découvert lors d’un banquet à Rouen le 5 avril 1356. Il y est arrêté, certainement comme Fébus, son complice présumé. Le roi de France exige alors de Fébus un hommage pour le Béarn, mais celui-ci refuse, préférant préserver la souveraineté de ses terres. Alors que le Prince de Galles s’apprête à lancer une chevauchée entre Bordeaux et Calais, le roi finit par libérer Fébus pour éviter qu'il ne change de camp. Fébus ira accueillir le roi d'Aragon à Perpignan contre la Castille (hommage à Pierre IV pour ses terres de Cerdagne et de Conflent, promettant en retour une aide militaire, en échange d’une indemnité confortable pour chaque homme et chaque cheval engagé). Ensuite Pierre d'Aragon demande Fébus à l'aide pour la guerre des 2 Pierre, mais Fébus demande a être payer plus. Pierre IV finit par céder, concédant à Gaston un supplément de solde pour chaque soldat.  Fébus a l'assurance que le prince noir (Edouard de Windstock, Prince de Galles) n'allait pas attaquer le Béarn. Il se rapproche de la Castille donc il reçoit le paiement intégral des soldes promises par l'Aragon avant le début de la campagne militaire. Fébus avança lentement et arriva après la trêve. Jean le Bon est capturé à Poitiers par le prince noir. Puis Gaston décide de partir en croisade avec le seigneur pro-anglais Jean III de Grailly, captal de Buch (lui assurant aucune attaque anglaise). Le pays de Buch fut reçu par cette famille originaire de Savoie par un mariage avec des Anglais au XIIIe siècle (Pierre de Grailly épouse grâce aux Anglais une héritière bordelaise). Fébus peut donc ne pas répondre aux sollicitations du roi d’Aragon, dont la trêve avec la Castille venait d’être rompue, lui évitant ainsi d’être impliqué dans le conflit entre la Navarre et la France. Il emprunte à Bruges pour financer sa croisade et aura du mal à la rembourser. 
-</p>
- <p>
+</p>),
+be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
         {
         titre: "Fébus écrase la Jacquerie Médiévale",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
 Le dauphin Charles est régent du royaume en l'absence de son père, retenu prisonnier à Londres. Les États-Généraux de Paris, sous l’influence du prévôt des marchands Étienne Marcel, exigeaient des réformes et critiquaient sa manière de gouverner. Des bandes de mercenaires ravageaient le territoire : les Navarrais en Normandie, les Anglais dans le Berry, le Poitou et l’Auvergne. Le 25 mai 1358 éclata, dans le Beauvaisis, une violente jacquerie menée par un certain Jacques Bonhomme, qui se répandit dans le Soissonnais, le Valois et la Brie, donnant lieu à de terribles violences. Étienne Marcel, affaibli, crut pouvoir tirer parti de ce soulèvement, tandis que le Dauphin Charles, pour protéger sa famille, mit à l’abri sa femme Jeanne de Bourbon, sa sœur la duchesse d’Orléans, et leurs dames d’honneur dans la ville fortifiée de Meaux.  La bourgeoisie locale, gagnée aux idées d’Étienne Marcel, constituait encore un soutien actif à Charles II de Navarre. Selon Honoré Bouvet et Michel du Bernis, les princesses françaises pensèrent que seul Fébus pouvait les sauver et l'appelèrent de Prusse. Arrivé sur le marché de Meaux, il aurait annoncé à la Dauphine le cri de guerre « Fébus en avant ! ». Les Jacques, pris au dépourvu, furent massacrés. La Dauphine, voyant la déroute des révoltés, leur aurait adressé un dernier appel : « Fuyez, vilains Jacques, car le comte de Foix marche sur vous ! » Finalement, la ville fut sauvée, les princesses libérées, et de grandes fêtes furent organisées en l’honneur de Fébus et de ses gens, la reine elle-même participant aux réjouissances. Fébus repartit ensuite en Béarn. Selon Esquerrier, c’est à Meaux que Fébus aurait confié à la Dauphine sa célèbre devise : « Toque y si gauses ».
 
-</p>
- <p>
+</p>),
+be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
         {
         titre: "La Grande Victoire de Launac",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
 Le dauphin de France nomme lieutenant en Languedoc le comte de Poitiers (son frère Jean), laissant la région sous la garde de Jean Ier d’Armagnac, gouverneur et allié avec le pape. Le Languedoc occidental est favorable à Fébus mais le Languedoc oriental, aligné sur Carcassonne, lui est hostile. Au cours de l’hiver 1359-1360, Gaston profite de la rupture entre le Dauphin Charles et le roi d’Angleterre Édouard III pour rallier les bandes anglo-gasconnes et lance une vaste chevauchée militaire (Bigorre, Foix, l’Albigeois...). Jean Ier d’Armagnac, également comte de Rouergue, tenta de résister depuis Lautrec, tandis que le comte de Poitiers cherchait en vain à négocier la paix car les finances du royaume étaient épuisées, les revenus de Champagne faibles, et le prince noir, fils d’Édouard III, menaçait Reims. Fébus demandait la Bigorre, le remplacement du lieutenant général et de l'argent. Débutant une guerre d'usure avec Jean de Poitiers, qui se mariera avec une infante d'Armagnac. Au printemps de 1360, le traité de Brétigny donne Poitiers aux Anglais, la Bigorre devient anglaise comme toute l'Aquitaine, les Albret, ex-alliés des Anglais, s'allient à l'Armagnac. Fébus signe Pamiers et reçoit de l'argent du Languedoc.  Fébus, dans son autorité grandissante, va jusqu’à nommer un receveur agissant en son nom dans la sénéchaussée royale de Beaucaire, où il se comporte comme sur ses propres terres. Les routiers (mercenaire) ravagent la région du sud de la France. Jean, duc de Berry, lieutenant général en Languedoc dérange Fébus car il est le gendre d'Armagnac. Le 5 décembre 1362, les deux armées d'Armagnac et de Béarn se rencontrent près de Launac et c'est une victoire pour Fébus. 
-</p>
- <p>
+</p>),
+be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
         {
         titre: "Fébus esquive le Prince Noir",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
 Febus reçoit de l'argent (conserve ces prisonniers jusqu'à recevoir l’intégralité des rançons, car à l’époque une partie des sommes versées disparaissait souvent entre les mains des intermédiaires) et la maison d'Armagnac renonçait à ses réclamations territoriales. À la suite de cette victoire il répudie sa femme se déliant de Charles de Navarre avec qui il avait eu des intrigues contre la France. Le 14 janvier 1364 vers neuf heures du matin, Fébus rend hommage à Edouard de Galles pour le Marsan et le Gabardan mais pas le Béarn. Ensuite après avoir retrouvé l'ancien hommage de Marguerite, Édouard lui dit de venir prêter hommage pour le Béarn. Mais Fébus prétexte alors une blessure à la jambe. Édouard renvoie un sauf-conduit et un médecin, Gaston lui assure que sa jambe guérit « grâce à Dieu » en le flattant. Le prince lui dit de venir fin septembre (fermé car les Anglo-Navarrais ont déjà perdu la bataille de Cocherel, ce qui stoppe l'ambition de Charles II). Castelbon, Albret et même Armagnac (ruiné par la rançon qu'il doit payer à Fébus, il a demandé l'aide du prince de Galles) ont prêté hommage. Fébus ne prête toujours pas hommage et parle d'un complot qui l'attend. 
-</p>
- <p>
+</p>),
+be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       
     ]
@@ -235,88 +221,82 @@ Febus reçoit de l'argent (conserve ces prisonniers jusqu'à recevoir l’intég
     sections: [
         {
         titre: "Le Justicier du Château de Pau",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
 Sous le préau de sa vigne à Moncade, près du gave au pied du château de Pau, Gaston affirme juger « le pauvre comme le riche » : n'importe qui peut lui demander justice. Il annula la nomination d'un tailleur au poste de jurat car l'élection s'était faite contre sa volonté, il réprime sévèrement le bailli d'Oloron qui tentait d'interdire aux habitants l'usage de leurs propres fours, face à une mère de famille chargée de six enfants dont les biens étaient hypothéqués (mort de son mari), il ordonna la suspension immédiate de la vente pour éviter la ruine de la famille. Lorsqu'un marchand d'Orthez fut dépouillé de sa cargaison par des commerçants du Languedoc, Fébus appliqua la loi du talion économique : il fait saisir des marchandises provenant du Languedoc pour compenser la perte de son sujet. L'un de ses jugements les plus célèbres concerne une femme « chef de maison » (épouse d'un cadet ayant pris le nom de sa femme) coupable d'adultère avec le baron d'Arros. Alors que ce crime était passible de mort dans une grande partie de l'Europe, Fébus préféra une solution pragmatique : Gaston demande au mari de reprendre son épouse et celui-ci accepte. Le baron d'Arros est donc condamné à une lourde amende et la femme, quant à elle, dut verser le double de sa dot à son mari à titre de réparation. 
 
- </p>
-  <p>
+ </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "AYolande de Bar, reine-lieutenante",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
         Yolande de Bar, mariée à 15 ans avec Jean Ier d'Aragon alors âgé de 30 ans, cherche un rôle politique à la cour mais la reine Sibylle de Fortià s'y opposait. Jean délègue souvent à sa femme l'autorité royale et parvient à éviter une crise. Devenue reine-lieutenante, elle transforme sa cour en un centre de culture française. Elle échangeait avec Gaston Febus. Éjectée du pouvoir à la mort de Jean avec la maison d'Armagnac, elle tente d'envahir la Catalogne mais elle termine enfermée au château Moncade près de Barcelone. En 1417, devant le Parlement de Paris, elle récupère le Bar pour son petit-fils, le bon roi René, fils de Yolande d'Aragon (qui a protégé le futur Charles VII).
- </p>
-  <p>
+ </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "Fébus entre France et Angleterre",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
      La guerre civile castillane entre Henri de Trastamare et Pierre le Cruel mobilisa les ressources anglaises amenant la taxe du foyer et provoqua un soulèvement des barons gascons. Grâce à la France, Henri monte sur le trône, Pierre va en 1366 se réfugier chez le Prince Noir et Charles de Navarre pour repartir avec les Albret-Armagnac. Ses vassaux du Marsan et de Gabardan furent intégrés à l’arrière-garde anglaise, sous les ordres de Jean III de Grailly. Henri est vaincu, il franchit le Somport et est accueilli au château Moncade par Fébus, qui l'envoie ensuite en pays de Foix d'où il reprend la lutte en harcelant les garnisons anglo-gasconnes de Bigorre. Fébus plaça la région béarnaise en état d’alerte (8 mai 1367). Pierre le Cruel se met à tuer les prisonniers, le prince noir veut pas car ils représentent un butin, Albret n’est pas content puis le prince noir tombe malade comme son armée. Le Prince Noir va donc emprunter sans guerre la route de Sauveterre-de-Béarn à Orthez en promettant de payer son ravitaillement « jusqu'à la moindre poule ». Le clan Armagnac-Albret, cherchant un nouveau mécène (anglais ruiné), se tourna vers Charles V. Arnaud-Amanieu d'Albret épouse Marguerite de Bourbon (belle-sœur de Charles V), recevant une pension de 60 000 francs et 42 000 francs d'arriérés dus par Édouard III. Jean Ier d'Armagnac signe une alliance le 30 juin 1368. À son avènement, le roi Charles V nomme Louis d’Anjou lieutenant-général en Languedoc pour chasser les Anglo-Gascons du Midi avec l'appui d'Armagnac. Cependant, Louis constate la faiblesse et lemanque de popularité d'Armagnac devant Gaston Fébus qui, tout en jurant fidélité à la France, intimide Armagnac. En parallèle, le Captal de Buch pille la région pour l'Angleterre mais épargne le territoire de Fébus, un chef puissant et riche dont la solde attire les mercenaires. Pour riposter, Louis d’Anjou attaque les places fortes de Buch et reprend notamment Tuzaguet à son capitaine, Bascot de Mauléon, lequel finira par se mettre directement au service de Fébus. Le siège de Lourdes est difficile et se conclut par un accord le 5 juillet : les Compagnons peuvent rester, mais placent le château sous l'autorité du roi de France. Anjou doit se retirer car le duc de Lancastre (Jean de Gand) débarque à Calais. Gaston Fébus se rapproche de Jean de Lancastre, qui prétend au trône de Castille, et met le château de Lourdes sous son autorité. Forcé de réagir, Charles V s'allie à Henri de Trastamare (le rival de Lancastre) et rappelle Anjou. Ce dernier détache Roger-Bernard de Castelbon de l'orbite de Foix. Fébus obtient l'évacuation de la garnison anglo-gasconne du château de Mauléon et installe, en septembre 1375, ses propres troupes pour protéger les Souletins contre 4 000 francs. Fébus instrumentalise les routiers pour déstabiliser les seigneuries voisines et les pousser à solliciter son aide (en avance sur le modernisme), étendant ainsi indirectement son autorité tout en fortifiant Pau. C’est en cette même année qu’est signé le Tribut des Trois Vaches, qui est aujourd’hui le plus ancien traité de paix d’Europe toujours en vigueur (la Junte de Roncal entre le Barétous et Roncal).
            
-             </p>
-              <p>
+             </p>),
+   be: (           <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
         {
         titre: "La guerre pour le Comminges",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
      La mort de Pierre-Raymond II de Comminges, le 15 octobre 1375, pose un problème de succession. En 1339, après la mort d'un garçon en bas âge, le comté aurait pu revenir à la sœur aînée, Cécile, mais Pierre-Raymond n'en sort vainqueur qu'avec l'aide de son beau-père, Gui de Comminges (le « redoutable roi de l'Albigeois »), et du roi de France Philippe VI. Pour éviter que le Comminges ne tombe aux mains des Anglais, ces derniers en font un fief masculin, ce qui constitue une justification post hoc (sophisme de la rationalisation). En 1375, on se retrouve face au même problème, d'autant plus que l'héritière est mince. Fébus réclame cette couronne par l'intermédiaire de sa défunte mère, qui souhaitait être inhumée à Notre-Dame de Salanques, qu'elle a fondée. Il rencontre Jeanne de Muret sur un pont. Armagnac prévoit de marier son fils à l'héritière. La guerre se prépare et Fébus fait revenir son fils naturel, Bernard, comte de Medinaceli. Le 6 janvier 1375, à Orthez, plusieurs seigneurs commingeois, contre de fortes sommes d'argent, promettent de le servir « contre tous à l'exception de leur seigneur naturel le comte de Comminges ». Cependant, si ce dernier « meurt sans enfant mâle, ils mettront tout leur pouvoir » au service du comte de Foix. Après l'échec de son entrevue avec Jeanne de Comminges, Gaston X attaque dès le mois de juillet. Il laisse en couverture le captal de Buch à Cazères-sur-l'Adour, mais Jean II d'Armagnac s'en empare. Fébus les emmure ! Ils se rendent, mais avec l'appui du roi, la coalition Armagnac-Albret-Comminges est sûre de l'emporter tôt ou tard. Gaston juge donc préférable de mettre fin à la guerre. Jeanne de Comminges, inquiète pour l’avenir de sa fille Marguerite, envisage de la marier au roi de Navarre. Pour empêcher cette alliance, Jean d’Armagnac impose, le 18 juin 1378, le mariage de Marguerite avec son propre fils, Jean III. Ils acceptent alors de reprendre les négociations avec le Béarn, sous la médiation du duc d’Anjou. L'héritier béarnais, le jeune prince Gaston, est uni à Béatrix d’Armagnac ; Fébus renonce au Comminges mais reçoit maintes terres, et des dizaines de seigneurs du Comminges deviennent ses vassaux directs (du vivant de Fébus). L’emprise sur Lannemezan, Tournay et Mauvezin isole la puissante famille de La Barthe, jusque-là pilier de la domination armagnacaise, et prive Jean d’Armagnac de son contrôle traditionnel sur presque tout le haut cours du fleuve, à l’exception du secteur de Miramont. Désormais, il devient possible de chevaucher d’un seul trait depuis le château de Mazères jusqu’à celui de Mauvezin en restant constamment sur des terres tenues par le Béarn ou sur des fiefs nouvellement vassalisés. 
      
            
            
-              </p>
-               <p>
+              </p>),
+    be: (           <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "La Mort du Jeune Gaston",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
          
 Les sujets béarnais sont fiers du luxe de leur seigneur (les États donneront plus tard 2 000 écus à Jean d'Albret) et donnent de la nourriture au vicomte en guise d'impôt. Guiraud Lacroze (le maître de cuisine de Fébus) n'hésite pas à réprimander ceux qui fournissent de la volaille de mauvaise qualité. Fébus soupe en général à minuit. Odon de Mendousse est l'évêque de Lescar et le précepteur du jeune Gaston. En mars 1378, cet évêque reçut officiellement 400 florins de la part de Charles II de Navarre pour des « services » rendus. Les espions de Fébus notèrent les allées et venues de messagers ainsi que l'implication d'Yvain (le bâtard) à Pampelune. Charles II de Navarre jalousait le succès et le train de vie supérieur de Fébus. Charles II privilégie les solutions expéditives : en 1378, un chambellan du roi de France est accusé d'avoir tenté d'empoisonner ce dernier avec une drogue fournie par le réseau navarrais. Le jeune Gaston, âgé de 15 ou 16 ans, rend visite à sa mère Agnès à Pampelune. Là, son oncle, le roi Charles II de Navarre, lui aurait remis une « petite bourse » contenant de la poudre. Le complot est découvert à Orthez. Soit Fébus rend visite à son fils en prison et le tue accidentellement, soit ce dernier est exécuté après un procès (la seule peine de mort prononcée sous le règne de Fébus !). Roger-Bernard de Castelbon, mari de Géraude de Sault de Navailles (la future régente), a un intérêt direct dans cette mort, car le testament de 1371 le désigne comme successeur ; Fébus l'emprisonne donc et ne le libère que contre 36 000 florins. L'évêque de Lescar et le seigneur d'Andoins se réfugient à Pampelune le 16 août 1380. 
 
-   </p>
-    <p>
+   </p>),
+be: (    <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
         {
         titre: "La Foi Profonde de Fébus",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
         Gaston Fébus quitte Orthez pour s’isoler à Pau, où il écrit son Livre des oraisons. Pour Fébus, tous les péchés peuvent être pardonnés sauf la méconnaissance de Dieu, qu’il considère comme la folie suprême menant à la damnation automatique. Il affirme n’y être « jamais tombé », même s’il avoue avoir été mordu par la morsure enragée de tous les autres maux. Dans la 12ᵉ oraison, il décrit la lutte incessante contre le diable, qui tend ses pièges dans chaque aspect de la vie. Fébus compare cette lutte à la chasse, qu’il juge vertueuse car elle éloigne l’oisiveté (« source de tous les péchés »). Le droit de chasse appartenait à tout homme jusqu'au règne d'Henri Ier de Béarn. Fébus conclut que santé, beauté et richesse s’évanouissent comme un songe. Malgré son désespoir, Fébus affirme sa foi orthodoxe en un Dieu unique et trinitaire : « Gloire au Père, au Fils et au Saint-Esprit ». Il invoque la Vierge Marie, les saints et les anges, notamment saint Michel, afin qu’ils intercèdent en sa faveur et l’aident à mourir d’une mort digne de louange. Fébus, en « indigne serviteur », implore la miséricorde divine et demande que toutes les générations prient pour son pardon, suppliant Dieu de le défendre contre le diable afin de ne jamais tomber dans le seul péché qu’il juge véritablement impardonnable. Fébus préfère s’adresser directement à Dieu, à la Vierge et aux saints. Il inclut le clergé dans ses prières, mais pour s’en plaindre. Il demande à Dieu d’apaiser sa vengeance contre les ecclésiastiques, dont certains ont un comportement public indigne ; Gaston utilise d'ailleurs des taxes pour le masquer (l'archevêque qui mariera plus tard Catherine de Bourbon n'avait par exemple jamais célébré de messe...). Il doute même de l’efficacité des sacrements, observant qu’après avoir partagé l’hostie avec un ennemi, leurs serments sont aussitôt violés. Malgré ce mépris, Fébus continue à nommer des prêtres selon ses propres intérêts, parfois choisis pour leur « pieuse ignorance ». 
-          </p>
-           <p>
+          </p>),
+ be: (          <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
 
@@ -324,16 +304,15 @@ Les sujets béarnais sont fiers du luxe de leur seigneur (les États donneront p
 
       {
         titre: "La Lutte pour le Languedoc",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
      Après la mort de Charles V en septembre 1380, son fils Charles VI, âgé de douze ans, devient roi. Le 19 novembre 1380, le Conseil royal nomme le duc de Berry lieutenant général en Languedoc, une décision impopulaire qui ravive les protestations (notamment à Poitiers). Le 17 décembre 1380, les consuls d’Albi demandent à Toulouse de reconnaître Fébus comme régent légitime. Cela pousse les États de Languedoc à débattre de la question entre 1380 et 1381, et ils demandent au roi l'exclusion de Berry.  Fébus proteste auprès du roi, accusant Berry de soutenir l’Armagnac, et réunit en avril 1381 les États à Mazères pour contester ses décisions. En juillet 1381, les négociations de Pamiers aboutissent à un compromis : Fébus abandonne ses prétentions sur la lieutenance du Languedoc contre 65 000 francs et une pension annuelle de 40 000 francs, à condition de rester neutre. Entre le 20 et le 21 juillet, les hommes de Fébus affrontent ces bandes près de Rabastens et Couffouleux, confirmant la fausse paix de Pamiers et la persistance de la rivalité entre Berry et le comte de Foix pour la domination du Midi. Le dimanche de la Madeleine, ses troupes surprennent et mettent en déroute les compagnons du duc de Berry devant les murs de Rabastens. Fébus fait alors exposer les bannières capturées à Mazères. Politiquement, le Languedoc est alors en révolte contre le duc de Berry ; ce dernier se voit donc obligé de déléguer ses pouvoirs à Fébus. Le 28 décembre, un accord est signé à Capestang : Fébus obtient une compensation financière, la reconnaissance de ses droits sur les terres de Bigorre et la liberté d'attaquer ses propres ennemis (Albret-Armagnac) sans intervention du duc. En échange, il abandonne les communautés languedociennes qu’il laisse à Berry. Par la suite, entre 1381 et 1382, les troupes de Fébus lancent des raids pour démontrer que les seigneurs actuels sont incapables de protéger leurs sujets. Désespérés, certains nobles et villages préfèrent alors se placer sous la protection du « seul homme capable de le faire » : Gaston Fébus. Constance de Rabastens connaît des extases mystiques et dresse un portrait héroïque de Gaston Fébus, par opposition à celui du comte d’Armagnac, figure du traître absolu. L’une de ses images, « la vache sera à l’ombre de la fleur », symbolise l’union imminente entre le Béarn et la France (Fébus et Charles VI, ou plus tard Henri II de Béarn qui devient Henri IV). 
-         </p>
-            <p>
+         </p>),
+  be: (          <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }
        
     ]
@@ -349,123 +328,114 @@ Les sujets béarnais sont fiers du luxe de leur seigneur (les États donneront p
 
        {
         titre: "Le massacre des Béarnais à Aljubarrota",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
        Jean Ier de Castille, allié de Fébus, revendique le trône, tandis que les Portugais soutiennent Jean d’Aviz. Malgré ses liens avec la Castille, Fébus refuse d'intervenir, car il sait que le duc de Lancastre (Anglais) soutient le camp portugais. Pourtant, de nombreux chevaliers béarnais décident de partir au combat. Fébus les avertit solennellement qu'ils ne reviendront pas et, le 14 août 1385, à Aljubarrota, 300 Béarnais sont massacrés. Accablé, Fébus s'enferme pendant trois jours avant de confier à son frère, Arnaud-Guilhem de Morlanne : « Jamais le pays de Béarn n’a perdu autant d’hommes en un jour, alors que je les avais prévenus ». Le conflit se déplace ensuite vers la Galice, que le duc de Lancastre convoite désormais. Pour contrer les Anglais, Charles VI envoie une armée commandée par le duc de Bourbon. Fébus indique que la Soule est sous sa protection, interdisant tout pillage sur ses terres. De plus, il désigne à Bourbon le site de Brassempouy, où s'est retranché Perrot le Béarnais, un routier pro-anglais et ennemi personnel du comte. Le duc rase le château. Ensuite, au retour de l'expédition, Fébus suggère au duc de laisser ses troupes se « défouler » sur les terres de l’évêque de Lectoure, situées dans le comté d’Armagnac. 
-           </p>
-            <p>
+           </p>),
+   be: (         <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "L'ingéniosité Financière de Fébus",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
         En 1385, Gaston Fébus fait recenser les foyers du Béarn et impose une taxe de deux francs par an et par feu (12 500 feux sont alors répertoriés). Pour garantir le paiement, il s’appuie une solidarité villageoise : les plus riches doivent compenser les défaillances des plus pauvres afin que le village atteigne toujours son quota (fonctionnement habituel sous la Monarchie Française). Fébus refuse d'instaurer la gabelle, car elle ruinerait l'économie vitale des salines de Salies. À la place, il multiplie les sources de revenus intelligentes. Il met en place la taxe de transit (des péages sont installés, notamment sur le pont d’Orthez), l'impôt sur la croissance (en prélevant 4 % sur l'accroissement de fortune des bourgeois, estimant que leur enrichissement découle directement de sa politique de stabilité), l'usure institutionnalisée (bravant l'interdiction chrétienne, il autorise et pratique l'usure avec des taux montant jusqu'à 43 %, ce qui lui permet de saisir les biens des nobles incapables de rembourser leurs dettes) ou encore le rachat des corvées (les sujets peuvent payer une taxe pour être exemptés de travaux publics). Ce trésor de guerre lui permet d'acheter la loyauté de seigneurs alliés. Pour gouverner, il promeut des hommes issus de la bourgeoisie comme Bernard de Luntz, ou récompense des serviteurs comme Pierre de Latapie en lui offrant des terres, l'élevant ainsi au rang de noble. À Navarrenx, les jurats en retard d'impôts vont d'eux-mêmes se constituer prisonniers à Orthez. Enfin, pour être le seul maître à bord, Fébus paralyse les assemblées d’États. S'il maintient la Cour Major et les communautés locales, il réduit leur rôle à une simple fonction consultative. 
 
-            </p>
-             <p>
+            </p>),
+ be: (            <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "Les Pillages organisés en Languedoc",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
            En 1388, Charles VI décide de s’émanciper de la tutelle de ses oncles (Berry et Bourgogne). Il s'entoure des Marmousets (favorables à la restauration de l’autorité royale et à la paix avec l’Angleterre) et veut mettre fin aux abus d’Anjou et de Berry en Languedoc. Le maréchal Louis de Sancerre vient voir Fébus à Orthez pour négocier le mariage de Berry avec Jeanne de Boulogne (élevée au château de Moncade), mais surtout pour sonder les intentions du comte de Foix. Fébus reste neutre par rapport au pape ; il reçoit d'ailleurs à Noël 1388 des évêques d’Avignon et de Rome (Rome pour ses terres aquitaines pro-anglaises et Avignon pour celles comme Foix), mais il prête de l’argent au profit du pape d'Avignon. Cependant, il exerce lui-même le droit de régale sur les bénéfices ecclésiastiques (une vision proche de celle de John Wyclif). De plus, Fébus recrute des marginaux (ses propres hommes, des vassaux de Lanta...) et de petits nobles ruinés comme Jacques de Naiz ou Pierre de Chaudière, qui pillent le Languedoc. Ces agissements s'apparentent à ceux des routiers vers Tarbes, poussant Michel de Serres, sénéchal de Bigorre, à songer à solliciter l'aide de Fébus. Sancerre lui demande d'arrêter. À ce moment, Fébus retient le fils de L'Isle-Jourdain (allié de l'Armagnac) en gage d’un prêt pour Mondonville, tandis que Jean III d’Armagnac a capturé des proches de Gaston, comme son conseiller Bernard de Duras. En 1389, le duc de Lancastre orchestre un accord entre Fébus et Jean III d'Armagnac. Fébus doit libérer le fils du comte de L’Isle-Jourdain (mais comme ce dernier meurt, L’Isle-Jourdain doit payer Fébus) et restitue les terres de Mondonville et de Gensac. De son côté, Jean libère Duras sans exiger de rançon et renonce à ses prétentions sur les Terres-Basses d’Albigeois. 
-           </p>
-            <p>
+           </p>),
+    be: (        <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Une Alliance Lucrative pour Fébus",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+ fr: (           <p>
           Héritière du Comminges par sa mère, Jeanne de Boulogne est sous la tutelle de Fébus (car sa mère trouvait son mari trop mou). Le comte souhaite initialement une alliance avec l'Angleterre, mais la paix étant signée avec la France, il décide de choisir le duc de Berry pour époux (qui n'est plus lieutenant en Languedoc et est ainsi éloigné des Armagnac) en échange d'une somme colossale. Lors du mariage, Charles VI est sauvé du Bal des ardents par sa nouvelle tante, Jeanne, qui étouffe avec ses vêtements les flammes (des déguisements enflammés accidentellement par Louis d'Orléans) ; le roi plonge alors encore plus profondément dans la folie. Froissart rapporte que cette union (malgré quarante ans d'écart) est un mariage heureux. 
 
- </p>
-  <p>
+ </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Mariette, Patronne de la Maison",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
       Dans les campagnes béarnaises, l'ordre social repose sur le premier-né (garçon ou fille), qui hérite de l'intégralité du patrimoine afin de préserver l'unité de la maison et d'éviter le morcellement des terres. Mariette de Suberbielle, en tant que premier enfant, devient la Daune (la patronne) de la maison Suberbielle. Ainsi, lorsqu'elle épouse Arnautuc, un cadet de la ferme Cami qui ne possède rien, ce dernier perd son nom d'origine pour adopter celui de la maison de sa femme et devient « Arnaud aperat de Soberbiele » (Arnaud dit de Suberbielle). C’est Mariette qui gère la propriété en son nom et prend les décisions financières (très certainement en accord avec son mari). Les nobles et les bourgeois doivent respecter cette hiérarchie, qui repose sur une égalité de principe dans les règles et sur des statuts distincts (sans aucun impérialisme, même entre plaines et vallées), assurant ainsi la vie en société. Froissart affirme d'ailleurs que sous la protection de Fébus (très sévère avec les élites béarnaises), le peuple vit dans une telle liberté et une telle harmonie que le Béarn ressemble à un véritable « paradis sur terre » alors que toute l’Europe est ravagée par la guerre de Cent Ans. 
       
-          </p>
-           <p>
+          </p>),
+   be: (        <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Les Castelbon et la Couronne",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+ fr: (           <p>
        En janvier 1390, Fébus va voir le roi de France à Toulouse, puis l’invite à Mazères. En le flattant, il signe un accord pour léguer le Béarn au roi de France à sa mort (« je suis français dedans comme dehors ») et s'engage en outre à ne plus attaquer l'Armagnac en échange de la Bigorre et d’une compensation financière. Ensuite, en avril, Fébus se rend à Bayonne pour rejoindre le duc de Lancastre. Il lui prête allégeance, affirmant qu'il se sent fondamentalement anglais, et reçoit de l’argent. En mai, il négocie avec l'Aragon contre l’Armagnac (avec qui les relations sont mauvaises depuis la prise de pouvoir de Jean) afin de pouvoir faire face au roi de France. Le 1er août 1391, à l’Hôpital d’Orion près d’Orthez, après une journée de chasse dans les bois de Sauveterre, le destin du comte bascule. Gaston Fébus, qui possède plus de 1 600 chiens, demande de l’eau pour se laver les mains. Au contact de l’eau froide, son visage pâlit, son cœur tressaille et il s’effondre en murmurant : « Je suis mort, sire Dieu, pardon ». Après la mort de Fébus, les États désignent Mathieu de Castelbon (âgé de 14 ans et gendre du roi d'Aragon). Pour y parvenir, ils font annuler le traité de Toulouse en échange de milliers de francs. Mathieu laisse le pouvoir aux États et part combattre aux côtés du duc de Berry pour le trône d’Aragon, avant de mourir sans héritier après avoir perdu ses terres catalanes dans cette bataille. La succession revient alors à sa sœur, Isabelle de Castelbon, et à son époux, Archambaud de Grailly. Ce dernier, bien qu'allié des Anglais, renonce à cette alliance en envoyant son fils Jean en otage à la cour de France, ce qui leur permet de récupérer Castelbon. À la mort d’Archambaud, Isabelle gouverne avec son fils Jean Iᵉʳ jusqu’en 1428.
-          </p>
-           <p>
+          </p>),
+   be: (        <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "Les Foix Maîtres du Midi",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
         La reine Isabeau de Bavière se rapproche de l'Angleterre (son mari, Charles VI, étant fou). Les Bourguignons, également alliés aux Anglais par mariage, font face aux Armagnacs (les ennemis du Béarn), eux-mêmes alliés par mariage au dauphin, le futur Charles VII. Jean Iᵉʳ est lieutenant général en Languedoc à la fois pour les Anglais et pour le dauphin (Isabelle est pro-anglaise, mais lui est pro-français de facto). Les officiers du roi en Languedoc doivent même passer par lui pour valider les ordres du souverain. Jean est en bons termes avec la Navarre (son premier mariage se fait avec Jeanne de Navarre) et aide l'Aragon. Il obtient ainsi des domaines vers la Catalogne et reçoit la Bigorre du roi de France en 1425. Son frère Mathieu obtient le Comminges par mariage. Son autre frère, Gaston de Buch, sert d'intermédiaire en tant que seigneur anglais, tandis que le cardinal de Foix, son troisième frère (qui fait construire une chapelle à Avignon ornée d'une fresque le représentant avec ses quatre frères), est légat du pape dans le Midi. Ils tiennent ainsi tout le Midi de la France et s'entraident constamment. À la mort de Jean Iᵉʳ en 1436, Gaston XI, fils de Jeanne d'Albret, est placé sous la tutelle de Mathieu de Comminges. Les États font du Béarn une petite république d’États, où le prince doit gouverner sous la surveillance d’institutions représentatives. Devenu majeur, il se distingue dès 1441–1442 dans les campagnes contre les Anglais autour de Saint-Sever et de Dax, au service de Charles VII, alors que Bayonne est encore anglaise. En 1443, Charles VII lui demande d’abandonner dans ses actes la formule souveraine « par la grâce de Dieu ». En échange du titre de lieutenant général du roi en Guyenne et en Gascogne, le vicomte accepte, ce qui alarme les États de Béarn. Les Gramont (partisans de la France) et les Beaumont (anglo-navarrais) agitent la Soule et la Navarre. En juillet 1449, Gaston XI met le siège devant Mauléon, place tenue par Louis de Beaumont, connétable de Navarre (le roi de Navarre étant son gendre). Le château est pris au nom du roi de France, et Gaston XI est fait chevalier et confirmé lieutenant général de Gascogne et de Guyenne. Louis XI, le nouveau roi, se méfie de Gaston au début, mais il marie ensuite sa sœur, Madeleine de France, au fils de ce dernier. En 1465, Gaston XI récupère Mauléon (une promesse faite à Gaston IX) et assiste aux États généraux de 1468 à la droite du souverain. Gaston, marié à l’infante Éléonore de Navarre, participe à la guerre de succession navarraise, et Éléonore devient reine de Navarre. Gaston fait aussi de Pau la capitale du Béarn (1464), renforce ses possessions, rachète Lautrec et devient vicomte de Narbonne. À la mort de son fils aîné Gaston en 1470, puis à la sienne en 1472, le Béarn passe à son petit-fils, François Fébus. 
-           </p>
-            <p>
+           </p>),
+  be: (          <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "La succession de François Fébus",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
        Madeleine de France, mère du jeune François Fébus, assure la régence. La France riposte économiquement face à ce Béarn que Louis XI qualifie de « point de mon royaume » (ne faisant pas partie de son royaume). Pour apaiser les tensions, Madeleine laisse la Soule — alors en proie à la guerre entre les factions Beaumont et Luxe — à la France. Éléonore, reine de Navarre, meurt en conseillant à son successeur François Fébus (couronné à Pampelune le 9 décembre 1481) de s’allier à la France. Cependant, ce dernier meurt à l’âge de 16 ans, probablement empoisonné en jouant de la flûte. Sa sœur Catherine, âgée de seulement 13 ans, est alors désignée héritière. L’Espagne d'Isabelle de Castille veut la marier au fils du prince des Asturies afin de récupérer la Navarre, mais Anne de Beaujeu, régente de France, intervient pour contrer cette ambition. Les États de Béarn refusent le projet espagnol et concluent, le 14 juin 1484, le mariage de Catherine avec Jean d’Albret, fils aîné d’Alain, sire d'Albret. Jean de Foix tente alors une insurrection pour faire valoir ses droits à la succession de François Fébus. En réponse, Anne de Beaujeu réunit un conseil royal à Montargis le 2 octobre, qui distingue nettement le Béarn et la Navarre du royaume de France : seuls les Cortès en Navarre et les États en Béarn peuvent désigner le successeur de François Fébus. 
-         </p>
-          <p>
+         </p>),
+  be: (        <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
   {
         titre: "La Pression des Rois Catholiques",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+fr: (            <p>
      En 1486-1487, Ferdinand le Catholique organise l’encerclement militaire de la Navarre et supprime les sauf-conduits des marchands navarrais, tandis que la famille Beaumont s’allie au comte de Lérin. En 1488, le traité de Valence place la Navarre sous tutelle espagnole pour apaiser les représailles et rouvrir le commerce, mais les troupes castillanes restent sur place. En 1491, il est formellement interdit aux rois de Navarre de marier leurs enfants sans l’accord préalable d’Isabelle et de Ferdinand. En 1495, un accord est signé à Burgos entre les rois de Navarre et ceux de Castille : le comte de Lérin se rend, remet ses biens et passe en Castille, tandis que la Navarre reste sous occupation militaire castillane jusqu’en 1500. En 1498, sous la pression des Rois Catholiques, la Navarre expulse les Juifs qui refusent de se convertir. En 1500, le traité de Séville prévoit la libération du royaume de l’influence castillane, mais Ferdinand retient à sa cour Madeleine, fille des rois de Navarre, dans le but de la marier à l’un de ses descendants. En 1506, Jean et Catherine signent le pacte de Tudela avec Philippe le Beau (roi de Castille), mais ce dernier meurt un mois plus tard et Ferdinand reprend le pouvoir. Enfin, en 1507, le comte de Lérin, trahi par des partisans beaumontais, est expulsé de Navarre avec les troupes castillanes. 
-  </p>
-   <p>
+  </p>),
+be: (   <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }
       
 
@@ -481,91 +451,85 @@ Les sujets béarnais sont fiers du luxe de leur seigneur (les États donneront p
       
         {
         titre: "La Souveraineté reconnue à Blois",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
        Le 6 mars 1509, Jean et Catherine déclarent par un mémoire que le Béarn n’est pas une seigneurie soumise au duc d’Aquitaine. Soutenu par Louis XII alors en Italie, le Parlement de Toulouse prononce la confiscation du Béarn le 7 janvier 1510. Face à cette décision, les États se réunissent avec Jean et Catherine le 26 février 1510 pour fortifier le pays. Une ambassade est envoyée à Louis XII, qui envisage un partage : la Navarre à la Castille et le Foix-Béarn à la France. Mais pendant ce temps, l’archevêque de Saragosse, fils de Ferdinand, affirme que la Navarre revient à son père et, en 1511, il signe à Venise avec le pape pour intégrer la « Sainte Ligue » contre la France. Les Béarnais proposent alors à Louis XII une alliance contre la Castille en échange de la reconnaissance de leur souveraineté. Louis XII accepte d’ouvrir des négociations. Le 2 mai 1512, une ambassade béarnaise arrive à Montrichard, près de Blois. Le 12 juillet, Jean et Catherine confient leur défense à Pierre de Fundères, procureur général de la vicomté, tandis que Jean de Nogerolles représente le Parlement de Toulouse. Pierre énumère les prérogatives du souverain béarnais : battre monnaie, faire grâce, lever des impôts, légiférer, rendre justice sans appel et déclarer la guerre. De plus, les Béarnais établis en France doivent obtenir des lettres de naturalité. Le 15 juillet 1512, les arbitres réunis à Blois cassent les arrêts du Parlement de Toulouse pour incompétence. Pierre de Biaix, arbitre, déclare que « le pays de Béarn est pays de par soi, tenu par ses seigneurs sans reconnaître de supérieur ». Pourtant, les souverains du Béarn ne nomment jamais d’ambassadeurs auprès des cours étrangères. Le 21 juillet, Ferdinand profite du contexte et de l’accord qu'il signe le 9 février 1512 à Londres avec Henri VIII d’Angleterre, hostile à la France (ce dernier se proclamera plus tard chef de l'Église d'Angleterre pour confisquer les richesses catholiques à la suite du refus de son divorce par le pape, et se mariera six fois). Les troupes castillanes envahissent la Navarre, sous prétexte que Jean d’Albret refuse de leur laisser le passage vers la France, alors en guerre pour l’Italie. Ferdinand a en réalité falsifié le traité de Blois pour le transformer en traité offensif. Jean et Catherine doivent se réfugier à Mauléon. En octobre, Jean d’Albret publie un manifeste contre Ferdinand, proclamant qu’il n’a aucun droit sur la Navarre, puis lance une contre-offensive avec Pierre de Navarre et Roger de Gramont. Celle-ci échoue. Les seigneurs de Luxe et de Gramont refusent de prêter serment à Ferdinand et voient leurs biens confisqués ; la Basse-Navarre reste profondément hostile à la domination espagnole. Les Cortès ne parviennent pas à lever les impôts dans les vallées de Mixe, d'Ostabarès, d'Iholdy-Armendaritz et d'Arbéroue, mais les institutions locales survivent : les juntes de Garris et d’Amendeuix rassemblent, en mars 1514, plus de 600 notables sous l’autorité du bayle Jaime de Zhala. La même année, les États de Basse-Navarre réunis à Uhart-Cize prêtent serment de fidélité au roi d’Aragon et doivent lui envoyer des otages. Le poète Bernard d'Echepare (auteur du premier livre imprimé en langue basque) est quant à lui emprisonné pour trahison. 
-          </p>
-           <p>
+          </p>),
+  be: (         <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
        {
         titre: "La guerre pour la Navarre",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+fr: (            <p>
       À la mort de Catherine de Navarre en 1517, Jean d’Albret ne conserve plus que la Basse-Navarre. L’héritier, Henri II d’Albret, est encore jeune et vit depuis 1515 à la cour de François Ier. Louise de Savoie et François veulent exercer sa tutelle, mais les États de Béarn la rejettent fermement et confient la régence à son grand-père, Alain d’Albret. Des troupes françaises, convaincues de trouver des alliés en Béarn, envahissent la vicomté mais sont repoussées. La trêve tacite conclue en 1512 lors de l’arbitrage de Blois est ainsi rompue. Dès lors, l’affrontement entre la France et le Béarn reprend, ouvertement ou non, jusqu’au début du XVIIᵉ siècle. Le chancelier Duprat refuse d’accorder des « lettres de naturalité » aux Béarnais installés en France tout en menaçant leurs biens, même si « le roi n'est point souverain seigneur du Béarn ». En 1519, durant cette période de tension, Alain d’Albret crée à Pau le Conseil souverain (inspiré du modèle navarrais d’avant 1512) afin de centraliser la justice et d’affirmer l’indépendance du Béarn. En 1521, Henri II d’Albret lance la reconquête de la Haute-Navarre avec le général Asparros. Le 15 mai, Saint-Jean-Pied-de-Port tombe et l’armée franco-navarraise atteint les portes de Pampelune, que le vice-roi quitte le 17 mai. Saint Ignace de Loyola est blessé lors de la prise de la ville. En quarante jours, les troupes franco-navarraises reprennent Saint-Jean-Pied-de-Port et libèrent tout le royaume. En 1523, Charles Quint lance une nouvelle campagne contre la Basse-Navarre et le Labourd, mobilisant 24 000 hommes. Ses troupes ravagent Saint-Palais, Mauléon et Ustaritz, mais l’expédition échoue : Henri II d’Albret conserve son autorité en Basse-Navarre. Le 28 août 1523, les États de Basse-Navarre se réunissent à Saint-Palais. Le commissaire d’Henri II, Bertrand d’Abbadie, y renouvelle au nom du roi le serment de garder les fors et libertés du royaume. 
-       </p>
-        <p>
+       </p>),
+  be: (      <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
        {
         titre: "De Pavie à la Paix des Dames",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
      Henri II, qui a des pèlerins pour parrains, fait battre une monnaie propre à la Basse-Navarre, un geste symbolique fort face à Charles Quint. Saint-Palais, devenu le centre d’opérations du Béarn et du sud de la France, est toutefois abandonné le jour de Noël 1523 après le raid dévastateur du prince d’Orange sur la Soule, le Labourd et la Basse-Navarre. En 1525, la victoire impériale de Pavie — où François Iᵉʳ et Henri II de Béarn sont faits prisonniers — consacre la domination de Charles Quint sur la Navarre. Henri parvient à s'évader, tandis que la future Marguerite de Navarre vient négocier pour son frère François Ier. La Navarre est alors divisée en deux entités : la Haute-Navarre revient définitivement à l’Espagne et la Basse-Navarre reste aux mains des Albret (ce qui est confirmé en 1530). Au traité de Madrid du 14 janvier 1526, le roi de France renonce provisoirement à ses prétentions sur l’Italie et la Bourgogne. De retour sur leurs terres, Henri et Marguerite fondent la Chambre des comptes de Pau, renforçant l’autonomie administrative du pays face à la France. Henri, très aimé du peuple béarnais, crée également la Cour criminelle, réduisant ainsi l’influence et les abus des magistrats. En 1529, la « paix des Dames » est signée entre Marguerite d’Autriche et Louise de Savoie. Cette paix met fin provisoirement au conflit entre la France et l’Empire. Les litiges sur la restitution des biens navarrais se prolongent toutefois jusqu’en 1539. La Haute-Navarre devient une province espagnole sans autonomie, tandis que la Basse-Navarre reste liée aux Albret. Sur le plan intérieur, en l’absence d'Henri II d'Albret, le pouvoir est exercé à partir de 1535 par sa sœur, Anne d’Albret, et par Jacques de Foix, évêque de Lescar et chancelier de Foix-Béarn. Entre 1538 et 1547, Henri transforme la bastide de Navarrenx en une forteresse bastionnée d'une modernité absolue. Véritable prototype de la fortification moderne bien avant Vauban, elle suscite l’inquiétude de Charles Quint, dont l'espion lui rapporte : « Sire, il y a des places que l'on prend, et d'autres que l'on laisse. Navarrenx est de celles-là. » En 1545, Tristan de Monein devient le premier gouverneur de cette forteresse. 
 
-   </p>
-    <p>
+   </p>),
+ be: (   <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
   {
         titre: "La Résistance face à la France",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
 Henri tente en vain de reconquérir la Haute-Navarre, que Charles Quint refuse toujours de lui restituer, ne lui reconnaissant que le titre de prince de Béarn. Face aux pressions extérieures, les États de Béarn restent farouchement attachés à leur souveraineté : ils refusent les documents rédigés en français, réservent les fonctions publiques aux seuls natifs du pays et affirment leur statut d’État indépendant face à la monarchie française. À la mort de sa femme, Henri veut épouser la duchesse de Lorraine (nièce de Charles Quint) ou l'infante Juana, fille de l'empereur, pour obtenir la Navarre en dot (à condition de déshériter sa propre fille). Dans cette optique, il élabore même des plans d’invasion espagnole passant par Bordeaux et Toulouse jusqu’à Pau. Plus tard, devenue souveraine, Jeanne poursuit sa politique d'indulgence envers ses opposants internes, et ce, en pleine guerre contre la Couronne de France. C'est d'ailleurs face à la politique française de contrefaçon des monnaies qu'elle menace de la peine de mort toute récidive. Cette fermeté stoppe définitivement le problème, même si le roi de France, Henri II, ne s’y plie pas.
 
   
-   </p>
-    <p>
+   </p>),
+ be: (   <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Propagande et Pouvoir en Béarn",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
     Merlin, envoyé par Calvin comme agent d'influence intérieur pour protestantiser le Béarn (à l'instar de la monarchie française, les Béarnais n’ont pas forcément la religion de leur souverain), demande beaucoup à Jeanne d'Albret. Il lui répète que ses efforts sont insuffisants pour constituer une avancée structurelle conséquente. Jeanne, quant à elle, demeure terrorisée car son peuple — dont elle a la charge devant Dieu — se montre hostile. Calvin lui soutient que ses doutes sont des attaques du diable. Elle va jusqu'à s'infliger des auto-amendes pour manque de foi, et proclame la première liberté de conscience de l'histoire (un sophisme, comme à chaque fois). La « modération » se déplace alors au niveau idéologique : les protestants saturent l'espace public (tous les hauts postes leur sont confiés, illustrant une pseudo-maïeutique socratique et une manufacture du consentement) et usent de paralogismes (comme le concept polymorphe et mot-valise de « fanatique », qui permet un véritable court-circuit mental) dans tout le Béarn. Malgré cela, Calvin estime que « ce n'est pas assez ». Coincée entre la France et l'Espagne qui mettent le Béarn en danger, la reine ne peut que continuer dans cette voie. Par la suite, la rigueur morale du protestantisme la conforte dans son idée de faire “sa propre Église de son côté” (surtout face aux mœurs féminines qu'elle observe hors du Béarn). Enfin, l'attaque de la France en 1569 terrorise le Béarn et permet d'imposer cette religion sans violence, de concert avec les États et dans le respect des fors (toute modification ayant eu lieu lors de l'attaque est annulée par la reine, à l'image de ce que fera la future Pologne).
     
        
        
-         </p>
-          <p>
+         </p>),
+ be: (         <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
        {
         titre: "L'Instruction pour Tous en Béarn",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
 Marguerite de Navarre, sœur de François Iᵉʳ qui a protégé le cercle de Meaux, se disait au même niveau de foi que Marie et a permis l’arrivée du protestantisme en France. D’abord protégée par le pape, elle fera ensuite face à la Sorbonne jusqu’aux mesures prises par son frère après la décapitation d’une statue de la Vierge et l’affaire des Placards. De plus, Marguerite a aussi écrit L'Heptaméron où, dans des histoires inventées, elle critique fortement les mœurs du clergé, des hommes, mais aussi des femmes (une femme se disant vertueuse qui pratique l’inceste avec son fils, ou une autre qui accuse son amant de viol devant son mari), dans le but de mettre en avant le saint mariage et la vertu (précisant qu'il ne faut pas se marier par plaisir mais par raison car c’est pour la vie), et qui sera repris par des mouvements républicains faisant une fixette sur une partie de son message, le pervertissant sciemment dans l’espace public (biais de focalisation ou de confirmation dans des discours visant à protéger des « institutions républicaines » imaginaires). Sa fille Jeanne d’Albret, marraine de Jeanne Séguier, publiera les Ordonnances ecclésiastiques détaillant l'organisation, les cours, la discipline et la vie quotidienne basées sur le protestantisme, et tente même d'instaurer un enseignement mixte. Jeanne réussit à proposer l'école à tous les Béarnais et toutes les Béarnaises — faisant du Béarn le premier pays au monde à généraliser l'instruction, alors qu'à l'origine, celle-ci n'est destinée qu'à former des clercs (et donc réservée à certains hommes, hors noblesse et religieuses) — pensant qu’il faut lire la Bible pour être sauvé. Dans ce système, les diacres interrogent régulièrement les enfants pour les orienter soit vers l'Académie, soit vers un métier. L'apprentissage se fait au rythme de l'apprenant et en fonction de ses compétences. Cette approche se rapproche de l'idéal de nombreux philosophes des Lumières. Pas comme aujourd’hui, où l’élève dépend du bon vouloir d’un corps enseignant parisien dont la parole fait autorité. Une accusation fausse ou un effet de groupe des collègues, avec le mimétisme des élèves, et il se produit un étiquetage contagieux. L’ataraxie passe pour de l’impudence, la juste colère pour un aveu, et toute réaction corrobore la sentence d’un groupe qui confond l’unanimité avec la vérité. Là où la victimisation ostentatoire s’assure une indulgence future par le poids des soutiens qu’elle coalise, ceux habitués à l’affront se passent de l’approbation générale et feront front à un système calqué sur la mentalité de la masse qui, par son suivisme et sa persécution des marginaux, devient l’auxiliaire inconscient de l’atomisation profitant au capitalisme (qui règne sur une société de pleureurs et de conformistes). 
 
- </p>
-  <p>
+ </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
       
@@ -573,61 +537,57 @@ Marguerite de Navarre, sœur de François Iᵉʳ qui a protégé le cercle de Me
       
       {
         titre: "Jeanne d'Albret, Ordre et Morale",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
 Saint Louis voit le rôle du roi comme celui d’un « roi chrétien juste » devant Dieu : il permet que ses sujets fassent appel directement à lui pour limiter les abus locaux, encourage les lois contre le blasphème et les jeux d'argent, soutient la morale de l'Église et crée les corporations (excluant les débauchés désordonnés) qui prenaient soin des veuves, des orphelins et des membres malades. Après avoir promis que la France protégera toujours les chrétiens d’Orient (380 millions de chrétiens sont persécutés aujourd’hui, 1 sur 7, au nom de lois anti chrétienne créé par les maçons eux-mêmes, comme la laïcité, et donc de l’argent comme Judas), il conseillera à son fils de soutenir le pauvre contre le riche avant de savoir la vérité, dans son testament. Issue de sa famille par alliance, choquée par les mœurs des femmes hors du Béarn et soucieuse du salut de ses sujets, Jeanne d'Albret (prête à être brûlée vive avec ses enfants plutôt que de renoncer à sa foi pour son peuple) impose au Béarn une police des mœurs où crimes et péchés se confondent. Le pouvoir terrestre est au service du spirituel : les rassemblements festifs sont interdits (car ce sont des occasions de péché — comme le disait le Curé d'Ars — à l'image de la débauche qui réduit le prochain à un objet), le consentement est une circonstance aggravante et l’apologie est pire que l’acte lui-même (les mauvaises œuvres font perdre la vision du divin et le péché noircit l’âme). Toute déviance est sanctionnée par le pilori ou le bannissement. La reine garantit ainsi la sécurité du corps et de l'âme des Béarnais, qui ont l'assurance que leur voisine n'est ni une fornicatrice ni une meurtrière.  En totale aversion avec le système de la Vᵉ République et son conditionnement social (inspiré de la philosophie de Fichte, favorable à l'opinion et à la soumission, et donc anti-vérité, à l'inverse total de l'agnosticisme méthodologique de saint Thomas d'Aquin). Ce système républicain, par son mépris social et sa pression permanente, empêche la réflexion personnelle et force le peuple dans le péché par « ignorance », marchant main dans la main avec la LICRA qui gère les discours publics (via les mêmes fondateurs issus du GODF, qui fournissait déjà ses planches à Mitterrand). Comme le rappelle le catéchisme, les péchés personnels finissent par créer des structures sociales mauvaises qui poussent d’autres personnes au mal. Très attachés à ces règles, les Béarnais refusent de s'en défaire ; de ce fait, Henri IV (parrain de nombreux Béarnais, resté proche de ses nourrices et de ses frères de lait) ne parviendra jamais à abolir cette police des mœurs malgré les pressions de Paris.
 
        
-         </p>
-          <p>
+         </p>),
+     be: (       <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+       </p>),
+         
       },
 
        {
         titre: "Le Béarn Change de Calendrier",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
     Il existe à l'époque quatre styles de Nouvel An : la Circoncision, la Nativité, Pâques (utilisé par les rois de France) et la Conception (en vigueur en Béarn). Les marchands béarnais, qui commercent avec l’Espagne et la France où le style de la Circoncision est déjà imposé, subissent des complications. Les syndics Pédesert et Laborde demandent donc à la reine de changer la date en 1571. La souveraine accepte. En 1582, Henri II de Béarn imposera depuis Nérac la réforme grégorienne — le calendrier julien accusant un retard annuel de 11 minutes — à l'instar de son beau-frère. Publié le 20, le décret fait passer directement la population du 21 au 29 décembre. Les Béarnais manquent ainsi la célébration de Noël cette année-là.
-</p>
- <p>
+</p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-   </div>
-        )
+         </p>),
+  
       },
 
        {
         titre: "Jeanne Face à la Mort",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
      Jeanne prépare activement le mariage de son fils lorsque, le 5 juin, elle est prise de fièvre. Elle répète que tout vient de Dieu, ne se plaint jamais et répond « oui » lorsque ses pasteurs lui demandent : « Jésus est ton sauveur, seras-tu purifiée par son sang ? ». Jeanne dit aux femmes près d’elle qu’il ne faut pas pleurer, car Dieu l’appelle vers une vie meilleure, la terre étant pleine de vanités. Elle regrette de ne pas avoir eu le temps de suffisamment les récompenser et exhorte la fille de Madame de Tignonville à rester ferme dans sa foi (bien que cette dernière aura, par la suite, des mœurs catastrophiques).
      
-         </p>
- <p>
+         </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
   {
         titre: "Catherine, Gouvernante de Gascogne",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
        Catherine de Bourbon — qui, dans son enfance, jouait avec un nain au Castet-Béziat à Pau, tombe souvent malade et nomme un ânon « son frère de lait » car elle consomme le même lait de la même ânesse que lui — est nommée gouvernante de Gascogne et régente de Béarn en 1577. Elle se cache fréquemment à Navarrenx et dort souvent à Audaux. Pour Catherine, la guerre est purement politique. Elle encourage la prière collective ainsi que le jeûne pour la protection du royaume, tout en mettant en avant la haute moralité de ses proches. Elle proclame l’avènement de son frère et réussit à rallier la noblesse gasconne, initialement hostile à Henri IV. De santé fragile, elle se rend régulièrement aux Eaux-Bonnes. Elle finit par quitter le Béarn pour épouser le duc de Bar, une union périlleuse en raison de sa foi protestante. Face aux pressions catholiques, les protestants organisent une stratégie pour éluder l’évêque Du Perron. Sa dernière phrase sur son lit de mort est : « Sauvez mon fruit ».
        
-         </p>
- <p>
+         </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }
       
 
@@ -642,147 +602,137 @@ Saint Louis voit le rôle du roi comme celui d’un « roi chrétien juste » de
     sections: [
       {
         titre: "L'Éducation Rustique d'Henri IV",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
          Henri Ier de Béarn donne à son petit-fils, Henri II de Béarn et futur Henri IV de France (par son père qui n'est alors que « mari de la vicomtesse » en Béarn car non béarnais), une éducation rustique. Celle-ci lui permet de marcher pieds nus dans les montagnes et de vivre ses premières années comme un fils de paysan, loin des « problèmes de riches » qu'il découvrira plus tard à Paris. Henri a sept nourrices, dont Jeanne Lafourcade (qui vit dans une humble chaumière) avec qui il garde des rapports très affectueux, tout comme avec ses filleuls issus du peuple (il tient à payer la sage-femme et le pâtissier le jour même). Il a ensuite pour gouvernante Susanne de Bourbon-Busset, baronne de Miossens, non pas dans le palais natal, mais au château agreste de Coarraze, chef-lieu d'une des treize baronnies du Béarn. Là, il est nourri de pain bis, de laitage, de bœuf et d'ail. Il marche souvent pieds nus et nu-tête, ignorant tous les luxes de la vie au milieu des enfants du peuple.
-           </p>
- <p>
+           </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "L'Éducation Intellectuelle d'Henri IV",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
 Le premier précepteur d'Henri est La Gaucherie (un choix validé par Catherine de Médicis, sûrement pour rassurer Jeanne d'Albret sur sa neutralité), un homme aux mœurs pures. Jeanne demande à Henri de l’aimer comme elle-même puisqu’il incarne son autorité ; ce à quoi l'enfant répond : « Oui, s'il m'aime aussi ». Ils deviennent rapidement amis. Dans cette éducation, point de livres imposés, mais des livres désirés : les études sont courtes, les récréations brèves mais nombreuses, et font la part belle au jeu de paume. Henri étudie les maximes grecques et surtout Plutarque, que sa mère lui donne pour éviter qu'il ne devienne un ignorant (il apprécie également Jules César et Tite-Live). À cette époque, la défection du connétable de Bourbon chagrine beaucoup le jeune Henri. Selon les ordres stricts de Jeanne, il est tenu dans l'ignorance des intrigues de la cour et de la politique, n'a que des compagnons d'étude (comme Agrippa d'Aubigné), de chasse et d'armes et pas de véritables amis (Ségur et La Rochefoucauld le deviendront par la suite). Au collège de Navarre (toujours sous la direction de La Gaucherie et de Beauvais), il rencontre le futur Henri III et Henri de Guise. Selon Jeanne, Henri apprend davantage en sept mois avec le théologien Morély qu'en sept ans avec La Gaucherie. En 1567, après son retour en Béarn, Henri poursuit son éducation scolaire sous la direction de l'humaniste Florent Chrétien. Jeanne le corrige souvent ; Henri approuvera cette sévérité plus tard en ordonnant l’achat de fouets pour l'éducation de son propre fils, le futur Louis XIII. En février 1568, à seulement treize ans, il pacifie la Basse-Navarre en véritable guerrier. Il explique au peuple que la reine respectera leurs privilèges (fors) et qu'il suffit de lui demander au lieu de se rebeller en suivant les directives de Paris, se présentant déjà comme leur futur meilleur ami. À son arrivée à La Rochelle aux côtés de Jeanne, il répond à un long discours d'accueil qu’il saura « beaucoup mieux faire que dire », avant de manquer de se noyer sur une digue, sauvé de justesse par un capitaine rochelais.
 
          
-           </p>
- <p>
+           </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },  {
         titre: "Les Maximes d'Henri IV",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
        Les maximes d'Henri IV, dictées par son précepteur La Gaucherie, dessinent le portrait idéal d'un souverain juste et vertueux : il y rappelle qu'un bon roi doit préférer sa patrie à ses propres enfants, estimer qu'un héros n'a rien fait tant qu'il lui reste à accomplir, et comprendre qu'un prince esclave de ses passions n'est qu'un « esclave couronné », même à la tête des plus vastes États. Ce programme d'éducation morale et politique enseigne qu'il faut vaincre avec justice ou mourir avec gloire — une sentence qu'il prononcera plus tard en grec devant Catherine de Médicis —, tout en affirmant que si les rois ont une grande autorité sur leurs peuples, celle de Dieu sur les rois est bien plus grande encore. Tournant le dos à la tyrannie, Henri IV soutient qu'un souverain qui aime la flatterie et craint la vérité s'entoure d'esclaves, qu'un roi oisif dépend de ceux qui travaillent à sa place, et qu'une prospérité vécue dans l'orgueil mène à la lâcheté dans l'adversité. Le texte insiste enfin sur la supériorité de la clémence, qui imite la Divinité, face à la vengeance qui abaisse l'homme, car le droit le plus flatteur de la royauté reste de faire le bien : les souverains ne se font craindre que par leur puissance, mais c'est la bienfaisance seule qui les fait aimer, puisqu'il vaut toujours mieux conserver un seul citoyen que de faire périr mille ennemis. 
-          </p>
- <p>
+          </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "L'Avènement de la Monarchie Absolue",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
      Saisi d'effroi en devenant roi, Henri IV ne peut se dérober à ses lourdes responsabilités, car c'est son devoir devant Dieu, qui est juridiquement le véritable propriétaire du royaume (à l'image des dirigeants actuels qui font la volonté de ceux qui leur ont permis d’accéder au pouvoir). Il place donc la survie de l’État au-dessus de tout. Il stoppe 36 ans de guerres civiles et amorce la monarchie absolue. L’État repose désormais sur des officiers soumis à la Paulette, une taxe qui permet au roi de s'assurer un revenu régulier en imposant un groupe social riche. Henri se base sur la fidélité acquise et s'efforce de réduire le pouvoir des gouverneurs de province, jugés trop puissants. Au lieu de s'appuyer sur eux, il envoie directement des commissaires en mission, comme pour faire appliquer l’Édit de Nantes ou mener la réforme des hôpitaux. Par ailleurs, il n’impose pas le français aux différents peuples de France. Très pragmatique, il s'entoure de ministres aussi bien catholiques que protestants. En décembre 1606, il améliore la discipline, redresse les mœurs du clergé et veille à l'instruction des prêtres (un paradoxe similaire à celui de Charlemagne). Il nomme par exemple le cardinal Arnaud d'Ossat, un homme d'origine modeste. Grâce à ces mesures, les abus diminuent et le pape reconnaît ses efforts.
 
-         </p>
- <p>
+         </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },  {
         titre: "Henri IV Gouverne en Marchant",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+  fr: (          <p>
 Hostile aux lourdeurs cérémonielles, Henri IV impose un rythme rapide et efficace : les décisions sont prises en deux heures. Il tient souvent conseil en marchant dans les galeries du Louvre, de Fontainebleau ou des Tuileries. Tout comme Sully, il hait les longs discours et la rhétorique complexe des juristes, qu'il juge déconnectés des réalités militaires et paysannes (une rhétorique de nanti) ; il veut toujours aller droit au but. Le Conseil se réunit chaque matin, de 6 h à 8 h, avec les princes du sang et les officiers de la couronne. Le roi complète ces séances collectives par des entretiens individuels afin de tester personnellement ses conseillers (son ami Biron sera puni de mort après l’un d’eux pour trahison). Après un débat marquant le 4 mai 1600, où l'évêque Du Perron démonte les arguments du protestantisme, Henri en sort pleinement conforté dans sa foi catholique (à l'exception de la question du culte des saints, ce qui reste "compréhensible" au vu des dérives liées aux reliques à cette époque). Immédiatement après cet événement, il insiste auprès de sa sœur, Catherine de Bourbon, pour qu'elle se convertisse à son tour.
- </p>
- <p>
+ </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }, 
       
        {
         titre: "Henri IV et le Peuple",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
 Henri IV disait que « s’en prendre à ses sujets, c’est s’en prendre à lui, car ce sont ses enfants », notamment lors des inondations de la Loire. Sur les routes, il s’arrêtait pour parler au peuple, demandant l’origine des voyageurs, leur destination et le prix des denrées. Dans la société d’ordres, le peuple formait la base du royaume et inquiétait les élites : Salluste du Bartas comparait la démocratie à un navire sans pilote. Dans le Sud-Ouest, les révoltes visaient surtout la gabelle, comme celles des Croquants, des Honnêtes Rouges ou des Gauthiers (Normandie). Pierre de L’Estoile rapporte qu’Henri IV aurait dit que, s’il n’avait pas été roi, il se serait fait croquant. Il envoya le sieur de Boissise sur place : les gouverneurs dispersèrent violemment les paysans, mais Henri IV ordonna surtout le siège du château de Gimel, repaire de seigneurs pillards opprimant le peuple. Un impôt sur les marchandises provoqua aussi des troubles vers Limoges. Henri IV vint lui-même entendre « les plaintes de son peuple » et céda après quelques exécutions menées par Jambville. En 1597, il interdit aux gens de guerre de ravager les campagnes sous peine de mort, puis bannit les armes à feu sur les grands chemins. En 1608, en Bourgogne, il fit raser les châteaux servant de refuges aux bandits, financés par les États de Bourgogne. En 1601, devant le Parlement de Paris, il dénonça la corruption des petits officiers de justice qui ruinaient les justiciables. Il abaissa aussi le taux d’intérêt de la rente et réduisit la taille de 18 à 14,5 millions de livres dès 1600. En 1598, il révoqua les lettres d’anoblissement accordées depuis vingt ans afin de réimposer 40 000 personnes. Pour lutter contre la spéculation et la fuite des métaux précieux, il tenta d’imposer un nouvel édit monétaire, mais le Parlement s’y opposa. Après les guerres civiles, les villes formèrent un monde distinct de la paysannerie et de la noblesse. Bordeaux se gouvernait comme une « vraie république », où gouverneur et archevêque étaient vus comme des étrangers. Henri IV interdit les brigues électorales, fit nommer des hommes de confiance comme Montaigne à Bordeaux, confirma l'oligarchie des "bourgeois de Bordeaux" pour mieux la contrôler et supprima les consuls lyonnais pour imposer un système parisien plus contrôlable (son fils Louis Ie l’imposera en Béarn, marquant un choc, tout en maintenant les fors et privilèges). En 1600, il autorisa les villes protestantes à racheter leurs biens aliénés à bas prix, mais les obligea en échange à relever leurs fortifications et entretenir des garnisons à leurs frais.
 
- </p>
- <p>
+ </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }, 
       
       
        {
         titre: "Le Renouveau Économique et Agricole",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+      fr: (      <p>
 Sous l’impulsion de Maximilien de Béthune, partisan d’une politique favorable à l’agriculture, des ormes et des tilleuls sont plantés le long des routes afin de fournir du bois pour l’artillerie et la marine. Des haies vives sont également aménagées aux Tuileries, avant d’être détruites par le grand hiver de 1608. Henri IV modernise la circulation des personnes et de l’information en créant trois lignes de voyageurs et en ouvrant les relais de chevaux au public. Pour faciliter un commerce routier lent et coûteux, il veut relier les rivières entre elles : le canal de Briare unit ainsi la Loire au Loing. Il cherche aussi à relancer le commerce maritime dans le sud du royaume, mais les fonds royaux sont détournés et les États de Languedoc refusent de financer le projet. Afin de concurrencer la puissance commerciale espagnole et hollandaise, Henri IV favorise la création de compagnies de commerce tournées vers les Indes orientales, dans le contexte de l’essor des grandes compagnies marchandes européennes, comme la Compagnie protestante néerlandaise des Indes orientales (après le déplacement juif d'Anvers à Amsterdam) qui amorce le capitalisme moderne pendant que la domination espagnole diminue (expulsion de réseaux marchands fin XVe siècle) et l’anglaise augmentera (les protestants Cromwell, Orange, le retour des Juifs, New Amsterdam reprise). En 1603, après avoir rencontré des Amérindiens amenés en France, il abandonne le modèle espagnol centré sur l’exploitation minière et privilégie une politique fondée sur le commerce, la colonisation et l’évangélisation. Malgré l’opposition de Sully, Québec est fondée par Samuel de Champlain. Entre 1598 et 1610, le royaume ne connaît ni grande famine ni grande peste : mieux nourris, les paysans sont plus nombreux, la faim recule et la natalité augmente. Henri IV fait assécher les marais pour les transformer en terres cultivables grâce à l’ingénieur hollandais Humphrey Bradley. En 1600, Olivier de Serres rédige le Théâtre d’agriculture que le roi fait lire chaque soir et diffuse largement. Il développe aussi les potagers d’essai, plante 15 000 à 20 000 mûriers aux Tuileries et à Fontainebleau, y fait construire une magnanerie, encourage la sériciculture, tente la culture de la canne à sucre à Hyères et favorise les haras pour l’élevage des chevaux. Henri réglemente également la chasse selon les saisons afin de protéger les récoltes, maintient le monopole aristocratique et punit sévèrement le braconnage. Dès 1595, il libéralise le commerce des marchandises puis, en 1601, proclame la libre circulation des grains et des vins pour attirer les capitaux étrangers, tout en suspendant les exportations de grains lors des mauvaises récoltes de 1604 et 1608. Le paysage rural se repeuple, l’élevage progresse et le commerce des grains enrichit surtout grands propriétaires, bourgeois et nouveaux anoblis rachetant les terres. Sous son petit-fils, la France sera la plus grande puissance démographique et agricole d'Europe occidentale. 
- </p>
- <p>
+ </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }, 
       
       
       {
         titre: "La Modernisation de Paris",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
     Henri IV supervise et finance ses maçons sur ses propres deniers (notamment grâce à ses gains au jeu de paume). Il réglemente la salubrité des rues face aux boues et aux loups, et pose en 1607 la première pierre de l'Hôpital Saint-Louis afin d'isoler les malades à la suite de l'épidémie de peste de 1606. Il projette également une Place de France où chaque rue porterait le nom d'une province (aucun roi n’a jamais imposé les lois ou la langue de Paris à ses peuples : il se veut le Roi des Peuples de France). Henri modernise les programmes de l’université en y intégrant les arts militaires et de l'ingénieur, en s'appuyant sur le retour des Jésuites (1603) et sur les Oratoriens. Il protège le mathématicien Viète (concepteur de l'algèbre moderne) ainsi que les ingénieurs Alleaume et Bachot, et charge Sully de créer un conservatoire des arts et métiers au Louvre pour inspirer les techniciens. Pour conserver le savoir, il centralise la Bibliothèque royale à Paris en y réunissant les collections de Fontainebleau, du cardinal de Bourbon et de Catherine de Médicis, incluant la Bible de Charles le Chauve. De plus, il valorise le Collège de France en y créant des chaires d'anatomie et de botanique, et fonde un collège de chirurgie pour détacher définitivement cette discipline du métier de barbier. Son fils Louis Ier de Béarn, avec Richelieu, fondera l’Académie française et enverra des intendants (bourgeois ou noblesse de robe) dans les provinces pour permettre au roi de gouverner les provinces sans dépendre entièrement des parlements (gouverneurs ou élites locales), se superposant aux nobles de robe et d’épée, il s'inscrit dans la suite logique de la politique d’Henri IV. Cela permet l'avènement de la monarchie absolue composite sous Louis XIV, le droit de remontrance des juges étant fortement réduit (bien qu'il sera restauré plus tard par Philippe le Régent). 
 
 
-   </p>
- <p>
+   </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "De la Fronde à Versailles",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+      fr: (      <p>
 Sous la Régence, Mazarin veut suspendre le salaire des “robins” (noblesse de robe devenue très riche grâce à ses charges et protégeant ses privilèges fiscaux, ce qui empêche le roi de créer un impôt plus juste taxant aussi les riches et les nobles afin de soulager les paysans). Ces derniers hurlent au scandale et bloquent l'État. Les princes (la noblesse d’épée) entrent alors en piste, saisissant l’occasion pour redevenir les maîtres chez eux. Une propagande s’installe : les bourgeois se prétendent favorables au peuple face à un « tyran » qui lui prendrait son argent, et Mazarin est présenté comme le grand méchant. Après cette période de la Fronde, Louis II de Béarn (XIV de France) force les princes à vivre à Versailles. La France devient la première puissance mondiale, tant par son armée que par son agriculture jusqu’au grand Hiver de 1709. Face aux Habsbourg (Espagne et Autriche), Louis XIV s'allie avec l'Empire ottoman, la Bavière, la Suède ou encore les Stuart anglais. En 1688, Guillaume d'Orange (calviniste proche de Locke, farouchement anti-français et anti-espagnol, financé par le banquier juif Suasso) est porté par les parlementaires anglais sur le trône d'Angleterre. Une immense coalition (Angleterre, Provinces-Unies, Prusse, Autriche) se forme contre la France. Face au danger, Louis XIV lance un appel patriotique le 12 juin 1709, et le peuple décide de se battre pour son roi dans leur destin commun “La France”. Le mythe de la nation républicaine ne viendra que plus tard avec l’école de Ferry et son fascisme républicain (culte de Marianne) avec l'interdiction des langues locales alors que sous Louis XIV il n’y avait pas de ministre de l’Instruction (ou éducation), c’étaient les communes qui décidaient du programme et de leur maître. Félix Pécaut, protestant natif de Salies, collaborateur de Jules Ferry et Buisson, a été Inspecteur Général de l’Enseignement Primaire et Pauline Kergomard, protestante éduquée à Orthez et nièce des francs-maçons Reclus, participe à la transformation des salles d’asile (tenus par des soeurs) en écoles maternelles. En Béarn, il existe plusieurs parlers car on parle traditionnellement la même langue que les gens que l’on côtoie. Voir un Basque s’allier à un Breton qu’il ne connaît pas face à un Romain sous prétexte qu’ils appartiennent à la « même nation » mènera à 2 guerres mondiales, substituant l'intérêt financier à l'amour véritable des siens. Finalement, le petit-fils de Louis XIV devient roi d'Espagne et les frontières françaises sont préservées. Les guerres de Louis XIV vont endetter les communes qui doivent vendre, pour la première fois, leurs communaux à des financiers qui deviennent les “nouveaux seigneurs” par intérêt mercantile. 
 
 
- </p>
- <p>
+ </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }
       ,
        {
         titre: "Un Colon Béarnais",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
 Le Béarnais Jean-Vincent d’Abbadie de Saint-Castin, descendant de Marguerite de Moncade et devenu orphelin de mère dès le berceau lors d’une épidémie de peste, quitte La Rochelle le 6 mai 1665 pour la Nouvelle-France. Âgé de seulement 13 ans, il embarque comme enseigne, accompagné de son serviteur Regnault Bordenave. Cinq ans plus tard, il gagne Pentagouët — l’actuelle Castine, qui porte aujourd’hui son nom. Dès 1659, un marchand de Boston proposait déjà de déporter les Français de Port-Royal s’ils refusaient de se soumettre, projet qui se réalisera effectivement au siècle suivant. Saint-Castin s’installe ensuite chez les Abénaquis, dans l’actuel Maine, adopte leur mode de vie, épouse la fille du grand chef Pidiansiske et devient un chef et un guerrier respecté parmi eux. Revenu plus tard en Béarn, il ne pourra cependant jamais repartir, le Parlement de Pau étant alors désireux d’affirmer son autonomie face à Louis XIV (qui venait de condamner un projet de Vauban de destruction des provinces).
 
  
-  </p>
- <p>
+  </p>),
+ be: (<p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }
     ]
   },
@@ -800,153 +750,143 @@ Le Béarnais Jean-Vincent d’Abbadie de Saint-Castin, descendant de Marguerite 
      
         {
         titre: "L'Éthique de la Guerre",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+      fr: (      <p>
 Le commandant en chef de l'armée de la France catholique à Fontenoy est le protestant maréchal de Saxe. Louis XV reste présent sur le champ de bataille et prend la bonne décision à Fontenoy, où Gramont meurt au combat. Le roi avait emmené son fils sans escorte inutile d'apparat afin de limiter le faste. La France a combattu aux côtés des catholiques irlandais, qui étaient extrêmement persécutés par les protestants britanniques. Louis XV a exigé que les blessés ennemis (Anglais, Hanovriens, Hollandais) soient soignés dans les mêmes hôpitaux de campagne et avec le même soin que les soldats français, et dit à son fils : "Le sang de nos ennemis est toujours le sang des hommes. La vraie gloire est de l'épargner." À Tournai, Louis XV ménage femmes et enfants. Lors de son retour à Paris, le Parlement voulait lui organiser un triomphe grandiose, mais Louis a préféré une entrée beaucoup plus sobre. Cependant, en privé, Louis XV entretenait des relations distantes avec son épouse et ses mauvaises mœurs addictives le rapprochent de — et le soumettent à —  la haute bourgeoisie financière avec la Pompadour qui protège Voltaire, Diderot ou le libéral Quesnay — "Prix plus élevés = salaires plus élevés", telle était la volonté des "nouveaux seigneurs" pour s'enrichir (leur but) n'augmentant pas la rémunération des paysans qui travaillent. Par réaction, ce comportement incitera son fils, le Dauphin (père du futur Louis XVI), à mener une vie extrêmement pieuse et chaste. En pleine guerre de 7 ans alors que le Royaume de France se trouve dans une position critique, Antoine Dupré aurait créé un explosif impressionnant et le montre au roi mais Louis XV juge cette invention inhumaine et paye Dupré pour qu'il détruise sa fortune. Le 10 août 1792, Louis XVI refusera de tirer sur la foule (des marseillais qui commettront des horreurs). Cinq ans plus tôt, il avait signé l’édit de Tolérance (relativisant la vérité unique du christianisme) après une rencontre entre son ministre Malesherbes, le franc-maçon Lafayette et le pasteur protestant Rabaut Saint-Étienne. Ce dernier — proche de l'abbé franc-maçon Grégoire et du curé révolutionnaire Dom Gerle, adepte de la prophétesse Catherine Théot qui se dit "mère de Dieu" et probablement marié par la suite — incitait d'ailleurs les protestants à « se préparer à devenir les instituteurs de la nation en faisant couler l'instruction jusqu'aux derniers individus ». 
 
      
-          </p>
- <p>
+          </p>),
+be: (  <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
      
       {
         titre: "La Loge Maçonnique de Pau",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
 La loge maçonnique de Pau — une franc-maçonnerie qui prône une vertu sans fondement uniforme en professant le dogme de « ne plus en avoir » et demeure soumise à la sécularité, combattant un groupe en forgeant une définition sur mesure le déclarant mauvais selon un dogme mouvant de concert avec la République (sans réellement unifier toutes les loges, comme si Dieu pouvait donner des vérités différentes), tout en se disant favorable à la liberté d’expression absolue, la franc-maçonnerie est tolérée en France sous l’absolutisme bien qu’excommuniée par l’Église  — réaccueille les avocats en 1779 (Hillaire Laterrade, Joseph Claverie, François Balthasar...) après une fête maçonnique pour célébrer le rétablissement du Parlement de Navarre. Cette action est soutenue par la comtesse de Gramont (proche de Marie-Antoinette, dont la fille sera guillotinée lors d'une Révolution qui lui fait perdre tous ses droits de comtesse, celle-ci passant sous l’autorité des républicains par la volonté de ces derniers) et par des Parisiens (Joseph-Charles Lefranc, Jean-Baptiste Lagrange, Philippe Frédureau...). En 1778, une pyramide est surmontée du berceau-carapace d'Henri IV (culte du « bon roi Henri ») et domine les portraits de Sully et de Necker (le ministre qui fait couler le royaume de France en s'alliant aux révolutionnaires). Depuis le départ du souverain, les États gèrent le Béarn autonome ; les décisions viennent donc d'un groupe de nantis, ce que saint Thomas d'Aquin condamne car c’est réifier les gens. Cazalet est alors le grand maître qui veut, de manière sophistique, « éclairer l'homme sur ses droits et ses devoirs ». Dès qu'il comprend que la Révolution va tout centraliser à Paris, Cazalet lâche l'affaire (en juin 1789) et se retire définitivement de la politique. 
 
           
           
-            </p>
- <p>
+            </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
        {
         titre: "Le Béarn face à la Révolution",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+      fr: (      <p>
     Mourot, député à Paris, considère que le système béarnais est un mélange équilibré entre monarchie, aristocratie et Tiers État. En 1789, presque tous les Béarnais souhaitent une monarchie constitutionnelle basée sur ce modèle, selon l'historien Christian Desplat. Les États de Béarn affirment que la loi existe avant le roi, que le souverain doit respecter la loi et que le pouvoir exécutif doit rester soumis à celle-ci ; ils craignent alors que la France ne détruise leurs institutions locales. Après l'abolition des privilèges — qui entraîne la destruction des fors millénaires en soumission à Paris —, Mourot démissionne du Comité féodal. Il est presque le seul notable béarnais à accepter de sacrifier l’indépendance de sa province plutôt que de la subir de force par la tyrannie parisienne (aucune aide ne viendra de l'Espagne, il faudrait un miracle et cela ne peut être annoncé que par Dieu). Au sein d’une province désunie, à Salies — qui a son privilège vital (vendre son sel) depuis Catherine de Bourbon en 1587 (pour prendre l’eau salée, il faut habiter à Salies et être fils ou fille de Part-Prenant, les cadets et cadettes doivent aussi être mariés, et le tout est organisé via leur propre démocratie) — des riches avaient confisqué des bois donnés par Jeanne d’Albret (en 1572) et Salies accueillait favorablement le rattachement à Paris pour préserver ses privilèges... Dans ce bouleversement territorial, Pau perd son statut de chef-lieu au profit de Saint-Palais (sur la Bidouze), mais par manque de compétences administratives locales, ce statut revient finalement à Pau.
 
  
-   </p>
- <p>
+   </p>),
+be: (  <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "La Démocratie Directe au Labourd",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+   fr: (         <p>
 Jusqu’à la Révolution — qui fait suite à celle des États-Unis, lancée après que la loge maçonnique St. Andrew’s Lodge de Boston a acquis la Green Dragon Tavern, événement qui mettra le maçon Washington au pouvoir, aidé entre autres par Haym Salomon, avant que des ésotéristes ne se succèdent à sa tête, comme Obama, Bush, Truman ou Ford —, il y avait une démocratie directe au Labourd via le Biltzar. Ce système s'avère proche de l’idéal de Rousseau (apostat du protestantisme qui a convolé avec sa “mère adoptive”), mais appliqué dans le cadre labourdin : sans noblesse décorative, ni clergé politique, ni bourgeois placés au-dessus des pauvres. Chaque fille aînée ou fils aîné est chef de maison et participe publiquement à l'assemblée villageoise pour veiller au bon fonctionnement de la cité et statuer ouvertement sur les choix vitaux de la collectivité. Ensuite, le délégué (élu par les chefs de maison) se rend au Biltzar pour y exprimer l'avis de sa communauté, et non le sien. Enfin, le syndic, un salarié compétent en droit, gère les affaires courantes. À cette époque, Paris n'impose aucune loi, et des idéologies ésotériques et lucratives (telles que l'androgynie de Comenius, liée à l’Unesco qui a influencé le collège invisible) ne sont pas imposées. Au niveau des métiers, au XIᵉ siècle, les femmes basques sont commerçantes et les hommes sont pêcheurs, illustrant une parfaite complémentarité.
 
-          </p>
- <p>
+          </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "La Fin des Libertés du Labourd",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
 Après que le basque Henri de Belsunce fut mangé par les républicains, les Labourdins perçoivent initialement dans la Révolution une opportunité d’autonomie totale, en espérant obtenir des délégués locaux parlant leur langue. Mais la Révolution détruit rapidement les libertés de la démocratie labourdine. Le député du Labourd, Garat le Jeune, suivant fidèlement les directives de son peuple, s’écrie : « Ma province proteste ! » lorsque la Révolution efface le Labourd de la carte — comme les autres provinces de France —, brise l’unité du Pays basque et le fusionne de force avec le Béarn dans les départements conçus par l’« abbé » maçon Sieyès, partisan du doublement des députés du tiers état, du vote par tête et de la création de l’Assemblée nationale. La nuit du 4 août provoque alors une déshumanisation administrative ainsi que la destruction des structures traditionnelles de la vie sociale, mettant fin au défi des vassaux. Cette dynamique fait suite au mensonge de Camille Desmoulins (franc-maçon du GODF, tout comme le prince Philippe "Égalité" d’Orléans qui tuera son cousin le roi à la suite de la politique anti-noble menée depuis Louis XIII) le 12 juillet, qui lance la Révolution. Celle-ci débouche sur la décapitation du gouverneur de Launay — qui a pourtant dîné avec les assaillants en gage de bonne foi, obtenant la promesse qu'aucun sang ne sera versé à l'ouverture des portes — et du prévôt Flesselles. Leurs têtes sont portées au bout de piques pour saluer leurs « nouveaux maîtres » (Henri IV). La Révolution met en place un jeu de l’oie où la figure d’Henri occupe une place importante ; son corps sera profané et son cœur brûlé. Dans le catholicisme, le culturel n’écrase pas le cultuel, il l’élève : ainsi, un Breton n'est pas un Basque tout en étant pleinement catholique. À l'inverse, la colonisation intérieure de la République écrase ces cultures et ces différences.
 
      
-        </p>
- <p>
+        </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "Pierre Hourcastrémé Face à l'Église",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
 Sous la Monarchie, si une communauté faisait la même chose pendant 10, 20 ou 30 ans sans que le seigneur ne proteste, cela devenait un droit acquis (une "franchise" ou un "privilège") différenciant les peuples de France. En 1789, la DDHC, en totale aversion au droit divin, est signée sous les auspices de l’Être Suprême (concept ésotérique) au nom de la liberté de l’homme (Satan dans l'ésotérisme) avant la mort du lieutenant du Christ (celui qui a vaincu Satan). Les terres de l’Église sont revendues aux bourgeois, qui seront désormais forcément favorables à la suite de la Révolution puisqu’elle garantit les terres qu’ils ont achetées (St Thomas). Plus tard, Lyon n'ayant pas choisi la bonne faction républicaine, Paris lui déclare la guerre. Les Lyonnais sont alors mitraillés : 44 000 boulets, bombes et autres obus tombent sur la ville, et il est inscrit au centre-ville : « Lyon fit la guerre à la liberté, Lyon n'est plus ». Les ésotériques autorisent bien évidemment toutes les pratiques personnelles (on peut désormais manipuler quelqu’un, avoir des relations hors mariage et le sodmosier sans aucune sanction, réifiant les gens comme les révolutionnaires Sade et Mirabeau). On vit désormais entouré de principes sataniques et d'horreurs, ce qui se rapproche de l’idéal de Rousseau. Cette vision est partagée par le maçon de Navarrenx Pierre Hourcastrémé, avocat à Pau, très anticlérical et partisan du sola scriptura. Ce dernier veut transformer la liturgie chrétienne en une religion civile — ce qui se concrétisera historiquement, le baptême civil existant encore aujourd'hui, encouragé par les municipalités socialistes et communistes — et déclare préférer l'esclavage perpétuel à la mort, mais finit tout de même par être dégoûté par la tournure de la Révolution. Ce destin contraste avec l'attitude de l’humble sainte Marcelle (le pouvoir matériel étant soumis au discernement spirituel, on est tous serviteurs et responsables de tous, contrairement à ce que prétend la propagande républicaine méprisant le peuple alors plus vertueux) ou de figures comme Ste Bernadette Soubirous et Ste Lúcia dos Santos. Toutes deux reçoivent des messages (en gascon pour Bernadette) comme : « Tu souffriras sur terre, tu auras ta récompense dans les cieux », et non la promesse d'être « heureux dans des loges avec quatre personnes ». Toutes restent profondément humbles après leurs apparitions.
 
-   </p>
- <p>
+   </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
       {
         titre: "Le Martyre de Marguerite Rutan",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+     fr: (       <p>
 Dans une famille de quinze enfants, la bienheureuse Marguerite Rutan aide son père au travail avant de devenir sœur (Fille de la Charité). Elle dirige l’hôpital de Pau, œuvre pour l'aide aux enfants, puis devient la première dirigeante de l’hôpital de Dax. En 1793, elle refuse de prêter serment à la Constitution civile du clergé et de se soumettre à la République, un régime faisant l’apologie du péché avec comme devise “liberté, égalité, fraternité ou la mort”. La République le lui reproche (suivant ses lois) et la fait arrêter. Devant le tribunal républicain, elle réitère son refus et le régime l’assassine en la condamnant à la guillotine (« Pour être fort, il faut être craint », Macron 2025, aux côtés de ses ministres « soldats de l’an II »). Marie Vivé voit ses vœux annulés par la Révolution car elle n’a que 17 ans, elle rentrera à Salies et prêtera serment à la Liberté et à l’Égalité. Ce même régime — mené par les réseaux du GODF (Ferry, Manuel Valls, Mélenchon ou encore le trio, banquier exhibitioniste Maurice Rouvier de la commune de Marseille, Briand et Combes de la séparation de l'Église et de l'État, icelui qui a fermé plus de 2000 écoles religieuses a été trahi, comme Robespierre qui faisait face au système de Cloots) — expulse sainte Léonie Aviat et ses religieuses un siècle plus tard pour détruire la seule véritable barrière face au système bancaire : la morale de Dieu !
 
-    </p>
- <p>
+    </p>),
+be: (  <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
 
   {
         titre: "La Déportation des Villages Basques",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+      fr: (      <p>
 En avril 1793, Dartigoeyte dénonce le « fanatisme » des Basques — en réaction aux déportations du clergé, à l'élimination de 96 % des religieuses de France et aux massacres de septembre de Danton, proche (par l'intermédiaire du "religieux” Chabot) de Dobruška (faux banquier et rabbin juif converti et anobli qui a fondée une secte kabbaliste voulant reconstruire sans Révélation ni morale avec Brunswick de Valmy) qui a sa communauté active en Allemagne selon Cloots — qui refusent de se soumettre à la propagande républicaine, ce qui pousse le pouvoir à ordonner au général Dumas de les « terrasser », tout en accusant les autres de ses propres délits parisiens (accapareurs du palais). Dès novembre 1793, les « aristocrates locaux » ( jugeant les Labourdins comme une exception , traiter les êtres humains comme des objets lucratifs dès leur conception un principe républicain) sont accusés d'espionnage pour le compte de l'Inquisition espagnole. Ces « aristocrates » ne le sont en réalité seulement pour la République car ce sont des paysans, des artisans et des domestiques. par la suite, la République définira elle-même pseudos-attaques pour ne plus faire erreur (tels que «arriéré», «moyenâgeux» ou «raciste» de Mitterand via les planches du GODF, pour protéger l’immigration qui baisse les salaires face au PCF au nom du “grand patronat”, à l'instar des «papiste» ou «idolâtre» des protestants, pour éliminer les gens bons) en pratiquant une sélection partiale des faits historiques sur la base d'une pétition de principe favorable à la centralisation parisienne. C'est d'autant plus absurde car les labourdins se trouvent en mauvais termes avec la Navarre espagnole, les habitants de Sare ayant autrefois aidé Louis XIV à Vera de Bidasoa, et même la République naissante. Ce sont des villages entiers (Sare, Ainhoa...) qui sont déportés dans des camps de concentration, au son de La Marseillaise du franc-maçon Rouget de Lisle — qu’il chante chez son frère de loge, le baron protestant, maçon, illuminé et fils de banquier anobli par Louis XV Philippe Frédéric de Dietrich — (le « sang impur » repris par Lénine à sa sortie du wagon) et sous l'effigie de la Marianne bleu-blanc-rouge (« sainte Marianne » selon le porphyrogénète Debret). Au milieu de ces épreuves, Pierre Iharour, après un long supplice, parvient à sauver des objets liturgiques. Il ne s'ensuit aucune attaque personnelle de la part des victimes, car se plaindre d'un être humain est spirituellement mauvais, chacun étant lui-même pécheur, la contestation se dirige uniquement contre l'État, à l'instar des politiques d'amnistie de Jeanne d'Albret et de pardon d'Henri IV. Nonobstant cela, Biarritz subit plus tard des bombardements au nom de la « Nation » par les forces alliées menées par les maçons Churchill, Eisenhower et Roosevelt (dont l'épouse, signera la DUDH aux côtés du maçon juif bayonnais Cassin).
 
   
-  </p>
- <p>
+  </p>),
+ be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
  {
         titre: "Le Curé Capuran",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+    fr: (        <p>
 Le curé Capuran, prêtre jureur qui a fourni des vases sacrés à la République (en échange d'une pension de 800 livres), demande l'abolition du culte à Salies. Il souhaite également que l'église Saint-Vincent soit transformée en temple de la Raison (le culte de la République), arborant l'inscription requise : « Le peuple français reconnaît l'Être suprême et l'immortalité de l'Âme ». La société populaire y tient désormais ses réunions. De plus, il appuie la disparition des emblèmes religieux de l'espace public pour les remplacer par des symboles républicains, comme l'élévation d'un autel de la Patrie et la plantation d'un arbre de la Fraternité.
-  </p>
-   <p>
+  </p>),
+ be: (  <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       },
 
 
        {
         titre: "Guider les âmes vers Dieu",
-        contenu: (
-          <div className="space-y-4 font-corps text-gray-700 leading-relaxed">
-            <p>
+        
+          
+      fr: (      <p>
 Lorsque je m'adresse à un Béarnais, je m'appuie sur la tradition béarnaise (la légitimité) en harmonie avec la vision de l’Église catholique (Marc 8:33) — car le Béarn est catholique jusqu’à preuve du contraire — et non sur un impérialisme idéologique païen qui met le corps au-dessus de l’âme (jusqu’à l’écraser). Dieu est un Dieu d'ordre (comme le monde est ordonné) que l'on craint de décevoir parce qu'il nous aime à l’instar d’un père avec son enfant ou son chat (il sait mieux que nous ce qui est bon pour nous, même si on ne comprend pas sur le moment). L'être humain est ordonné à la vie dès sa conception, sa respiration même étant téléonomique (l’ordre est le bien, le désordre le mal, comme stopper sa respiration mène à la mort, l’ordre de la vie n’est pas de s’anihiler avant la naissance). Aimer, c’est avoir le courage de corriger l’autre pour qu’il reste éclairé et dans l’ordre (Marie de Médicis levait la main sur Henri IV, la « Sainte Colère »). En effet, nous portons une responsabilité lorsque nous conseillons, approuvons, taisons le mal ou protégeons ceux qui le commettent, à l'image de la contraception d’État. Il ne faut pas conforter l'autre dans son péché mortel (« prendre le fruit », car le péché noircit l’âme) ni y consentir (c’est l’anti-révélation de Voltaire sécularisé au XXe siècle, le relativisme). Ne pas regretter un péché mortel conduit à l’enfer, et égarer plusieurs personnes est fatal (le Christ a pris ces péchés-là sur la croix), ce qui se fait souvent par faiblesse. Les chrétiens sont morts martyrs pour cette foi, ils ne ripaillaient pas avec les Romains ou la République. Pourtant, c'est ce que souhaitent les maçons au service des banques, ils servent ce même principe dirigé contre le corps et l’âme de leurs sujets. Seule la vérité rend libre et heureux, sans que l'on s'invente des chaînes matérielles souvent occultes comme le concours sophistique, propagandiste et aliénant de « la plus belle femme de France » (inventé par l’anti-catholique de Waleffe en aversion à la canonisation de Jeanne d’Arc). Tous les chefs d'État légitimes du Béarn dirigeaient (lorsqu'ils étaient lucides) en se basant sur le Paradis et l'Enfer, et non sur des inventions philosophiques, ils ne voulaient pas offenser Dieu. Il faut vivre chaque jour comme si, le soir même, nous devions paraître devant Dieu, cela implique de chercher constamment à accomplir Sa volonté par le discernement : les dons que nous recevons peuvent porter de bons fruits comme des fruits amers, se remettre en question sans juger l'autre face à soi (avoir de la haine c’est objectivement du poison, donc conforme aux enseignements du Christ, il faut voir les gens comme des instruments de Dieu dans nos vies) ou avoir trop de déconcentration (une obsession qui prend le dessus sur la vérité, c’est un péché qui crie vers le ciel, et on n'aurait jamais envie de boire du sirop si on n'en avait jamais bu). Devant le Christ, on ne pourra pas dire : « Alors lui, il a fait ça, donc je l'ai fait aussi, c'est bon ». On ne connaît pas l'intention de l'autre. Il faut juger selon la justice, et non pas pseudo-sonder son esprit. Il faut guider ses frères vers Dieu, et donc vers la vie. Ce guidage commence par le respect des lois fondamentales (et pour la vie) des Béarnais, qui existent depuis plus d'un millénaire sous la vraie Église de Dieu. C'est tout l'inverse de les exterminer dès leur conception et/ou de les mettre en état de péché mortel, comme le voudraient les banques pour leur business.
 
-  </p>
-   <p>
+  </p>),
+ be: (  <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
-         </p>
-          </div>
-        )
+         </p>),
+         
       }
      
     ]

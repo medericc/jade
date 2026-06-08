@@ -1,13 +1,12 @@
 'use client';
 
-import { Children , useState, ReactElement, useEffect } from 'react';
+import { ReactNode, useState, useEffect } from 'react';
 import ExpandableSection from '../../../../components/ExpandableSection';
 
 type Section = {
   titre: string;
-  contenu: ReactElement<{
-    children: ReactElement[];
-  }>;
+  fr: ReactNode;
+  be: ReactNode;
 };
 
 export default function HistoireAnalyse({
@@ -16,16 +15,17 @@ export default function HistoireAnalyse({
   sections: Section[];
 }) {
   const [langue, setLangue] = useState<'fr' | 'be'>('fr');
-const [isMobile, setIsMobile] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
 
-useEffect(() => {
-  const check = () => setIsMobile(window.innerWidth <= 768);
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth <= 768);
 
-  check();
-  window.addEventListener('resize', check);
+    check();
+    window.addEventListener('resize', check);
 
-  return () => window.removeEventListener('resize', check);
-}, []);
+    return () => window.removeEventListener('resize', check);
+  }, []);
+
   return (
     <>
       {/* Header Analyse */}
@@ -36,18 +36,18 @@ useEffect(() => {
           marginBottom: '2.5rem',
         }}
       >
-        {/* Toggle en haut droite */}
-     <div
-  style={{
-    position: isMobile ? 'static' : 'absolute',
-    top: isMobile ? undefined : 0,
-    right: isMobile ? undefined : 0,
-    display: 'flex',
-    justifyContent: isMobile ? 'flex-end' : undefined,
-    marginBottom: isMobile ? '2.5rem' : 0,
-    paddingRight: isMobile ? '1rem' : 0,
-  }}
->
+        {/* Toggle */}
+        <div
+          style={{
+            position: isMobile ? 'static' : 'absolute',
+            top: isMobile ? undefined : 0,
+            right: isMobile ? undefined : 0,
+            display: 'flex',
+            justifyContent: isMobile ? 'flex-end' : undefined,
+            marginBottom: isMobile ? '2.5rem' : 0,
+            paddingRight: isMobile ? '1rem' : 0,
+          }}
+        >
           <div
             style={{
               display: 'flex',
@@ -56,8 +56,7 @@ useEffect(() => {
               border: '2px solid #f3c623',
               borderRadius: '999px',
               padding: '4px',
-              boxShadow:
-                '0 6px 18px rgba(42,12,69,.08)',
+              boxShadow: '0 6px 18px rgba(42,12,69,.08)',
             }}
           >
             <button
@@ -137,31 +136,25 @@ useEffect(() => {
         </p>
       </div>
 
-     {sections?.map((section, index) => {
-  const children = Children.toArray(
-    section.contenu?.props?.children
-  );
-
-  return (
-    <ExpandableSection
-      key={index}
-      titre={section.titre}
-      defaultOpen={index === 0}
-      enfants={
-        <div
-          style={{
-            color: '#6b4b7a',
-            lineHeight: 1.9,
-          }}
-        >
-          {langue === 'fr'
-            ? children[0]
-            : children[1] ?? children[0]}
-        </div>
-      }
-    />
-  );
-})}
+      {sections?.map((section, index) => (
+        <ExpandableSection
+          key={index}
+          titre={section.titre}
+          defaultOpen={index === 0}
+          enfants={
+            <div
+              style={{
+                color: '#6b4b7a',
+                lineHeight: 1.9,
+              }}
+            >
+              {langue === 'fr'
+                ? section.fr
+                : section.be}
+            </div>
+          }
+        />
+      ))}
     </>
   );
 }
