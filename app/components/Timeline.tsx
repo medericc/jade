@@ -192,7 +192,15 @@ export default function Timeline() {
         fontSize: '1.1rem',
       }}
     >
-      🏴
+       <img
+    src="/bearn.png"
+    alt="Béarn"
+    style={{
+      width: '24px',
+      height: '24px',
+      objectFit: 'contain',
+    }}
+  />
     </button>
   </div>
 </div>

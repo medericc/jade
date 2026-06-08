@@ -98,7 +98,15 @@ export default function HistoireAnalyse({
                 cursor: 'pointer',
               }}
             >
-              🏴
+               <img
+    src="/bearn.png"
+    alt="Béarn"
+    style={{
+      width: '26px',
+      height: '26px',
+      objectFit: 'contain',
+    }}
+  />
             </button>
           </div>
         </div>
