@@ -1,6 +1,6 @@
 'use client';
 
-import { Children , useState, ReactElement } from 'react';
+import { Children , useState, ReactElement, useEffect } from 'react';
 import ExpandableSection from '../../../../components/ExpandableSection';
 
 type Section = {
@@ -16,7 +16,16 @@ export default function HistoireAnalyse({
   sections: Section[];
 }) {
   const [langue, setLangue] = useState<'fr' | 'be'>('fr');
+const [isMobile, setIsMobile] = useState(false);
 
+useEffect(() => {
+  const check = () => setIsMobile(window.innerWidth <= 768);
+
+  check();
+  window.addEventListener('resize', check);
+
+  return () => window.removeEventListener('resize', check);
+}, []);
   return (
     <>
       {/* Header Analyse */}
@@ -24,17 +33,21 @@ export default function HistoireAnalyse({
         style={{
           position: 'relative',
           textAlign: 'center',
-          marginBottom: '3rem',
+          marginBottom: '2.5rem',
         }}
       >
         {/* Toggle en haut droite */}
-        <div
-          style={{
-            position: 'absolute',
-            top: 0,
-            right: 0,
-          }}
-        >
+     <div
+  style={{
+    position: isMobile ? 'static' : 'absolute',
+    top: isMobile ? undefined : 0,
+    right: isMobile ? undefined : 0,
+    display: 'flex',
+    justifyContent: isMobile ? 'flex-end' : undefined,
+    marginBottom: isMobile ? '2.5rem' : 0,
+    paddingRight: isMobile ? '1rem' : 0,
+  }}
+>
           <div
             style={{
               display: 'flex',

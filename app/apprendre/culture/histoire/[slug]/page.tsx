@@ -130,51 +130,14 @@ minHeight: '100vh',
     </div>
   </section>
 
-  {/* INTRO */}
 
-  <section
-    style={{
-      padding: '5rem 1rem',
-    }}
-  >
-    <div
-      style={{
-        maxWidth: '950px',
-        margin: '0 auto',
-      }}
-    >
-      <div
-        style={{
-          background:
-            'linear-gradient(180deg,#fff9de,#fff4cc)',
-          borderRadius: '24px',
-          padding: '2rem',
-          border:
-            '2px solid #f3c623',
-          boxShadow:
-            '0 10px 25px rgba(42,12,69,.08)',
-        }}
-      >
-        <p
-          style={{
-            color: '#2a0c45',
-            lineHeight: 1.9,
-            fontSize: '1.1rem',
-            textAlign: 'center',
-            margin: 0,
-          }}
-        >
-          {pageData.introduction}
-        </p>
-      </div>
-    </div>
-  </section>
 
   {/* ANALYSE */}
 
   <section
     style={{
-      padding: '0 1rem 5rem',
+     padding: '3rem 1rem 5rem'
+      
     }}
   >
     <div
