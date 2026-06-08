@@ -1,8 +1,14 @@
 'use client'
 
 import Footer from '@/app/components/layout/Footer'
+import { useState } from 'react'
+
+
 
 export default function HildegardePage() {
+
+   const [langue, setLangue] = useState<'fr' | 'be'>('fr')
+
   return (
     <>
       <main className="hildegarde-page">
@@ -14,20 +20,96 @@ export default function HildegardePage() {
 </div>
         {/* HERO */}
         <section className="hero">
+          <div
+  style={{
+    display: 'flex',
+    justifyContent: 'flex-end',
+    marginBottom: '2rem',
+  }}
+>
+  <div
+    style={{
+      display: 'flex',
+      alignItems: 'center',
+      background: '#fff',
+      border: '2px solid #f3c623',
+      borderRadius: '999px',
+      padding: '4px',
+      boxShadow: '0 6px 18px rgba(42,12,69,.08)',
+    }}
+  >
+    <button
+      onClick={() => setLangue('fr')}
+      style={{
+        border: 'none',
+        background:
+          langue === 'fr'
+            ? '#2a0c45'
+            : 'transparent',
+        color:
+          langue === 'fr'
+            ? '#fff'
+            : '#2a0c45',
+        fontWeight: 700,
+        padding: '.65rem 1rem',
+        borderRadius: '999px',
+        cursor: 'pointer',
+      }}
+    >
+      🇫🇷
+    </button>
+
+    <button
+      onClick={() => setLangue('be')}
+      style={{
+        border: 'none',
+        background:
+          langue === 'be'
+            ? '#2a0c45'
+            : 'transparent',
+        color:
+          langue === 'be'
+            ? '#fff'
+            : '#2a0c45',
+        fontWeight: 700,
+        padding: '.65rem 1rem',
+        borderRadius: '999px',
+        cursor: 'pointer',
+      }}
+    >
+      🏴
+    </button>
+  </div>
+</div>
           <div className="container">
             <div className="hero-card">
               <span className="badge">🌿 Visionnaire du Moyen Âge</span>
 
-              <h1>La vie de la conception</h1>
+              <h1> {langue === 'fr'
+    ? 'La vie de la conception'
+    : 'La vita de la concepcion'}</h1>
 
               <p>
+  {langue === 'fr' ? (
+    <>
                 Sainte Hildegarde de Bingen contemple la naissance de l’être humain
                 comme une œuvre cosmique :
                 le corps reçoit progressivement sa forme,
                 puis Dieu y insuffle l’âme,
                 feu vivant destiné à conduire l’homme vers la lumière,
                 par la croissance jusqu&lsquo;à l&lsquo;âge mûr.
-              </p>
+          
+            </>
+  ) : (
+    <>
+      Santa Hildegarda de Bingen contempla la neishença
+      de l’òmi com ua òbra cosmica...
+          
+          
+          
+             </>
+  )}
+</p>
             </div>
           </div>
         </section>
