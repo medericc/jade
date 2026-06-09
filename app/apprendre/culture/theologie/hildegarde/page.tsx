@@ -2,7 +2,8 @@
 
 import Footer from '@/app/components/layout/Footer'
 import { useState } from 'react'
-
+import styles from './hildegarde.module.css'
+import Link from 'next/link'
 
 
 export default function HildegardePage() {
@@ -13,21 +14,21 @@ export default function HildegardePage() {
     <>
       <main className="hildegarde-page">
 
-        <div className="back-wrapper">
-  <a href="/apprendre/culture/theologie" className="back-button">
-    ← Retour
-  </a>
-</div>
-        {/* HERO */}
-        <section className="hero">
-          <div
-  style={{
-    display: 'flex',
-    justifyContent: 'flex-end',
-    marginBottom: '2rem',
-  }}
->
-  <div
+       <header className={styles.hildegardeHeader}>
+    <div className={`container ${styles.hildegardeHeaderContent}`}>
+      <Link
+        href="/apprendre/culture/theologie"
+        className={styles.backLink}
+      >
+        ← Retour
+      </Link>
+
+      <h1 className={styles.hildegardeTitle}>
+       
+        <span>Hildegarde de Bingen</span>
+      </h1>
+    
+     <div
     style={{
       display: 'flex',
       alignItems: 'center',
@@ -35,7 +36,6 @@ export default function HildegardePage() {
       border: '2px solid #f3c623',
       borderRadius: '999px',
       padding: '4px',
-      boxShadow: '0 6px 18px rgba(42,12,69,.08)',
     }}
   >
     <button
@@ -67,28 +67,29 @@ export default function HildegardePage() {
           langue === 'be'
             ? '#2a0c45'
             : 'transparent',
-        color:
-          langue === 'be'
-            ? '#fff'
-            : '#2a0c45',
-        fontWeight: 700,
         padding: '.65rem 1rem',
+        
         borderRadius: '999px',
         cursor: 'pointer',
       }}
     >
-       <img
-    src="/bearn.png"
-    alt="Béarn"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+      <img
+        src="/bearn.png"
+        alt="Béarn"
+        style={{
+          width: '24px',
+          height: '24px',
+          objectFit: 'contain',
+        }}
+      />
     </button>
   </div>
-</div>
+    </div>
+     
+  </header>
+        {/* HERO */}
+        <section className="hero">
+    
           <div className="container">
             <div className="hero-card">
               <span className="badge">🌿 Visionnaire du Moyen Âge</span>
@@ -427,53 +428,104 @@ export default function HildegardePage() {
       </main>
 
       <style jsx>{`
-        .hildegarde-page {
-          background:
-            linear-gradient(to bottom, #f8f5ff 0%, #fffef9 100%);
-          color: #2d0a45;
-          min-height: 100vh;
-        }
+       .hildegarde-page {
+  min-height: 100vh;
+--or: #f4c542;
+  background:
+    linear-gradient(
+      180deg,
+      #faf7ff 0%,
+      #fffdf7 45%,
+      #ffffff 100%
+    );
 
-        .container {
-          max-width: 1250px;
-          margin: 0 auto;
-          padding: 0 1.5rem;
-        }
+  color: #2d0a45;
+}
 
-        .hero {
-          padding: 5rem 0 3rem;
-        }
+.hero {
+  padding: 5rem 0 4rem;
+}
 
-        .hero-card {
-          background:
-            linear-gradient(135deg, #4b1e6d, #6f3b95);
-          color: white;
-          border-radius: 34px;
-          padding: 4rem;
-          box-shadow: 0 25px 60px rgba(75, 30, 109, 0.22);
-        }
+.hero-card {
+  position: relative;
 
-        .badge {
-          display: inline-block;
-          margin-bottom: 1.5rem;
-          background: rgba(255,255,255,0.12);
-          padding: 0.5rem 1rem;
-          border-radius: 999px;
-          font-size: 0.9rem;
-        }
+  overflow: hidden;
 
-        .hero h1 {
-          font-size: clamp(2.8rem, 5vw, 4.7rem);
-          margin-bottom: 1.5rem;
-          line-height: 1.05;
-        }
+  background:
+    linear-gradient(
+      135deg,
+      #4b1e6d 0%,
+      #6f3b95 100%
+    );
 
-        .hero p {
-          font-size: 1.12rem;
-          line-height: 1.9;
-          max-width: 900px;
-          color: rgba(255,255,255,0.92);
-        }
+  border-radius: 36px;
+
+  padding: 4rem;
+
+  box-shadow:
+    0 25px 60px rgba(75,30,109,.22);
+}
+
+.hero-card::before {
+  content: '';
+
+  position: absolute;
+
+  top: -150px;
+  right: -150px;
+
+  width: 350px;
+  height: 350px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(255,255,255,.15),
+      transparent 70%
+    );
+}
+
+.badge {
+  display: inline-block;
+
+  margin-bottom: 1.5rem;
+
+  padding: .55rem 1rem;
+
+  border-radius: 999px;
+
+  background: rgba(255,255,255,.12);
+
+  backdrop-filter: blur(8px);
+
+  color: white;
+
+  font-weight: 700;
+}
+
+.hero h1 {
+  font-size: clamp(3rem,6vw,5rem);
+
+  line-height: 1.05;
+
+  margin-bottom: 1.5rem;
+
+  font-weight: 900;
+
+  color: white;
+}
+
+.hero p {
+  max-width: 900px;
+
+  font-size: 1.12rem;
+
+  line-height: 1.9;
+
+  color: rgba(255,255,255,.92);
+}
 
         .intro-section,
         .content-section,
@@ -482,32 +534,30 @@ export default function HildegardePage() {
         }
 
         .intro-box,
-        .card,
-        .final-box {
-          background: white;
-          border-radius: 28px;
-          padding: 3rem;
-          box-shadow: 0 10px 35px rgba(0,0,0,0.06);
-        }
+.card,
+.final-box {
+  background: white;
 
-        .intro-box {
-          border-left: 8px solid #ffd700;
-        }
+  border-radius: 30px;
 
-        .intro-box h2,
-        .final-box h2 {
-          font-size: 2rem;
-          margin-bottom: 1.5rem;
-          color: #4b1e6d;
-        }
+  padding: 3rem;
 
-        .intro-box p,
-        .card p,
-        .final-box p {
-          line-height: 1.9;
-          margin-bottom: 1.2rem;
-          font-size: 1.05rem;
-        }
+  box-shadow:
+    0 10px 35px rgba(0,0,0,.06);
+
+  transition:
+    transform .3s ease,
+    box-shadow .3s ease;
+}
+
+.intro-box:hover,
+.card:hover,
+.final-box:hover {
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 18px 45px rgba(0,0,0,.10);
+}
 
         .grid {
           display: grid;
@@ -525,21 +575,34 @@ export default function HildegardePage() {
           min-height: 100%;
         }
 
-        .purple {
-          background:
-            linear-gradient(135deg, #f0e7fb, #ffffff);
-        }
+       .purple {
+  background:
+    linear-gradient(
+      135deg,
+      #f3ebff,
+      #ffffff
+    );
+}
 
-        .gold {
-          background:
-            linear-gradient(135deg, #fff8dd, #ffffff);
-        }
+.gold {
+  background:
+    linear-gradient(
+      135deg,
+      #fff6d6,
+      #ffffff
+    );
+}
 
-        .dark {
-          background:
-            linear-gradient(135deg, #3f185d, #5f2d83);
-          color: white;
-        }
+.dark {
+  background:
+    linear-gradient(
+      135deg,
+      #3f185d,
+      #5f2d83
+    );
+
+  color: white;
+}
 
         .dark h3,
         .dark blockquote {
@@ -569,12 +632,26 @@ export default function HildegardePage() {
           line-height: 1.7;
         }
 
-        .final-box {
-          text-align: center;
-          background:
-            linear-gradient(135deg, #fff7d8, #ffffff);
-          border: 2px solid #ffe27a;
-        }
+       .final-box {
+  text-align: center;
+
+  background:
+    linear-gradient(
+      135deg,
+      #fff8df,
+      #ffffff
+    );
+
+  border: 2px solid #ffe27a;
+}
+
+.final-box h2 {
+  color: #4b1e6d;
+
+  font-size: 2.3rem;
+
+  margin-bottom: 1.5rem;
+}
 
         @media (max-width: 768px) {
           .hero-card,
@@ -588,34 +665,37 @@ export default function HildegardePage() {
             padding-top: 3rem;
           }
 
-          .back-wrapper {
+        .back-wrapper {
   max-width: 1250px;
+
   margin: 0 auto;
-  padding: 1.5rem 1.5rem 0;
+
+  padding: 1.5rem;
 }
 
-.back-button {
-  display: inline-flex;
+.back-header {
+  display: flex;
+
+  justify-content: space-between;
+
   align-items: center;
-  gap: 0.5rem;
+}
+
+.toggle {
+  display: flex;
+
+  align-items: center;
 
   background: white;
-  color: #4b1e6d;
 
-  padding: 0.8rem 1.3rem;
+  border: 2px solid #f3c623;
 
   border-radius: 999px;
 
-  font-weight: 700;
+  padding: 4px;
 
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-
-  transition: all 0.25s ease;
-}
-
-.back-button:hover {
-  transform: translateY(-2px);
-  background: #f5edff;
+  box-shadow:
+    0 6px 18px rgba(42,12,69,.08);
 }
         }
       `}</style>
