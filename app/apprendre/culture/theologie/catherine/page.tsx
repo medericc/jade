@@ -86,8 +86,8 @@ const teachings =
        
         <span>Catherine de Sienne</span>
       </h1>
-    </div>
-      <div
+    
+     <div
     style={{
       display: 'flex',
       alignItems: 'center',
@@ -143,6 +143,8 @@ const teachings =
       />
     </button>
   </div>
+    </div>
+     
   </header>
 
   {/* HERO */}

@@ -75,14 +75,14 @@
 }
 
 .catherineHeaderContent {
-  position: relative;
-  z-index: 2;
-
   display: flex;
-  align-items: center;
-  gap: 1rem;
-  flex-wrap: wrap;
+     align-items: center;
+    justify-content: center;
+    gap: 12rem; 
+     margin-top: 1rem;
+    margin-bottom: 1rem;
 }
+
 
 .backLink {
   color: var(--or);
@@ -106,6 +106,7 @@
 .catherineTitle {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 1rem;
   flex-wrap: wrap;
 
@@ -124,6 +125,8 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+
 
 /* =========================================
    HERO
