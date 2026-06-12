@@ -5627,13 +5627,7 @@
     "type": "nom masculin",
     "search": "arroumèc ronce basse, mûrier, framboisier sauvage"
   },
-  {
-    "id": 904,
-    "titre": "arroumega",
-    "definition": "ruminer, mâcher longuement",
-    "type": "verbe transitif",
-    "search": "arroumega ruminer, mâcher longuement"
-  },
+  
   {
     "id": 905,
     "titre": "arroumegalh",
@@ -14059,27 +14053,7 @@
     "type": "nom féminin",
     "search": "briaguère état d'ivresse, cuite"
   },
-  {
-    "id": 2315,
-    "titre": "briba",
-    "definition": "couler en faisant un bruit léger, en bruissant (en parlant de l'eau)",
-    "type": "verbe intransitif",
-    "search": "briba couler en faisant un bruit léger, en bruissant (en parlant de l'eau)"
-  },
-  {
-    "id": 2316,
-    "titre": "bribén -te",
-    "definition": "vif, rapide (souvent en parlant de l'eau) ; courant rapide et bruissant",
-    "type": "adjectif et nom",
-    "search": "bribén -te vif, rapide (souvent en parlant de l'eau) ; courant rapide et bruissant"
-  },
-  {
-    "id": 2317,
-    "titre": "bribeya",
-    "definition": "couler en faisant un bruit léger",
-    "type": "verbe intransitif",
-    "search": "bribeya couler en faisant un bruit léger"
-  },
+  
   {
     "id": 2318,
     "titre": "bricole",
@@ -14146,20 +14120,7 @@
     "search": "brigue du tout"
   },
 
-  {
-    "id": 2330,
-    "titre": "brinda",
-    "definition": "porter un toast, boire à la santé de quelqu'un",
-    "type": "verbe intransitif",
-    "search": "brinda porter un toast, boire à la santé de quelqu'un"
-  },
-  {
-    "id": 2331,
-    "titre": "brìndẹ",
-    "definition": "toast (discours)",
-    "type": "nom masculin",
-    "search": "brìndẹ toast (discours)"
-  },
+ 
   {
     "id": 2332,
     "titre": "bringle",
@@ -14283,13 +14244,7 @@
     "type": "nom masculin",
     "search": "broucat piqûre d'épine, piqûre d'aiguille, coup d'aiguillon"
   },
-  {
-    "id": 2354,
-    "titre": "brouch",
-    "definition": "sorcier",
-    "type": "nom",
-    "search": "brouch sorcier"
-  },
+
   {
     "id": 2355,
     "titre": "brouchague",
@@ -14304,13 +14259,7 @@
     "type": "nom masculin",
     "search": "brouchaloû frelon"
   },
-  {
-    "id": 2357,
-    "titre": "brouchàmi",
-    "definition": "sorcellerie ; sorciers",
-    "type": "nom masculin singulier",
-    "search": "brouchàmi sorcellerie ; sorciers"
-  },
+ 
   {
     "id": 2358,
     "titre": "brouchét",
@@ -14460,13 +14409,7 @@
     "type": "verbe transitif",
     "search": "broussa brosser"
   },
-  {
-    "id": 2381,
-    "titre": "broussaloû",
-    "definition": "frelon",
-    "type": "nom masculin",
-    "search": "broussaloû frelon"
-  },
+  
   {
     "id": 2382,
     "titre": "brousside",
@@ -14812,13 +14755,7 @@
     "type": "nom masculin",
     "search": "budyét budget"
   },
-  {
-    "id": 2447,
-    "titre": "bue",
-    "definition": "étincelle",
-    "type": "nom féminin",
-    "search": "bue étincelle"
-  },
+ 
   {
     "id": 2448,
     "titre": "bufét",
@@ -14911,27 +14848,7 @@
     "type": "nom masculin",
     "search": "buscot brindille"
   },
-  {
-    "id": 2462,
-    "titre": "busoc -oque",
-    "definition": "lambin, maladroit, glandeur, tâtillon",
-    "type": "adjectif et nom",
-    "search": "busoc -oque lambin, maladroit, glandeur, tâtillon"
-  },
-  {
-    "id": 2463,
-    "titre": "busouca",
-    "definition": "lambiner, glander, traînailler",
-    "type": "verbe transitif",
-    "search": "busouca lambiner, glander, traînailler"
-  },
-  {
-    "id": 2464,
-    "titre": "busouqueya",
-    "definition": "lambiner, glander, traînailler",
-    "type": "verbe transitif",
-    "search": "busouqueya lambiner, glander, traînailler"
-  },
+ 
   {
     "id": 2465,
     "titre": "busquét",
@@ -14967,13 +14884,7 @@
     "type": "interjection",
     "search": "ça ! Ah, ça ! (étonnement, indignation)"
   },
-  {
-    "id": 2470,
-    "titre": "ça",
-    "definition": "çà, ici",
-    "type": "adverbe",
-    "search": "ça çà, ici"
-  },
+ 
   {
     "id": 2471,
     "titre": "ca",
@@ -15405,14 +15316,7 @@
     "type": "nom féminin",
     "search": "cabuchole petite tête"
   },
-  {
-    "id": 2539,
-    "titre": "cabus",
-    "definition": "pommé",
-    "type": "adjectif",
-    "search": "cabus pommé"
-  },
-  
+ 
  
   {
     "id": 2542,
@@ -15566,13 +15470,7 @@
     "type": "nom féminin",
     "search": "cadèyre chaise ; chaire"
   },
-  {
-    "id": 2570,
-    "titre": "cadière",
-    "definition": "chaise ; chaire",
-    "type": "nom féminin",
-    "search": "cadière chaise ; chaire"
-  },
+ 
   {
     "id": 2571,
     "titre": "cadieroû",
@@ -15603,10 +15501,10 @@
   },
   {
     "id": 2575,
-    "titre": "cadû",
+    "titre": "chacû",
     "definition": "chacun ; on",
     "type": "pronom indéfini",
-    "search": "cadû chacun ; on"
+    "search": "chacû chacun ; on"
   },
   {
     "id": 2576,
@@ -16280,13 +16178,7 @@
     "type": "nom masculin",
     "search": "cambarrat enclos"
   },
-  {
-    "id": 2680,
-    "titre": "càmbi",
-    "definition": "change, échange",
-    "type": "nom masculin",
-    "search": "càmbi change, échange"
-  },
+ 
   {
     "id": 2681,
     "titre": "cambia",
@@ -16315,13 +16207,7 @@
     "type": "adjectif",
     "search": "cambiadis -se variable"
   },
-  {
-    "id": 2685,
-    "titre": "cambiamén",
-    "definition": "changement",
-    "type": "nom masculin",
-    "search": "cambiamén changement"
-  },
+
   {
     "id": 2686,
     "titre": "cambiemén",
@@ -17005,20 +16891,7 @@
     "type": "adverbe, préposition et nom masculin",
     "search": "cap-bath (en) bas, (en) aval ; (au) nord"
   },
-  {
-    "id": 2788,
-    "titre": "capbath",
-    "definition": "(en) bas, (en) aval ; (au) nord",
-    "type": "adverbe, préposition et nom masculin",
-    "search": "capbath (en) bas, (en) aval ; (au) nord"
-  },
-  {
-    "id": 2789,
-    "titre": "cabbath",
-    "definition": "(en) bas, (en) aval ; (au) nord",
-    "type": "adverbe, préposition et nom masculin",
-    "search": "cabbath (en) bas, (en) aval ; (au) nord"
-  },
+ 
   {
     "id": 2790,
     "titre": "cap-bira",
@@ -17124,13 +16997,7 @@
     "type": "nom masculin",
     "search": "capèth (littéraire) chapeau"
   },
-  {
-    "id": 2805,
-    "titre": "capî -ine",
-    "definition": "capricieux",
-    "type": "adjectif et nom",
-    "search": "capî -ine capricieux"
-  },
+  
   {
     "id": 2806,
     "titre": "capihouna",
@@ -18955,21 +18822,8 @@
     "type": "verbe transitif",
     "search": "catsa couper à l'équerre, équarrir, mettre à niveau, ajuster"
   },
-  {
-    "id": 3071,
-    "titre": "catsau",
-    "definition": "bûche de Noël",
-    "type": "nom masculin",
-    "search": "catsau bûche de Noël"
-  },
  
-  {
-    "id": 3074,
-    "titre": "catsus",
-    "definition": "en haut",
-    "type": "adjectif",
-    "search": "catsus en haut"
-  },
+ 
   {
     "id": 3075,
     "titre": "cau",
@@ -18977,13 +18831,7 @@
     "type": "verbe",
     "search": "cau falloir (3ème pers. sg ind. prés de calé / càlẹ)"
   },
-  {
-    "id": 3076,
-    "titre": "cau",
-    "definition": "creux",
-    "type": "nom féminin",
-    "search": "cau creux"
-  },
+
   {
     "id": 3077,
     "titre": "cau caube",
@@ -19759,20 +19607,7 @@
     "type": "nom féminin",
     "search": "chabèque chouette ; vieille bavarde"
   },
-  {
-    "id": 3192,
-    "titre": "chabraque",
-    "definition": "(personne) qui parle à tort et à travers",
-    "type": "adjectif et nom",
-    "search": "chabraque (personne) qui parle à tort et à travers"
-  },
-  {
-    "id": 3193,
-    "titre": "chabraqueya",
-    "definition": "parler à tort et à travers",
-    "type": "verbe intransitif",
-    "search": "chabraqueya parler à tort et à travers"
-  },
+ 
   {
     "id": 3194,
     "titre": "chaca",
@@ -19801,13 +19636,7 @@
     "type": "nom masculin",
     "search": "chacat coup de pointe"
   },
-  {
-    "id": 3198,
-    "titre": "chagata",
-    "definition": "grosse averse",
-    "type": "nom masculin",
-    "search": "chagata grosse averse"
-  },
+
   {
     "id": 3199,
     "titre": "chagrî",
@@ -19977,20 +19806,8 @@
     "type": "verbe transitif",
     "search": "chanya changer, (se) modifier, échanger"
   },
-  {
-    "id": 3224,
-    "titre": "chapa",
-    "definition": "mâcher ; marmonner",
-    "type": "verbe intransitif et transitif",
-    "search": "chapa mâcher ; marmonner"
-  },
-  {
-    "id": 3225,
-    "titre": "chapade",
-    "definition": "averse",
-    "type": "nom féminin",
-    "search": "chapade averse"
-  },
+
+ 
   {
     "id": 3226,
     "titre": "chapaut",
@@ -20226,13 +20043,7 @@
     "type": "nom féminin",
     "search": "charrue charrue en métal"
   },
-  {
-    "id": 3264,
-    "titre": "chaspa",
-    "definition": "mâcher ; marmonner",
-    "type": "verbe transitif",
-    "search": "chaspa mâcher ; marmonner"
-  },
+ 
   {
     "id": 3265,
     "titre": "chasprut -ude",
@@ -20268,20 +20079,20 @@
     "type": "nom masculin",
     "search": "chauc sureau"
   },
-  {
-    "id": 3270,
-    "titre": "chaucha",
-    "definition": "mouiller, tremper",
-    "type": "verbe transitif",
-    "search": "chaucha mouiller, tremper"
-  },
-  {
-    "id": 3271,
-    "titre": "chauchole",
-    "definition": "mouillette, trempette",
-    "type": "nom féminin",
-    "search": "chauchole mouillette, trempette"
-  },
+  // {
+  //   "id": 3270,
+  //   "titre": "chaucha",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "chaucha mouiller, tremper"
+  // },
+  // {
+  //   "id": 3271,
+  //   "titre": "chauchole",
+  //   "definition": "mouillette, trempette",
+  //   "type": "nom féminin",
+  //   "search": "chauchole mouillette, trempette"
+  // },
   {
     "id": 3272,
     "titre": "chauma",
@@ -20303,41 +20114,41 @@
     "type": "nom",
     "search": "chaumur -use chômeur"
   },
-  {
-    "id": 3275,
-    "titre": "chaupa",
-    "definition": "mouiller, tremper",
-    "type": "verbe transitif",
-    "search": "chaupa mouiller, tremper"
-  },
-  {
-    "id": 3276,
-    "titre": "chaupade",
-    "definition": "saucée ; trempe (râclée)",
-    "type": "nom féminin",
-    "search": "chaupade saucée ; trempe (râclée)"
-  },
-  {
-    "id": 3277,
-    "titre": "chaupat",
-    "definition": "saucée ; trempe (râclée)",
-    "type": "nom masculin",
-    "search": "chaupat saucée ; trempe (râclée)"
-  },
-  {
-    "id": 3278,
-    "titre": "chaupateya",
-    "definition": "barboter, patauger",
-    "type": "verbe intransitif",
-    "search": "chaupateya barboter, patauger"
-  },
-  {
-    "id": 3279,
-    "titre": "chaupatòri",
-    "definition": "saucée",
-    "type": "nom masculin",
-    "search": "chaupatòri saucée"
-  },
+  // {
+  //   "id": 3275,
+  //   "titre": "chaupa",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "chaupa mouiller, tremper"
+  // },
+  // {
+  //   "id": 3276,
+  //   "titre": "chaupade",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom féminin",
+  //   "search": "chaupade saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3277,
+  //   "titre": "chaupat",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom masculin",
+  //   "search": "chaupat saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3278,
+  //   "titre": "chaupateya",
+  //   "definition": "barboter, patauger",
+  //   "type": "verbe intransitif",
+  //   "search": "chaupateya barboter, patauger"
+  // },
+  // {
+  //   "id": 3279,
+  //   "titre": "chaupatòri",
+  //   "definition": "saucée",
+  //   "type": "nom masculin",
+  //   "search": "chaupatòri saucée"
+  // },
   {
     "id": 3280,
     "titre": "chaupina",
@@ -20359,13 +20170,7 @@
     "type": "nom masculin",
     "search": "chauquè sureau"
   },
-  {
-    "id": 3283,
-    "titre": "chausi",
-    "definition": "choisir, trier",
-    "type": "verbe transitif",
-    "search": "chausi choisir, trier"
-  },
+  
   {
     "id": 3284,
     "titre": "chay",
@@ -20457,34 +20262,28 @@
     "type": "nom",
     "search": "chéns-ardits sans-le-sou"
   },
-  {
-    "id": 3297,
-    "titre": "chenya",
-    "definition": " changer, (se) modifier, échanger",
-    "type": "verbe transitif",
-    "search": "chenya changer, (se) modifier, échanger"
-  },
-  {
-    "id": 3298,
-    "titre": "chepic",
-    "definition": "inquiétude, souci",
-    "type": "nom masculin",
-    "search": "chepic inquiétude, souci"
-  },
-  {
-    "id": 3299,
-    "titre": "chepica-s",
-    "definition": "s'inquiéter",
-    "type": "verbe pronominal",
-    "search": "chepica-s s'inquiéter"
-  },
-  {
-    "id": 3300,
-    "titre": "chepicous",
-    "definition": "(individu) irritable, susceptible, hargneux",
-    "type": "adjectif et nom",
-    "search": "chepicous (individu) irritable, susceptible, hargneux"
-  },
+ 
+  // {
+  //   "id": 3298,
+  //   "titre": "chepic",
+  //   "definition": "inquiétude, souci",
+  //   "type": "nom masculin",
+  //   "search": "chepic inquiétude, souci"
+  // },
+  // {
+  //   "id": 3299,
+  //   "titre": "chepica-s",
+  //   "definition": "s'inquiéter",
+  //   "type": "verbe pronominal",
+  //   "search": "chepica-s s'inquiéter"
+  // },
+  // {
+  //   "id": 3300,
+  //   "titre": "chepicous",
+  //   "definition": "(individu) irritable, susceptible, hargneux",
+  //   "type": "adjectif et nom",
+  //   "search": "chepicous (individu) irritable, susceptible, hargneux"
+  // },
   {
     "id": 3301,
     "titre": "chèque",
@@ -20506,13 +20305,7 @@
     "type": "nom masculin",
     "search": "chequiè chéquier"
   },
-  {
-    "id": 3304,
-    "titre": "chchoûs",
-    "definition": "graisserons (rillons)",
-    "type": "nom masculin pluriel",
-    "search": "chchoûs graisserons (rillons)"
-  },
+ 
   {
     "id": 3305,
     "titre": "cheringlat",
@@ -20576,13 +20369,7 @@
     "type": "nom féminin",
     "search": "chésque glaïeul des marais (utilisé pour la confection des chaises)"
   },
-  {
-    "id": 3314,
-    "titre": "chetique",
-    "definition": "sciatique",
-    "type": "nom féminin",
-    "search": "chetique sciatique"
-  },
+ 
   {
     "id": 3315,
     "titre": "chètrẹ",
@@ -20997,13 +20784,7 @@
     "type": "nom masculin",
     "search": "chouflur chou-fleur"
   },
-  {
-    "id": 3375,
-    "titre": "choulle",
-    "definition": "cloque, ampoule",
-    "type": "nom féminin",
-    "search": "choulle cloque, ampoule"
-  },
+
   {
     "id": 3376,
     "titre": "chouo !",
@@ -21011,62 +20792,62 @@
     "type": "interjection",
     "search": "chouo ! ho !, halte ! (cri pour arrêter les bêtes)"
   },
-  {
-    "id": 3377,
-    "titre": "choup",
-    "definition": "mouillé",
-    "type": "adjectif",
-    "search": "choup mouillé"
-  },
-  {
-    "id": 3378,
-    "titre": "choupa",
-    "definition": "mouiller, tremper",
-    "type": "verbe transitif",
-    "search": "choupa mouiller, tremper"
-  },
-  {
-    "id": 3379,
-    "titre": "choupade",
-    "definition": "saucée ; trempe (râclée)",
-    "type": "nom féminin",
-    "search": "choupade saucée ; trempe (râclée)"
-  },
-  {
-    "id": 3380,
-    "titre": "choupat",
-    "definition": "saucée ; trempe (râclée)",
-    "type": "nom masculin",
-    "search": "choupat saucée ; trempe (râclée)"
-  },
-  {
-    "id": 3381,
-    "titre": "choupatòri",
-    "definition": "saucée",
-    "type": "nom masculin",
-    "search": "choupatòri saucée"
-  },
-  {
-    "id": 3382,
-    "titre": "choupi",
-    "definition": "mouiller, tremper",
-    "type": "verbe transitif",
-    "search": "choupi mouiller, tremper"
-  },
-  {
-    "id": 3383,
-    "titre": "choupide",
-    "definition": "saucée ; trempe (râclée)",
-    "type": "nom féminin",
-    "search": "choupide saucée ; trempe (râclée)"
-  },
-  {
-    "id": 3384,
-    "titre": "choupit",
-    "definition": "saucée ; trempe (râclée)",
-    "type": "nom masculin",
-    "search": "choupit saucée ; trempe (râclée)"
-  },
+  // {
+  //   "id": 3377,
+  //   "titre": "choup",
+  //   "definition": "mouillé",
+  //   "type": "adjectif",
+  //   "search": "choup mouillé"
+  // },
+  // {
+  //   "id": 3378,
+  //   "titre": "choupa",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "choupa mouiller, tremper"
+  // },
+  // {
+  //   "id": 3379,
+  //   "titre": "choupade",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom féminin",
+  //   "search": "choupade saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3380,
+  //   "titre": "choupat",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom masculin",
+  //   "search": "choupat saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3381,
+  //   "titre": "choupatòri",
+  //   "definition": "saucée",
+  //   "type": "nom masculin",
+  //   "search": "choupatòri saucée"
+  // },
+  // {
+  //   "id": 3382,
+  //   "titre": "choupi",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "choupi mouiller, tremper"
+  // },
+  // {
+  //   "id": 3383,
+  //   "titre": "choupide",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom féminin",
+  //   "search": "choupide saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3384,
+  //   "titre": "choupit",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom masculin",
+  //   "search": "choupit saucée ; trempe (râclée)"
+  // },
   {
     "id": 3385,
     "titre": "chour chourde",
@@ -21130,13 +20911,7 @@
     "type": "nom et adjectif",
     "search": "chourrupàyrẹ (personne) qui avale / boit par gorgées"
   },
-  {
-    "id": 3394,
-    "titre": "chourt chourde",
-    "definition": "sourd",
-    "type": "adjectif et nom",
-    "search": "chourt chourde sourd"
-  },
+ 
   {
     "id": 3395,
     "titre": "choyne",
@@ -22215,9 +21990,9 @@
   {
     "id": 3552,
     "titre": "coquèle",
-    "definition": "casserole, cocotte",
+    "definition": "cocotte",
     "type": "nom féminin",
-    "search": "coquèle casserole, cocotte"
+    "search": "coquèle cocotte"
   },
   {
     "id": 3553,
@@ -22297,13 +22072,7 @@
     "type": "nom masculin",
     "search": "cos sommet d'un coteau"
   },
-  {
-    "id": 3565,
-    "titre": "cosse",
-    "definition": "louche",
-    "type": "nom féminin",
-    "search": "cosse louche"
-  },
+ 
   {
     "id": 3566,
     "titre": "còssou",
@@ -22761,13 +22530,7 @@
     "type": "nom féminin",
     "search": "cougnade coup violent, heurt"
   },
-  {
-    "id": 3633,
-    "titre": "cougnét",
-    "definition": "ruche",
-    "type": "nom masculin",
-    "search": "cougnét ruche"
-  },
+
   {
     "id": 3634,
     "titre": "cougni",
@@ -22784,10 +22547,10 @@
   },
   {
     "id": 3636,
-    "titre": "cououm",
+    "titre": "cougoum",
     "definition": "concombre (fruit)",
     "type": "nom masculin",
-    "search": "cououm concombre (fruit)"
+    "search": "cougoum concombre (fruit)"
   },
   {
     "id": 3637,
@@ -25456,13 +25219,13 @@
     "type": "nom féminin",
     "search": "courbachéte corneille"
   },
-  {
-    "id": 4018,
-    "titre": "courbas",
-    "definition": "corbeau",
-    "type": "nom masculin",
-    "search": "courbas corbeau"
-  },
+  // {
+  //   "id": 4018,
+  //   "titre": "courbas",
+  //   "definition": "corbeau",
+  //   "type": "nom masculin",
+  //   "search": "courbas corbeau"
+  // },
   {
     "id": 4019,
     "titre": "courbe",
@@ -71642,20 +71405,8 @@
     "type": "adjectif et nom",
     "search": "sour sourde sourd"
   },
-  {
-    "id": 10843,
-    "titre": "sourciè -re",
-    "definition": "sorcier",
-    "type": "nom",
-    "search": "sourciè -re sorcier"
-  },
-  {
-    "id": 10844,
-    "titre": "sourcierùmi",
-    "definition": "sorcellerie ; sorciers",
-    "type": "nom masculin singulier",
-    "search": "sourcierùmi sorcellerie ; sorciers"
-  },
+ 
+ 
   {
     "id": 10845,
     "titre": "soudat",
