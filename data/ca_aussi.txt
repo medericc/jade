@@ -1,3 +1,175 @@
+
+  // {
+  //   "id": 4018,
+  //   "titre": "courbas",
+  //   "definition": "corbeau",
+  //   "type": "nom masculin",
+  //   "search": "courbas corbeau"
+  // },
+
+// {
+  //   "id": 3377,
+  //   "titre": "choup",
+  //   "definition": "mouillé",
+  //   "type": "adjectif",
+  //   "search": "choup mouillé"
+  // },
+  // {
+  //   "id": 3378,
+  //   "titre": "choupa",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "choupa mouiller, tremper"
+  // },
+  // {
+  //   "id": 3379,
+  //   "titre": "choupade",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom féminin",
+  //   "search": "choupade saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3380,
+  //   "titre": "choupat",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom masculin",
+  //   "search": "choupat saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3381,
+  //   "titre": "choupatòri",
+  //   "definition": "saucée",
+  //   "type": "nom masculin",
+  //   "search": "choupatòri saucée"
+  // },
+  // {
+  //   "id": 3382,
+  //   "titre": "choupi",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "choupi mouiller, tremper"
+  // },
+  // {
+  //   "id": 3383,
+  //   "titre": "choupide",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom féminin",
+  //   "search": "choupide saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3384,
+  //   "titre": "choupit",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom masculin",
+  //   "search": "choupit saucée ; trempe (râclée)"
+  // },
+   // {
+  //   "id": 3298,
+  //   "titre": "chepic",
+  //   "definition": "inquiétude, souci",
+  //   "type": "nom masculin",
+  //   "search": "chepic inquiétude, souci"
+  // },
+  // {
+  //   "id": 3299,
+  //   "titre": "chepica-s",
+  //   "definition": "s'inquiéter",
+  //   "type": "verbe pronominal",
+  //   "search": "chepica-s s'inquiéter"
+  // },
+  // {
+  //   "id": 3300,
+  //   "titre": "chepicous",
+  //   "definition": "(individu) irritable, susceptible, hargneux",
+  //   "type": "adjectif et nom",
+  //   "search": "chepicous (individu) irritable, susceptible, hargneux"
+  // },
+  // {
+  //   "id": 3275,
+  //   "titre": "chaupa",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "chaupa mouiller, tremper"
+  // },
+  // {
+  //   "id": 3276,
+  //   "titre": "chaupade",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom féminin",
+  //   "search": "chaupade saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3277,
+  //   "titre": "chaupat",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom masculin",
+  //   "search": "chaupat saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3278,
+  //   "titre": "chaupateya",
+  //   "definition": "barboter, patauger",
+  //   "type": "verbe intransitif",
+  //   "search": "chaupateya barboter, patauger"
+  // },
+  // {
+  //   "id": 3279,
+  //   "titre": "chaupatòri",
+  //   "definition": "saucée",
+  //   "type": "nom masculin",
+  //   "search": "chaupatòri saucée"
+  // },
+  // {
+  //   "id": 3275,
+  //   "titre": "chaupa",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "chaupa mouiller, tremper"
+  // },
+  // {
+  //   "id": 3276,
+  //   "titre": "chaupade",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom féminin",
+  //   "search": "chaupade saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3277,
+  //   "titre": "chaupat",
+  //   "definition": "saucée ; trempe (râclée)",
+  //   "type": "nom masculin",
+  //   "search": "chaupat saucée ; trempe (râclée)"
+  // },
+  // {
+  //   "id": 3278,
+  //   "titre": "chaupateya",
+  //   "definition": "barboter, patauger",
+  //   "type": "verbe intransitif",
+  //   "search": "chaupateya barboter, patauger"
+  // },
+  // {
+  //   "id": 3279,
+  //   "titre": "chaupatòri",
+  //   "definition": "saucée",
+  //   "type": "nom masculin",
+  //   "search": "chaupatòri saucée"
+  // },
+   // {
+  //   "id": 3270,
+  //   "titre": "chaucha",
+  //   "definition": "mouiller, tremper",
+  //   "type": "verbe transitif",
+  //   "search": "chaucha mouiller, tremper"
+  // },
+  // {
+  //   "id": 3271,
+  //   "titre": "chauchole",
+  //   "definition": "mouillette, trempette",
+  //   "type": "nom féminin",
+  //   "search": "chauchole mouillette, trempette"
+  // }
+
+
  {
     "id": 2309,
     "titre": "brét",
