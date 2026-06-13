@@ -25220,10 +25220,10 @@
   },
   {
     "id": 4036,
-    "titre": "cournalhè",
+    "titre": "pic cournalhè",
     "definition": "pivert",
     "type": "nom masculin",
-    "search": "cournalhè pivert"
+    "search": "pic cournalhè pivert"
   },
   {
     "id": 4037,
@@ -25505,20 +25505,8 @@
     "type": "adjectif et nom",
     "search": "court court ; asthmatique"
   },
-  {
-    "id": 4077,
-    "titre": "court",
-    "definition": "cour",
-    "type": "nom masculin",
-    "search": "court cour"
-  },
-  {
-    "id": 4078,
-    "titre": "courtalh",
-    "definition": "bergerie",
-    "type": "nom masculin",
-    "search": "courtalh bergerie"
-  },
+ 
+ 
   {
     "id": 4079,
     "titre": "courtèdyẹ",
@@ -25526,13 +25514,7 @@
     "type": "nom masculin",
     "search": "courtèdyẹ cortège"
   },
-  {
-    "id": 4080,
-    "titre": "courtélh",
-    "definition": "bergerie",
-    "type": "nom masculin",
-    "search": "courtélh bergerie"
-  },
+ 
   {
     "id": 4081,
     "titre": "courtés",
@@ -25562,20 +25544,7 @@
     "search": "courtiè courtier"
   },
   
-  {
-    "id": 4086,
-    "titre": "courtine",
-    "definition": "rideau",
-    "type": "nom féminin",
-    "search": "courtine rideau"
-  },
-  {
-    "id": 4087,
-    "titre": "courtinét",
-    "definition": "petit rideau posé sur le chambranle de la cheminée",
-    "type": "nom masculin",
-    "search": "courtinét petit rideau posé sur le chambranle de la cheminée"
-  },
+  
   {
     "id": 4088,
     "titre": "courtisâ -ane",
@@ -25604,20 +25573,7 @@
     "type": "nom",
     "search": "courur -use coureur"
   },
-  {
-    "id": 4092,
-    "titre": "couscoulhàyrẹ",
-    "definition": "marchand d'escargots",
-    "type": "nom",
-    "search": "couscoulhàyrẹ marchand d'escargots"
-  },
-  {
-    "id": 4093,
-    "titre": "couscoulhe",
-    "definition": "coquille, gousse, coquillage",
-    "type": "nom féminin",
-    "search": "couscoulhe coquille, gousse, coquillage"
-  },
+
   {
     "id": 4094,
     "titre": "coùsẹ",
@@ -25949,13 +25905,7 @@
     "type": "nom masculin",
     "search": "coutèth couteau"
   },
-  {
-    "id": 4144,
-    "titre": "couth",
-    "definition": "couenne",
-    "type": "nom masculin",
-    "search": "couth couenne"
-  },
+
   {
     "id": 4145,
     "titre": "couti",
@@ -26300,20 +26250,8 @@
     "type": "nom masculin",
     "search": "cranc lumbago"
   },
-  {
-    "id": 4195,
-    "titre": "crapaut",
-    "definition": "crapaud",
-    "type": "nom masculin",
-    "search": "crapaut crapaud"
-  },
-  {
-    "id": 4196,
-    "titre": "crapautalhe",
-    "definition": "crapauds ; racaille (collectif)",
-    "type": "nom féminin singulier",
-    "search": "crapautalhe crapauds ; racaille (collectif)"
-  },
+ 
+ 
   {
     "id": 4197,
     "titre": "crapule",
@@ -26490,13 +26428,7 @@
     "type": "nom féminin",
     "search": "crechude croissance"
   },
-  {
-    "id": 4226,
-    "titre": "créde",
-    "definition": "craie",
-    "type": "nom féminin",
-    "search": "créde craie"
-  },
+
   {
     "id": 4227,
     "titre": "crédẹ",
@@ -26938,13 +26870,7 @@
     "type": "nom masculin",
     "search": "croc coup sec, mauvais coup"
   },
-  {
-    "id": 4290,
-    "titre": "cròfẹ",
-    "definition": "coffre ; cercueil",
-    "type": "nom masculin",
-    "search": "cròfẹ coffre ; cercueil"
-  },
+ 
   {
     "id": 4291,
     "titre": "croubi",
@@ -27366,13 +27292,7 @@
     "type": "verbe intransitif",
     "search": "culeya jouer du postérieur, rouler des fesses, marcher en se déhanchant"
   },
-  {
-    "id": 4352,
-    "titre": "culhé",
-    "definition": "cuillère",
-    "type": "nom masculin",
-    "search": "culhé cuillère"
-  },
+ 
   {
     "id": 4353,
     "titre": "culheba",
@@ -27417,10 +27337,10 @@
   },
   {
     "id": 4359,
-    "titre": "culhère",
+    "titre": "cuilhère",
     "definition": "cuillère",
     "type": "nom féminin",
-    "search": "culhère cuillère"
+    "search": "cuilhère cuillère"
   },
   {
     "id": 4360,
@@ -27625,13 +27545,7 @@
     "type": "verbe transitif",
     "search": "cu-senti sentir le derrière (en parlant des chiens) ; espionner, enquêter de façon indiscrète"
   },
-  {
-    "id": 4389,
-    "titre": "cusmèth",
-    "definition": "pelote (couture)",
-    "type": "nom masculin",
-    "search": "cusmèth pelote (couture)"
-  },
+
   {
     "id": 4390,
     "titre": "cussa",
@@ -27702,21 +27616,8 @@
     "type": "adjectif et nom",
     "search": "cuye-pelat -ade (par plaisanterie) chauve (« citrouille pelée »)"
   },
-  {
-    "id": 4400,
-    "titre": "cuyole",
-    "definition": "cage ; cabane (prison)",
-    "type": "nom féminin",
-    "search": "cuyole cage ; cabane (prison)"
-  },
-  {
-    "id": 4401,
-    "titre": "cuyoû",
-    "definition": "gourde",
-    "type": "nom masculin",
-    "search": "cuyoû gourde"
-  },
-  
+ 
+ 
   {
     "id": 4403,
     "titre": "da",
@@ -27724,13 +27625,7 @@
     "type": "verbe transitif",
     "search": "da donner, fournir ; aller, se diriger vers"
   },
-  {
-    "id": 4404,
-    "titre": "dab",
-    "definition": "graphie erronée de dap → avec",
-    "type": "préposition",
-    "search": "dab graphie erronée de dap → avec"
-  },
+ 
   {
     "id": 4405,
     "titre": "daban",
@@ -27998,13 +27893,7 @@
     "type": "préposition",
     "search": "dap avec"
   },
-  {
-    "id": 4444,
-    "titre": "daquero",
-    "definition": "machin, truc",
-    "type": "nom masculin",
-    "search": "daquero machin, truc"
-  },
+
   {
     "id": 4445,
     "titre": "darrè",
@@ -28110,20 +27999,7 @@
     "type": "interjection",
     "search": "dau dans l'expr Diu me dau ! → Bon Dieu ! (juron atténué)"
   },
-  {
-    "id": 4460,
-    "titre": "dauan",
-    "definition": "devant",
-    "type": "préposition et adverbe",
-    "search": "dauan devant"
-  },
-  {
-    "id": 4461,
-    "titre": "daubûs",
-    "definition": "quelques-uns, certains",
-    "type": "pronom indéfini pluriel",
-    "search": "daubûs quelques-uns, certains"
-  },
+  
   {
     "id": 4462,
     "titre": "daune",
@@ -28194,13 +28070,7 @@
     "type": "préposition",
     "search": "de de ; à ; depuis, pendant"
   },
-  {
-    "id": 4472,
-    "titre": "deban",
-    "definition": "devant",
-    "type": "préposition et adverbe",
-    "search": "deban devant"
-  },
+ 
   {
     "id": 4473,
     "titre": "debanadé",
@@ -28210,18 +28080,12 @@
   },
   {
     "id": 4474,
-    "titre": "debança",
+    "titre": "dabança",
     "definition": "devancer",
     "type": "verbe transitif",
-    "search": "debança devancer"
+    "search": "dabança devancer"
   },
-  {
-    "id": 4475,
-    "titre": "debancès",
-    "definition": "ancêtres",
-    "type": "nom masculin pluriel",
-    "search": "debancès ancêtres"
-  },
+ 
   {
     "id": 4476,
     "titre": "debanciès",
@@ -28229,20 +28093,8 @@
     "type": "nom masculin pluriel",
     "search": "debanciès jeunes qui organisent les fêtes de village ; conscrits"
   },
-  {
-    "id": 4477,
-    "titre": "debanture",
-    "definition": "devanture",
-    "type": "nom féminin",
-    "search": "debanture devanture"
-  },
-  {
-    "id": 4478,
-    "titre": "deban-yé",
-    "definition": "avant-hier",
-    "type": "adverbe",
-    "search": "deban-yé avant-hier"
-  },
+  
+ 
   {
     "id": 4479,
     "titre": "debara",
@@ -28544,13 +28396,7 @@
     "type": "adjectif",
     "search": "debut -ude dû"
   },
-  {
-    "id": 4522,
-    "titre": "deça",
-    "definition": "ici, de ce côté-ci",
-    "type": "adverbe et préposition",
-    "search": "deça ici, de ce côté-ci"
-  },
+ 
   {
     "id": 4523,
     "titre": "decabén (à)",
@@ -28699,13 +28545,7 @@
     "type": "verbe intransitif et transitif",
     "search": "declina décliner"
   },
-  {
-    "id": 4545,
-    "titre": "de",
-    "definition": "machin, truc",
-    "type": "nom masculin",
-    "search": "de machin, truc"
-  },
+ 
   {
     "id": 4546,
     "titre": "decoura",
@@ -28881,13 +28721,7 @@
     "type": "verbe intransitif et nom masculin",
     "search": "dejuna (petit) déjeuner"
   },
-  {
-    "id": 4571,
-    "titre": "dela",
-    "definition": "là, là-bas (adverbe) ; au-delà de (préposition) ; lieu situé au-delà (nom)",
-    "type": "adverbe, préposition et nom masculin",
-    "search": "dela là, là-bas (adverbe) ; au-delà de (préposition) ; lieu situé au-delà (nom)"
-  },
+  
   {
     "id": 4572,
     "titre": "delay",
@@ -28951,13 +28785,7 @@
     "type": "nom féminin",
     "search": "demande demande"
   },
-  {
-    "id": 4581,
-    "titre": "dembè(r)s",
-    "definition": "envers",
-    "type": "nom masculin",
-    "search": "dembè(r)s envers"
-  },
+
   {
     "id": 4582,
     "titre": "demena-s",
@@ -29231,20 +29059,7 @@
     "type": "nom masculin",
     "search": "dequero machin, truc"
   },
-  {
-    "id": 4621,
-    "titre": "d’quéstẹ -ste",
-    "definition": "de ce, de cet / cette, de celui-ci / celle-ci",
-    "type": "préposition + pronom",
-    "search": "d’quéstẹ -ste de ce, de cet / cette, de celui-ci / celle-ci"
-  },
-  {
-    "id": 4622,
-    "titre": "d’uéth, dequéth",
-    "definition": "de ce, de cet, de celui-là",
-    "type": "préposition + pronom",
-    "search": "d’uéth, dequéth de ce, de cet, de celui-là"
-  },
+ 
   {
     "id": 4623,
     "titre": "derauba, derrauba",
@@ -29273,27 +29088,7 @@
     "type": "nom féminin",
     "search": "derrounte déglingage, graves dommages"
   },
-  {
-    "id": 4627,
-    "titre": "derrui",
-    "definition": "détruire, ruiner",
-    "type": "verbe transitif (que derruéchi)",
-    "search": "derrui détruire, ruiner"
-  },
-  {
-    "id": 4628,
-    "titre": "derruide",
-    "definition": "destruction, démolition",
-    "type": "nom féminin",
-    "search": "derruide destruction, démolition"
-  },
-  {
-    "id": 4629,
-    "titre": "derruit -ide",
-    "definition": "ruiné ; dont les facultés sont affaiblies",
-    "type": "adjectif",
-    "search": "derruit -ide ruiné ; dont les facultés sont affaiblies"
-  },
+  
   {
     "id": 4630,
     "titre": "des-",
@@ -31809,13 +31604,7 @@
     "type": "verbe transitif",
     "search": "determina déterminer"
   },
-  {
-    "id": 4991,
-    "titre": "deth, deths",
-    "definition": "du, des",
-    "type": "préposition + article masculin",
-    "search": "deth, deths du, des"
-  },
+
   {
     "id": 4992,
     "titre": "dèts",
@@ -31830,20 +31619,8 @@
     "type": "—",
     "search": "déu il / elle doit (3e pers. sing. ind. prés. de débẹ)"
   },
-  {
-    "id": 4994,
-    "titre": "d",
-    "definition": "du",
-    "type": "préposition + article masculin singulier",
-    "search": "d du"
-  },
-  {
-    "id": 4995,
-    "titre": "deus",
-    "definition": "des m.",
-    "type": "préposition + article masculin pluriel",
-    "search": "deus des m."
-  },
+  
+  
   {
     "id": 4996,
     "titre": "déutẹ",
@@ -31978,13 +31755,7 @@
     "type": "verbe intransitif (que dibòrci)",
     "search": "dibourça divorcer"
   },
-  {
-    "id": 5016,
-    "titre": "di",
-    "definition": "je dis, je veux dire (1re pers. sing. ind. prés. de dìsẹ)",
-    "type": "—",
-    "search": "di je dis, je veux dire (1re pers. sing. ind. prés. de dìsẹ)"
-  },
+ 
   {
     "id": 5017,
     "titre": "dicciounàri",
@@ -32339,13 +32110,7 @@
     "type": "nom féminin",
     "search": "disténce, disténci distance"
   },
-  {
-    "id": 5071,
-    "titre": "distinga",
-    "definition": "distinguer",
-    "type": "verbe transitif",
-    "search": "distinga distinguer"
-  },
+ 
   {
     "id": 5072,
     "titre": "distribua",
@@ -32677,20 +32442,7 @@
     "type": "adverbe",
     "search": "doun donc"
   },
-  {
-    "id": 5122,
-    "titre": "dounyè",
-    "definition": "danger",
-    "type": "nom masculin",
-    "search": "dounyè danger"
-  },
-  {
-    "id": 5123,
-    "titre": "dounyerous",
-    "definition": "dangereux",
-    "type": "adjectif",
-    "search": "dounyerous dangereux"
-  },
+ 
   {
     "id": 5124,
     "titre": "dounzeloû",
@@ -32705,13 +32457,7 @@
     "type": "préposition + pronom relatif masculin",
     "search": "douquoau (littéraire) duquel, dont"
   },
-  {
-    "id": 5126,
-    "titre": "dourèc -èque",
-    "definition": "précoce ; pressé ; matinal",
-    "type": "adjectif",
-    "search": "dourèc -èque précoce ; pressé ; matinal"
-  },
+ 
   {
     "id": 5127,
     "titre": "dous",
@@ -32944,13 +32690,7 @@
     "type": "nom",
     "search": "drouguìstẹ droguiste"
   },
-  {
-    "id": 5161,
-    "titre": "droulh",
-    "definition": "empoté, amorphe, bafouilleur",
-    "type": "adjectif",
-    "search": "droulh empoté, amorphe, bafouilleur"
-  },
+
   {
     "id": 5162,
     "titre": "droullas",
@@ -33238,13 +32978,7 @@
     "type": "nom masculin",
     "search": "èch essieu"
   },
-  {
-    "id": 5203,
-    "titre": "echardine",
-    "definition": "sardine",
-    "type": "nom féminin",
-    "search": "echardine sardine"
-  },
+ 
   {
     "id": 5204,
     "titre": "echèr",
@@ -33504,41 +33238,8 @@
     "type": "nom féminin",
     "search": "eliminacioû élimination"
   },
-  {
-    "id": 5241,
-    "titre": "ellénc -éngue / -énque",
-    "definition": "(Orthez) glissant",
-    "type": "adjectif",
-    "search": "ellénc -éngue / -énque (Orthez) glissant"
-  },
-  {
-    "id": 5242,
-    "titre": "ellua",
-    "definition": "(Orthez) donner le vertige, étourdir",
-    "type": "verbe transitif",
-    "search": "ellua (Orthez) donner le vertige, étourdir"
-  },
-  {
-    "id": 5243,
-    "titre": "elluè",
-    "definition": "vertige, tournis",
-    "type": "nom masculin",
-    "search": "elluè vertige, tournis"
-  },
-  {
-    "id": 5244,
-    "titre": "elluère",
-    "definition": "vertige, tournis",
-    "type": "nom féminin",
-    "search": "elluère vertige, tournis"
-  },
-  {
-    "id": 5245,
-    "titre": "ellurra(-s)",
-    "definition": "(Orthez) glisser",
-    "type": "verbe intransitif / verbe pronominal",
-    "search": "ellurra(-s) (Orthez) glisser"
-  },
+ 
+ 
   {
     "id": 5246,
     "titre": "elòdyẹ",
@@ -33596,13 +33297,7 @@
     "type": "nom masculin",
     "search": "embalàdyẹ emballage ; emballement"
   },
-  {
-    "id": 5256,
-    "titre": "embàllẹs",
-    "definition": "en vain",
-    "type": "adverbe",
-    "search": "embàllẹs en vain"
-  },
+ 
   {
     "id": 5257,
     "titre": "embanastra",
@@ -33645,14 +33340,7 @@
     "type": "nom féminin",
     "search": "embarcacioû embarcation"
   },
-  {
-    "id": 5263,
-    "titre": "embardina",
-    "definition": "couvrir de boue",
-    "type": "verbe transitif",
-    "search": "embardina couvrir de boue"
-  },
-  {
+ {
     "id": 5264,
     "titre": "embarousa",
     "definition": "donner une couleur de cendre, salir",
@@ -33729,13 +33417,7 @@
     "type": "verbe transitif",
     "search": "embébẹ imbiber"
   },
-  {
-    "id": 5275,
-    "titre": "embèhi",
-    "definition": "bougon",
-    "type": "nom / adjectif masculin / féminin",
-    "search": "embèhi bougon"
-  },
+ 
   {
     "id": 5276,
     "titre": "embeli",
@@ -33792,13 +33474,7 @@
     "type": "verbe transitif / verbe intransitif (qu'emberouyéchi)",
     "search": "emberouyi embellir"
   },
-  {
-    "id": 5284,
-    "titre": "embèrri",
-    "definition": "bougon",
-    "type": "nom / adjectif masculin / féminin",
-    "search": "embèrri bougon"
-  },
+ 
   {
     "id": 5285,
     "titre": "embèrs, embès",
@@ -33862,13 +33538,7 @@
     "type": "verbe pronominal",
     "search": "embetuma-s se tracasser"
   },
-  {
-    "id": 5294,
-    "titre": "embeuca",
-    "definition": "gauchir",
-    "type": "verbe transitif / verbe intransitif (qu'embéuqui)",
-    "search": "embeuca gauchir"
-  },
+
   {
     "id": 5295,
     "titre": "embeuda",
@@ -34163,13 +33833,7 @@
     "type": "adjectif",
     "search": "embroutchat -ade ensorcelé"
   },
-  {
-    "id": 5337,
-    "titre": "embroutcho",
-    "definition": "ensorceler",
-    "type": "verbe transitif (qu'embrouchoùi)",
-    "search": "embroutcho ensorceler"
-  },
+ 
   {
     "id": 5338,
     "titre": "embruma",
@@ -34352,13 +34016,7 @@
     "type": "adjectif et nom",
     "search": "emparaulat -ade qui a la parole facile"
   },
-  {
-    "id": 5364,
-    "titre": "empare",
-    "definition": "béquille ; appui",
-    "type": "nom féminin",
-    "search": "empare béquille ; appui"
-  },
+  
   {
     "id": 5365,
     "titre": "empassa",
@@ -34373,34 +34031,7 @@
     "type": "verbe transitif",
     "search": "empasta engraisser, nourrir (les animaux)"
   },
-  {
-    "id": 5367,
-    "titre": "empatch",
-    "definition": "empêchement, obstacle, gêne",
-    "type": "nom masculin",
-    "search": "empatch empêchement, obstacle, gêne"
-  },
-  {
-    "id": 5368,
-    "titre": "empatcha",
-    "definition": "embarrasser, gêner",
-    "type": "verbe transitif",
-    "search": "empatcha embarrasser, gêner"
-  },
-  {
-    "id": 5369,
-    "titre": "empatchuc",
-    "definition": "empêchement, obstacle, gêne",
-    "type": "nom masculin",
-    "search": "empatchuc empêchement, obstacle, gêne"
-  },
-  {
-    "id": 5370,
-    "titre": "empatchuca",
-    "definition": "faire obstacle, gêner",
-    "type": "verbe transitif",
-    "search": "empatchuca faire obstacle, gêner"
-  },
+  
  
   {
     "id": 5372,
@@ -34633,13 +34264,7 @@
     "type": "adjectif",
     "search": "emplumat -ade couvert de plumes, emplumé"
   },
-  {
-    "id": 5405,
-    "titre": "empos",
-    "definition": "impôt",
-    "type": "nom masculin",
-    "search": "empos impôt"
-  },
+ 
   {
     "id": 5406,
     "titre": "empoucha",
@@ -34874,13 +34499,6 @@
 
   
   {
-    "id": 5445,
-    "titre": "ença, en ça",
-    "definition": "ici, de ci de là, de ce côté-ci, vers ici, depuis lors, désormais",
-    "type": "adverbe",
-    "search": "ença, en ça ici, de ci de là, de ce côté-ci, vers ici, depuis lors, désormais"
-  },
-  {
     "id": 5446,
     "titre": "encabala",
     "definition": "mettre à cheval ; mettre à califourchon",
@@ -34964,20 +34582,7 @@
     "type": "nom masculin",
     "search": "encan (dans l'expr bénẹ à l'encan) vendre à l'encan"
   },
-  {
-    "id": 5458,
-    "titre": "encanda",
-    "definition": "incliner",
-    "type": "verbe transitif",
-    "search": "encanda incliner"
-  },
-  {
-    "id": 5459,
-    "titre": "encandat -ade",
-    "definition": "incliné",
-    "type": "adjectif",
-    "search": "encandat -ade incliné"
-  },
+  
   {
     "id": 5460,
     "titre": "encanta",
@@ -35447,13 +35052,7 @@
     "type": "nom masculin",
     "search": "endehore le dehors, l'extérieur"
   },
-  {
-    "id": 5527,
-    "titre": "endemiéy de",
-    "definition": "au milieu de",
-    "type": "locution prépositive",
-    "search": "endemiéy de au milieu de"
-  },
+ 
   {
     "id": 5528,
     "titre": "endemouniat -ade",
@@ -35650,19 +35249,13 @@
     "type": "adjectif",
     "search": "endoulourit -ide endolori, douloureux"
   },
-  {
-    "id": 5556,
-    "titre": "endoum",
-    "definition": "volume (d'un chargement) ; ampleur",
-    "type": "nom masculin",
-    "search": "endoum volume (d'un chargement) ; ampleur"
-  },
+  
   {
     "id": 5557,
-    "titre": "endousta",
+    "titre": "endòsta",
     "definition": "abriter",
     "type": "verbe transitif (qu'endòsti)",
-    "search": "endousta abriter"
+    "search": "endòsta abriter"
   },
   {
     "id": 5558,
@@ -35839,34 +35432,8 @@
     "type": "nom masculin",
     "search": "engadyemén engagement"
   },
-  {
-    "id": 5583,
-    "titre": "engalina",
-    "definition": "caresser, câliner (un enfant pour l'endormir) ; enjôler",
-    "type": "verbe transitif",
-    "search": "engalina caresser, câliner (un enfant pour l'endormir) ; enjôler"
-  },
-  {
-    "id": 5584,
-    "titre": "engalinade",
-    "definition": "caresse, câlinerie",
-    "type": "nom féminin",
-    "search": "engalinade caresse, câlinerie"
-  },
-  {
-    "id": 5585,
-    "titre": "engalinàyrẹ",
-    "definition": "câlin, enjôleur",
-    "type": "adjectif et nom",
-    "search": "engalinàyrẹ câlin, enjôleur"
-  },
-  {
-    "id": 5586,
-    "titre": "engana-s",
-    "definition": "se fourvoyer, se tromper",
-    "type": "verbe pronominal",
-    "search": "engana-s se fourvoyer, se tromper"
-  },
+  
+ 
   {
     "id": 5587,
     "titre": "engarbera",
@@ -35902,20 +35469,7 @@
     "type": "nom masculin",
     "search": "engeniur ingénieur"
   },
-  {
-    "id": 5592,
-    "titre": "engibana",
-    "definition": "inventer",
-    "type": "nom féminin",
-    "search": "engibana inventer"
-  },
-  {
-    "id": 5593,
-    "titre": "engibane",
-    "definition": "machine, engin, invention (objet)",
-    "type": "nom féminin",
-    "search": "engibane machine, engin, invention (objet)"
-  },
+ 
   {
     "id": 5594,
     "titre": "englouti",
@@ -36204,20 +35758,7 @@
     "type": "verbe pronominal",
     "search": "enlimaca-s être infesté par les limaces"
   },
-  {
-    "id": 5636,
-    "titre": "enloc",
-    "definition": "nulle part ; (dans une proposition hypothétique) quelque part",
-    "type": "adverbe",
-    "search": "enloc nulle part ; (dans une proposition hypothétique) quelque part"
-  },
-  {
-    "id": 5637,
-    "titre": "enloc (de)",
-    "definition": "au lieu (de), à la place (de)",
-    "type": "locution prépositive",
-    "search": "enloc (de) au lieu (de), à la place (de)"
-  },
+ 
   {
     "id": 5638,
     "titre": "enlore, en-l'ore",
@@ -36393,13 +35934,7 @@
     "type": "nom",
     "search": "enmerdàyrẹ emmerdeur"
   },
-  {
-    "id": 5663,
-    "titre": "enmoudi",
-    "definition": "amollir",
-    "type": "verbe transitif (qu'enmoudéchi)",
-    "search": "enmoudi amollir"
-  },
+ 
   {
     "id": 5664,
     "titre": "enmoussuri(-s), enmoussurri(-s)",
@@ -37165,10 +36700,10 @@
   },
   {
     "id": 5773,
-    "titre": "entertengut -ude",
+    "titre": "entertienut -ude",
     "definition": "entretenu, bien entretenu",
     "type": "adjectif",
-    "search": "entertengut -ude entretenu, bien entretenu"
+    "search": "entertienut -ude entretenu, bien entretenu"
   },
   {
     "id": 5774,
@@ -37415,13 +36950,7 @@
     "type": "verbe transitif",
     "search": "entrounisa introniser"
   },
-  {
-    "id": 5809,
-    "titre": "entuta-s",
-    "definition": "se réfugier chez soi, se renfermer chez soi",
-    "type": "verbe pronominal",
-    "search": "entuta-s se réfugier chez soi, se renfermer chez soi"
-  },
+ 
   {
     "id": 5810,
     "titre": "enumera",
