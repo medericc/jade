@@ -2,10 +2,31 @@
 
 import Timeline from '../../components/Timeline'
 import Link from 'next/link'
+
+
+
+type Carte =
+  | {
+      titre: string
+      slug: string
+      icon: string
+    }
+  | {
+      titre: string
+      href: string
+      icon: string
+    }
+
+
+
+
+
+
+
 export const metadata = {
   title: 'Culture Béarnaise',
 }
-const cartes = [
+const cartes : Carte[] = [
   {
     titre: 'Saint Augustin sur la prière',
     slug: 'augustin',
