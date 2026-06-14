@@ -2,7 +2,8 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
-
+import styles from './thomas.module.css'
+import Footer from '@/app/components/layout/Footer'
 // ── Données structurées ──────────────────────────────────────────
 const sections = [
   {
@@ -135,7 +136,8 @@ const sections = [
     subtitle: 'Patience, persévérance, tempérance',
     content: [
  
- 'L\'homme fort ressent la douleur et la peur, mais il ne se laisse pas absorber par elles. Il peut même utiliser la colère comme une auxiliaire de sa force, en la transformant en un moyen au service de la vertu.', 'Dès lors, comment être magnanime sans être orgueilleux ? L\'homme magnanime selon saint Thomas connaît sa grandeur, mais il la conçoit comme un don divin. Ainsi, plus il se sait grand par la grâce de Dieu, plus il s\'honore lui-même en honorant ce qui est grand chez les autres, et plus il se fait petit face à Dieu. La vraie grandeur d\'âme a pour compagne fidèle l\'humilité.','Pour rester dans cette juste mesure, il faut éviter la pusillanimité (le refus de tendre vers le grand), la présomption (se croire plus capable qu\'on ne l\'est en réalité) ou encore l\'ambition ( recherche l\'honneur pour le plaisir de la distinction et non comme la simple conséquence du bien). Cette recherche de vaine gloire se manifeste par la jactance, la volonté de se singulariser, l\'hypocrisie et l\'esprit de contention (le refus de céder dans une discussion par manque d\'intelligence).', 'À l\'inverse, la magnificence consiste à faire et à produire quelque chose de grand, au moins dans la mesure de ses moyens, à l\'image de la création divine, et non pas simplement à le vouloir. Le magnifique est celui qui ne recule pas devant la dépense nécessaire pour accomplir de grands projets ; il s\'oppose à la mesquinerie, qui rend toute grande œuvre impossible. Dans ce combat spirituel, la patience empêche l\'âme de se laisser écraser par la tristesse, tandis que la persévérance (le fait de persévérer aussi longtemps qu\'il le faut dans une action vertueuse) combat à la fois la mollesse (le manque de force) et l\'obstination.','La tempérance, quant à elle, consiste à régler sa sensibilité et non à être totalement insensible au plaisir, notamment ceux liés à la conservation de l\'individu par la nourriture et à la conservation de l\'espèce par la reproduction. Elle est le fondement de toutes les autres vertus cardinales, car sans elle, le contrôle de soi s\'effondre face aux désirs sensibles.','L\'intempérance est un vice doublement déshonorant et exécrable qui ravale l\'homme au niveau de la brute. Les excès de table (amène l\'hébétude mentale, la sottise ou une loquacité intarissable) ou de plaisirs charnels (rend incapable de réfléchir mûrement ou de tenir ses promesses, et s\'exprime de manière grossière) embrument l\'esprit et empêchent l\'exercice de l\'intelligence et de la pensée supérieure. Si le viol, l\'adultère ou l\'inceste sont des fautes extrêmement graves, saint Thomas considère que la sodomie et l\'onanisme constituent les pires des dérèglements, car ils refusent le principe même et l\'ordre établi par la nature.','La colère en soi n\'est ni bonne ni mauvaise. La mansuétude et la patience permettent de la modérer et de la maîtriser, tandis que la clémence permet de modérer le châtiment ou le désir de vengeance en le soumettant à la raison. L\'orgueil, de son côté, est lié au désir d\'indépendance absolue et au refus d\'accepter ses propres limites. Son remède est l\'humilité, qui consiste à connaître ses propres limites et à attribuer à Dieu ce que l\'on a de bon, sans pour autant se rabaisser plus bas que terre. La vaine curiosité (le fait de vouloir tout voir et tout savoir par pur plaisir superficiel, ou de s\'obstiner à comprendre des vérités trop complexes au risque de se tromper) est un vice. Elle s\'oppose à la studiositas, qui est l\'étude ordonnée et modeste cherchant la science pour, in fine, mieux connaître Dieu.'
+ 'L\'homme fort ressent la douleur et la peur, mais il ne se laisse pas absorber par elles. Il peut même utiliser la colère comme une auxiliaire de sa force, en la transformant en un moyen au service de la vertu.', 'Dès lors, comment être magnanime sans être orgueilleux ? L\'homme magnanime selon saint Thomas connaît sa grandeur, mais il la conçoit comme un don divin. Ainsi, plus il se sait grand par la grâce de Dieu, plus il s\'honore lui-même en honorant ce qui est grand chez les autres, et plus il se fait petit face à Dieu. La vraie grandeur d\'âme a pour compagne fidèle l\'humilité.','Pour rester dans cette juste mesure, il faut éviter la pusillanimité (le refus de tendre vers le grand), la présomption (se croire plus capable qu\'on ne l\'est en réalité) ou encore l\'ambition ( recherche l\'honneur pour le plaisir de la distinction et non comme la simple conséquence du bien). Cette recherche de vaine gloire se manifeste par la jactance, la volonté de se singulariser, l\'hypocrisie et l\'esprit de contention (le refus de céder dans une discussion par manque d\'intelligence).', 
+ 'À l\'inverse, la magnificence consiste à faire et à produire quelque chose de grand, au moins dans la mesure de ses moyens, à l\'image de la création divine, et non pas simplement à le vouloir. Le magnifique est celui qui ne recule pas devant la dépense nécessaire pour accomplir de grands projets ; il s\'oppose à la mesquinerie, qui rend toute grande œuvre impossible. Dans ce combat spirituel, la patience empêche l\'âme de se laisser écraser par la tristesse, tandis que la persévérance (le fait de persévérer aussi longtemps qu\'il le faut dans une action vertueuse) combat à la fois la mollesse (le manque de force) et l\'obstination.','La tempérance, quant à elle, consiste à régler sa sensibilité et non à être totalement insensible au plaisir, notamment ceux liés à la conservation de l\'individu par la nourriture et à la conservation de l\'espèce par la reproduction. Elle est le fondement de toutes les autres vertus cardinales, car sans elle, le contrôle de soi s\'effondre face aux désirs sensibles.','L\'intempérance est un vice doublement déshonorant et exécrable qui ravale l\'homme au niveau de la brute. Les excès de table (amène l\'hébétude mentale, la sottise ou une loquacité intarissable) ou de plaisirs charnels (rend incapable de réfléchir mûrement ou de tenir ses promesses, et s\'exprime de manière grossière) embrument l\'esprit et empêchent l\'exercice de l\'intelligence et de la pensée supérieure. Si le viol, l\'adultère ou l\'inceste sont des fautes extrêmement graves, saint Thomas considère que la sodomie et l\'onanisme constituent les pires des dérèglements, car ils refusent le principe même et l\'ordre établi par la nature.','La colère en soi n\'est ni bonne ni mauvaise. La mansuétude et la patience permettent de la modérer et de la maîtriser, tandis que la clémence permet de modérer le châtiment ou le désir de vengeance en le soumettant à la raison. L\'orgueil, de son côté, est lié au désir d\'indépendance absolue et au refus d\'accepter ses propres limites. Son remède est l\'humilité, qui consiste à connaître ses propres limites et à attribuer à Dieu ce que l\'on a de bon, sans pour autant se rabaisser plus bas que terre. La vaine curiosité (le fait de vouloir tout voir et tout savoir par pur plaisir superficiel, ou de s\'obstiner à comprendre des vérités trop complexes au risque de se tromper) est un vice. Elle s\'oppose à la studiositas, qui est l\'étude ordonnée et modeste cherchant la science pour, in fine, mieux connaître Dieu.'
  
     ]
   },
@@ -338,8 +340,12 @@ function SectionCard({
 
 // ── Page Principale ──────────────────────────────────────────────
 export default function SaintThomasAquinPage() {
-  return (
+ const [langue, setLangue] =
+  useState<'fr' | 'be'>('fr')
+
+    return (
     <>
+    
       <style jsx global>{`
         :root {
           --violet-profond: #4B1E6D;
@@ -383,41 +389,79 @@ export default function SaintThomasAquinPage() {
       <main style={{ minHeight: '100vh' }}>
         
         {/* Header */}
-        <header style={{
-          background: 'linear-gradient(135deg, var(--violet-profond) 0%, #2D0A45 100%)',
-          padding: 'var(--space-md) 0',
-          borderBottom: '4px solid var(--jaune-vif)'
-        }}>
-          <div className="container" style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: 'var(--space-md)',
-            flexWrap: 'wrap'
-          }}>
-            <Link href="/apprendre/culture/theologie">
-              <span style={{
-                color: 'var(--jaune-vif)',
-                fontSize: 'var(--fs-md)',
-                cursor: 'pointer',
-                display: 'flex',
-                alignItems: 'center',
-                gap: 'var(--space-xs)'
-              }}>
-                ← Retour
-              </span>
-            </Link>
-            <h1 style={{
-              color: 'var(--blanc-pur)',
-              fontSize: 'var(--fs-lg)',
-              display: 'flex',
-              alignItems: 'center',
-              gap: 'var(--space-sm)'
-            }}>
-              <span>📖</span>
-              Saint Thomas d&apos;Aquin
-            </h1>
-          </div>
-        </header>
+      <header className={styles.catherineHeader}>
+    <div className={`container ${styles.catherineHeaderContent}`}>
+      <Link
+        href="/apprendre/culture/theologie"
+        className={styles.backLink}
+      >
+        ← Retour
+      </Link>
+
+      <h1 className={styles.catherineTitle}>
+       
+        <span> Saint Thomas d&apos;Aquin</span>
+      </h1>
+    
+     <div
+    style={{
+      display: 'flex',
+      alignItems: 'center',
+      background: '#fff',
+      border: '2px solid #f3c623',
+      borderRadius: '999px',
+      padding: '4px',
+    }}
+  >
+    <button
+      onClick={() => setLangue('fr')}
+      style={{
+        border: 'none',
+        background:
+          langue === 'fr'
+            ? '#2a0c45'
+            : 'transparent',
+        color:
+          langue === 'fr'
+            ? '#fff'
+            : '#2a0c45',
+        fontWeight: 700,
+        padding: '.65rem 1rem',
+        borderRadius: '999px',
+        cursor: 'pointer',
+      }}
+    >
+      🇫🇷
+    </button>
+
+    <button
+      onClick={() => setLangue('be')}
+      style={{
+        border: 'none',
+        background:
+          langue === 'be'
+            ? '#2a0c45'
+            : 'transparent',
+        padding: '.65rem 1rem',
+        
+        borderRadius: '999px',
+        cursor: 'pointer',
+      }}
+    >
+      <img
+        src="/bearn.png"
+        alt="Béarn"
+        style={{
+          width: '24px',
+          height: '24px',
+          objectFit: 'contain',
+        }}
+      />
+    </button>
+  </div>
+    </div>
+     
+  </header>
 
         {/* Hero */}
         <section style={{
@@ -425,7 +469,7 @@ export default function SaintThomasAquinPage() {
           background: 'linear-gradient(180deg, var(--violet-tres-clair) 0%, var(--blanc) 100%)'
         }}>
           <div className="container">
-            <div className="animate-fade-up" style={{ textAlign: 'center', marginBottom: 'var(--space-xl)' }}>
+            <div className="animate-fade-up" style={{ textAlign: 'center', marginBottom: 'var(--space-sm)' }}>
               <p style={{
                 fontSize: 'var(--fs-xs)',
                 textTransform: 'uppercase',
@@ -441,23 +485,13 @@ export default function SaintThomasAquinPage() {
                 color: 'var(--violet-profond)',
                 fontWeight: '800',
                 lineHeight: 1.2,
-                marginBottom: 'var(--space-lg)',
+                marginBottom: 'var(--space-sm)',
                 maxWidth: '800px',
                 margin: '0 auto var(--space-lg)'
               }}>
-                Pour « porter la foudre »,
-                <br />
-                savoir « rester nuage »
+                Saint Thomas
               </h2>
-              <p style={{
-                fontSize: 'var(--fs-base)',
-                color: 'var(--texte-secondaire)',
-                maxWidth: '600px',
-                margin: '0 auto'
-              }}>
-                Une traversée de la pensée de Saint Thomas d&apos;Aquin : 
-                foi, espérance, charité, passions, vertus, justice, et la quête du Souverain Bien.
-              </p>
+         
             </div>
 
             {/* Sommaire rapide */}
@@ -490,57 +524,9 @@ export default function SaintThomasAquinPage() {
           </div>
         </section>
 
-        {/* Citation finale */}
-        <section style={{
-          padding: 'var(--space-xl) 0',
-          background: 'linear-gradient(135deg, var(--violet-profond), #2D0A45)',
-          color: 'var(--blanc-pur)'
-        }}>
-          <div className="container">
-            <div className="animate-fade-up" style={{
-              textAlign: 'center',
-              maxWidth: '700px',
-              margin: '0 auto'
-            }}>
-              <div style={{ fontSize: '50px', marginBottom: 'var(--space-md)' }}>🕊️</div>
-              <p style={{
-                fontSize: 'var(--fs-lg)',
-                fontStyle: 'italic',
-                lineHeight: 1.6,
-                marginBottom: 'var(--space-lg)'
-              }}>
-                « L&apos;accomplissement suprême de l&apos;homme n&apos;est pas la soumission forcée, 
-                mais l&apos;adhésion libre et aimante au Bien et à l&apos;Ordre universel. 
-                La liberté humaine authentique s&apos;accomplit lorsque l&apos;homme embrasse 
-                la loi divine comme une loi d&apos;amour. »
-              </p>
-              <p style={{
-                fontSize: 'var(--fs-md)',
-                color: 'var(--jaune-vif)',
-                fontWeight: 'bold'
-              }}>
-                — Saint Thomas d&apos;Aquin
-              </p>
-            </div>
-          </div>
-        </section>
+       
 
-        {/* Footer */}
-        <footer style={{
-          padding: 'var(--space-lg) 0',
-          background: 'var(--violet-profond)',
-          color: 'var(--blanc-pur)',
-          textAlign: 'center'
-        }}>
-          <div className="container">
-            <p style={{ fontSize: 'var(--fs-base)' }}>
-              Docteur angélique • Priez pour nous 📖
-            </p>
-            <p style={{ marginTop: 'var(--space-xs)', fontSize: 'var(--fs-xs)' }}>
-              © 2026 • Aprén lo biarnés — Théologie
-            </p>
-          </div>
-        </footer>
+        <Footer />
       </main>
     </>
   )
