@@ -562,7 +562,18 @@ Saint Louis voit le rôle du roi comme celui d’un « roi chrétien juste » de
          </p>),
   
       },
-
+  {
+        titre: "Jeanne et Ses Ennemis",
+        
+          
+   fr: (         <p>
+    Après l'assassinat de son mari, Anne d'Este (duchesse de Guise) veut se venger de Coligny, accusé d'avoir commandité le meurtre. Ses recours en justice échouent, jusqu'à la Saint-Barthélemy. En parallèle, Anne est l’ennemie jurée de Jeanne d'Albret au sujet du duc de Nemours. Anne veut l'épouser, tandis que Jeanne défend les droits de sa protégée, Françoise de Rohan. Le jour du mariage d'Anne et de Nemours, Françoise envoie un émissaire pour faire stopper la cérémonie, mais l'homme est roué de coups et jeté en prison. Ce scandale brise définitivement l'amitié entre Jeanne d'Albret et la mère d'Anne d'Este, Renée de Ferrare, qui était sa seule amie au sein de la famille royale. Jeanne était d'ailleurs déjà fâchée avec Marguerite de Nevers qui avait modifié un livre écrit par la mère de Jeanne. En réaction, Jeanne avait fait détruire ces exemplaires et réédité l'ouvrage avec une préface sarcastique envers Marguerite. Un affront que la fille de cette dernière, Henriette de Nevers, ne pardonnera jamais à Jeanne.
+         </p>),
+ be: (<p>
+      Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
+         </p>),
+         
+      },
        {
         titre: "Jeanne Face à la Mort",
         
