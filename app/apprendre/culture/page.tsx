@@ -237,7 +237,7 @@ export default function HistoirePage() {
         {
           titre: 'Saint Augustin sur la prière',
           slug: 'augustin',
-          icon: '📖',
+          icon: '🙏',
         },
         {
           titre: 'Sainte Catherine de Sienne',
@@ -254,10 +254,15 @@ export default function HistoirePage() {
           slug: 'therese',
           icon: '⛪',
         },
+         {
+          titre: "Saint Thomas d'Aquin",
+          slug: 'thomasdaquin',
+          icon: '📖',
+        },
       ].map((item) => (
         <Link
           key={item.slug}
-          href={`culture/theologie/${item.slug}`}
+          href={`culture/${item.slug}`}
           style={{
             textDecoration: 'none',
           }}

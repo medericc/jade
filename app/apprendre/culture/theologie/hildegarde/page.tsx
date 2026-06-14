@@ -17,7 +17,7 @@ export default function HildegardePage() {
        <header className={styles.hildegardeHeader}>
     <div className={`container ${styles.hildegardeHeaderContent}`}>
       <Link
-        href="/apprendre/culture/theologie"
+        href="/apprendre/culture"
         className={styles.backLink}
       >
         ← Retour

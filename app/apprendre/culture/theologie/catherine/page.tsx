@@ -76,7 +76,7 @@ const teachings =
   <header className={styles.catherineHeader}>
     <div className={`container ${styles.catherineHeaderContent}`}>
       <Link
-        href="/apprendre/culture/theologie"
+        href="/apprendre/culture"
         className={styles.backLink}
       >
         ← Retour

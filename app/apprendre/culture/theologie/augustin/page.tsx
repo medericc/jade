@@ -73,7 +73,7 @@ export default function SaintAugustinPage() {
   }}
 >
   <Link
-    href="/apprendre/culture/theologie"
+    href="/apprendre/culture"
     className={styles.backLink}
   >
     ← Retour
