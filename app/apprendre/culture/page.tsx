@@ -265,28 +265,10 @@ export default function HistoirePage() {
     {/* 4 cartes principales */}
    <div
   className="theologie-grid"
-  style={{
-    display: 'grid',
-    gridTemplateColumns: 'repeat(3, 1fr)',
-    gap: '1.5rem',
-  }}
+  
 >
 
-      <div
-  className="theologie-intro-card"
-  style={{
-    display: 'none',
-    background:
-      'linear-gradient(180deg,#fff9de,#fff4cc)',
-    borderRadius: '22px',
-    padding: '2rem',
-    height: '100%',
-    boxShadow:
-      '0 10px 25px rgba(42,12,69,.08)',
-  }}
->
- 
-</div>
+     
       {cartes.map((item) => {
   const href =
     'href' in item

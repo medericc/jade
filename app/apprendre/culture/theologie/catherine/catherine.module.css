@@ -169,7 +169,7 @@
   z-index: 2;
 
   max-width: 950px;
-
+margin-top: 1rem;
   margin: 0 auto;
 
   text-align: center;
@@ -534,3 +534,41 @@
   }
 
 }
+
+.catherineHeaderContent2 {
+  display: none;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .catherineHeader {
+    display: none;
+  }
+
+  .catherineHeaderContent2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+
+    padding: 2rem 2.6rem; /* ← ajouté */
+margin-top: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .backLink2 {
+    color: var(--or);
+    font-weight: 700;
+  }
+}
+
+ .heroSection2 {
+    margin-top:4rem;
+  }
+  @media (max-width: 768px) {
+
+    .heroSection2 {
+    margin-top:1rem;
+  }
+  }

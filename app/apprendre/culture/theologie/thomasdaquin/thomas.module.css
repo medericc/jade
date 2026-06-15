@@ -77,3 +77,30 @@
 
  
 }
+.catherineHeaderContent2 {
+  display: none;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .catherineHeader {
+    display: none;
+  }
+
+  .catherineHeaderContent2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    margin-bottom: 2rem;
+  }
+
+  .backLink2 {
+    color: var(--or);
+    font-weight: 700;
+  }
+}

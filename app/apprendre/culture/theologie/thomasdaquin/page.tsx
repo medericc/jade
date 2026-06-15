@@ -463,12 +463,86 @@ export default function SaintThomasAquinPage() {
      
   </header>
 
-        {/* Hero */}
+        {/* Hero PAS MONTER SAUF MOBILE */}
         <section style={{
           padding: 'var(--space-xxl) 0 var(--space-xl)',
           background: 'linear-gradient(180deg, var(--violet-tres-clair) 0%, var(--blanc) 100%)'
         }}>
           <div className="container">
+
+<div className={styles.catherineHeaderContent2}>
+   
+   
+      <Link
+        href="/apprendre/culture"
+        className={styles.backLink2}
+      >
+        ← Retour
+      </Link>
+
+   
+     <div
+    style={{
+      display: 'flex',
+      alignItems: 'center',
+      background: '#fff',
+      border: '2px solid #f3c623',
+      borderRadius: '999px',
+      padding: '4px',
+    }}
+  >
+    <button
+      onClick={() => setLangue('fr')}
+      style={{
+        border: 'none',
+        background:
+          langue === 'fr'
+            ? '#2a0c45'
+            : 'transparent',
+        color:
+          langue === 'fr'
+            ? '#fff'
+            : '#2a0c45',
+        fontWeight: 700,
+        padding: '.65rem 1rem',
+        borderRadius: '999px',
+        cursor: 'pointer',
+      }}
+    >
+      🇫🇷
+    </button>
+
+    <button
+      onClick={() => setLangue('be')}
+      style={{
+        border: 'none',
+        background:
+          langue === 'be'
+            ? '#2a0c45'
+            : 'transparent',
+        padding: '.65rem 1rem',
+        
+        borderRadius: '999px',
+        cursor: 'pointer',
+      }}
+    >
+      <img
+        src="/bearn.png"
+        alt="Béarn"
+        style={{
+          width: '24px',
+          height: '24px',
+          objectFit: 'contain',
+        }}
+      />
+    </button>
+  </div>
+    </div>
+
+
+
+
+
             <div className="animate-fade-up" style={{ textAlign: 'center', marginBottom: 'var(--space-sm)' }}>
               <p style={{
                 fontSize: 'var(--fs-xs)',

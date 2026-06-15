@@ -72,6 +72,8 @@
 
 /* Mobile inchangé */
 .theologie-grid {
+  display: grid;
+  gap: 2rem;
   grid-template-columns: 1fr;
 }
 
@@ -79,5 +81,27 @@
 @media (min-width: 900px) {
   .theologie-grid {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.theologie-intro-card {
+  background: linear-gradient(180deg,#fff9de,#fff4cc);
+  border-radius: 22px;
+  padding: 2rem;
+  height: 100%;
+  box-shadow: 0 10px 25px rgba(42,12,69,.08);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .theologie-intro-card {
+    display: none;
+  }
+}
+
+/* Desktop */
+@media (min-width: 769px) {
+  .theologie-intro-card {
+    display: block;
   }
 }
