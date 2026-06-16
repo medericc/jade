@@ -11423,13 +11423,7 @@
     "type": "nom féminin",
     "search": "birouleyade promenade, tour"
   },
-  {
-    "id": 1892,
-    "titre": "bis biste",
-    "definition": "vu",
-    "type": "participe passé de  (voir)",
-    "search": "bis biste vu"
-  },
+  
   {
     "id": 1893,
     "titre": "bisa",
@@ -22725,13 +22719,7 @@
     "type": "conjonction",
     "search": "coum comme ; que (après idée d'égalité, de ressemblance)"
   },
-  {
-    "id": 3679,
-    "titre": "coum-",
-    "definition": "préfixe (voir cou-)",
-    "type": "préfixe",
-    "search": "coum- préfixe (voir cou-)"
-  },
+ 
   {
     "id": 3680,
     "titre": "coumanda",
@@ -23523,13 +23511,7 @@
     "type": "nom masculin",
     "search": "coun con (sexe de la femme ; injure)"
   },
-  {
-    "id": 3793,
-    "titre": "coun-",
-    "definition": "préfixe (voir cou-)",
-    "type": "préfixe",
-    "search": "coun- préfixe (voir cou-)"
-  },
+
   {
     "id": 3794,
     "titre": "councébẹ",
@@ -30442,13 +30424,7 @@
     "type": "verbe transitif (que desgauchéchi)",
     "search": "desgauchi dégauchir"
   },
-  {
-    "id": 4825,
-    "titre": "desgauta",
-    "definition": "défigurer (par des coups), casser la gueule",
-    "type": "verbe transitif",
-    "search": "desgauta défigurer (par des coups), casser la gueule"
-  },
+
   {
     "id": 4826,
     "titre": "degayne",
@@ -36285,13 +36261,7 @@
     "type": "nom féminin",
     "search": "enstallacioû installation"
   },
-  {
-    "id": 5714,
-    "titre": "enstitucioû",
-    "definition": "institution",
-    "type": "nom féminin",
-    "search": "enstitucioû institution"
-  },
+
   {
     "id": 5715,
     "titre": "enstitut",
@@ -36320,13 +36290,7 @@
     "type": "adjectif et nom",
     "search": "enstruit -ide instruit"
   },
-  {
-    "id": 5719,
-    "titre": "ensulta",
-    "definition": "insulter",
-    "type": "verbe transitif",
-    "search": "ensulta insulter"
-  },
+
   {
     "id": 5720,
     "titre": "ensulte",
@@ -36343,10 +36307,10 @@
   },
   {
     "id": 5722,
-    "titre": "ta, tad*",
+    "titre": "ta, tad",
     "definition": "pour ; vers, à ; afin de ; afin que",
     "type": "préposition / conjonction",
-    "search": "ta, tad* pour ; vers, à ; afin de ; afin que"
+    "search": "ta, tad pour ; vers, à ; afin de ; afin que"
   },
   {
     "id": 5723,
@@ -36965,27 +36929,8 @@
     "type": "nom féminin",
     "search": "enumeracioû énumération"
   },
-  {
-    "id": 5812,
-    "titre": "enyassa",
-    "definition": "enchâsser, insérer",
-    "type": "verbe transitif",
-    "search": "enyassa enchâsser, insérer"
-  },
-  {
-    "id": 5813,
-    "titre": "enyasse",
-    "definition": "fente, rainure destinées à permettre l'enchâssement ou l'insertion d'un objet",
-    "type": "nom féminin",
-    "search": "enyasse fente, rainure destinées à permettre l'enchâssement ou l'insertion d'un objet"
-  },
-  {
-    "id": 5814,
-    "titre": "enyibane",
-    "definition": "engin, machine",
-    "type": "nom féminin",
-    "search": "enyibane engin, machine"
-  },
+ 
+  
   {
     "id": 5815,
     "titre": "enyoc",
@@ -37261,10 +37206,10 @@
   },
   {
     "id": 5854,
-    "titre": "esbentra",
+    "titre": "ebentra",
     "definition": "éventrer",
     "type": "verbe transitif (qu'esbéntri)",
-    "search": "esbentra éventrer"
+    "search": "ebentra éventrer"
   },
   {
     "id": 5855,
@@ -37364,41 +37309,10 @@
     "type": "nom masculin",
     "search": "esbounit éboulement de terrain"
   },
-  {
-    "id": 5869,
-    "titre": "esbourla-s",
-    "definition": "s'effilocher",
-    "type": "verbe pronominal (que s'esboùrle)",
-    "search": "esbourla-s s'effilocher"
-  },
-  {
-    "id": 5870,
-    "titre": "esbourlat -ade",
-    "definition": "effiloché",
-    "type": "adjectif",
-    "search": "esbourlat -ade effiloché"
-  },
-  {
-    "id": 5871,
-    "titre": "esbourlinga-s",
-    "definition": "s'effilocher",
-    "type": "verbe pronominal",
-    "search": "esbourlinga-s s'effilocher"
-  },
-  {
-    "id": 5872,
-    "titre": "esbourlingat -ade",
-    "definition": "effiloché",
-    "type": "adjectif",
-    "search": "esbourlingat -ade effiloché"
-  },
-  {
-    "id": 5873,
-    "titre": "esbourlinguère",
-    "definition": "effilochures ; loques",
-    "type": "nom féminin",
-    "search": "esbourlinguère effilochures ; loques"
-  },
+
+ 
+ 
+  
   {
     "id": 5874,
     "titre": "esbournalh",
@@ -37408,10 +37322,10 @@
   },
   {
     "id": 5875,
-    "titre": "esbournia",
+    "titre": "ebournia",
     "definition": "éborgner",
     "type": "verbe transitif",
-    "search": "esbournia éborgner"
+    "search": "ebournia éborgner"
   },
   {
     "id": 5876,
@@ -37567,13 +37481,7 @@
     "type": "verbe transitif",
     "search": "escagassa écraser, aplatir"
   },
-  {
-    "id": 5898,
-    "titre": "escahit -ide",
-    "definition": "(enfant) dégourdi, éveillé",
-    "type": "adjectif",
-    "search": "escahit -ide (enfant) dégourdi, éveillé"
-  },
+
   {
     "id": 5899,
     "titre": "escalada",
@@ -37730,10 +37638,10 @@
   },
   {
     "id": 5921,
-    "titre": "escandale",
+    "titre": "scandale",
     "definition": "scandale",
     "type": "nom féminin",
-    "search": "escandale scandale"
+    "search": "scandale scandale"
   },
   {
     "id": 5922,
@@ -38058,13 +37966,7 @@
     "search": "chardine sardine"
   },
   
-  {
-    "id": 5969,
-    "titre": "esqu",
-    "definition": "écharde",
-    "type": "nom féminin",
-    "search": "esqu écharde"
-  },
+ 
   {
     "id": 5970,
     "titre": "eschiqueta",
@@ -38229,9 +38131,9 @@
   {
     "id": 5993,
     "titre": "escouda",
-    "definition": "couper la queue (à) ; équeuter (Ouest)",
+    "definition": "couper la queue (à) ; équeuter",
     "type": "verbe transitif (qu'escoùdi)",
-    "search": "escouda couper la queue (à) ; équeuter (Ouest)"
+    "search": "escouda couper la queue (à) ; équeuter"
   },
   {
     "id": 5994,
@@ -38305,10 +38207,10 @@
   },
   {
     "id": 6004,
-    "titre": "escounoumies",
+    "titre": "ecounoumies",
     "definition": "économies",
     "type": "nom féminin pluriel",
-    "search": "escounoumies économies"
+    "search": "ecounoumies économies"
   },
   {
     "id": 6005,
@@ -38536,10 +38438,10 @@
   },
   {
     "id": 6037,
-    "titre": "cultadou -re",
+    "titre": "scultadou -re",
     "definition": "sculpteur",
     "type": "nom",
-    "search": "cultadou -re sculpteur"
+    "search": "scultadou -re sculpteur"
   },
   {
     "id": 6038,
@@ -38655,18 +38557,12 @@
   },
   {
     "id": 6054,
-    "titre": "eglacha",
+    "titre": "englacha",
     "definition": "écraser",
-    "type": "verbe transitif",
-    "search": "eglacha écraser"
+    "type": "verbe_èè transitif",
+    "search": "englacha écraser"
   },
-  {
-    "id": 6055,
-    "titre": "esglouni-s",
-    "definition": "glisser (en parlant d'un terrain)",
-    "type": "verbe pronominal (que s'esglounéch)",
-    "search": "esglouni-s glisser (en parlant d'un terrain)"
-  },
+ 
   {
     "id": 6056,
     "titre": "esgout",
@@ -38681,13 +38577,7 @@
     "type": "verbe transitif / verbe intransitif (qu'esgoùti)",
     "search": "esgouta égoutter ; dégoutter"
   },
-  {
-    "id": 6058,
-    "titre": "esgrecha",
-    "definition": "dégraisser",
-    "type": "verbe transitif (qu'esgrèchi)",
-    "search": "esgrecha dégraisser"
-  },
+ 
   {
     "id": 6059,
     "titre": "esgreha",
@@ -38725,10 +38615,10 @@
   },
   {
     "id": 6064,
-    "titre": "eaga",
+    "titre": "elaga",
     "definition": "élaguer",
     "type": "verbe transitif",
-    "search": "eaga élaguer"
+    "search": "elaga élaguer"
   },
   {
     "id": 6065,
@@ -38751,13 +38641,7 @@
     "type": "nom masculin",
     "search": "elan élan, enthousiasme"
   },
-  {
-    "id": 6068,
-    "titre": "eslénqua",
-    "definition": "glisser",
-    "type": "verbe pronominal (que m'eslénqui)",
-    "search": "-s glisser"
-  },
+
   {
     "id": 6069,
     "titre": "esleuyeri,",
@@ -38821,13 +38705,7 @@
     "type": "verbe intransitif",
     "search": "enlura glisser, faire une glissade"
   },
-  {
-    "id": 6078,
-    "titre": "esliupa-s",
-    "definition": "se faufiler",
-    "type": "verbe pronominal",
-    "search": "esliupa-s se faufiler"
-  },
+ 
   {
     "id": 6079,
     "titre": "esloegna",
@@ -38835,27 +38713,7 @@
     "type": "verbe transitif (qu'esloégni)",
     "search": "esloegna éloigner"
   },
-  {
-    "id": 6080,
-    "titre": "esmàbẹ",
-    "definition": "émouvoir",
-    "type": "verbe transitif",
-    "search": "esmàbẹ émouvoir"
-  },
-  {
-    "id": 6081,
-    "titre": "esmabén -te",
-    "definition": "émouvant",
-    "type": "adjectif",
-    "search": "esmabén -te émouvant"
-  },
-  {
-    "id": 6082,
-    "titre": "esmabude",
-    "definition": "émotion",
-    "type": "nom féminin",
-    "search": "esmabude émotion"
-  },
+
   {
     "id": 6083,
     "titre": "esmagra",
@@ -38863,27 +38721,8 @@
     "type": "verbe transitif (qu'esmàgri, qu'esmagréchi)",
     "search": "esmagra séparer le gras du maigre"
   },
-  {
-    "id": 6084,
-    "titre": "esmalicia",
-    "definition": "fâcher",
-    "type": "verbe transitif",
-    "search": "esmalicia fâcher"
-  },
-  {
-    "id": 6085,
-    "titre": "esmaliciat -ade",
-    "definition": "furieux",
-    "type": "adjectif",
-    "search": "esmaliciat -ade furieux"
-  },
-  {
-    "id": 6086,
-    "titre": "esmera-s",
-    "definition": "s'appliquer à bien faire",
-    "type": "verbe pronominal (que m'esmèri)",
-    "search": "esmera-s s'appliquer à bien faire"
-  },
+
+ 
   {
     "id": 6087,
     "titre": "esmerda, esmerdeya",
@@ -38991,10 +38830,10 @@
   },
   {
     "id": 6102,
-    "titre": "espalha",
+    "titre": "despalha",
     "definition": "dépailler",
     "type": "verbe transitif",
-    "search": "espalha dépailler"
+    "search": "despalha dépailler"
   },
   {
     "id": 6103,
@@ -39122,13 +38961,7 @@
     "type": "verbe transitif",
     "search": "espausa exposer"
   },
-  {
-    "id": 6121,
-    "titre": "esp",
-    "definition": "espoir",
-    "type": "nom masculin",
-    "search": "esp espoir"
-  },
+ 
   {
     "id": 6122,
     "titre": "espeça",
@@ -39738,13 +39571,7 @@
     "type": "verbe transitif (qu'espròbi)",
     "search": "esprouba éprouver"
   },
-  {
-    "id": 6209,
-    "titre": "espudi",
-    "definition": "détester ; répudier",
-    "type": "verbe transitif (qu'espudéchi)",
-    "search": "espudi détester ; répudier"
-  },
+  
   {
     "id": 6210,
     "titre": "espunta",
@@ -39768,32 +39595,20 @@
   },
   {
     "id": 6213,
-    "titre": "esquèle",
+    "titre": "esquìle",
     "definition": "écharde",
     "type": "nom féminin",
-    "search": "esquèle écharde"
+    "search": "esquìle écharde"
   },
   {
     "id": 6214,
-    "titre": "esqueléte",
+    "titre": "squeléte",
     "definition": "squelette",
     "type": "nom féminin",
-    "search": "esqueléte squelette"
+    "search": "squeléte squelette"
   },
-  {
-    "id": 6215,
-    "titre": "esquèrde, esquèrle",
-    "definition": "écharde",
-    "type": "nom féminin",
-    "search": "esquèrde, esquèrle écharde"
-  },
-  {
-    "id": 6216,
-    "titre": "esquèrre",
-    "definition": "gauche",
-    "type": "adjectif et nom",
-    "search": "esquèrre gauche"
-  },
+
+
   {
     "id": 6217,
     "titre": "squi",
@@ -39812,7 +39627,7 @@
     "id": 6219,
     "titre": "esquîe",
     "definition": "dos, échine, colonne vertébrale",
-    "type": "adjectif",
+    "type": "nom",
     "search": "esquîe dos, échine, colonne vertébrale"
   },
   {
@@ -39822,13 +39637,7 @@
     "type": "verbe transitif",
     "search": "esquilha égrener"
   },
-  {
-    "id": 6221,
-    "titre": "esquilhe",
-    "definition": "écharde",
-    "type": "adjectif",
-    "search": "esquilhe écharde"
-  },
+
   {
     "id": 6222,
     "titre": "esquilhot",
@@ -40088,13 +39897,7 @@
     "type": "nom masculin",
     "search": "estagn, estam étain"
   },
-  {
-    "id": 6259,
-    "titre": "estalla",
-    "definition": "installer",
-    "type": "verbe transitif",
-    "search": "estalla installer"
-  },
+ 
   {
     "id": 6260,
     "titre": "estaloâ",
@@ -40208,20 +40011,7 @@
     "type": "verbe transitif",
     "search": "estarlaca enlever les toiles d'araignée"
   },
-  {
-    "id": 6277,
-    "titre": "esta",
-    "definition": "assommer, donner un coup violent (à) ; étourdir, abasourdir",
-    "type": "verbe transitif (qu'estarramounéchi)",
-    "search": "esta assommer, donner un coup violent (à) ; étourdir, abasourdir"
-  },
-  {
-    "id": 6278,
-    "titre": "estait -ide",
-    "definition": "assommé, étourdi, abasourdi",
-    "type": "adjectif",
-    "search": "estait -ide assommé, étourdi, abasourdi"
-  },
+ 
   {
     "id": 6279,
     "titre": "estat",
@@ -40446,13 +40236,7 @@
     "type": "nom masculin",
     "search": "estire-pourrét jeu (un joueur debout tire un joueur assis pour prendre sa place)"
   },
-  {
-    "id": 6311,
-    "titre": "estitut",
-    "definition": "institut",
-    "type": "nom masculin",
-    "search": "estitut institut"
-  },
+
   {
     "id": 6312,
     "titre": "estiu",
@@ -40462,10 +40246,10 @@
   },
   {
     "id": 6313,
-    "titre": "estoc",
+    "titre": "stoc",
     "definition": "stock",
     "type": "nom masculin",
-    "search": "estoc stock"
+    "search": "stoc stock"
   },
   {
     "id": 6314,
@@ -40497,10 +40281,10 @@
   },
   {
     "id": 6318,
-    "titre": "estouca",
+    "titre": "stouca",
     "definition": "stocker",
     "type": "verbe transitif (qu'estòqui)",
-    "search": "estouca stocker"
+    "search": "stouca stocker"
   },
   {
     "id": 6319,
@@ -40565,13 +40349,7 @@
     "type": "nom masculin",
     "search": "estoura champ couvert d'éteules"
   },
-  {
-    "id": 6328,
-    "titre": "estrourdenàri",
-    "definition": "extraordinaire",
-    "type": "adjectif",
-    "search": "estrourdenàri extraordinaire"
-  },
+ 
   {
     "id": 6329,
     "titre": "estourdi",
@@ -40687,10 +40465,10 @@
   },
   {
     "id": 6346,
-    "titre": "estreâ",
+    "titre": "estrena",
     "definition": "étrenner",
     "type": "verbe transitif (qu'estrêi)",
-    "search": "estreâ étrenner"
+    "search": "estrena étrenner"
   },
   {
     "id": 6347,
@@ -40757,10 +40535,10 @@
   },
   {
     "id": 6356,
-    "titre": "estreti",
+    "titre": "estressi",
     "definition": "rétrécir",
     "type": "verbe transitif (qu'estretéchi)",
-    "search": "estreti rétrécir"
+    "search": "estressi rétrécir"
   },
   {
     "id": 6357,
@@ -40804,13 +40582,7 @@
     "type": "verbe transitif",
     "search": "estroussica tailler en morceaux, déchiqueter"
   },
-  {
-    "id": 6363,
-    "titre": "estruccioû",
-    "definition": "instruction",
-    "type": "nom féminin",
-    "search": "estruccioû instruction"
-  },
+ 
   {
     "id": 6364,
     "titre": "structure",
@@ -40818,13 +40590,7 @@
     "type": "nom féminin",
     "search": "structure structure"
   },
-  {
-    "id": 6365,
-    "titre": "estruìsẹ",
-    "definition": "instruire",
-    "type": "verbe transitif (qu'estruéchi, qu'estruìsi)",
-    "search": "estruìsẹ instruire"
-  },
+ 
   {
     "id": 6366,
     "titre": "estrussa",
@@ -41572,14 +41338,14 @@
   },
   {
     "id": 6475,
-    "titre": "fitsa, fixa",
+    "titre": "fitsa",
     "definition": "fixer",
     "type": "verbe transitif",
     "search": "fitsa, fixa fixer"
   },
   {
     "id": 6476,
-    "titre": "fìtsẹ, fìxẹ",
+    "titre": "fìtsẹ",
     "definition": "fixe",
     "type": "adjectif",
     "search": "fìtsẹ, fìxẹ fixe"
@@ -42149,13 +41915,7 @@
     "type": "nom féminin",
     "search": "fraude fraude"
   },
-  {
-    "id": 6562,
-    "titre": "fray",
-    "definition": "(Est) frère. ♦ Fray de poupe → frère de lait",
-    "type": "nom masculin",
-    "search": "fray (Est) frère. ♦ Fray de poupe → frère de lait"
-  },
+
   {
     "id": 6563,
     "titre": "frayìlẹ",
@@ -42925,9 +42685,9 @@
   {
     "id": 6675,
     "titre": "gariòu",
-    "definition": "héron (Voir guilhèm-pesquè) ; hurluberlu, étourdi",
+    "definition": "héron ; hurluberlu, étourdi",
     "type": "nom masculin",
-    "search": "gariòu héron (Voir guilhèm-pesquè) ; hurluberlu, étourdi"
+    "search": "gariòu héron ; hurluberlu, étourdi"
   },
   {
     "id": 6676,
@@ -43143,13 +42903,7 @@
     "type": "verbe transitif",
     "search": "gausa oser. ♦ Toque-y si gauses ! → Touches-y si tu l'oses (devise d'Orthez)"
   },
-  {
-    "id": 6710,
-    "titre": "ge",
-    "definition": "gueule",
-    "type": "nom féminin",
-    "search": "ge gueule"
-  },
+ 
   {
     "id": 6711,
     "titre": "gauyou",
@@ -43315,10 +43069,10 @@
   },
   {
     "id": 6755,
-    "titre": "glèyse, glìsi, glìsie",
+    "titre": "glèyse",
     "definition": "église",
     "type": "nom féminin",
-    "search": "glèyse, glìsi, glìsie église"
+    "search": "glèyse église"
   },
   {
     "id": 6756,
@@ -43647,13 +43401,7 @@
     "type": "nom féminin",
     "search": "gourgoulhère envie de se râcler la gorge"
   },
-  {
-    "id": 6808,
-    "titre": "gourgueya",
-    "definition": "gazouiller",
-    "type": "verbe intransitif et transitif",
-    "search": "gourgueya gazouiller"
-  },
+ 
   {
     "id": 6809,
     "titre": "gourlupa",
@@ -43976,7 +43724,7 @@
     "titre": "gran f grane / gran",
     "definition": "grand, vaste, important. ♦ Bàdẹ gran → grandir. ◊ Û gran → un grand (garçon). ♦ Lou marcat gran → le grand marché ; la gran hère → la grande foire. ◊ La gran misse, la misse grane → la grand-messe. ◊ La gran carrère → la grand-rue. ◊ Qu'èy gran péne → j'ai beaucoup de peine. ♦ Lou dit gran → l'index. ♦ Gran endrét → domaine. ♦ Ma grane, gran ma → océan. ♦ Grane aygue → fleuve. ♦ Pas gran cause → pas grand-chose. ♦ En gran → en grand. ◊ Dinna en gran → déjeuner somptueusement. ◊ Parla en gran → parler avec distinction, avec éloquence",
     "type": "adjectif et nom",
-    "search": "gran f grane / gran grand, vaste, important. ♦ Bàdẹ gran → grandir. ◊ Û gran → un grand (garçon). ♦ Lou marcat gran → le grand marché ; la gran hère → la grande foire. ◊ La gran misse, la misse grane → la grand-messe. ◊ La gran carrère → la grand-rue. ◊ Qu'èy gran péne → j'ai beaucoup de peine. ♦ Lou dit gran → l'index. ♦ Gran endrét → domaine. ♦ Ma grane, gran ma → océan. ♦ Grane aygue → fleuve. ♦ Pas gran cause → pas grand-chose. ♦ En gran → en grand. ◊ Dinna en gran → déjeuner somptueusement. ◊ Parla en gran → parler avec distinction, avec éloquence"
+    "search": "gran f grane / gran grand, vaste, important. ♦ Bàdẹ gran → grandir. ◊ Û gran → un grand (garçon). ♦ Lou marcat gran → le grand marché ; la grane hèyre → la grande foire. ◊ La gran misse, la misse grane → la grand-messe. ◊ La gran carrère → la grand-rue. ◊ Qu'èy gran péne → j'ai beaucoup de peine. ♦ Lou dit gran → l'index. ♦ Gran endrét → domaine. ♦ Ma grane, gran ma → océan. ♦ Grane aygue → fleuve. ♦ Pas gran cause → pas grand-chose. ♦ En gran → en grand. ◊ Dinna en gran → déjeuner somptueusement. ◊ Parla en gran → parler avec distinction, avec éloquence"
   },
   {
     "id": 6858,
@@ -44064,10 +43812,10 @@
   },
   {
     "id": 6870,
-    "titre": "grasilha",
+    "titre": "gresilha",
     "definition": "grésiller",
     "type": "verbe intransitif",
-    "search": "grasilha grésiller"
+    "search": "gresilha grésiller"
   },
   {
     "id": 6871,
@@ -44125,13 +43873,7 @@
     "type": "nom féminin",
     "search": "graulhe grenouille"
   },
-  {
-    "id": 6879,
-    "titre": "yemit",
-    "definition": "gémir",
-    "type": "verbe intransitif",
-    "search": "yemit gémir"
-  },
+ 
   
   {
     "id": 6881,
@@ -44268,10 +44010,10 @@
   },
   {
     "id": 6900,
-    "titre": "reìstẹ",
+    "titre": "grebìstẹ",
     "definition": "gréviste",
     "type": "nom",
-    "search": "reìstẹ gréviste"
+    "search": "grebìstẹ gréviste"
   },
   {
     "id": 6901,
@@ -44619,9 +44361,9 @@
   {
     "id": 6950,
     "titre": "gule",
-    "definition": "gueule. Voir gaute",
+    "definition": "gueule.",
     "type": "nom féminin",
-    "search": "gule gueule. Voir gaute"
+    "search": "gule gueule."
   },
   {
     "id": 6951,
@@ -44762,13 +44504,7 @@
     "type": "nom masculin",
     "search": "ham hameçon"
   },
-  {
-    "id": 6977,
-    "titre": "ha",
-    "definition": "cri du chien",
-    "type": "onomatopée",
-    "search": "ha cri du chien"
-  },
+
   {
     "id": 6978,
     "titre": "hàmi",
@@ -44834,20 +44570,7 @@
     "search": "hape giron. ♦ Pourta à la hape → prendre / porter (un enfant) dans ses bras"
   },
  
-  {
-    "id": 6989,
-    "titre": "harde",
-    "definition": "linge, habit",
-    "type": "nom féminin singulier",
-    "search": "harde linge, habit"
-  },
-  {
-    "id": 6990,
-    "titre": "hardes",
-    "definition": "habits",
-    "type": "nom féminin pluriel",
-    "search": "hardes habits"
-  },
+ 
   {
     "id": 6991,
     "titre": "hardèu",
@@ -45096,13 +44819,7 @@
     "type": "nom féminin",
     "search": "hauguère fougeraie"
   },
-  {
-    "id": 7030,
-    "titre": "hàurẹ",
-    "definition": "forgeron.",
-    "type": "nom masculin",
-    "search": "hàurẹ forgeron."
-  },
+
   {
     "id": 7031,
     "titre": "haurie",
@@ -45380,13 +45097,7 @@
     "type": "nom féminin",
     "search": "henèrcle fente ; lézarde"
   },
-  {
-    "id": 7074,
-    "titre": "hénne",
-    "definition": "femme, épouse",
-    "type": "nom féminin",
-    "search": "hénne femme, épouse"
-  },
+ 
   {
     "id": 7075,
     "titre": "héns",
@@ -46714,24 +46425,24 @@
  
   {
     "id": 7296,
-    "titre": "incurbat -ade",
-    "definition": "incurvé. ◊ Drin incurbat → légèrement incurvé",
+    "titre": "encurbat -ade",
+    "definition": "incurvé. ◊ Drin encurbat → légèrement incurvé",
     "type": "adjectif",
-    "search": "incurbat -ade incurvé. ◊ Drin incurbat → légèrement incurvé"
+    "search": "encurbat -ade incurvé. ◊ Drin encurbat → légèrement incurvé"
   },
   {
     "id": 7297,
-    "titre": "indefinit -ide",
-    "definition": "indéfini (littéraire). ◊ Lous prounoums indefinits → les pronoms indéfinis.",
+    "titre": "endefinit -ide",
+    "definition": "indéfini (littéraire). ◊ Lous prounoums endefinits → les pronoms indéfinis.",
     "type": "adjectif et nom masculin",
-    "search": "indefinit -ide indéfini (littéraire). ◊ Lous prounoums indefinits → les pronoms indéfinis."
+    "search": "endefinit -ide indéfini (littéraire). ◊ Lous prounoums endefinits → les pronoms indéfinis."
   },
   {
     "id": 7298,
-    "titre": "indemnisa",
+    "titre": "endemnisa",
     "definition": "indemniser",
     "type": "verbe transitif",
-    "search": "indemnisa indemniser"
+    "search": "endemnisa indemniser"
   },
   {
     "id": 7299,
@@ -46749,52 +46460,52 @@
   },
   {
     "id": 7301,
-    "titre": "independén -te",
-    "definition": "indépendant. ◊ Tribalhadous independéns → Des travailleurs indépendants",
+    "titre": "endependén -te",
+    "definition": "indépendant. ◊ Tribalhadous endependéns → Des travailleurs indépendants",
     "type": "adjectif et nom",
-    "search": "independén -te indépendant. ◊ Tribalhadous independéns → Des travailleurs indépendants"
+    "search": "endependén -te indépendant. ◊ Tribalhadous endependéns → Des travailleurs indépendants"
   },
   {
     "id": 7302,
-    "titre": "independénce",
+    "titre": "endependénce",
     "definition": "indépendance",
     "type": "nom féminin",
-    "search": "independénce indépendance"
+    "search": "endependénce indépendance"
   },
   {
     "id": 7303,
-    "titre": "indicatif / indicatiu -ibe",
+    "titre": "endicatif / endicatiu -ibe",
     "definition": "indicatif (littéraire)",
     "type": "adjectif et nom masculin",
-    "search": "indicatif / indicatiu -ibe indicatif (littéraire)"
+    "search": "endicatif / endicatiu -ibe indicatif (littéraire)"
   },
   {
     "id": 7304,
-    "titre": "indiscutàblẹ",
+    "titre": "endiscutàblẹ",
     "definition": "indiscutable",
     "type": "adjectif",
-    "search": "indiscutàblẹ indiscutable"
+    "search": "endiscutàblẹ indiscutable"
   },
   {
     "id": 7305,
-    "titre": "indispensàblẹ",
+    "titre": "endispensàblẹ",
     "definition": "indispensable",
     "type": "adjectif",
-    "search": "indispensàblẹ indispensable"
+    "search": "endispensàblẹ indispensable"
   },
   {
     "id": 7306,
-    "titre": "infinitif / infinitiu -ibe",
+    "titre": "enfinitif / enfinitiu -ibe",
     "definition": "infinitif (littéraire)",
     "type": "adjectif et nom masculin",
-    "search": "infinitif / infinitiu -ibe infinitif (littéraire)"
+    "search": "enfinitif / enfinitiu -ibe infinitif (littéraire)"
   },
   {
     "id": 7307,
-    "titre": "infirmiè -re",
+    "titre": "enfirmiè -re",
     "definition": "infirmier",
     "type": "nom et adjectif",
-    "search": "infirmiè -re infirmier"
+    "search": "enfirmiè -re infirmier"
   },
   {
     "id": 7308,
@@ -46833,17 +46544,17 @@
   },
   {
     "id": 7313,
-    "titre": "insoulén -te",
+    "titre": "ensoulén -te",
     "definition": "insolent",
     "type": "adjectif et nom",
-    "search": "insoulén -te insolent"
+    "search": "ensoulén -te insolent"
   },
   {
     "id": 7314,
-    "titre": "insoulénce, insoulénci",
+    "titre": "ensoulénce, ensoulénci",
     "definition": "insolent",
     "type": "nom féminin",
-    "search": "insoulénce, insoulénci insolent"
+    "search": "ensoulénce, ensoulénci insolent"
   },
   {
     "id": 7315,
@@ -46873,27 +46584,21 @@
     "type": "nom féminin",
     "search": "enstitucioû institution."
   },
-  {
-    "id": 7319,
-    "titre": "enstitut",
-    "definition": "institut. ◊ nstitut Biarnés & Gascoû → Institut Béarnais & Gascon. ",
-    "type": "nom masculin",
-    "search": "enstitut institut. ◊ nstitut Biarnés & Gascoû → Institut Béarnais & Gascon. "
-  },
+ 
  
   {
     "id": 7321,
     "titre": "ensulta",
-    "definition": "insulter. ♦",
+    "definition": "insulter.",
     "type": "verbe transitif",
     "search": "ensulta insulter. ♦"
   },
   {
     "id": 7322,
-    "titre": "intel(l)iyén -te / -de",
-    "definition": "intelligent. ◊ Û chibau inteliyén → un cheval intelligent. ◊ Ûe cagne inteliyénde → une chienne intelligente. ",
+    "titre": "entel(l)iyén -te / -de",
+    "definition": "intelligent. ◊ Û chibau enteliyén → un cheval intelligent. ◊ Ûe cagne enteliyénde → une chienne intelligente. ",
     "type": "adjectif",
-    "search": "intel(l)iyén -te / -de intelligent. ◊ Û chibau inteliyén → un cheval intelligent. ◊ Ûe cagne inteliyénde → une chienne intelligente. "
+    "search": "entel(l)iyén -te / -de intelligent. ◊ Û chibau enteliyén → un cheval intelligent. ◊ Ûe cagne enteliyénde → une chienne intelligente. "
   },
   {
     "id": 7323,
@@ -47267,13 +46972,7 @@
     "search": "jermiâ germer"
   },
  
-  {
-    "id": 7407,
-    "titre": "re",
-    "definition": "lierre.",
-    "type": "nom féminin",
-    "search": "re lierre."
-  },
+
   
   {
     "id": 7410,
@@ -47399,28 +47098,8 @@
     "search": "juin juin. "
   },
   
-  {
-    "id": 7451,
-    "titre": "jurat",
-    "definition": "jurat, officier de police et de justice (hist)",
-    "type": "nom masculin",
-    "search": "jurat jurat, officier de police et de justice (hist)"
-  },
-  {
-    "id": 7452,
-    "titre": "jurìstẹ",
-    "definition": "juriste",
-    "type": "nom",
-    "search": "jurìstẹ juriste"
-  },
- 
-  {
-    "id": 7456,
-    "titre": "jùstẹ",
-    "definition": "1♦ adjectif Juste, exact. ◊ Lou jùstẹ miéy → le juste milieu. 2♦ adverbe ◊ Tout jùstẹ → justement, exactement, précisément. ♦ Presque. ◊ Que soun jùstẹ besîs → Ils sont presque voisins",
-    "type": "adjectif et adverbe",
-    "search": "jùstẹ 1♦ adjectif Juste, exact. ◊ Lou jùstẹ miéy → le juste milieu. 2♦ adverbe ◊ Tout jùstẹ → justement, exactement, précisément. ♦ Presque. ◊ Que soun jùstẹ besîs → Ils sont presque voisins"
-  },
+
+
   
   {
     "id": 7460,
@@ -47548,20 +47227,7 @@
     "type": "nom masculin",
     "search": "lagas tique ; personne qui s'accroche, casse-pieds"
   },
-  {
-    "id": 7478,
-    "titre": "laguén, lahén",
-    "definition": "à l'intérieur",
-    "type": "adverbe",
-    "search": "laguén, lahén à l'intérieur"
-  },
-  {
-    "id": 7479,
-    "titre": "lahore, la-hore",
-    "definition": "dehors au loin",
-    "type": "adverbe",
-    "search": "lahore, la-hore dehors au loin"
-  },
+ 
   {
     "id": 7480,
     "titre": "laïc -ïque, laïquẹ",
@@ -47737,34 +47403,9 @@
     "type": "adjectif",
     "search": "lardè dans les locutions diyaus / dimars lardè → jeudi / mardi gras"
   },
-  {
-    "id": 7505,
-    "titre": "larè",
-    "definition": "foyer. ♦ Larè rurau → foyer rural",
-    "type": "nom masculin",
-    "search": "larè foyer. ♦ Larè rurau → foyer rural"
-  },
-  {
-    "id": 7506,
-    "titre": "largance",
-    "definition": "espace",
-    "type": "nom féminin",
-    "search": "largance espace"
-  },
-  {
-    "id": 7507,
-    "titre": "larguè",
-    "definition": "espace",
-    "type": "nom masculin",
-    "search": "larguè espace"
-  },
-  {
-    "id": 7508,
-    "titre": "làrmẹ",
-    "definition": "blanc d'œuf",
-    "type": "nom masculin",
-    "search": "làrmẹ blanc d'œuf"
-  },
+
+ 
+  
   {
     "id": 7509,
     "titre": "larme",
@@ -48361,9 +48002,9 @@
   {
     "id": 7598,
     "titre": "lheba",
-    "definition": "lever, soulever, relever, surélever (une maison). ♦ Lheba bruts → faire courir des bruits. ◊ Lheba û alèp → propager des calomnies (Ouest). ♦ Prélever, ôter. ♦ Récolter, produire. ◊ Aquére tèrre que lhèbe beroy milhoc → Cette terre produit du beau maïs. ♦ Lheba-s verbe pronominal se lever. ",
+    "definition": "lever, soulever, relever, surélever (une maison). ♦ Lheba bruts → faire courir des bruits. ◊ Lheba û alèp → propager des calomnies. ♦ Prélever, ôter. ♦ Récolter, produire. ◊ Aquére tèrre que lhèbe beroy milhoc → Cette terre produit du beau maïs. ♦ Lheba-s verbe pronominal se lever. ",
     "type": "verbe transitif",
-    "search": "lheba lever, soulever, relever, surélever (une maison). ♦ Lheba bruts → faire courir des bruits. ◊ Lheba û alèp → propager des calomnies (Ouest). ♦ Prélever, ôter. ♦ Récolter, produire. ◊ Aquére tèrre que lhèbe beroy milhoc → Cette terre produit du beau maïs. ♦ Lheba-s verbe pronominal se lever. "
+    "search": "lheba lever, soulever, relever, surélever (une maison). ♦ Lheba bruts → faire courir des bruits. ◊ Lheba û alèp → propager des calomnies. ♦ Prélever, ôter. ♦ Récolter, produire. ◊ Aquére tèrre que lhèbe beroy milhoc → Cette terre produit du beau maïs. ♦ Lheba-s verbe pronominal se lever. "
   },
   {
     "id": 7599,
@@ -49921,13 +49562,7 @@
     "type": "nom masculin",
     "search": "maquignoû maquignon. ◊ Maquignoûs eslats de la chamarre → des maquignons enflés de la blouse"
   },
-  {
-    "id": 7830,
-    "titre": "m",
-    "definition": "bélier. ♦ Cap de mar → tête de mule (têtu).",
-    "type": "nom masculin",
-    "search": "m bélier. ♦ Cap de mar → tête de mule (têtu)."
-  },
+
   {
     "id": 7831,
     "titre": "marbrère",
@@ -50233,7 +49868,7 @@
   {
     "id": 7877,
     "titre": "Marselhése",
-    "definition": "Marseillaise.",
+    "definition": "Marseillaise → le chant révolutionnaire du franc-maçon Rouget de Lisle, chanté chez son frère de loge, l'anticlérical Philippe Frédéric de Dietrich (baron protestant, illuminé et fils de banquier anobli par Louis XV).",
     "type": "adjectif et nom",
     "search": "Marselhése Marseillaise."
   },
@@ -51344,27 +50979,7 @@
     "type": "adverbe",
     "search": "ménch moins"
   },
-  {
-    "id": 8037,
-    "titre": "meida-s",
-    "definition": "se méfier, soupçonner",
-    "type": "verbe pronominal",
-    "search": "meida-s se méfier, soupçonner"
-  },
-  {
-    "id": 8038,
-    "titre": "meidèc -ègue",
-    "definition": "méfiant, suspicieux",
-    "type": "adjectif",
-    "search": "meidèc -ègue méfiant, suspicieux"
-  },
-  {
-    "id": 8039,
-    "titre": "meidèu",
-    "definition": "méfiant, suspicieux",
-    "type": "adjectif masculin",
-    "search": "meidèu méfiant, suspicieux"
-  },
+ 
   {
     "id": 8040,
     "titre": "mencioû",
@@ -51407,19 +51022,13 @@
     "type": "adjectif",
     "search": "méndrẹ moindre ; inférieur en qualité ; maigre, fluet, chétif, petit"
   },
-  {
-    "id": 8046,
-    "titre": "endrésque",
-    "definition": "ventrêche (lard maigre, poitrine de porc salée)",
-    "type": "nom féminin",
-    "search": "endrésque ventrêche (lard maigre, poitrine de porc salée)"
-  },
+
   {
     "id": 8047,
-    "titre": "mnin",
+    "titre": "menin",
     "definition": "petit ; mignon ; enfant",
     "type": "adjectif et nom",
-    "search": "mnin petit ; mignon ; enfant"
+    "search": "menin petit ; mignon ; enfant"
   },
   {
     "id": 8048,
@@ -51631,13 +51240,7 @@
     "type": "nom féminin",
     "search": "mèrque marque, trace"
   },
-  {
-    "id": 8078,
-    "titre": "m",
-    "definition": "plus",
-    "type": "adverbe",
-    "search": "m plus"
-  },
+
   {
     "id": 8079,
     "titre": "més",
@@ -51876,13 +51479,7 @@
     "type": "nom féminin",
     "search": "méte meule (tas de foin, de paille)"
   },
-  {
-    "id": 8113,
-    "titre": "métẹ",
-    "definition": "mettre",
-    "type": "verbe transitif",
-    "search": "métẹ mettre"
-  },
+
   {
     "id": 8114,
     "titre": "meteo",
@@ -52958,10 +52555,10 @@
   },
   {
     "id": 8269,
-    "titre": "moulue",
+    "titre": "mourue",
     "definition": "morue",
     "type": "nom féminin",
-    "search": "moulue morue"
+    "search": "mourue morue"
   },
   {
     "id": 8270,
@@ -53159,27 +52756,7 @@
     "type": "nom féminin",
     "search": "mouréte mûre"
   },
-  {
-    "id": 8298,
-    "titre": "mourfoulh",
-    "definition": "froissement d'un tissu ; tissu froissé, en boule ; pagaille",
-    "type": "nom masculin",
-    "search": "mourfoulh froissement d'un tissu ; tissu froissé, en boule ; pagaille"
-  },
-  {
-    "id": 8299,
-    "titre": "mourfoulha",
-    "definition": "froisser (un tissu), déposer (des habits) en fouillis",
-    "type": "verbe transitif",
-    "search": "mourfoulha froisser (un tissu), déposer (des habits) en fouillis"
-  },
-  {
-    "id": 8300,
-    "titre": "mourfoulhadis",
-    "definition": "froissement (d'un tissu) ; pagaille",
-    "type": "nom masculin",
-    "search": "mourfoulhadis froissement (d'un tissu) ; pagaille"
-  },
+ 
   {
     "id": 8301,
     "titre": "mourgagna",
@@ -53572,13 +53149,7 @@
     "type": "nom masculin",
     "search": "mùblẹ meuble"
   },
-  {
-    "id": 8357,
-    "titre": "m",
-    "definition": "museau",
-    "type": "nom masculin",
-    "search": "m museau"
-  },
+
   {
     "id": 8358,
     "titre": "mucha",
@@ -54384,13 +53955,7 @@
     "type": "nom féminin",
     "search": "nidade nichée"
   },
-  {
-    "id": 8473,
-    "titre": "niét",
-    "definition": "nid",
-    "type": "nom masculin",
-    "search": "niét nid"
-  },
+
   {
     "id": 8474,
     "titre": "nigaut",
@@ -54454,13 +54019,7 @@
     "type": "adjectif et nom",
     "search": "nòblẹ noble"
   },
-  {
-    "id": 8483,
-    "titre": "noès",
-    "definition": "épidémie",
-    "type": "nom masculin",
-    "search": "noès épidémie"
-  },
+ 
   {
     "id": 8484,
     "titre": "noéyt",
@@ -71600,13 +71159,7 @@
     "type": "nom féminin",
     "search": "susprése surprise"
   },
-  {
-    "id": 10958,
-    "titre": "sussoûs",
-    "definition": "(Est) graisserons (rillons)",
-    "type": "nom masculin pluriel",
-    "search": "sussoûs (Est) graisserons (rillons)"
-  },
+
 
   {
     "id": 10961,

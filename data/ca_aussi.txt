@@ -197,6 +197,207 @@
     "search": "empatchuca faire obstacle, gêner"
   },
 
+
+ {
+    "id": 5812,
+    "titre": "enyassa",
+    "definition": "enchâsser, insérer",
+    "type": "verbe transitif",
+    "search": "enyassa enchâsser, insérer"
+  },
+  {
+    "id": 5813,
+    "titre": "enyasse",
+    "definition": "fente, rainure destinées à permettre l'enchâssement ou l'insertion d'un objet",
+    "type": "nom féminin",
+    "search": "enyasse fente, rainure destinées à permettre l'enchâssement ou l'insertion d'un objet"
+  },
+
+{
+    "id": 5814,
+    "titre": "enyibane",
+    "definition": "engin, machine",
+    "type": "nom féminin",
+    "search": "enyibane engin, machine"
+  },
+  {
+    "id": 6068,
+    "titre": "eslénqua",
+    "definition": "glisser",
+    "type": "verbe pronominal (que m'eslénqui)",
+    "search": "-s glisser"
+  },
+  {
+    "id": 6080,
+    "titre": "esmàbẹ",
+    "definition": "émouvoir",
+    "type": "verbe transitif",
+    "search": "esmàbẹ émouvoir"
+  },
+  {
+    "id": 6081,
+    "titre": "esmabén -te",
+    "definition": "émouvant",
+    "type": "adjectif",
+    "search": "esmabén -te émouvant"
+  },
+  {
+    "id": 6082,
+    "titre": "esmabude",
+    "definition": "émotion",
+    "type": "nom féminin",
+    "search": "esmabude émotion"
+  },
+
+  en?
+  {
+    "id": 6084,
+    "titre": "esmalicia",
+    "definition": "fâcher",
+    "type": "verbe transitif",
+    "search": "esmalicia fâcher"
+  },
+  {
+    "id": 6085,
+    "titre": "esmaliciat -ade",
+    "definition": "furieux",
+    "type": "adjectif",
+    "search": "esmaliciat -ade furieux"
+  },
+
+ {
+    "id": 6086,
+    "titre": "esmera-s",
+    "definition": "s'appliquer à bien faire",
+    "type": "verbe pronominal (que m'esmèri)",
+    "search": "esmera-s s'appliquer à bien faire"
+  },
+
+{
+    "id": 6209,
+    "titre": "espudi",
+    "definition": "détester ; répudier",
+    "type": "verbe transitif (qu'espudéchi)",
+    "search": "espudi détester ; répudier"
+  },
+
+ {
+    "id": 6277,
+    "titre": "esta",
+    "definition": "assommer, donner un coup violent (à) ; étourdir, abasourdir",
+    "type": "verbe transitif (qu'estarramounéchi)",
+    "search": "esta assommer, donner un coup violent (à) ; étourdir, abasourdir"
+  },
+  {
+    "id": 6278,
+    "titre": "estait -ide",
+    "definition": "assommé, étourdi, abasourdi",
+    "type": "adjectif",
+    "search": "estait -ide assommé, étourdi, abasourdi"
+  },
+
+ {
+    "id": 6808,
+    "titre": "gourgueya",
+    "definition": "gazouiller",
+    "type": "verbe intransitif et transitif",
+    "search": "gourgueya gazouiller"
+  },
+
+
+   {
+    "id": 7478,
+    "titre": "laguén, lahén",
+    "definition": "à l'intérieur",
+    "type": "adverbe",
+    "search": "laguén, lahén à l'intérieur"
+  },
+  {
+    "id": 7479,
+    "titre": "lahore, la-hore",
+    "definition": "dehors au loin",
+    "type": "adverbe",
+    "search": "lahore, la-hore dehors au loin"
+  },
+    {
+    "id": 7505,
+    "titre": "larè",
+    "definition": "foyer. ♦ Larè rurau → foyer rural",
+    "type": "nom masculin",
+    "search": "larè foyer. ♦ Larè rurau → foyer rural"
+  },
+ {
+    "id": 7506,
+    "titre": "largance",
+    "definition": "espace",
+    "type": "nom féminin",
+    "search": "largance espace"
+  },
+  {
+    "id": 7507,
+    "titre": "larguè",
+    "definition": "espace",
+    "type": "nom masculin",
+    "search": "larguè espace"
+  },
+{
+    "id": 7508,
+    "titre": "làrmẹ",
+    "definition": "blanc d'œuf",
+    "type": "nom masculin",
+    "search": "làrmẹ blanc d'œuf"
+  },
+
+ {
+    "id": 8037,
+    "titre": "meida-s",
+    "definition": "se méfier, soupçonner",
+    "type": "verbe pronominal",
+    "search": "meida-s se méfier, soupçonner"
+  },
+  {
+    "id": 8038,
+    "titre": "meidèc -ègue",
+    "definition": "méfiant, suspicieux",
+    "type": "adjectif",
+    "search": "meidèc -ègue méfiant, suspicieux"
+  },
+  {
+    "id": 8039,
+    "titre": "meidèu",
+    "definition": "méfiant, suspicieux",
+    "type": "adjectif masculin",
+    "search": "meidèu méfiant, suspicieux"
+  },
+
+ {
+    "id": 8298,
+    "titre": "mourfoulh",
+    "definition": "froissement d'un tissu ; tissu froissé, en boule ; pagaille",
+    "type": "nom masculin",
+    "search": "mourfoulh froissement d'un tissu ; tissu froissé, en boule ; pagaille"
+  },
+  {
+    "id": 8299,
+    "titre": "mourfoulha",
+    "definition": "froisser (un tissu), déposer (des habits) en fouillis",
+    "type": "verbe transitif",
+    "search": "mourfoulha froisser (un tissu), déposer (des habits) en fouillis"
+  },
+  {
+    "id": 8300,
+    "titre": "mourfoulhadis",
+    "definition": "froissement (d'un tissu) ; pagaille",
+    "type": "nom masculin",
+    "search": "mourfoulhadis froissement (d'un tissu) ; pagaille"
+  },
+   {
+    "id": 8483,
+    "titre": "noès",
+    "definition": "épidémie",
+    "type": "nom masculin",
+    "search": "noès épidémie"
+  },
   /////////////////////
 
  {
