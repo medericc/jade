@@ -13,14 +13,11 @@ export default function ApprendreHeader() {
         </Link>
 
         <h1 className={styles.apprendreTitle}>
-          <span>🗣️</span>
+      
           <span>Aprén lou biarnés !</span>
         </h1>
 
-        <span className={styles.apprendreSubtitle}>
-          Apprends le béarnais
-        </span>
-
+    
       </div>
     </header>
   )

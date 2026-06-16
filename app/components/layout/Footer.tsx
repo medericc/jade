@@ -1,28 +1,37 @@
-
 import styles from './footer.module.css'
+
 export default function Footer() {
   return (
-   <footer className={styles.footer}>
-  <div className={styles.footerGlow} />
+    <footer className={styles.footer}>
+      <div className="container">
 
-  <div className={`container ${styles.footerContent}`}>
-    <div>
-      <span className={styles.footerBrand}>
-        JADE CÉLERIER
-      </span>
+        <div className={styles.top}>
+          <span className={styles.brand}>
+            JADE CÉLERIER
+          </span>
 
-      <p className={styles.footerDescription}>
-        Basket, Béarn, héritage et ambition réunis dans une même énergie.
-      </p>
-    </div>
+          <p className={styles.description}>
+            Basket • Béarn • Culture
+          </p>
+        </div>
 
-    <div className={styles.footerDivider} />
+        <div className={styles.divider} />
 
-    <div className={styles.footerBottom}>
-      <span>© 2026 • Jade Célerier Fan • Dodge City</span>
-      <span>Toque-y Si Gauses 🏀⚜️</span>
-    </div>
-  </div>
-</footer>
+        <div className={styles.bottom}>
+          <span>
+            © 2026 Jade Célerier Fan
+          </span>
+
+          <span className={styles.location}>
+            Dodge City 🇺🇸
+          </span>
+
+          <span className={styles.motto}>
+            Toque-y Si Gauses ⚜️
+          </span>
+        </div>
+
+      </div>
+    </footer>
   )
 }

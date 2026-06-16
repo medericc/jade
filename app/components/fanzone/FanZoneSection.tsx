@@ -11,8 +11,10 @@ const stats = [
 ]
 
 const socials = [
-  '📸 Instagram',
-
+  {
+    label: '📸 Instagram',
+    href: 'https://www.instagram.com/lena_jade_backcourt/',
+  },
 ]
 
 export default function FanZoneSection() {
@@ -40,11 +42,18 @@ export default function FanZoneSection() {
             ))}
           </div>
 
-          <div className={styles.socialButtons}>
-            {socials.map((social) => (
-              <button key={social}>{social}</button>
-            ))}
-          </div>
+         <div className={styles.socialButtons}>
+  {socials.map((social) => (
+    <Link
+      key={social.label}
+      href={social.href}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <button>{social.label}</button>
+    </Link>
+  ))}
+</div>
         </div>
 
         {/* RIGHT CARD */}
