@@ -498,7 +498,7 @@
 }
 
 /* Mobile */
-@media (max-width: 768px) {
+@media (max-width: 1100px) {
   .augustinHeader {
     display: none;
   }
@@ -524,7 +524,7 @@ margin-top: 2rem;
  .heroSection2 {
     margin-top:4rem;
   }
-  @media (max-width: 768px) {
+  @media (max-width: 1100px) {
 
     .heroSection2 {
     margin-top:1rem;
