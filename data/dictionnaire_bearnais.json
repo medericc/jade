@@ -32814,13 +32814,7 @@
     "type": "particule verbale",
     "search": "e particule verbale (énonciative), ne se traduit pas"
   },
-  {
-    "id": 5183,
-    "titre": "e-",
-    "definition": "préfixe, voir es-",
-    "type": "préfixe",
-    "search": "e- préfixe, voir es-"
-  },
+
   {
     "id": 5184,
     "titre": "e, è",
@@ -41162,9 +41156,9 @@
   {
     "id": 6448,
     "titre": "fermiè",
-    "definition": "fermier (locataire d'une ferme).",
+    "definition": "fermier (locataire d'une ferme)",
     "type": "nom masculin",
-    "search": "fermiè fermier (locataire d'une ferme)."
+    "search": "fermiè fermier (locataire d'une ferme)"
   },
   {
     "id": 6449,
@@ -41211,23 +41205,23 @@
   {
     "id": 6455,
     "titre": "fiança",
-    "definition": "fiancer.",
+    "definition": "fiancer",
     "type": "verbe transitif",
-    "search": "fiança fiancer."
+    "search": "fiança fiancer"
   },
   {
     "id": 6456,
     "titre": "fiançalhes",
-    "definition": "fiançailles.",
+    "definition": "fiançailles",
     "type": "nom féminin pluriel",
-    "search": "fiançalhes fiançailles."
+    "search": "fiançalhes fiançailles"
   },
   {
     "id": 6457,
     "titre": "fiançat -ade",
-    "definition": "fiancé.",
+    "definition": "fiancé",
     "type": "nom féminin",
-    "search": "fiançat -ade fiancé."
+    "search": "fiançat -ade fiancé"
   },
 
   {
@@ -41290,9 +41284,9 @@
   {
     "id": 6468,
     "titre": "hilouse",
-    "definition": "quenouille.",
+    "definition": "quenouille",
     "type": "nom féminin",
-    "search": "hilouse quenouille."
+    "search": "hilouse quenouille"
   },
   {
     "id": 6469,
@@ -41304,9 +41298,9 @@
   {
     "id": 6470,
     "titre": "finance",
-    "definition": "finance. ♦ Abé finance → avoir de l'argent. Voir mounéde",
+    "definition": "finance. ♦ Abé finance → avoir de l'argent",
     "type": "nom féminin",
-    "search": "finance finance. ♦ Abé finance → avoir de l'argent. Voir mounéde"
+    "search": "finance finance. ♦ Abé finance → avoir de l'argent"
   },
   {
     "id": 6471,
@@ -41353,16 +41347,16 @@
   {
     "id": 6477,
     "titre": "flaüta",
-    "definition": "jouer de la flûte.",
+    "definition": "jouer de la flûte",
     "type": "verbe intransitif",
-    "search": "flaüta jouer de la flûte."
+    "search": "flaüta jouer de la flûte"
   },
   {
     "id": 6478,
     "titre": "flaüte",
-    "definition": "flûte.",
+    "definition": "flûte",
     "type": "nom féminin",
-    "search": "flaüte flûte."
+    "search": "flaüte flûte"
   },
   {
     "id": 6479,
@@ -41504,7 +41498,7 @@
   {
     "id": 6502,
     "titre": "flou",
-    "definition": "fleur.",
+    "definition": "fleur",
     "type": "nom féminin",
     "search": "flou fleur."
   },
@@ -41532,7 +41526,7 @@
   {
     "id": 6506,
     "titre": "flouri",
-    "definition": "fleurir.",
+    "definition": "fleurir",
     "type": "verbe transitif et intransitif",
     "search": "flouri fleurir."
   },
@@ -41581,14 +41575,14 @@
   {
     "id": 6513,
     "titre": "forme",
-    "definition": "forme.",
+    "definition": "forme",
     "type": "nom féminin",
     "search": "forme forme. "
   },
   {
     "id": 6514,
     "titre": "fotbal",
-    "definition": "football.",
+    "definition": "football",
     "type": "nom masculin",
     "search": "fotbal football."
   },
@@ -41630,7 +41624,7 @@
   {
     "id": 6520,
     "titre": "fouiste",
-    "definition": "chiasse.",
+    "definition": "chiasse",
     "type": "nom féminin",
     "search": "fouiste chiasse."
   },
@@ -41694,7 +41688,7 @@
   {
     "id": 6530,
     "titre": "fourastè",
-    "definition": "fourré.",
+    "definition": "fourré",
     "type": "nom masculin",
     "search": "fourastè fourré."
   },
@@ -41771,7 +41765,7 @@
   {
     "id": 6541,
     "titre": "foutbal, foutbol",
-    "definition": "football.",
+    "definition": "football",
     "type": "nom masculin",
     "search": "foutbal, foutbol football."
   },
@@ -41820,14 +41814,14 @@
   {
     "id": 6548,
     "titre": "framboèse",
-    "definition": "framboise.",
+    "definition": "framboise",
     "type": "nom féminin",
     "search": "framboèse framboise."
   },
   {
     "id": 6549,
     "titre": "framboesiè",
-    "definition": "framboisier.",
+    "definition": "framboisier",
     "type": "nom masculin",
     "search": "framboesiè framboisier."
   },
@@ -42010,7 +42004,7 @@
   {
     "id": 6576,
     "titre": "frésque",
-    "definition": "fraîche.",
+    "definition": "fraîche",
     "type": "nom féminin",
     "search": "frésque fraîche."
   },
@@ -42102,7 +42096,7 @@
   {
     "id": 6590,
     "titre": "frountière",
-    "definition": "frontière.",
+    "definition": "frontière",
     "type": "nom féminin",
     "search": "frountière frontière."
   },
@@ -42123,7 +42117,7 @@
   {
     "id": 6593,
     "titre": "frute",
-    "definition": "fruits.",
+    "definition": "fruits",
     "type": "nom féminin singulier",
     "search": "frute fruits."
   },
@@ -42186,14 +42180,14 @@
   {
     "id": 6602,
     "titre": "fusilh",
-    "definition": "fusil.",
+    "definition": "fusil",
     "type": "nom masculin",
     "search": "fusilh fusil."
   },
   {
     "id": 6603,
     "titre": "fusilha",
-    "definition": "fusiller.",
+    "definition": "fusiller",
     "type": "verbe transitif",
     "search": "fusilha fusiller."
   },
@@ -42222,7 +42216,7 @@
   {
     "id": 6608,
     "titre": "gabagna-s",
-    "definition": "avorter.",
+    "definition": "avorter",
     "type": "verbe pronominal",
     "search": "gabagna-s avorter."
   },
@@ -42243,7 +42237,7 @@
   {
     "id": 6611,
     "titre": "gabàtchou -atche",
-    "definition": "étranger.",
+    "definition": "étranger",
     "type": "nom",
     "search": "gabàtchou -atche étranger."
   },
@@ -42278,14 +42272,14 @@
   {
     "id": 6616,
     "titre": "gagn",
-    "definition": "gain.",
+    "definition": "gain",
     "type": "nom masculin",
     "search": "gagn gain."
   },
   {
     "id": 6617,
     "titre": "gagna",
-    "definition": "gagner. ♦ Gagna-s verbe pronominal se gagner. ◊ Gagna-s medalhes → gagner des médailles. ♦ ne pas gagna-s l'aygue → gagner très peu (« ne pas gagner son eau »). ",
+    "definition": "gagner. ♦ Gagna-s verbe pronominal se gagner. ◊ Gagna-s medalhes → gagner des médailles. ♦ ne pas gagna-s l'aygue → gagner très peu (« ne pas gagner son eau »).",
     "type": "verbe transitif",
     "search": "gagna gagner. ♦ Gagna-s verbe pronominal se gagner. ◊ Gagna-s medalhes → gagner des médailles. ♦ ne pas gagna-s l'aygue → gagner très peu (« ne pas gagner son eau »)."
   },
@@ -42355,7 +42349,7 @@
   {
     "id": 6627,
     "titre": "gahus",
-    "definition": "hibou.",
+    "definition": "hibou",
     "type": "nom masculin",
     "search": "gahus hibou."
   },
@@ -42778,7 +42772,7 @@
   {
     "id": 6690,
     "titre": "gaspilha",
-    "definition": "gaspiller.",
+    "definition": "gaspiller",
     "type": "verbe transitif",
     "search": "gaspilha gaspiller."
   },
@@ -42982,7 +42976,7 @@
   {
     "id": 6735,
     "titre": "yeneralitat",
-    "definition": "généralité.",
+    "definition": "généralité",
     "type": "nom féminin",
     "search": "generalitat généralité yeneralitat"
   },
@@ -43162,14 +43156,14 @@
   {
     "id": 6769,
     "titre": "gn-aut, gn-àutẹ",
-    "definition": "un autre. ",
+    "definition": "un autre",
     "type": "pronom indéfini",
     "search": "gn-aut, gn-àutẹ un autre."
   },
   {
     "id": 6770,
     "titre": "gnéste",
-    "definition": "genêt.",
+    "definition": "genêt",
     "type": "nom féminin",
     "search": "gnéste genêt. "
   },
@@ -43412,7 +43406,7 @@
   {
     "id": 6810,
     "titre": "gourlutade",
-    "definition": "gargouillement.",
+    "definition": "gargouillement",
     "type": "nom féminin",
     "search": "gourlutade gargouillement."
   },
@@ -43489,7 +43483,7 @@
   {
     "id": 6821,
     "titre": "gous",
-    "definition": "goût.",
+    "definition": "goût",
     "type": "nom masculin",
     "search": "gous goût."
   },
@@ -43771,7 +43765,7 @@
   {
     "id": 6864,
     "titre": "gran-may",
-    "definition": "grand-mère.",
+    "definition": "grand-mère",
     "type": "nom masculin",
     "search": "gran-may grand-mère."
   },
@@ -43785,7 +43779,7 @@
   {
     "id": 6866,
     "titre": "gran-pay",
-    "definition": "grand-père. ♦",
+    "definition": "grand-père",
     "type": "nom masculin",
     "search": "gran-pay grand-père. ♦"
   },
@@ -43855,7 +43849,7 @@
   {
     "id": 6876,
     "titre": "galiques",
-    "definition": "chatouille.",
+    "definition": "chatouille",
     "type": "nom féminin",
     "search": "galiques chatouille."
   },
@@ -43913,7 +43907,7 @@
   {
     "id": 6886,
     "titre": "grechoû",
-    "definition": "cresson.",
+    "definition": "cresson",
     "type": "nom masculin",
     "search": "grechoû cresson."
   },
@@ -43927,7 +43921,7 @@
   {
     "id": 6888,
     "titre": "grechoûs",
-    "definition": "graisserons (rillons).",
+    "definition": "graisserons (rillons)",
     "type": "nom masculin pluriel",
     "search": "grechoûs graisserons (rillons)."
   },
@@ -44046,7 +44040,7 @@
   {
     "id": 6905,
     "titre": "grilhoû",
-    "definition": "grillon.",
+    "definition": "grillon",
     "type": "nom masculin",
     "search": "grilhoû grillon."
   },
@@ -44186,7 +44180,7 @@
   {
     "id": 6925,
     "titre": "gahus",
-    "definition": "hibou.",
+    "definition": "hibou",
     "type": "nom masculin",
     "search": "gahus hibou."
   },
@@ -44277,7 +44271,7 @@
   {
     "id": 6938,
     "titre": "guinabéte",
-    "definition": "couteau de cuisine à large lame.",
+    "definition": "couteau de cuisine à large lame",
     "type": "nom féminin",
     "search": "guinabéte couteau de cuisine à large lame."
   },
@@ -44291,7 +44285,7 @@
   {
     "id": 6940,
     "titre": "guirlande",
-    "definition": "guirlande.",
+    "definition": "guirlande",
     "type": "nom féminin",
     "search": "guirlande guirlande."
   },
@@ -44361,7 +44355,7 @@
   {
     "id": 6950,
     "titre": "gule",
-    "definition": "gueule.",
+    "definition": "gueule",
     "type": "nom féminin",
     "search": "gule gueule."
   },
@@ -44418,7 +44412,7 @@
   {
     "id": 6960,
     "titre": "hac",
-    "definition": "hêtre.",
+    "definition": "hêtre",
     "type": "nom masculin",
     "search": "hac hêtre."
   },
@@ -44455,7 +44449,7 @@
   {
     "id": 6967,
     "titre": "hagar -arde",
-    "definition": "prétentieux, vaniteux.",
+    "definition": "prétentieux, vaniteux",
     "type": "adjectif",
     "search": "hagar -arde prétentieux, vaniteux."
   },
@@ -44722,7 +44716,7 @@
   {
     "id": 7013,
     "titre": "hasar",
-    "definition": "hasard.",
+    "definition": "hasard",
     "type": "nom masculin",
     "search": "hasar hasard. "
   },
@@ -44794,7 +44788,7 @@
   {
     "id": 7026,
     "titre": "hau",
-    "definition": "forgeron.",
+    "definition": "forgeron",
     "type": "nom masculin",
     "search": "hau forgeron."
   },
@@ -45214,7 +45208,7 @@
   {
     "id": 7092,
     "titre": "herruca, heruca",
-    "definition": "fouiller, fouiner.",
+    "definition": "fouiller, fouiner",
     "type": "verbe transitif",
     "search": "herruca, heruca fouiller, fouiner."
   },
@@ -45399,21 +45393,21 @@
   {
     "id": 7120,
     "titre": "hèyne",
-    "definition": "haine. ",
+    "definition": "haine",
     "type": "nom féminin",
-    "search": "hèyne haine. "
+    "search": "hèyne haine."
   },
   {
     "id": 7121,
     "titre": "heynous",
-    "definition": "haineux. ",
+    "definition": "haineux",
     "type": "adjectif",
     "search": "heynous haineux. "
   },
   {
     "id": 7122,
     "titre": "hèyre",
-    "definition": "foire.",
+    "definition": "foire",
     "type": "nom féminin",
     "search": "hèyre foire."
   },
@@ -45689,7 +45683,7 @@
   {
     "id": 7165,
     "titre": "hole",
-    "definition": "folle.",
+    "definition": "folle",
     "type": "adjectif et nom féminin",
     "search": "hole folle."
   },
@@ -45713,7 +45707,7 @@
   {
     "id": 7175,
     "titre": "horebandi, hore-bandi",
-    "definition": "exiler, exclure.",
+    "definition": "exiler, exclure",
     "type": "verbe transitif",
     "search": "horebandi, hore-bandi exiler, exclure."
   },
@@ -46326,7 +46320,7 @@
   {
     "id": 7276,
     "titre": "empos",
-    "definition": "impôt. ",
+    "definition": "impôt",
     "type": "nom masculin",
     "search": "empos impôt. "
   },
@@ -46396,28 +46390,28 @@
   {
     "id": 7286,
     "titre": "empressioû",
-    "definition": "impression.",
+    "definition": "impression",
     "type": "nom féminin",
     "search": "empressioû impression."
   },
   {
     "id": 7287,
     "titre": "empressiouna",
-    "definition": "impressionner.",
+    "definition": "impressionner",
     "type": "verbe transitif",
     "search": "empressiouna impressionner."
   },
   {
     "id": 7288,
     "titre": "emprema",
-    "definition": "imprimer.",
+    "definition": "imprimer",
     "type": "verbe transitif",
     "search": "emprema imprimer."
   },
   {
     "id": 7289,
     "titre": "empremat",
-    "definition": "imprimé.",
+    "definition": "imprimé",
     "type": "nom masculin",
     "search": "empremat imprimé."
   },
@@ -46573,14 +46567,14 @@
   {
     "id": 7317,
     "titre": "enspirat -ade",
-    "definition": "inspiré.",
+    "definition": "inspiré",
     "type": "adjectif",
     "search": "enspirat -ade inspiré."
   },
   {
     "id": 7318,
     "titre": "enstitucioû",
-    "definition": "institution.",
+    "definition": "institution",
     "type": "nom féminin",
     "search": "enstitucioû institution."
   },
@@ -46589,7 +46583,7 @@
   {
     "id": 7321,
     "titre": "ensulta",
-    "definition": "insulter.",
+    "definition": "insulter",
     "type": "verbe transitif",
     "search": "ensulta insulter. ♦"
   },
@@ -46709,9 +46703,9 @@
   {
     "id": 7339,
     "titre": "irole",
-    "definition": "châtaigne grillée. ♦ Coup : Voir castagne, castagnade, castagna",
+    "definition": "châtaigne grillée",
     "type": "nom féminin",
-    "search": "irole châtaigne grillée. ♦ Coup : Voir castagne, castagnade, castagna"
+    "search": "irole châtaigne grillée"
   },
   {
     "id": 7340,
@@ -46936,7 +46930,7 @@
   {
     "id": 7390,
     "titre": "yemi",
-    "definition": "gémir.",
+    "definition": "gémir",
     "type": "verbe intransitif",
     "search": "yemi gémir."
   },
@@ -46944,7 +46938,7 @@
   {
     "id": 7393,
     "titre": "jéndrẹ",
-    "definition": "gendre.",
+    "definition": "gendre",
     "type": "nom masculin",
     "search": "jéndrẹ gendre."
   },
@@ -46977,7 +46971,7 @@
   {
     "id": 7410,
     "titre": "yélet",
-    "definition": "gilet.",
+    "definition": "gilet",
     "type": "nom masculin",
     "search": "yélet gilet."
   },
@@ -47093,7 +47087,7 @@
   {
     "id": 7438,
     "titre": "juin",
-    "definition": "juin. ",
+    "definition": "juin",
     "type": "nom masculin",
     "search": "juin juin. "
   },
@@ -47174,7 +47168,7 @@
   {
     "id": 7470,
     "titre": "lac",
-    "definition": "lac. ",
+    "definition": "lac",
     "type": "nom masculin",
     "search": "lac lac. "
   },
@@ -47188,9 +47182,9 @@
   {
     "id": 7472,
     "titre": "lacét",
-    "definition": "lacet de soulier ; collet (piège ; Voir sedade)",
+    "definition": "lacet de soulier ; collet (piège)",
     "type": "nom masculin",
-    "search": "lacét lacet de soulier ; collet (piège ; Voir sedade)"
+    "search": "lacét lacet de soulier ; collet (piège)"
   },
   {
     "id": 7473,
@@ -47280,9 +47274,9 @@
   {
     "id": 7487,
     "titre": "lança",
-    "definition": "lancer. Voir abourri, arrounsa. ♦ Produire des élancements, lancer. ◊ Que-m lance → Ça me lance. ◊ Que se-m lance l'eslourounc → Mon furoncle me lance",
+    "definition": "lancer ♦ Produire des élancements, lancer. ◊ Que-m lance → Ça me lance. ◊ Que se-m lance l'eslourounc → Mon furoncle me lance",
     "type": "verbe transitif",
-    "search": "lança lancer. Voir abourri, arrounsa. ♦ Produire des élancements, lancer. ◊ Que-m lance → Ça me lance. ◊ Que se-m lance l'eslourounc → Mon furoncle me lance"
+    "search": "lança lancer ♦ Produire des élancements, lancer. ◊ Que-m lance → Ça me lance. ◊ Que se-m lance l'eslourounc → Mon furoncle me lance"
   },
   {
     "id": 7488,
@@ -47544,7 +47538,7 @@
   {
     "id": 7530,
     "titre": "lauyè -re",
-    "definition": "léger. ",
+    "definition": "léger",
     "type": "adjectif",
     "search": "lauyè -re léger. "
   },
@@ -47672,7 +47666,7 @@
   {
     "id": 7550,
     "titre": "legal",
-    "definition": "légal.",
+    "definition": "légal",
     "type": "adjectif",
     "search": "legal légal."
   },
@@ -47686,7 +47680,7 @@
   {
     "id": 7552,
     "titre": "legitime",
-    "definition": "dot.",
+    "definition": "dot",
     "type": "nom féminin",
     "search": "legitime dot."
   },
@@ -47939,14 +47933,14 @@
   {
     "id": 7589,
     "titre": "leyénde",
-    "definition": "légende.",
+    "definition": "légende",
     "type": "nom féminin",
     "search": "leyénde légende."
   },
   {
     "id": 7590,
     "titre": "leyitime",
-    "definition": "(hist) dot.",
+    "definition": "(hist) dot",
     "type": "nom féminin",
     "search": "leyitime (hist) dot."
   },
@@ -48304,7 +48298,7 @@
   {
     "id": 7642,
     "titre": "limite",
-    "definition": "limite (sens abstrait).",
+    "definition": "limite (sens abstrait)",
     "type": "nom féminin",
     "search": "limite limite (sens abstrait)."
   },
@@ -48557,14 +48551,14 @@
   {
     "id": 7679,
     "titre": "loucatàri",
-    "definition": "locataire.",
+    "definition": "locataire",
     "type": "nom",
     "search": "loucatàri locataire."
   },
   {
     "id": 7680,
     "titre": "louch",
-    "definition": "(objet) lâche, relâché.",
+    "definition": "(objet) lâche, relâché",
     "type": "adjectif",
     "search": "louch (objet) lâche, relâché."
   },
@@ -48775,7 +48769,7 @@
   {
     "id": 7711,
     "titre": "lunétes",
-    "definition": "lunettes.",
+    "definition": "lunettes",
     "type": "nom féminin pluriel",
     "search": "lunétes lunettes."
   },
@@ -49194,9 +49188,9 @@
   {
     "id": 7777,
     "titre": "malhuque",
-    "definition": "maillet.",
+    "definition": "maillet",
     "type": "nom masculin",
-    "search": "malhuque maillet. "
+    "search": "malhuque maillet"
   },
   {
     "id": 7778,
@@ -49292,7 +49286,7 @@
   {
     "id": 7791,
     "titre": "mancha",
-    "definition": "emmancher, mettre un manche (à).",
+    "definition": "emmancher, mettre un manche (à)",
     "type": "verbe transitif",
     "search": "mancha emmancher, mettre un manche (à)."
   },
@@ -49306,14 +49300,14 @@
   {
     "id": 7793,
     "titre": "mànyou",
-    "definition": "manche d'outil.",
+    "definition": "manche d'outil",
     "type": "nom masculin",
     "search": "mànyou manche d'outil. "
   },
   {
     "id": 7794,
     "titre": "mandian -te",
-    "definition": "mendiant. ",
+    "definition": "mendiant",
     "type": "nom",
     "search": "mandian -te mendiant. "
   },
@@ -49362,7 +49356,7 @@
   {
     "id": 7801,
     "titre": "manéte",
-    "definition": "petite main. ",
+    "definition": "petite main",
     "type": "nom féminin",
     "search": "manéte petite main. "
   },
@@ -49573,7 +49567,7 @@
   {
     "id": 7832,
     "titre": "marbriè",
-    "definition": "marbrier.",
+    "definition": "marbrier",
     "type": "nom masculin",
     "search": "marbriè marbrier."
   },
@@ -49826,7 +49820,7 @@
   {
     "id": 7871,
     "titre": "marroû",
-    "definition": "(fruit) marron. ",
+    "definition": "(fruit) marron",
     "type": "nom masculin",
     "search": "marroû (fruit) marron. "
   },
@@ -49967,7 +49961,7 @@
   {
     "id": 7892,
     "titre": "masculî -ine",
-    "definition": "masculin (grammaire). ",
+    "definition": "masculin (grammaire)",
     "type": "adjectif et nom masculin",
     "search": "masculî -ine masculin (grammaire). "
   },
