@@ -292,10 +292,10 @@
   },
   {
     "id": 47,
-    "titre": "aberaè, aberaê, aberagnê, aberoè, aberoê",
+    "titre": "aberaè",
     "definition": "noisetier",
     "type": "nom masculin",
-    "search": "aberaè, aberaê, aberagnê, aberoè, aberoê noisetier"
+    "search": "aberaè noisetier"
   },
  
   {
@@ -2874,27 +2874,7 @@
     "type": "nom féminin pluriel",
     "search": "amigalhes tendresses, gentillesse, amabilités"
   },
-  {
-    "id": 459,
-    "titre": "amira",
-    "definition": "admirer",
-    "type": "verbe transitif",
-    "search": "amira admirer"
-  },
-  {
-    "id": 460,
-    "titre": "amiràblẹ",
-    "definition": "admirable",
-    "type": "adjectif",
-    "search": "amiràblẹ admirable"
-  },
-  {
-    "id": 461,
-    "titre": "amiracioû",
-    "definition": "admiration",
-    "type": "nom féminin",
-    "search": "amiracioû admiration"
-  },
+
   {
     "id": 462,
     "titre": "amistat",
@@ -44923,9 +44903,9 @@
   {
     "id": 7047,
     "titre": "hayét",
-    "definition": "hêtraie. ◊ Eth Hayét → le Faget d'Oloron",
+    "definition": "hêtraie. ◊ Lou Hayét → le Faget d'Oloron",
     "type": "nom masculin et nom propre",
-    "search": "hayét hêtraie. ◊ Eth Hayét → le Faget d'Oloron"
+    "search": "hayét hêtraie. ◊ Lou Hayét → le Faget d'Oloron"
   },
   {
     "id": 7048,
@@ -45478,9 +45458,9 @@
   {
     "id": 7133,
     "titre": "hica",
-    "definition": "1♦ placer, mettre, introduire. ◊ Que-u hiquèn û buletî déns la potche → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinqu'à las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)",
+    "definition": "1♦ placer, mettre, introduire. ◊ Que-u hiquèn û buletî déns la potche → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinco las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)",
     "type": "verbe transitif",
-    "search": "hica 1♦ placer, mettre, introduire. ◊ Que-u hiquèn û buletî déns la potche → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinqu'à las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)"
+    "search": "hica 1♦ placer, mettre, introduire. ◊ Que-u hiquèn û buletî déns la potche → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinco las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)"
   },
   {
     "id": 7134,
@@ -45960,9 +45940,9 @@
   {
     "id": 7212,
     "titre": "hourque",
-    "definition": "fourche (forme). ♦ Bifurcation. ◊ Hourque deu camî → bifurcation. ♦ Enfourchure. ♦ Dinqu'à la hourque → jusqu'en haut des cuisses",
+    "definition": "fourche (forme). ♦ Bifurcation. ◊ Hourque deu camî → bifurcation. ♦ Enfourchure. ♦ Dinco la hourque → jusqu'en haut des cuisses",
     "type": "nom féminin",
-    "search": "hourque fourche (forme). ♦ Bifurcation. ◊ Hourque deu camî → bifurcation. ♦ Enfourchure. ♦ Dinqu'à la hourque → jusqu'en haut des cuisses"
+    "search": "hourque fourche (forme). ♦ Bifurcation. ◊ Hourque deu camî → bifurcation. ♦ Enfourchure. ♦ Dinco la hourque → jusqu'en haut des cuisses"
   },
   {
     "id": 7213,
@@ -46256,9 +46236,9 @@
   {
     "id": 7259,
     "titre": "embita",
-    "definition": "inviter. ◊ Qu'estouy imbitade → j'ai été invitée.",
+    "definition": "inviter. ◊ Qu'estouy embitade → j'ai été invitée.",
     "type": "verbe transitif",
-    "search": "imbita inviter. ◊ Qu'estouy imbitade → j'ai été invitée."
+    "search": "imbita inviter. ◊ Qu'estouy embitade → j'ai été invitée."
   },
   {
     "id": 7260,
@@ -46306,9 +46286,9 @@
   {
     "id": 7274,
     "titre": "empertinén -te / -de",
-    "definition": "impertinent. ◊ mpertinén coum û câ de bouchè → impertinent comme un chien de boucher",
+    "definition": "impertinent. ◊ empertinén coum û câ de bouchè → impertinent comme un chien de boucher",
     "type": "adjectif et nom",
-    "search": "empertinén -te / -de impertinent. ◊ mpertinén coum û câ de bouchè → impertinent comme un chien de boucher"
+    "search": "empertinén -te / -de impertinent. ◊ empertinén coum û câ de bouchè → impertinent comme un chien de boucher"
   },
   {
     "id": 7275,
@@ -46355,23 +46335,23 @@
   {
     "id": 7281,
     "titre": "empourtén -te",
-    "definition": "important. ◊ D'û èr mpourtén → d'un air important",
+    "definition": "important. ◊ D'û èr empourtén → d'un air important",
     "type": "nom féminin",
-    "search": "empourtén -te important. ◊ D'û èr mpourtén → d'un air important"
+    "search": "empourtén -te important. ◊ D'û èr empourtén → d'un air important"
   },
   {
     "id": 7282,
     "titre": "empourténce",
-    "definition": "importance. ◊ Enta û aha de tau mpourténce → pour une affaire d'une telle importance",
+    "definition": "importance. ◊ Enta û aha de tau empourténce → pour une affaire d'une telle importance",
     "type": "nom féminin",
-    "search": "empourténce importance. ◊ Enta û aha de tau mpourténce → pour une affaire d'une telle importance"
+    "search": "empourténce importance. ◊ Enta û aha de tau empourténce → pour une affaire d'une telle importance"
   },
   {
     "id": 7283,
     "titre": "empoussìblẹ",
-    "definition": "impossible. ◊ mpoussìblẹ d'ana méy loégn → impossible d'aller plus loin.",
+    "definition": "impossible. ◊ empoussìblẹ d'ana méy loégn → impossible d'aller plus loin.",
     "type": "adjectif",
-    "search": "empoussìblẹ impossible. ◊ mpoussìblẹ d'ana méy loégn → impossible d'aller plus loin."
+    "search": "empoussìblẹ impossible. ◊ empoussìblẹ d'ana méy loégn → impossible d'aller plus loin."
   },
   {
     "id": 7284,
@@ -46596,22 +46576,22 @@
   },
   {
     "id": 7323,
-    "titre": "intel(l)iyénce",
-    "definition": "intelligence. ◊ L'intelliyénci de las bèstis → l'intelligence des bêtes. ",
+    "titre": "entel(l)iyénce",
+    "definition": "intelligence. ◊ L'entelliyénci de las bèstis → l'entelligence des bêtes. ",
     "type": "nom féminin",
-    "search": "intel(l)iyénce intelligence. ◊ L'intelliyénci de las bèstis → l'intelligence des bêtes. "
+    "search": "entel(l)iyénce intelligence. ◊ L'intelliyénci de las bèstis → l'entelligence des bêtes. "
   },
   {
     "id": 7324,
     "titre": "entencioû",
-    "definition": "intention. ◊ Las machantes encioûs → les mauvaises intentions. ◊ Qu'èy l'ntencioû de p'embita → j'ai l'intention de vous inviter",
+    "definition": "intention. ◊ Las machantes encioûs → les mauvaises intentions. ◊ Qu'èy l'entencioû de p'embita → j'ai l'intention de vous inviter",
     "type": "nom féminin",
-    "search": "entencioû intention. ◊ Las machantes encioûs → les mauvaises intentions. ◊ Qu'èy l'ntencioû de p'embita → j'ai l'intention de vous inviter."
+    "search": "entencioû intention. ◊ Las machantes encioûs → les mauvaises intentions. ◊ Qu'èy l'entencioû de p'embita → j'ai l'intention de vous inviter."
   },
   {
     "id": 7325,
     "titre": "entenciounat -ade",
-    "definition": "intentionné. ◊ Moùndẹ plâ ntenciounats → des gens bien intentionnés",
+    "definition": "intentionné. ◊ Moùndẹ plâ entenciounats → des gens bien intentionnés",
     "type": "adjectif",
     "search": "entenciounat -ade intentionné. ◊ Moùndẹ plâ ntenciounats → des gens bien intentionnés"
   },
@@ -47601,9 +47581,9 @@
   {
     "id": 7539,
     "titre": "leca",
-    "definition": "lécher. ♦ Léque-t'èt / at ! → Tant pis pour toi ! (« Lèche-le toi »). ♦ ne pas poùdẹ-s leca → être très paresseux (« ne pas pouvoir se lécher »)",
+    "definition": "lécher. ♦ Léque-t'at ! → Tant pis pour toi ! (« Lèche-le toi »). ♦ ne pas poùdẹ-s leca → être très paresseux (« ne pas pouvoir se lécher »)",
     "type": "verbe transitif",
-    "search": "leca lécher. ♦ Léque-t'èt / at ! → Tant pis pour toi ! (« Lèche-le toi »). ♦ ne pas poùdẹ-s leca → être très paresseux (« ne pas pouvoir se lécher »)"
+    "search": "leca lécher. ♦ Léque-t'at ! → Tant pis pour toi ! (« Lèche-le toi »). ♦ ne pas poùdẹ-s leca → être très paresseux (« ne pas pouvoir se lécher »)"
   },
   {
     "id": 7540,
@@ -47918,9 +47898,9 @@
   {
     "id": 7586,
     "titre": "léyẹ",
-    "definition": "lire. ◊ Lauréns que léy lou yournau tout die. → Laurent lit le journal tous les jours",
+    "definition": "lire. ◊ Lauréns que léy lou journal tout die. → Laurent lit le journal tous les jours",
     "type": "verbe transitif",
-    "search": "léyẹ 1 lire. ◊ Lauréns que léy lou yournau tout die. → Laurent lit le journal tous les jours"
+    "search": "léyẹ 1 lire. ◊ Lauréns que léy lou journal tout die. → Laurent lit le journal tous les jours"
   },
   
   {
@@ -48663,9 +48643,9 @@
   {
     "id": 7695,
     "titre": "louquoau",
-    "definition": "lequel. ◊ L'enemic coùntrẹ louquoau ne pòdẹs pas luta → l'ennemi contre lequel tu ne peux pas lutter. ◊ Ne sèy pas louquoau chausi → je ne sais pas lequel choisir. ◊ Lousquoaus èren pècs ? → Lesquels étaient idiots ? ♦ Coum louquoau → comme quoi.",
+    "definition": "lequel. ◊ L'enemic coùntrẹ louquoau ne pòts pas luta → l'ennemi contre lequel tu ne peux pas lutter. ◊ Ne sèy pas louquoau chausi → je ne sais pas lequel choisir. ◊ Lousquoaus èren pècs ? → Lesquels étaient idiots ? ♦ Coum louquoau → comme quoi.",
     "type": "adjectif et pronom relatif masculin et pronom interrogatif masculin",
-    "search": "louquoau lequel. ◊ L'enemic coùntrẹ louquoau ne pòdẹs pas luta → l'ennemi contre lequel tu ne peux pas lutter. ◊ Ne sèy pas louquoau chausi → je ne sais pas lequel choisir. ◊ Lousquoaus èren pècs ? → Lesquels étaient idiots ? ♦ Coum louquoau → comme quoi."
+    "search": "louquoau lequel. ◊ L'enemic coùntrẹ louquoau ne pots pas luta → l'ennemi contre lequel tu ne peux pas lutter. ◊ Ne sèy pas louquoau chausi → je ne sais pas lequel choisir. ◊ Lousquoaus èren pècs ? → Lesquels étaient idiots ? ♦ Coum louquoau → comme quoi."
   },
   {
     "id": 7696,
@@ -49045,9 +49025,9 @@
   {
     "id": 7754,
     "titre": "Mahoumét",
-    "definition": "nom donné autrefois aux Arabes. ♦ Esta de la pèth de (deu) Mahoumét → avoir le diable au corps",
+    "definition": "nom donné aux Arabes. ♦ Esta de la pèth de (deu) Mahoumét → avoir le diable au corps",
     "type": "nom propre masculin",
-    "search": "Mahoumét nom donné autrefois aux Arabes. ♦ Esta de la pèth de (deu) Mahoumét → avoir le diable au corps"
+    "search": "Mahoumét nom donné aux Arabes. ♦ Esta de la pèth de (deu) Mahoumét → avoir le diable au corps"
   },
   
   {
@@ -49510,7 +49490,7 @@
   {
     "id": 7823,
     "titre": "manubre",
-    "definition": "manœuvre. ◊ Qu'ère toute fière de'quére manubre. → Elle était toute fière de cette manœuvre. ♦ Manubre → manœuvre (de troupes). ◊ Qu'èrem de manubre → nous étions en manœuvre. ◊ Que tournam de manubre → nous rentrons de manœuvre. ",
+    "definition": "manœuvre. ◊ Qu'ère toute fière d'aquére manubre. → Elle était toute fière de cette manœuvre. ♦ Manubre → manœuvre (de troupes). ◊ Qu'èrem de manubre → nous étions en manœuvre. ◊ Que tournam de manubre → nous rentrons de manœuvre. ",
     "type": "nom féminin",
     "search": "manubre manœuvre. ◊ Qu'ère toute fière de'quére manubre. → Elle était toute fière de cette manœuvre. ♦ Manubre → manœuvre (de troupes). ◊ Qu'èrem de manubre → nous étions en manœuvre. ◊ Que tournam de manubre → nous rentrons de manœuvre."
   },
