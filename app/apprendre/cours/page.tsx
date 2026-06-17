@@ -227,9 +227,12 @@ const [open, setOpen] = useState(false)
 {
   title: 'Pronoms à l’impératif',
   content: [
-    "À l’impératif, lorsque le pronom « la » ou « las » est placé après le verbe (en enclise), il devient « lè » ou « lès ».",
+    "Lorsque le pronom « la » ou « las » est placé après le verbe (en enclise), il devient « lè » ou « lès ».",
+    "« lui » et « leur » après un verbe (en enclise) deviennent « li » ou « lis ».", 
     "Gahe-lè ! → Attrape-la !",
-    "Dèche-lès ! → Laisse-les !"
+    "Dèche-lès ! → Laisse-les !",
+     "Parlat-li → Parlez-lui",
+    "Parlat-li → Parlez-leur",
   ]
 },
       ]
