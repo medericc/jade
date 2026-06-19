@@ -206,7 +206,7 @@ const [open, setOpen] = useState(false)
   title: 'Ordre des pronoms',
   content: [
     "Aux troisièmes personnes du singulier et du pluriel, l’ordre des pronoms est inversé par rapport au français.",
-    "Més dits-l’at ! → Mais dis-le !",
+    "Mé dits-l’at ! → Mais dis-le !",
     "Qu’ou me dau. → Je me le donne.",
     "Que la pe ba balha ! → Elle va vous la donner !",
     "Amuche-u-me ! → Montre le moi !"
@@ -268,7 +268,7 @@ const [open, setOpen] = useState(false)
 {
   title: 'Connecteurs et mots de liaison',
   content: [
-    "Més → mais",
+    "Mé → mais",
     "Oun → ou",
     "E → et",
     "Dounc → donc",
@@ -300,7 +300,7 @@ const [open, setOpen] = useState(false)
   title: 'Le pronom « en »',
   content: [
     "Le « en » français se traduit généralement par ne / -n ou en.",
-    "On en voit souvent par ici. → Qu’en bedem souben par aciu.",
+    "On en voit souvent par ici. → Qu’en bedem souben per aciu.",
     "Maintenant, on en fait de jolis. → Adare, que se-n-y hè de beroys.",
     "Ils le sont toujours restés, jusqu’à la fin. → Que-n demourèn toustém, dinco la fî.",
     "S’il ne l’est pas encore, il le deviendra. → Si ne-n éy pas encoère, que-n badera !"
@@ -359,7 +359,7 @@ const [open, setOpen] = useState(false)
     "Que mìnyi û din. → Je mange un petit peu.",
     "Chic à chic. → Petit à petit.",
     "Que y a hère de brumes. → Il y a beaucoup de brouillard.",
-    "Que soy trop coentat. → Je suis trop content.",
+    "Que soy trop coentat. → Je suis trop occupé.",
     "Que-n y a trop. → Il y en a trop.",
     "Lous camioûs que soun trops. → Les camions sont trop nombreux.",
     "Nou bén pas prou. → Cela ne suffit pas.",
@@ -478,7 +478,7 @@ const [open, setOpen] = useState(false)
   title: 'Concession et opposition',
   content: [
     "Maugrat qui + subjonctif / Per + infinitif / Ya que + subjonctif → bien que.",
-  "Maugrat aco, que biénẹn estalla-s à la campagne. → Malgré cela, ils viennent s’installer à la campagne.",
+  "Maugrat aco, que biénẹn enstalla-s à la campagne. → Malgré cela, ils viennent s’installer à la campagne.",
     "Per esta tâ rìchẹ, n’éy pas trop yenerous. → Pour être si riche, il n’est pas très généreux.",
   ]
 },
@@ -486,7 +486,7 @@ const [open, setOpen] = useState(false)
 {
   title: 'Situer une action',
   content: [
-    "Aciu, que soupam tout die à sèt ores e miéye. → Ici, nous soupions tous les jours à sept heures et demie.",
+    "Aciu, que soupam tout die à sèt ores e miéye. → Ici, nous soupons tous les jours à sept heures et demie.",
     "Que-s y minye plâ. → On y mange bien."
   ]
 },
@@ -528,7 +528,7 @@ const [open, setOpen] = useState(false)
     "Quin ès ? → Comment vas-tu ?",
     "Quin pe ba ? → Comment allez-vous ?",
     "Quin èt ? → Comment allez-vous ?",
-    "Que ba plâ ! E aquiu ? → Ça va bien ! Et toi ?",
+    "Que ba plâ ! E aquiu ? → Ça va bien ! Et là ?",
     "Que ba mau ! E bòs ? → Ça va mal ! Et vous ?",
     "Plâ ! E tu ? → Bien ! Et toi ?",
     "Quio, que ba ! → D'accord !"
@@ -545,7 +545,7 @@ const [open, setOpen] = useState(false)
     "Quins filmes que bas béde ? → Quels films vas-tu voir ?",
     "Ne sèy pas quin dise-u tout aco. → Je ne sais pas comment lui dire tout ça.",
     "Ne sèy pas perqué caleré ha atau. → Je ne sais pas pourquoi il faudrait faire comme ça.",
-    "Que ço qui hès ? → Que fais-tu ?",
+    "Que ço qui hès ? → Qu'est ce que tu fais ?",
     "Que hès ? → Que fais-tu ?"
   ]
 },
@@ -553,7 +553,7 @@ const [open, setOpen] = useState(false)
 {
   title: 'Déplacements et actions',
   content: [
-    "Ana-se-n → s’en aller.",
+    "Ana-se-n → S’en aller.",
     "Qu'y èt anades ? → Y êtes-vous allées ?"
   ]
 },
@@ -713,6 +713,7 @@ const [open, setOpen] = useState(false)
     "Rouy → rouge.",
     "Négrẹ → noir.",
     "Blanc → blanc.",
+   "Làrmẹ → blanc d’œuf.",
     "Blu → bleu.",
     "Blau → bleu (bobo).",
     "Marroû → marron.",
@@ -724,6 +725,7 @@ const [open, setOpen] = useState(false)
     "Gris → gris.",
     "Yàunẹ → jaune.",
     "Mouyòu → jaune d’œuf."
+
   ]
 },
 

@@ -3430,13 +3430,7 @@
     "search": "ànyou ange"
   },
   
-  {
-    "id": 551,
-    "titre": "aoust",
-    "definition": "août",
-    "type": "nom masculin",
-    "search": "aoust août"
-  },
+
   {
     "id": 552,
     "titre": "apadza",
@@ -11222,17 +11216,17 @@
  
   {
     "id": 1865,
-    "titre": "binténe",
+    "titre": "bintenat",
     "definition": "vingtaine",
     "type": "nom masculin / nom féminin",
-    "search": "binténe vingtaine"
+    "search": "bintenat vingtaine"
   },
   {
     "id": 1866,
-    "titre": "bintième",
+    "titre": "bintau",
     "definition": "vingtième",
     "type": "adjectif/nom",
-    "search": "binti vingtième"
+    "search": "bintau vingtième"
   },
   
   {
@@ -19259,19 +19253,13 @@
     "type": "nom masculin",
     "search": "centenat centaine"
   },
-  {
-    "id": 3146,
-    "titre": "centéne",
-    "definition": "centaine",
-    "type": "nom féminin",
-    "search": "centéne centaine"
-  },
+ 
   {
     "id": 3147,
-    "titre": "centième",
-    "definition": "centi",
+    "titre": "centau",
+    "definition": "centième",
     "type": "adjectif et nom",
-    "search": "centième centi"
+    "search": "centau centième"
   },
   {
     "id": 3148,
@@ -20376,19 +20364,13 @@
     "type": "nom masculin",
     "search": "chichantenat soixantaine"
   },
-  {
-    "id": 3329,
-    "titre": "chichanténe",
-    "definition": "soixantaine",
-    "type": "nom féminin",
-    "search": "chichanténe soixantaine"
-  },
+ 
   {
     "id": 3330,
-    "titre": "chichant",
+    "titre": "chichantau",
     "definition": "soixantième",
     "type": "adjectif et nom",
-    "search": "chichant soixantième"
+    "search": "chichantau soixantième"
   },
   {
     "id": 3331,
@@ -21031,13 +21013,7 @@
     "type": "nom masculin",
     "search": "cinquantenat cinquantaine"
   },
-  {
-    "id": 3433,
-    "titre": "cinquanténe",
-    "definition": "cinquantaine",
-    "type": "nom féminin",
-    "search": "cinquanténe cinquantaine"
-  },
+
   {
     "id": 3434,
     "titre": "cinquanteya",
@@ -21045,13 +21021,7 @@
     "type": "verbe intransitif",
     "search": "cinquanteya être dans la cinquantaine"
   },
-  {
-    "id": 3435,
-    "titre": "cinquét",
-    "definition": "cinquième ; gifle",
-    "type": "nom masculin",
-    "search": "cinquét cinquième ; gifle"
-  },
+ 
   {
     "id": 3436,
     "titre": "cinta",
@@ -28564,13 +28534,7 @@
     "type": "nom masculin",
     "search": "dedzenat dizaine (environ dix)"
   },
-  {
-    "id": 4554,
-    "titre": "dedzéne",
-    "definition": "dizaine",
-    "type": "nom féminin",
-    "search": "dedzéne dizaine"
-  },
+ 
   {
     "id": 4555,
     "titre": "defaut",
@@ -32271,13 +32235,7 @@
     "type": "nom masculin",
     "search": "doudzenat douzaine (environ douze)"
   },
-  {
-    "id": 5103,
-    "titre": "doudzéne",
-    "definition": "douzaine",
-    "type": "nom féminin",
-    "search": "doudzéne douzaine"
-  },
+ 
   {
     "id": 5104,
     "titre": "doulén -te",
@@ -38524,7 +38482,7 @@
   },
   {
     "id": 6053,
-    "titre": "esgarraucha,",
+    "titre": "esgarraucha",
     "definition": "griffer, écorcher, égratigner",
     "type": "verbe transitif (qu'esgarròchi)",
     "search": "esgarraucha, griffer, écorcher, égratigner"
@@ -38618,7 +38576,7 @@
 
   {
     "id": 6069,
-    "titre": "esleuyeri,",
+    "titre": "esleuyeri",
     "definition": "alléger",
     "type": "verbe transitif (qu'esleuyeréchi)",
     "search": "esleuyeri, alléger"
@@ -48684,7 +48642,7 @@
   },
   {
     "id": 7701,
-    "titre": "lousàyrẹ,",
+    "titre": "lousàyrẹ",
     "definition": "couvreur de toits en ardoise",
     "type": "nom masculin",
     "search": "lousàyrẹ, couvreur de toits en ardoise"
@@ -50143,7 +50101,7 @@
   },
   {
     "id": 7921,
-    "titre": "materièl,",
+    "titre": "materièl",
     "definition": "matériel, outillage lourd",
     "type": "nom masculin singulier",
     "search": "materièl, matériel, outillage lourd"
@@ -50605,7 +50563,7 @@
   },
   {
     "id": 7987,
-    "titre": "maynadot,",
+    "titre": "maynadot",
     "definition": "petit enfant (terme affectueux)",
     "type": "nom",
     "search": "maynadot, petit enfant (terme affectueux)"
@@ -51215,13 +51173,7 @@
     "search": "mèrque marque, trace"
   },
 
-  {
-    "id": 8079,
-    "titre": "més",
-    "definition": "mais",
-    "type": "conjonction",
-    "search": "més mais"
-  },
+ 
   {
     "id": 8080,
     "titre": "més, mês",
@@ -51799,10 +51751,10 @@
   },
   {
     "id": 8163,
-    "titre": "milième",
-    "definition": "milli",
+    "titre": "milau",
+    "definition": "milième",
     "type": "adjectif",
-    "search": "milième milli"
+    "search": "milau milième"
   },
   {
     "id": 8164,
@@ -53707,7 +53659,7 @@
   },
   {
     "id": 8441,
-    "titre": "neénce,",
+    "titre": "nechénce",
     "definition": "naissance",
     "type": "nom féminin",
     "search": "neénce, naissance"
@@ -57641,7 +57593,7 @@
   },
   {
     "id": 9009,
-    "titre": "peniténce,",
+    "titre": "peniténce",
     "definition": "pénitence",
     "type": "nom féminin",
     "search": "peniténce, pénitence"
@@ -59427,7 +59379,7 @@
   {
     "id": 9264,
     "titre": "pioc",
-    "definition": "Poulet,",
+    "definition": "Poulet",
     "type": "nom masculin",
     "search": "pioc Poulet,"
   },
@@ -59930,7 +59882,7 @@
   },
   {
     "id": 9336,
-    "titre": "Planchat /",
+    "titre": "Planchat",
     "definition": "plancher, estrade",
     "type": "nom masculin",
     "search": "Planchat / plancher, estrade"
@@ -60687,7 +60639,7 @@
   },
   {
     "id": 9445,
-    "titre": "poudé,",
+    "titre": "poudé",
     "definition": "pouvoir",
     "type": "verbe transitif",
     "search": "poudé, pouvoir"
@@ -63728,17 +63680,17 @@
   },
   {
     "id": 9882,
-    "titre": "quaranténe",
+    "titre": "quarantenat",
     "definition": "quarantaine",
     "type": "nom féminin",
-    "search": "quaranténe quarantaine"
+    "search": "quarantenat quarantaine"
   },
   {
     "id": 9883,
-    "titre": "quaranti",
+    "titre": "quarantau",
     "definition": "quarantième",
     "type": "adjectif et nom",
-    "search": "quaranti quarantième"
+    "search": "quarantau quarantième"
   },
   {
     "id": 9884,
@@ -63770,17 +63722,17 @@
   },
   {
     "id": 9888,
-    "titre": "quatourzi",
+    "titre": "quatourzau",
     "definition": "quatorzième",
     "type": "adjectif et nom",
-    "search": "quatourzi quatorzième"
+    "search": "quatourzau quatorzième"
   },
   {
     "id": 9889,
-    "titre": "quatrième",
-    "definition": "quat",
+    "titre": "quatau",
+    "definition": "quatrième",
     "type": "adjectif et nom",
-    "search": "quatrième quat"
+    "search": "quatau quatrième"
   },
   {
     "id": 9890,
@@ -68392,10 +68344,10 @@
   },
   {
     "id": 10561,
-    "titre": "sedz",
+    "titre": "sedzau",
     "definition": "seizième",
     "type": "adjectif et nom",
-    "search": "sedz seizième"
+    "search": "sedzau seizième"
   },
   {
     "id": 10562,
@@ -74831,10 +74783,10 @@
   },
   {
     "id": 11494,
-    "titre": "tredzième",
-    "definition": "treiz",
+    "titre": "tredzau",
+    "definition": "treizième",
     "type": "adjectif et nom",
-    "search": "tredzième treiz"
+    "search": "tredzau treizième"
   },
   {
     "id": 11495,
@@ -74943,19 +74895,13 @@
     "type": "nom masculin",
     "search": "trentenat trentaine"
   },
-  {
-    "id": 11514,
-    "titre": "trenténe",
-    "definition": "trentaine",
-    "type": "nom féminin",
-    "search": "trenténe trentaine"
-  },
+
   {
     "id": 11515,
-    "titre": "trentième",
-    "definition": "trent",
+    "titre": "trentau",
+    "definition": "trentième",
     "type": "adjectif et nom",
-    "search": "trentième trent"
+    "search": "trentau trentième"
   },
   {
     "id": 11516,
