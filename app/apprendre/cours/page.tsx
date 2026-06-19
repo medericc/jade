@@ -1031,7 +1031,8 @@ const [open, setOpen] = useState(false)
                   key={i}
                   style={{
                     lineHeight: 1.8,
-                    marginBottom: 10
+                    marginBottom: 10,
+    fontSize: '1.5rem'
                   }}
                 >
                   {line}
