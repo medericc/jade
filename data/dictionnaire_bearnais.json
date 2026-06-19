@@ -5244,13 +5244,7 @@
     "type": "nom",
     "search": "arrè-hilh, arrehilh petit-fils ; arrè-hilhe : petite-fille"
   },
-  {
-    "id": 844,
-    "titre": "arrélhe",
-    "definition": "fossé, rigole ; sillon",
-    "type": "nom féminin",
-    "search": "arrélhe fossé, rigole ; sillon"
-  },
+
   {
     "id": 845,
     "titre": "arrè-may-grane",
@@ -20682,7 +20676,34 @@
     "type": "interjection",
     "search": "chouo ! ho !, halte ! (cri pour arrêter les bêtes)"
   },
-  
+  {
+    "id": 3377,
+    "titre": "thoup",
+    "definition": "mouillé",
+    "type": "adjectif",
+    "search": "choup mouillé"
+  },
+  {
+    "id": 3378,
+    "titre": "thoupa",
+    "definition": "mouiller, tremper",
+    "type": "verbe transitif",
+    "search": "choupa mouiller, tremper"
+  },
+  {
+    "id": 3379,
+    "titre": "thoupade",
+    "definition": "saucée ; trempe (râclée)",
+    "type": "nom féminin",
+    "search": "choupade saucée ; trempe (râclée)"
+  },
+  {
+    "id": 3380,
+    "titre": "thoupat",
+    "definition": "saucée ; trempe (râclée)",
+    "type": "nom masculin",
+    "search": "choupat saucée ; trempe (râclée)"
+  },
   {
     "id": 3385,
     "titre": "chour chourde",
@@ -22525,9 +22546,9 @@
   {
     "id": 3658,
     "titre": "coulhoû",
-    "definition": "testicule ; couillon",
+    "definition": "testicule (partie sensible) ; couillon",
     "type": "nom masculin",
-    "search": "coulhoû testicule ; couillon"
+    "search": "coulhoû testicule (partie sensible) ; couillon"
   },
   {
     "id": 3659,
@@ -25030,7 +25051,13 @@
     "type": "nom féminin",
     "search": "courbachéte corneille"
   },
-
+{
+    "id": 4018,
+    "titre": "courbas",
+    "definition": "corbeau",
+    "type": "nom masculin",
+    "search": "courbas corbeau"
+  },
   {
     "id": 4019,
     "titre": "courbe",
@@ -33940,7 +33967,34 @@
     "search": "empasta engraisser, nourrir (les animaux)"
   },
   
- 
+ {
+    "id": 5367,
+    "titre": "empatch",
+    "definition": "empêchement, obstacle, gêne",
+    "type": "nom masculin",
+    "search": "empatch empêchement, obstacle, gêne"
+  },
+  {
+    "id": 5368,
+    "titre": "empatcha",
+    "definition": "embarrasser, gêner",
+    "type": "verbe transitif",
+    "search": "empatcha embarrasser, gêner"
+  },
+  {
+    "id": 5369,
+    "titre": "empatchuc",
+    "definition": "empêchement, obstacle, gêne",
+    "type": "nom masculin",
+    "search": "empatchuc empêchement, obstacle, gêne"
+  },
+  {
+    "id": 5370,
+    "titre": "empatchuca",
+    "definition": "faire obstacle, gêner",
+    "type": "verbe transitif",
+    "search": "empatchuca faire obstacle, gêner"
+  },
   {
     "id": 5372,
     "titre": "empaus",
@@ -38655,6 +38709,21 @@
   },
 
  
+
+  {
+    "id": 6084,
+    "titre": "emalicia",
+    "definition": "fâcher",
+    "type": "verbe transitif",
+    "search": "esmalicia fâcher"
+  },
+  {
+    "id": 6085,
+    "titre": "emaliciat -ade",
+    "definition": "furieux",
+    "type": "adjectif",
+    "search": "esmaliciat -ade furieux"
+  },
   {
     "id": 6087,
     "titre": "esmerda, esmerdeya",
@@ -39456,10 +39525,10 @@
   },
   {
     "id": 6202,
-    "titre": "esprémẹ",
+    "titre": "esfrémẹ",
     "definition": "presser, extraire",
     "type": "verbe transitif",
-    "search": "esprémẹ presser, extraire"
+    "search": "esfrémẹ presser, extraire"
   },
   {
     "id": 6203,
@@ -42988,9 +43057,9 @@
   {
     "id": 6753,
     "titre": "galiques",
-    "definition": "chatouille. ◊ Ha glatines → faire des chatouilles",
+    "definition": "chatouille. ◊ Ha galiques → faire des chatouilles",
     "type": "nom féminin",
-    "search": "galiques chatouille. ◊ Ha glatines → faire des chatouilles"
+    "search": "galiques chatouille. ◊ Ha galiques → faire des chatouilles"
   },
   {
     "id": 6754,
@@ -47334,6 +47403,22 @@
     "definition": "dans les locutions diyaus / dimars lardè → jeudi / mardi gras",
     "type": "adjectif",
     "search": "lardè dans les locutions diyaus / dimars lardè → jeudi / mardi gras"
+  },
+
+ {
+    "id": 7506,
+    "titre": "largance",
+    "definition": "espace",
+    "type": "nom féminin",
+    "search": "largance espace"
+  },
+ 
+{
+    "id": 7508,
+    "titre": "làrmẹ",
+    "definition": "blanc d'œuf",
+    "type": "nom masculin",
+    "search": "làrmẹ blanc d'œuf"
   },
 
  
@@ -54072,13 +54157,7 @@
     "type": "nom féminin",
     "search": "nouce noce"
   },
-  {
-    "id": 8502,
-    "titre": "nouçur -use",
-    "definition": "participant à une noce ; noceur",
-    "type": "adjectif et nom",
-    "search": "nouçur -use participant à une noce ; noceur"
-  },
+
   {
     "id": 8503,
     "titre": "nouda",
@@ -54184,13 +54263,7 @@
     "type": "nom féminin",
     "search": "nouminacioû nomination"
   },
-  {
-    "id": 8518,
-    "titre": "nouquère",
-    "definition": "noyer",
-    "type": "nom féminin",
-    "search": "nouquère noyer"
-  },
+
   {
     "id": 8519,
     "titre": "noure",
@@ -54198,16 +54271,10 @@
     "type": "nom féminin",
     "search": "noure bru, belle-fille (vieux)"
   },
-  {
-    "id": 8520,
-    "titre": "nousàudis",
-    "definition": "nous",
-    "type": "pronom",
-    "search": "nousàudis nous"
-  },
+ 
   {
     "id": 8521,
-    "titre": "nousàutẹs, nousàuts, nousàutis, nousays",
+    "titre": "nousàutẹs, nousàuts",
     "definition": "nous",
     "type": "pronom personnel",
     "search": "nousàutẹs, nousàuts, nousàutis, nousays nous"
@@ -54359,19 +54426,13 @@
     "type": "verbe transitif",
     "search": "obtiénẹ obtenir"
   },
-  {
-    "id": 8543,
-    "titre": "octbrẹ",
-    "definition": "octobre",
-    "type": "nom masculin",
-    "search": "octbrẹ octobre"
-  },
+
   {
     "id": 8544,
-    "titre": "odiovisuèl",
+    "titre": "odiobisuèl",
     "definition": "audiovisuel",
     "type": "adjectif et nom masculin",
-    "search": "odiovisuèl audiovisuel"
+    "search": "odiobisuèl audiovisuel"
   },
   {
     "id": 8545,
@@ -54417,10 +54478,10 @@
   },
   {
     "id": 8551,
-    "titre": "lhè -re",
+    "titre": "aulhè -re",
     "definition": "berger",
     "type": "nom",
-    "search": "lhè -re berger"
+    "search": "aulhè -re berger"
   },
 
   {
@@ -54430,13 +54491,7 @@
     "type": "adjectif féminin et nom",
     "search": "oeoerère très bonne pondeuse (poule) ; oviducte ; marchande d'œufs"
   },
-  {
-    "id": 8554,
-    "titre": "oère",
-    "definition": "vois, voici, voilà, regarde",
-    "type": "verbe transitif et interjection",
-    "search": "oère vois, voici, voilà, regarde"
-  },
+
   {
     "id": 8555,
     "titre": "oèst",
@@ -54521,13 +54576,7 @@
     "type": "nom masculin",
     "search": "òli huile"
   },
-  {
-    "id": 8567,
-    "titre": "om",
-    "definition": "on, chacun (emploi assez rare et littéraire)",
-    "type": "pronom",
-    "search": "om on, chacun (emploi assez rare et littéraire)"
-  },
+ 
   {
     "id": 8568,
     "titre": "òmi",
@@ -54563,13 +54612,7 @@
     "type": "nom féminin",
     "search": "ore heure"
   },
-  {
-    "id": 8573,
-    "titre": "orèmus",
-    "definition": "discours trop long, jérémiades",
-    "type": "nom masculin",
-    "search": "orèmus discours trop long, jérémiades"
-  },
+
   {
     "id": 8574,
     "titre": "orgue",
@@ -54626,13 +54669,7 @@
     "type": "nom masculin",
     "search": "òstẹ hôte (personne qui accueille)"
   },
-  {
-    "id": 8582,
-    "titre": "ot",
-    "definition": "le (neutre), ça, cela",
-    "type": "pronom",
-    "search": "ot le (neutre), ça, cela"
-  },
+  
   {
     "id": 8583,
     "titre": "otèl",
@@ -54759,13 +54796,7 @@
     "type": "nom féminin singulier",
     "search": "oubreralhe les ouvriers (vieux, péjoratif)"
   },
-  {
-    "id": 8601,
-    "titre": "ourbi",
-    "definition": "ouvrir",
-    "type": "verbe transitif",
-    "search": "ourbi ouvrir"
-  },
+
   {
     "id": 8602,
     "titre": "oubserba",
@@ -54844,13 +54875,7 @@
     "type": "nom masculin",
     "search": "oufìci office"
   },
-  {
-    "id": 8614,
-    "titre": "oui",
-    "definition": "oui (réponse polie)",
-    "type": "adverbe",
-    "search": "oui oui (réponse polie)"
-  },
+ 
   {
     "id": 8615,
     "titre": "ouliat",
@@ -54858,13 +54883,7 @@
     "type": "nom masculin",
     "search": "ouliat potage à l'ail et à l'oignon"
   },
-  {
-    "id": 8616,
-    "titre": "oum",
-    "definition": "on, chacun (littéraire)",
-    "type": "pronom",
-    "search": "oum on, chacun (littéraire)"
-  },
+
   {
     "id": 8617,
     "titre": "oum, oùmẹ",
@@ -54879,34 +54898,8 @@
     "type": "nom féminin",
     "search": "oumbre ombre"
   },
-  {
-    "id": 8619,
-    "titre": "éte",
-    "definition": "ombre légère, agréable",
-    "type": "nom féminin",
-    "search": "éte ombre légère, agréable"
-  },
-  {
-    "id": 8620,
-    "titre": "eya",
-    "definition": "faire de l'ombre, ombrager",
-    "type": "verbe transitif",
-    "search": "eya faire de l'ombre, ombrager"
-  },
-  {
-    "id": 8621,
-    "titre": "yade",
-    "definition": "petite pause à l'ombre",
-    "type": "nom féminin",
-    "search": "yade petite pause à l'ombre"
-  },
-  {
-    "id": 8622,
-    "titre": "oumriu -ibe",
-    "definition": "ombragé ; ombrageux",
-    "type": "adjectif",
-    "search": "oumriu -ibe ombragé ; ombrageux"
-  },
+
+ 
   {
     "id": 8623,
     "titre": "oùmi",
@@ -55012,13 +55005,7 @@
     "type": "adjectif et nom masculin",
     "search": "ouràri horaire"
   },
-  {
-    "id": 8638,
-    "titre": "ourbi",
-    "definition": "ouvrir",
-    "type": "verbe transitif",
-    "search": "ourbi ouvrir"
-  },
+ 
   {
     "id": 8639,
     "titre": "ourdenàri, ourdinàri",
@@ -55110,20 +55097,7 @@
     "type": "nom féminin",
     "search": "ouriyine origine"
   },
-  {
-    "id": 8652,
-    "titre": "ourina",
-    "definition": "uriner",
-    "type": "verbe intransitif",
-    "search": "ourina uriner"
-  },
-  {
-    "id": 8653,
-    "titre": "ourine",
-    "definition": "urine",
-    "type": "nom féminin",
-    "search": "ourine urine"
-  },
+ 
   
   {
     "id": 8655,
@@ -55204,10 +55178,10 @@
   },
   {
     "id": 8666,
-    "titre": "ourtigue, ourtrigue",
+    "titre": "ourtigue",
     "definition": "ortie",
     "type": "nom féminin",
-    "search": "ourtigue, ourtrigue ortie"
+    "search": "ourtigue ortie"
   },
   {
     "id": 8667,
@@ -55317,9 +55291,9 @@
   {
     "id": 8682,
     "titre": "Outsitanie",
-    "definition": "région administrative française depuis septembre 2016",
+    "definition": "région administrative républicaine depuis septembre 2016",
     "type": "nom propre féminin",
-    "search": "Outsitanie région administrative française depuis septembre 2016"
+    "search": "Outsitanie région administrative républicaine depuis septembre 2016"
   },
   {
     "id": 8683,
@@ -55405,13 +55379,7 @@
     "type": "nom féminin",
     "search": "pachère barrage (pour un moulin ou pour irriguer), digue"
   },
-  {
-    "id": 8695,
-    "titre": "pachèth",
-    "definition": "échalas",
-    "type": "nom masculin",
-    "search": "pachèth échalas"
-  },
+ 
   {
     "id": 8696,
     "titre": "pacién -te",
@@ -55442,24 +55410,24 @@
   },
   {
     "id": 8700,
-    "titre": "padena",
+    "titre": "padera",
     "definition": "passer à la poêle, griller",
     "type": "verbe transitif",
-    "search": "padena passer à la poêle, griller"
+    "search": "padera passer à la poêle, griller"
   },
   {
     "id": 8701,
-    "titre": "padenat",
+    "titre": "paderat",
     "definition": "poêlée",
     "type": "nom masculin",
-    "search": "padenat poêlée"
+    "search": "paderat poêlée"
   },
   {
     "id": 8702,
-    "titre": "padéne, padère",
+    "titre": "padère",
     "definition": "poêle",
     "type": "nom féminin",
-    "search": "padéne, padère poêle"
+    "search": "padère poêle"
   },
   {
     "id": 8703,
@@ -55519,10 +55487,10 @@
   },
   {
     "id": 8711,
-    "titre": "pagemén, paguemén",
+    "titre": "paguemén",
     "definition": "paiement",
     "type": "nom masculin",
-    "search": "pagemén, paguemén paiement"
+    "search": "paguemén paiement"
   },
   {
     "id": 8712,
@@ -55554,10 +55522,10 @@
   },
   {
     "id": 8716,
-    "titre": "palahè(r)",
+    "titre": "palahè",
     "definition": "pelle-bêche, bêche",
     "type": "nom masculin",
-    "search": "palahè(r) pelle-bêche, bêche"
+    "search": "palahè pelle-bêche, bêche"
   },
   {
     "id": 8717,
@@ -55699,13 +55667,7 @@
     "type": "nom féminin",
     "search": "palouméte petite palombe"
   },
-  {
-    "id": 8737,
-    "titre": "paluc",
-    "definition": "piquet",
-    "type": "nom masculin",
-    "search": "paluc piquet"
-  },
+  
   {
     "id": 8738,
     "titre": "pam",
@@ -55720,27 +55682,7 @@
     "type": "onomatopée et nom masculin",
     "search": "pam pan !"
   },
-  {
-    "id": 8740,
-    "titre": "pamparre",
-    "definition": "bedaine",
-    "type": "nom féminin",
-    "search": "pamparre bedaine"
-  },
-  {
-    "id": 8741,
-    "titre": "pamparreya",
-    "definition": "prendre du ventre ; faire l'important",
-    "type": "verbe intransitif",
-    "search": "pamparreya prendre du ventre ; faire l'important"
-  },
-  {
-    "id": 8742,
-    "titre": "pamparrut -ude",
-    "definition": "ventru, bedonnant (individu)",
-    "type": "adjectif et nom",
-    "search": "pamparrut -ude ventru, bedonnant (individu)"
-  },
+ 
   {
     "id": 8743,
     "titre": "pampat",
@@ -55869,10 +55811,10 @@
   },
   {
     "id": 8761,
-    "titre": "par, part",
+    "titre": "par",
     "definition": "partie ; côté, part (lieu) ; à part (sauf)",
     "type": "nom féminin",
-    "search": "par, part partie ; côté, part (lieu) ; à part (sauf)"
+    "search": "par partie ; côté, part (lieu) ; à part (sauf)"
   },
   {
     "id": 8762,
@@ -55902,13 +55844,7 @@
     "type": "nom masculin",
     "search": "parat circonstance, occasion, opportunité"
   },
-  {
-    "id": 8766,
-    "titre": "parau",
-    "definition": "pétrin",
-    "type": "nom féminin",
-    "search": "parau pétrin"
-  },
+
   {
     "id": 8767,
     "titre": "paraule",
@@ -55951,13 +55887,7 @@
     "type": "nom masculin",
     "search": "pare-brise pare-brise"
   },
-  {
-    "id": 8773,
-    "titre": "parèch",
-    "definition": "auge",
-    "type": "nom masculin",
-    "search": "parèch auge"
-  },
+ 
   {
     "id": 8774,
     "titre": "paréchẹ",
@@ -56112,13 +56042,7 @@
     "type": "nom",
     "search": "parprenén -e participant, actionnaire"
   },
-  {
-    "id": 8796,
-    "titre": "parraguéte (à la)",
-    "definition": "à la gribouillette, à l'attrape qui peut",
-    "type": "nom féminin",
-    "search": "parraguéte (à la) à la gribouillette, à l'attrape qui peut"
-  },
+
   {
     "id": 8797,
     "titre": "parraguéte",
@@ -56126,13 +56050,7 @@
     "type": "nom féminin",
     "search": "parraguéte petit de la mésange"
   },
-  {
-    "id": 8798,
-    "titre": "parrat",
-    "definition": "moineau ; sale individu",
-    "type": "nom masculin",
-    "search": "parrat moineau ; sale individu"
-  },
+
   {
     "id": 8799,
     "titre": "paroess",
@@ -56638,13 +56556,7 @@
     "type": "nom féminin",
     "search": "patate pomme de terre"
   },
-  {
-    "id": 8872,
-    "titre": "patchoc -oque",
-    "definition": "balourd, lourdaud, peu agile (individu)",
-    "type": "adjectif et nom",
-    "search": "patchoc -oque balourd, lourdaud, peu agile (individu)"
-  },
+ 
   {
     "id": 8873,
     "titre": "pate",
@@ -56683,9 +56595,9 @@
   {
     "id": 8878,
     "titre": "patoès",
-    "definition": "patois",
+    "definition": "patois (péjoratif)",
     "type": "nom masculin",
-    "search": "patoès patois"
+    "search": "patoès patois (péjoratif)"
   },
   {
     "id": 8879,
@@ -56820,13 +56732,7 @@
     "type": "nom masculin",
     "search": "pauruquè crainte, peur"
   },
-  {
-    "id": 8898,
-    "titre": "paus",
-    "definition": "repos",
-    "type": "nom masculin",
-    "search": "paus repos"
-  },
+ 
   {
     "id": 8899,
     "titre": "pausa",
@@ -56862,13 +56768,7 @@
     "type": "nom masculin et féminin",
     "search": "pause-l'y-tout-dous personne tranquille ; paresseux, indolent ; hypocrite, doucereux, sainte nitouche"
   },
-  {
-    "id": 8904,
-    "titre": "paute",
-    "definition": "bouse",
-    "type": "nom féminin",
-    "search": "paute bouse"
-  },
+
   {
     "id": 8905,
     "titre": "pay",
@@ -56897,13 +56797,7 @@
     "type": "nom féminin",
     "search": "payère mesure, taille, dimension"
   },
-  {
-    "id": 8909,
-    "titre": "payra",
-    "definition": "priver",
-    "type": "verbe transitif",
-    "search": "payra priver"
-  },
+  
   {
     "id": 8910,
     "titre": "payrî",
@@ -56913,10 +56807,10 @@
   },
   {
     "id": 8911,
-    "titre": "paysâ -ane / -ante",
+    "titre": "paysâ -ane",
     "definition": "paysan",
     "type": "nom",
-    "search": "paysâ -ane / -ante paysan"
+    "search": "paysâ -ane paysan"
   },
   {
     "id": 8912,
@@ -57570,20 +57464,7 @@
     "type": "adjectif",
     "search": "penèc -èque qui pend, qui penche"
   },
-  {
-    "id": 9006,
-    "titre": "penén",
-    "definition": "pente, versant ; phase descendante, déclin",
-    "type": "nom masculin",
-    "search": "penén pente, versant ; phase descendante, déclin"
-  },
-  {
-    "id": 9007,
-    "titre": "penén -te / -de",
-    "definition": "pendant ; pentu, en pente",
-    "type": "adjectif",
-    "search": "penén -te / -de pendant ; pentu, en pente"
-  },
+ 
   {
     "id": 9008,
     "titre": "penìblẹ",
@@ -57752,13 +57633,7 @@
     "type": "nom masculin",
     "search": "pèsque pêche (fruit)"
   },
-  {
-    "id": 9032,
-    "titre": "percheguè",
-    "definition": "pêcher (arbre)",
-    "type": "nom masculin",
-    "search": "percheguè pêcher (arbre)"
-  },
+ 
   {
     "id": 9033,
     "titre": "perchenè",
@@ -57850,13 +57725,7 @@
     "type": "nom féminin",
     "search": "perésse paresse"
   },
-  {
-    "id": 9046,
-    "titre": "pfèt",
-    "definition": "préfet",
-    "type": "nom masculin",
-    "search": "pfèt préfet"
-  },
+ 
   {
     "id": 9047,
     "titre": "perfèyt",
@@ -57885,13 +57754,7 @@
     "type": "nom masculin",
     "search": "perìclẹ tonnerre, foudre, orage"
   },
-  {
-    "id": 9051,
-    "titre": "p",
-    "definition": "tonnerre, coup de tonnerre, foudre, orage",
-    "type": "nom féminin",
-    "search": "p tonnerre, coup de tonnerre, foudre, orage"
-  },
+ 
   {
     "id": 9052,
     "titre": "perilh",
@@ -58214,20 +58077,8 @@
     "type": "verbe transitif",
     "search": "peruca becqueter"
   },
-  {
-    "id": 9098,
-    "titre": "p",
-    "definition": "prunier",
-    "type": "nom masculin",
-    "search": "p prunier"
-  },
-  {
-    "id": 9099,
-    "titre": "p",
-    "definition": "prune, prunelle",
-    "type": "nom féminin",
-    "search": "p prune, prunelle"
-  },
+
+
   {
     "id": 9100,
     "titre": "perya",
@@ -58361,13 +58212,7 @@
     "type": "nom masculin",
     "search": "pesquitoû petit poisson"
   },
-  {
-    "id": 9119,
-    "titre": "pestanes",
-    "definition": "sourcils",
-    "type": "nom féminin pluriel",
-    "search": "pestanes sourcils"
-  },
+ 
   {
     "id": 9120,
     "titre": "pét",
@@ -58424,13 +58269,7 @@
     "type": "nom masculin",
     "search": "petassè équarisseur, marchand de peaux"
   },
-  {
-    "id": 9128,
-    "titre": "petégue",
-    "definition": "engeance",
-    "type": "nom féminin",
-    "search": "petégue engeance"
-  },
+
   {
     "id": 9129,
     "titre": "péte-hum",
@@ -58459,13 +58298,7 @@
     "type": "adjectif et nom",
     "search": "pè-terrous cul-terreux (« pied-terreux »)"
   },
-  {
-    "id": 9133,
-    "titre": "peth, peths",
-    "definition": "par le, par les",
-    "type": "préposition et article masculin",
-    "search": "peth, peths par le, par les"
-  },
+
   {
     "id": 9134,
     "titre": "pèth",
@@ -58606,13 +58439,7 @@
     "type": "nom féminin",
     "search": "peyrade tas de pierres"
   },
-  {
-    "id": 9154,
-    "titre": "peyrassilh",
-    "definition": "persil",
-    "type": "nom masculin",
-    "search": "peyrassilh persil"
-  },
+ 
   {
     "id": 9155,
     "titre": "peyrassut -ude",
@@ -58865,13 +58692,7 @@
     "type": "adjectif",
     "search": "pichan -te qui pisse, qui déborde"
   },
-  {
-    "id": 9191,
-    "titre": "picharre",
-    "definition": "broc",
-    "type": "nom féminin",
-    "search": "picharre broc"
-  },
+
   {
     "id": 9192,
     "titre": "pichatòri",
@@ -58949,13 +58770,7 @@
     "type": "verbe transitif",
     "search": "picoâ attraper avec un crochet"
   },
-  {
-    "id": 9203,
-    "titre": "picole",
-    "definition": "hache",
-    "type": "nom féminin",
-    "search": "picole hache"
-  },
+
   {
     "id": 9204,
     "titre": "picot",
@@ -58991,13 +58806,7 @@
     "type": "adjectif",
     "search": "picourlat -ade marqué de la petite vérole"
   },
-  {
-    "id": 9209,
-    "titre": "piela",
-    "definition": "colonne, pilier",
-    "type": "nom masculin",
-    "search": "piela colonne, pilier"
-  },
+ 
   {
     "id": 9210,
     "titre": "pièle",
@@ -59035,7 +58844,7 @@
   },
   {
     "id": 9215,
-    "titre": "pietat, pieytat",
+    "titre": "pieytat",
     "definition": "pitié ; piété",
     "type": "nom féminin",
     "search": "pietat, pieytat pitié ; piété"
@@ -59236,20 +59045,7 @@
     "type": "verbe transitif",
     "search": "pincha pincer (faire un pinçon)"
   },
-  {
-    "id": 9244,
-    "titre": "pinchoû",
-    "definition": "épine ; dard, aiguillon",
-    "type": "nom masculin",
-    "search": "pinchoû épine ; dard, aiguillon"
-  },
-  {
-    "id": 9245,
-    "titre": "pingourla",
-    "definition": "barioler, moucheter, orner de couleurs vives",
-    "type": "verbe transitif",
-    "search": "pingourla barioler, moucheter, orner de couleurs vives"
-  },
+ 
   {
     "id": 9246,
     "titre": "pingourlat -ade",
@@ -59379,7 +59175,7 @@
   {
     "id": 9264,
     "titre": "pioc",
-    "definition": "Poulet",
+    "definition": "poulet, poussin",
     "type": "nom masculin",
     "search": "pioc Poulet,"
   },
@@ -59537,13 +59333,7 @@
     "type": "adjectif",
     "search": "pirenénc -énque pyrénéen"
   },
-  {
-    "id": 9287,
-    "titre": "piroc",
-    "definition": "bourgeon",
-    "type": "nom masculin",
-    "search": "piroc bourgeon"
-  },
+
   {
     "id": 9288,
     "titre": "piroéte",
@@ -59551,13 +59341,7 @@
     "type": "nom féminin",
     "search": "piroéte pirouette ; rotofaneur"
   },
-  {
-    "id": 9289,
-    "titre": "piròu -ole",
-    "definition": "nigaud",
-    "type": "adjectif et nom",
-    "search": "piròu -ole nigaud"
-  },
+
   {
     "id": 9290,
     "titre": "pirouca",
@@ -59798,7 +59582,7 @@
   },
   {
     "id": 9324,
-    "titre": "plae",
+    "titre": "plage",
     "definition": "plage",
     "type": "nom féminin",
     "search": "plae plage"
@@ -59831,13 +59615,7 @@
     "type": "adjectif et nom",
     "search": "plagnén -te qui se plaint, plaintif ; plaignant"
   },
-  {
-    "id": 9329,
-    "titre": "plagnét",
-    "definition": "soupir",
-    "type": "nom masculin",
-    "search": "plagnét soupir"
-  },
+ 
   {
     "id": 9330,
     "titre": "plague",
@@ -59882,10 +59660,10 @@
   },
   {
     "id": 9336,
-    "titre": "Planchat",
+    "titre": "planchat",
     "definition": "plancher, estrade",
     "type": "nom masculin",
-    "search": "Planchat / plancher, estrade"
+    "search": "planchat plancher, estrade"
   },
   {
     "id": 9337,
@@ -59950,27 +59728,8 @@
     "type": "nom masculin",
     "search": "plantoû plant"
   },
-  {
-    "id": 9346,
-    "titre": "plap",
-    "definition": "tache",
-    "type": "nom masculin",
-    "search": "plap tache"
-  },
-  {
-    "id": 9347,
-    "titre": "plapa",
-    "definition": "tacher",
-    "type": "verbe transitif",
-    "search": "plapa tacher"
-  },
-  {
-    "id": 9348,
-    "titre": "plapouteyat -ade",
-    "definition": "couvert de petites taches",
-    "type": "adjectif",
-    "search": "plapouteyat -ade couvert de petites taches"
-  },
+ 
+ 
   {
     "id": 9349,
     "titre": "plaque",
@@ -60001,10 +59760,10 @@
   },
   {
     "id": 9353,
-    "titre": "plaserines (à)",
+    "titre": "plasé (à)",
     "definition": "lentement",
     "type": "locution adverbiale",
-    "search": "plaserines (à) lentement"
+    "search": "plasé (à) lentement"
   },
   {
     "id": 9354,
@@ -60195,13 +59954,7 @@
     "type": "adjectif et nom",
     "search": "pleyteyàyrẹ procédurier"
   },
-  {
-    "id": 9381,
-    "titre": "plâ",
-    "definition": "remplir, garnir",
-    "type": "verbe transitif",
-    "search": "plâ remplir, garnir"
-  },
+ 
   {
     "id": 9382,
     "titre": "ploye",
@@ -60623,13 +60376,7 @@
     "type": "adjectif et nom",
     "search": "pouchan -te puissant"
   },
-  {
-    "id": 9443,
-    "titre": "pouchic",
-    "definition": "gousset",
-    "type": "nom masculin",
-    "search": "pouchic gousset"
-  },
+ 
   {
     "id": 9444,
     "titre": "poùchqui",
@@ -60770,20 +60517,8 @@
     "type": "nom féminin",
     "search": "poularde poularde"
   },
-  {
-    "id": 9464,
-    "titre": "pou",
-    "definition": "poule",
-    "type": "nom féminin",
-    "search": "pou poule"
-  },
-  {
-    "id": 9465,
-    "titre": "pouét",
-    "definition": "poulet",
-    "type": "nom masculin",
-    "search": "pouét poulet"
-  },
+
+
   {
     "id": 9466,
     "titre": "pouléye",
@@ -61829,20 +61564,8 @@
     "type": "nom masculin",
     "search": "prèchẹ prêche"
   },
-  {
-    "id": 9617,
-    "titre": "prechéc",
-    "definition": "pêche (fruit)",
-    "type": "nom masculin",
-    "search": "prechéc pêche (fruit)"
-  },
-  {
-    "id": 9618,
-    "titre": "precheguè",
-    "definition": "pêcher (arbre)",
-    "type": "nom masculin",
-    "search": "precheguè pêcher (arbre)"
-  },
+
+ 
   {
     "id": 9619,
     "titre": "precious",
@@ -61899,13 +61622,7 @@
     "type": "nom féminin",
     "search": "precoucioû précaution"
   },
-  {
-    "id": 9627,
-    "titre": "predère",
-    "definition": "prise, capture",
-    "type": "nom féminin",
-    "search": "predère prise, capture"
-  },
+  
   {
     "id": 9628,
     "titre": "predic",
@@ -62081,13 +61798,7 @@
     "type": "nom masculin",
     "search": "prelhèbemén prélèvement"
   },
-  {
-    "id": 9653,
-    "titre": "rémẹ",
-    "definition": "presser, comprimer, tasser, appuyer sur",
-    "type": "verbe transitif",
-    "search": "rémẹ presser, comprimer, tasser, appuyer sur"
-  },
+  
   {
     "id": 9654,
     "titre": "permou",
@@ -62095,13 +61806,7 @@
     "type": "locution préposition et conjonction",
     "search": "permou car, parce que ; à cause de"
   },
-  {
-    "id": 9655,
-    "titre": "remude",
-    "definition": "pression, compression ; lésion / froissement d'une partie du corps",
-    "type": "nom féminin",
-    "search": "remude pression, compression ; lésion / froissement d'une partie du corps"
-  },
+ 
   {
     "id": 9656,
     "titre": "prénẹ",
@@ -62291,13 +61996,7 @@
     "type": "nom",
     "search": "presidén -te président"
   },
-  {
-    "id": 9683,
-    "titre": "presiu -ibe",
-    "definition": "précieux (d'une grande valeur)",
-    "type": "adjectif",
-    "search": "presiu -ibe précieux (d'une grande valeur)"
-  },
+  
   {
     "id": 9684,
     "titre": "presoû",
@@ -62312,13 +62011,7 @@
     "type": "nom",
     "search": "presounè -re prisonnier"
   },
-  {
-    "id": 9686,
-    "titre": "pésque",
-    "definition": "pêche (fruit)",
-    "type": "nom féminin",
-    "search": "pésque pêche (fruit)"
-  },
+ 
   {
     "id": 9687,
     "titre": "pesquè",
@@ -62326,13 +62019,7 @@
     "type": "nom masculin",
     "search": "pesquè pêcher (arbre)"
   },
-  {
-    "id": 9688,
-    "titre": "pesquère",
-    "definition": "pêcher (arbre)",
-    "type": "nom féminin",
-    "search": "pesquère pêcher (arbre)"
-  },
+ 
   {
     "id": 9689,
     "titre": "pressa",
@@ -63012,13 +62699,8 @@
     "type": "verbe transitif",
     "search": "prounoustica pronostiquer"
   },
-  {
-    "id": 9786,
-    "titre": "proupausa",
-    "definition": "proposer",
-    "type": "verbe transitif",
-    "search": "proupausa proposer"
-  },
+  
+ 
   {
     "id": 9787,
     "titre": "proupimén",
@@ -63054,13 +62736,7 @@
     "type": "nom féminin",
     "search": "prouprietat propriété"
   },
-  {
-    "id": 9792,
-    "titre": "prous",
-    "definition": "familier, doux, charmant",
-    "type": "adjectif",
-    "search": "prous familier, doux, charmant"
-  },
+ 
   {
     "id": 9793,
     "titre": "prouséy",
@@ -63180,13 +62856,7 @@
     "type": "nom masculin",
     "search": "psàlmẹ psaume"
   },
-  {
-    "id": 9810,
-    "titre": "puade",
-    "definition": "coup d'objet pointu",
-    "type": "nom féminin",
-    "search": "puade coup d'objet pointu"
-  },
+ 
   {
     "id": 9811,
     "titre": "public -ique",
@@ -63222,13 +62892,7 @@
     "type": "adverbe",
     "search": "puch puis, ensuite ; puisque"
   },
-  {
-    "id": 9816,
-    "titre": "puchan -te",
-    "definition": "puissant",
-    "type": "adjectif et nom",
-    "search": "puchan -te puissant"
-  },
+
   {
     "id": 9817,
     "titre": "puchance",
@@ -63427,10 +63091,10 @@
   },
   {
     "id": 9845,
-    "titre": "puntéte, pundéte",
+    "titre": "puntéte",
     "definition": "petite pointe ; se hausser sur la pointe des pieds",
     "type": "nom féminin",
-    "search": "puntéte, pundéte petite pointe ; se hausser sur la pointe des pieds"
+    "search": "puntéte petite pointe ; se hausser sur la pointe des pieds"
   },
   {
     "id": 9846,
@@ -63602,10 +63266,10 @@
   },
   {
     "id": 9870,
-    "titre": "putsa",
+    "titre": "pusa",
     "definition": "puiser",
     "type": "verbe transitif",
-    "search": "putsa puiser"
+    "search": "pusa puiser"
   },
   {
     "id": 9871,
@@ -63811,27 +63475,7 @@
     "type": "adverbe et nom",
     "search": "que-noû, quenoû non, que non (négation forte) ; refus, dénégation"
   },
-  {
-    "id": 9901,
-    "titre": "quera-s",
-    "definition": "être attaqué par les vers ; se fragiliser",
-    "type": "verbe pronominal",
-    "search": "quera-s être attaqué par les vers ; se fragiliser"
-  },
-  {
-    "id": 9902,
-    "titre": "querat -ade",
-    "definition": "vermoulu",
-    "type": "adjectif",
-    "search": "querat -ade vermoulu"
-  },
-  {
-    "id": 9903,
-    "titre": "quère",
-    "definition": "vers rongeurs",
-    "type": "nom féminin",
-    "search": "quère vers rongeurs"
-  },
+ 
   {
     "id": 9904,
     "titre": "quermèsse",
@@ -64101,10 +63745,10 @@
   },
   {
     "id": 9943,
-    "titre": "quìtẹ, quìti",
+    "titre": "quìtẹ",
     "definition": "quitte",
     "type": "adjectif",
-    "search": "quìtẹ, quìti quitte"
+    "search": "quìtẹ quitte"
   },
   {
     "id": 9944,
@@ -64274,13 +63918,7 @@
     "type": "nom masculin",
     "search": "ralh rail"
   },
-  {
-    "id": 9968,
-    "titre": "ra",
-    "definition": "chiendent",
-    "type": "nom masculin",
-    "search": "ra chiendent"
-  },
+ 
   {
     "id": 9969,
     "titre": "raloundye",
@@ -64493,17 +64131,17 @@
   },
   {
     "id": 9999,
-    "titre": "rasouna",
+    "titre": "resouna",
     "definition": "raisonner",
     "type": "verbe intransitif et transitif",
-    "search": "rasouna raisonner"
+    "search": "resouna raisonner"
   },
   {
     "id": 10000,
-    "titre": "rasounàblẹ",
+    "titre": "resounàblẹ",
     "definition": "raisonnable",
     "type": "adjectif",
-    "search": "rasounàblẹ raisonnable"
+    "search": "resounàblẹ raisonnable"
   },
   {
     "id": 10001,
@@ -64743,13 +64381,7 @@
     "type": "verbe intransitif",
     "search": "rebiénẹ revenir ; faire revenir (cuisine)"
   },
-  {
-    "id": 10035,
-    "titre": "rebengude",
-    "definition": "retour",
-    "type": "nom féminin",
-    "search": "rebengude retour"
-  },
+
   {
     "id": 10036,
     "titre": "rebienut",
@@ -64925,13 +64557,7 @@
     "type": "—",
     "search": "recéu 3ème personne singulier présent indicatif de recébẹ → recevoir"
   },
-  {
-    "id": 10061,
-    "titre": "rechénc",
-    "definition": "jeune cochon",
-    "type": "nom masculin",
-    "search": "rechénc jeune cochon"
-  },
+
   {
     "id": 10062,
     "titre": "rèchou",
@@ -65100,13 +64726,7 @@
     "type": "nom féminin",
     "search": "recreacioû récréation"
   },
-  {
-    "id": 10086,
-    "titre": "recroc",
-    "definition": "raccroc ; par raccroc",
-    "type": "nom masculin",
-    "search": "recroc raccroc ; par raccroc"
-  },
+  
   {
     "id": 10087,
     "titre": "recroubi",
@@ -65438,13 +65058,7 @@
     "search": "regreta regretter"
   },
 
-  {
-    "id": 10137,
-    "titre": "reguinna",
-    "definition": "ruer",
-    "type": "verbe intransitif",
-    "search": "reguinna ruer"
-  },
+ 
   {
     "id": 10138,
     "titre": "reguliè -re",
@@ -65488,13 +65102,7 @@
     "type": "verbe transitif",
     "search": "reléyẹ relire"
   },
-  {
-    "id": 10145,
-    "titre": "rélhe",
-    "definition": "rigole",
-    "type": "nom féminin",
-    "search": "rélhe rigole"
-  },
+
   {
     "id": 10146,
     "titre": "religa",
@@ -65502,20 +65110,7 @@
     "type": "verbe transitif",
     "search": "religa relier"
   },
-  {
-    "id": 10147,
-    "titre": "religioû",
-    "definition": "religion",
-    "type": "nom féminin",
-    "search": "religioû religion"
-  },
-  {
-    "id": 10148,
-    "titre": "religious",
-    "definition": "religieux",
-    "type": "adjectif et nom",
-    "search": "religious religieux"
-  },
+ 
   {
     "id": 10149,
     "titre": "relique",
@@ -65574,10 +65169,10 @@
   },
   {
     "id": 10157,
-    "titre": "remrca",
+    "titre": "remerca",
     "definition": "remarquer",
     "type": "verbe transitif",
-    "search": "remrca remarquer"
+    "search": "remerca remarquer"
   },
   {
     "id": 10158,
@@ -66379,10 +65974,10 @@
   },
   {
     "id": 10272,
-    "titre": "retrète, retrèyte",
+    "titre": "retrète",
     "definition": "retraite (cessation d'activité)",
     "type": "nom féminin",
-    "search": "retrète, retrèyte retraite (cessation d'activité)"
+    "search": "retrète retraite (cessation d'activité)"
   },
   {
     "id": 10273,
@@ -66421,10 +66016,10 @@
   },
   {
     "id": 10278,
-    "titre": "reüsside, reüssite",
+    "titre": "reüssite",
     "definition": "réussite",
     "type": "nom féminin",
-    "search": "reüsside, reüssite réussite"
+    "search": "reüssite réussite"
   },
   {
     "id": 10279,
@@ -66475,13 +66070,7 @@
     "type": "nom masculin",
     "search": "reyimén régiment"
   },
-  {
-    "id": 10286,
-    "titre": "reyioû",
-    "definition": "région",
-    "type": "nom féminin",
-    "search": "reyioû région"
-  },
+  
   {
     "id": 10287,
     "titre": "reyiounau -ale",
@@ -66706,13 +66295,7 @@
     "type": "verbe intransitif",
     "search": "roulha rouiller"
   },
-  {
-    "id": 10319,
-    "titre": "roulhe",
-    "definition": "rigole",
-    "type": "nom féminin",
-    "search": "roulhe rigole"
-  },
+ 
   {
     "id": 10320,
     "titre": "roulhe",
@@ -67029,13 +66612,7 @@
     "type": "nom féminin",
     "search": "sabadé -re qui est en sève"
   },
-  {
-    "id": 10368,
-    "titre": "sabàrcou",
-    "definition": "savate ; jeu (vieux) ; personne stupide, maladroite",
-    "type": "nom masculin",
-    "search": "sabàrcou savate ; jeu (vieux) ; personne stupide, maladroite"
-  },
+
   {
     "id": 10369,
     "titre": "sabarque",
@@ -67148,13 +66725,7 @@
     "type": "nom féminin singulier",
     "search": "sabentalhe savants (péjoratif)"
   },
-  {
-    "id": 10385,
-    "titre": "sabiu",
-    "definition": "scion, branche flexible, liane",
-    "type": "nom masculin",
-    "search": "sabiu scion, branche flexible, liane"
-  },
+ 
   {
     "id": 10386,
     "titre": "sàblẹ, sàbblẹ",
@@ -67465,10 +67036,10 @@
   },
   {
     "id": 10430,
-    "titre": "salop",
+    "titre": "salo",
     "definition": "(personne) sale ; salaud",
     "type": "adjectif et nom",
-    "search": "salop (personne) sale ; salaud"
+    "search": "salo (personne) sale ; salaud"
   },
   {
     "id": 10431,
@@ -67533,13 +67104,7 @@
     "type": "adjectif",
     "search": "salutàri salutaire"
   },
-  {
-    "id": 10440,
-    "titre": "sambouti",
-    "definition": "secouer",
-    "type": "verbe transitif",
-    "search": "sambouti secouer"
-  },
+ 
   {
     "id": 10441,
     "titre": "samia",
@@ -67589,41 +67154,7 @@
     "type": "adjectif féminin",
     "search": "sane saine"
   },
-  {
-    "id": 10448,
-    "titre": "sang",
-    "definition": "sang",
-    "type": "nom masculin et féminin",
-    "search": "sang sang"
-  },
-  {
-    "id": 10449,
-    "titre": "sang-bourit -ide",
-    "definition": "(personne) qui a un coup de sang, en proie à une forte émotion",
-    "type": "adjectif",
-    "search": "sang-bourit -ide (personne) qui a un coup de sang, en proie à une forte émotion"
-  },
-  {
-    "id": 10450,
-    "titre": "sang-bourit",
-    "definition": "coup de sang",
-    "type": "nom masculin",
-    "search": "sang-bourit coup de sang"
-  },
-  {
-    "id": 10451,
-    "titre": "sang-glaça",
-    "definition": "glacer le sang, donner une forte émotion",
-    "type": "verbe transitif",
-    "search": "sang-glaça glacer le sang, donner une forte émotion"
-  },
-  {
-    "id": 10452,
-    "titre": "sang-glaça-s",
-    "definition": "sentir son sang se glacer",
-    "type": "verbe pronominal",
-    "search": "sang-glaça-s sentir son sang se glacer"
-  },
+ 
   {
     "id": 10453,
     "titre": "sangla",
@@ -67835,27 +67366,7 @@
     "type": "nom masculin",
     "search": "sarrampic rougeole"
   },
-  {
-    "id": 10485,
-    "titre": "sarre",
-    "definition": "scie ; scierie",
-    "type": "nom féminin",
-    "search": "sarre scie ; scierie"
-  },
-  {
-    "id": 10486,
-    "titre": "sarre-brouquét",
-    "definition": "avare",
-    "type": "nom",
-    "search": "sarre-brouquét avare"
-  },
-  {
-    "id": 10487,
-    "titre": "sarre-coutèth",
-    "definition": "égoïne",
-    "type": "nom masculin",
-    "search": "sarre-coutèth égoïne"
-  },
+ 
   {
     "id": 10488,
     "titre": "sarriè",
@@ -68010,20 +67521,7 @@
     "type": "nom féminin",
     "search": "saumounade troupe de saumons ; montée de saumons"
   },
-  {
-    "id": 10510,
-    "titre": "saumuc",
-    "definition": "sanglot",
-    "type": "nom masculin",
-    "search": "saumuc sanglot"
-  },
-  {
-    "id": 10511,
-    "titre": "saumuca",
-    "definition": "sangloter",
-    "type": "verbe intransitif",
-    "search": "saumuca sangloter"
-  },
+  
   {
     "id": 10512,
     "titre": "saunéy",
@@ -68038,34 +67536,9 @@
     "type": "verbe intransitif",
     "search": "sauneya rêver"
   },
-  {
-    "id": 10514,
-    "titre": "saupic",
-    "definition": "personne susceptible, acariâtre",
-    "type": "nom masculin",
-    "search": "saupic personne susceptible, acariâtre"
-  },
-  {
-    "id": 10515,
-    "titre": "saupica",
-    "definition": "saupoudrer",
-    "type": "verbe transitif",
-    "search": "saupica saupoudrer"
-  },
-  {
-    "id": 10516,
-    "titre": "saupicoû",
-    "definition": "mélange d'eau, de vin et de pain que l'on trempe en mouillette",
-    "type": "nom masculin",
-    "search": "saupicoû mélange d'eau, de vin et de pain que l'on trempe en mouillette"
-  },
-  {
-    "id": 10517,
-    "titre": "sauquè",
-    "definition": "sureau",
-    "type": "nom masculin",
-    "search": "sauquè sureau"
-  },
+
+ 
+  
   {
     "id": 10518,
     "titre": "saus",
@@ -68398,13 +67871,7 @@
     "type": "nom masculin",
     "search": "séglẹ seigle"
   },
-  {
-    "id": 10569,
-    "titre": "sèglẹ",
-    "definition": "siècle",
-    "type": "nom masculin",
-    "search": "sèglẹ siècle"
-  },
+ 
   {
     "id": 10570,
     "titre": "ségnẹ",
@@ -68412,41 +67879,7 @@
     "type": "nom masculin",
     "search": "ségnẹ (littéraire) seigneur"
   },
-  {
-    "id": 10571,
-    "titre": "segna",
-    "definition": "marquer ; mettre un sceau",
-    "type": "verbe transitif",
-    "search": "segna marquer ; mettre un sceau"
-  },
-  {
-    "id": 10572,
-    "titre": "segna-s",
-    "definition": "se signer, faire le signe de la croix",
-    "type": "verbe pronominal",
-    "search": "segna-s se signer, faire le signe de la croix"
-  },
-  {
-    "id": 10573,
-    "titre": "segnala",
-    "definition": "signaler",
-    "type": "verbe transitif",
-    "search": "segnala signaler"
-  },
-  {
-    "id": 10574,
-    "titre": "segnala-s",
-    "definition": "se signaler (le plus souvent en mal)",
-    "type": "verbe pronominal",
-    "search": "segnala-s se signaler (le plus souvent en mal)"
-  },
-  {
-    "id": 10575,
-    "titre": "segnau",
-    "definition": "signal ; marque",
-    "type": "nom masculin",
-    "search": "segnau signal ; marque"
-  },
+  
   {
     "id": 10576,
     "titre": "segnou -re",
@@ -69224,13 +68657,7 @@
     "type": "nom masculin",
     "search": "setémẹ septembre"
   },
-  {
-    "id": 10687,
-    "titre": "sèti",
-    "definition": "siège",
-    "type": "nom masculin",
-    "search": "sèti siège"
-  },
+
   {
     "id": 10688,
     "titre": "setou, setoû",
@@ -69306,10 +68733,10 @@
   },
   {
     "id": 10701,
-    "titre": "sièti",
+    "titre": "sièdye",
     "definition": "siège",
     "type": "nom masculin",
-    "search": "sièti siège"
+    "search": "sièdye siège"
   },
 
   {
@@ -69641,13 +69068,7 @@
     "type": "adjectif et nom",
     "search": "soegnous (individu) soigneux"
   },
-  {
-    "id": 10750,
-    "titre": "soerade",
-    "definition": "soirée",
-    "type": "nom féminin",
-    "search": "soerade soirée"
-  },
+ 
   {
     "id": 10751,
     "titre": "soeta",
@@ -69655,13 +69076,7 @@
     "type": "verbe transitif",
     "search": "soeta souhaiter"
   },
-  {
-    "id": 10752,
-    "titre": "sole",
-    "definition": "semelle ; plante du pied ; sole (dessous de sabot d'un animal) ; aire du four",
-    "type": "nom féminin",
-    "search": "sole 1 semelle ; plante du pied ; sole (dessous de sabot d'un animal) ; aire du four"
-  },
+ 
   {
     "id": 10753,
     "titre": "sole",
@@ -69739,13 +69154,7 @@
     "type": "nom féminin",
     "search": "souâde sonnerie"
   },
-  {
-    "id": 10764,
-    "titre": "soubac",
-    "definition": "abri, refuge",
-    "type": "nom masculin",
-    "search": "soubac abri, refuge"
-  },
+ 
   {
     "id": 10765,
     "titre": "soubén",
@@ -69935,13 +69344,8 @@
     "type": "verbe intransitif",
     "search": "soufri souffrir"
   },
-  {
-    "id": 10792,
-    "titre": "souhèt",
-    "definition": "souhait",
-    "type": "nom masculin",
-    "search": "souhèt souhait"
-  },
+ 
+  
   {
     "id": 10793,
     "titre": "souheta",
@@ -70005,13 +69409,7 @@
     "type": "adjectif",
     "search": "soulas -se bien seul, isolé"
   },
-  {
-    "id": 10802,
-    "titre": "souldat",
-    "definition": "soldat",
-    "type": "nom masculin",
-    "search": "souldat soldat"
-  },
+
   {
     "id": 10803,
     "titre": "souldatalhe",
@@ -70028,10 +69426,10 @@
   },
   {
     "id": 10805,
-    "titre": "souélh",
+    "titre": "sourélh",
     "definition": "soleil",
     "type": "nom masculin",
-    "search": "souélh soleil"
+    "search": "sourélh soleil"
   },
   {
     "id": 10806,
@@ -70296,10 +69694,10 @@
  
   {
     "id": 10845,
-    "titre": "soudat",
+    "titre": "souldat",
     "definition": "soldat",
     "type": "nom masculin",
-    "search": "soudat soldat"
+    "search": "souldat soldat"
   },
   {
     "id": 10846,
@@ -70322,13 +69720,7 @@
     "type": "verbe intransitif",
     "search": "soùrdẹ sourdre"
   },
-  {
-    "id": 10849,
-    "titre": "sourélh",
-    "definition": "soleil",
-    "type": "nom masculin",
-    "search": "sourélh soleil"
-  },
+
   {
     "id": 10850,
     "titre": "sourelhade",
@@ -70441,13 +69833,7 @@
     "type": "nom masculin",
     "search": "sousoficiè sous-officier"
   },
-  {
-    "id": 10866,
-    "titre": "sousperfèt",
-    "definition": "sous-préfet",
-    "type": "nom masculin",
-    "search": "sousperfèt sous-préfet"
-  },
+ 
   {
     "id": 10867,
     "titre": "souspi",
@@ -70504,13 +69890,7 @@
     "type": "nom masculin",
     "search": "soustroulh litière pour les cochons"
   },
-  {
-    "id": 10875,
-    "titre": "sout",
-    "definition": "porcherie",
-    "type": "nom masculin",
-    "search": "sout porcherie"
-  },
+
   {
     "id": 10876,
     "titre": "soutade",
@@ -70611,10 +69991,10 @@
   },
   {
     "id": 10890,
-    "titre": "suerbèth -ère",
+    "titre": "suberbèth -ère",
     "definition": "splendide",
     "type": "adjectif",
-    "search": "suerbèth -ère splendide"
+    "search": "suberbèth -ère splendide"
   },
   {
     "id": 10891,
@@ -70737,10 +70117,10 @@
   },
   {
     "id": 10908,
-    "titre": "sudyèc, sudyèt",
+    "titre": "sudyèt",
     "definition": "sujet",
     "type": "nom masculin",
-    "search": "sudyèc, sudyèt sujet"
+    "search": "sudyèt sujet"
   },
   {
     "id": 10909,
@@ -70751,10 +70131,10 @@
   },
   {
     "id": 10910,
-    "titre": "sufìtsẹ, sufìxẹ",
+    "titre": "sufìtsẹ",
     "definition": "suffixe",
     "type": "nom masculin",
-    "search": "sufìtsẹ, sufìxẹ suffixe"
+    "search": "sufìtsẹ suffixe"
   },
   {
     "id": 10911,
@@ -71418,10 +70798,10 @@
   },
   {
     "id": 11008,
-    "titre": "talhur(c)",
+    "titre": "talhur",
     "definition": "tailleur",
     "type": "nom masculin",
-    "search": "talhur(c) tailleur"
+    "search": "talhur tailleur"
   },
   {
     "id": 11009,
@@ -71612,13 +70992,7 @@
     "type": "adverbe",
     "search": "tapoc non plus"
   },
-  {
-    "id": 11036,
-    "titre": "tapè, ta-pè",
-    "definition": "aussitôt ; aussitôt que, dès que",
-    "type": "adverbe",
-    "search": "tapè, ta-pè aussitôt ; aussitôt que, dès que"
-  },
+
   {
     "id": 11037,
     "titre": "tapi",
@@ -72200,13 +71574,7 @@
     "type": "nom masculin",
     "search": "tecoû accumulation de neige ou de terre sous les chaussures"
   },
-  {
-    "id": 11120,
-    "titre": "tégnẹ",
-    "definition": "teindre",
-    "type": "verbe transitif",
-    "search": "tégnẹ teindre"
-  },
+ 
   {
     "id": 11121,
     "titre": "tegnè -re",
@@ -72340,13 +71708,7 @@
     "type": "nom féminin",
     "search": "tempeyrade orage de grêle"
   },
-  {
-    "id": 11140,
-    "titre": "témplẹ",
-    "definition": "tempe",
-    "type": "nom masculin",
-    "search": "témplẹ tempe"
-  },
+
   {
     "id": 11141,
     "titre": "tempourade",
@@ -72522,20 +71884,7 @@
     "type": "nom féminin",
     "search": "ténte tente"
   },
-  {
-    "id": 11166,
-    "titre": "tenterilha",
-    "definition": "tintinnabuler",
-    "type": "verbe intransitif",
-    "search": "tenterilha tintinnabuler"
-  },
-  {
-    "id": 11167,
-    "titre": "tenterilhoû",
-    "definition": "grelot",
-    "type": "nom masculin",
-    "search": "tenterilhoû grelot"
-  },
+ 
   {
     "id": 11168,
     "titre": "tenterique",
@@ -72543,19 +71892,13 @@
     "type": "nom féminin",
     "search": "tenterique tentation ; lubie"
   },
-  {
-    "id": 11169,
-    "titre": "tenude",
-    "definition": "tenue (vêtement)",
-    "type": "nom féminin",
-    "search": "tenude tenue (vêtement)"
-  },
+ 
   {
     "id": 11170,
-    "titre": "teorie, teourie",
+    "titre": "teorie",
     "definition": "théorie",
     "type": "nom féminin",
-    "search": "teorie, teourie théorie"
+    "search": "teorie théorie"
   },
   {
     "id": 11171,
@@ -72608,10 +71951,10 @@
   },
   {
     "id": 11178,
-    "titre": "termomètre, termoumètre",
+    "titre": "termomètre",
     "definition": "thermomètre",
     "type": "nom masculin",
-    "search": "termomètre, termoumètre thermomètre"
+    "search": "termomètre thermomètre"
   },
   {
     "id": 11179,
@@ -72634,13 +71977,7 @@
     "type": "verbe pronominal",
     "search": "terni-s se ternir"
   },
-  {
-    "id": 11182,
-    "titre": "ternic, ternit",
-    "definition": "asticot",
-    "type": "nom masculin",
-    "search": "ternic, ternit asticot"
-  },
+
   {
     "id": 11183,
     "titre": "terra",
@@ -72655,13 +71992,7 @@
     "type": "nom masculin",
     "search": "terradou (littéraire) terroir"
   },
-  {
-    "id": 11185,
-    "titre": "terras",
-    "definition": "cruche",
-    "type": "nom masculin",
-    "search": "terras cruche"
-  },
+ 
   {
     "id": 11186,
     "titre": "terrassa",
@@ -72690,13 +72021,7 @@
     "type": "nom masculin",
     "search": "terrè colline, coteau, talus"
   },
-  {
-    "id": 11190,
-    "titre": "terr",
-    "definition": "terrain",
-    "type": "nom masculin",
-    "search": "terr terrain"
-  },
+
   {
     "id": 11191,
     "titre": "tèrre-pouyri",
@@ -72788,13 +72113,7 @@
     "type": "nom féminin",
     "search": "testère têtière pour les bovins"
   },
-  {
-    "id": 11204,
-    "titre": "tesure",
-    "definition": "poterie (récipient)",
-    "type": "nom féminin",
-    "search": "tesure poterie (récipient)"
-  },
+
   {
     "id": 11205,
     "titre": "tetès",
@@ -72881,10 +72200,10 @@
   },
   {
     "id": 11217,
-    "titre": "thangue, thanque",
+    "titre": "thanque",
     "definition": "échasse ; tuteur en forme d'échasse ; à cloche-pied",
     "type": "nom féminin",
-    "search": "thangue, thanque échasse ; tuteur en forme d'échasse ; à cloche-pied"
+    "search": "thanque échasse ; tuteur en forme d'échasse ; à cloche-pied"
   },
   {
     "id": 11218,
@@ -72908,56 +72227,8 @@
     "type": "adjectif",
     "search": "thèc thèque gourd, engourdi par le froid"
   },
-  {
-    "id": 11222,
-    "titre": "théchẹ",
-    "definition": "tisser",
-    "type": "verbe transitif",
-    "search": "théchẹ tisser"
-  },
-  {
-    "id": 11223,
-    "titre": "thechenè -re",
-    "definition": "tisserand",
-    "type": "nom",
-    "search": "thechenè -re tisserand"
-  },
-  {
-    "id": 11224,
-    "titre": "thepic",
-    "definition": "inquiétude, souci",
-    "type": "nom masculin",
-    "search": "thepic inquiétude, souci"
-  },
-  {
-    "id": 11225,
-    "titre": "thepica-s",
-    "definition": "s'inquiéter",
-    "type": "verbe pronominal",
-    "search": "thepica-s s'inquiéter"
-  },
 
-  {
-    "id": 11228,
-    "titre": "thic",
-    "definition": "peu, un peu ; peu à peu ; plus ou moins, peu ou prou",
-    "type": "adverbe et nom masculin",
-    "search": "thic peu, un peu ; peu à peu ; plus ou moins, peu ou prou"
-  },
-  {
-    "id": 11229,
-    "titre": "tî",
-    "definition": "teint",
-    "type": "nom masculin",
-    "search": "tî teint"
-  },
-  {
-    "id": 11230,
-    "titre": "ticous",
-    "definition": "(individu) chatouilleux, susceptible",
-    "type": "adjectif et nom",
-    "search": "ticous (individu) chatouilleux, susceptible"
-  },
+ 
   {
     "id": 11231,
     "titre": "tic-tac",
@@ -73014,20 +72285,8 @@
     "type": "nom masculin",
     "search": "tihourcat fourche"
   },
-  {
-    "id": 11239,
-    "titre": "tilh",
-    "definition": "tilleul",
-    "type": "nom masculin",
-    "search": "tilh tilleul"
-  },
-  {
-    "id": 11240,
-    "titre": "tilhe",
-    "definition": "fibre",
-    "type": "nom féminin",
-    "search": "tilhe fibre"
-  },
+ 
+  
   {
     "id": 11241,
     "titre": "tilhét",
@@ -73044,18 +72303,12 @@
   },
   {
     "id": 11243,
-    "titre": "tilhu, tilhul",
+    "titre": "tilhul",
     "definition": "tilleul (fleur pour infusion ; infusion)",
     "type": "nom masculin",
-    "search": "tilhu, tilhul tilleul (fleur pour infusion ; infusion)"
+    "search": "tilhul tilleul (fleur pour infusion ; infusion)"
   },
-  {
-    "id": 11244,
-    "titre": "tilhulè",
-    "definition": "tilleul",
-    "type": "nom masculin",
-    "search": "tilhulè tilleul"
-  },
+ 
   {
     "id": 11245,
     "titre": "tilhut -ude",
@@ -73147,20 +72400,7 @@
     "type": "nom masculin",
     "search": "tinglat gifle"
   },
-  {
-    "id": 11258,
-    "titre": "tingorle",
-    "definition": "loque",
-    "type": "nom féminin",
-    "search": "tingorle loque"
-  },
-  {
-    "id": 11259,
-    "titre": "tingourlère",
-    "definition": "loques",
-    "type": "nom féminin singulier",
-    "search": "tingourlère loques"
-  },
+  
   {
     "id": 11260,
     "titre": "tinta",
@@ -73168,20 +72408,7 @@
     "type": "verbe transitif",
     "search": "tinta teindre"
   },
-  {
-    "id": 11261,
-    "titre": "tinte",
-    "definition": "encre",
-    "type": "nom féminin",
-    "search": "tinte encre"
-  },
-  {
-    "id": 11262,
-    "titre": "tintè",
-    "definition": "encrier",
-    "type": "nom masculin",
-    "search": "tintè encrier"
-  },
+ 
   {
     "id": 11263,
     "titre": "tintin",
@@ -73224,13 +72451,7 @@
     "type": "nom féminin",
     "search": "tipe-tape jeu où l'on se donne des tapes"
   },
-  {
-    "id": 11269,
-    "titre": "tiques",
-    "definition": "chatouilles",
-    "type": "nom féminin pluriel",
-    "search": "tiques chatouilles"
-  },
+ 
   {
     "id": 11270,
     "titre": "tique-taque",
@@ -73238,13 +72459,7 @@
     "type": "nom féminin (onomatopée)",
     "search": "tique-taque bruit répété (plus long qu'un tic-tac)"
   },
-  {
-    "id": 11271,
-    "titre": "tiquétes",
-    "definition": "chatouilles",
-    "type": "nom féminin pluriel",
-    "search": "tiquétes chatouilles"
-  },
+
   {
     "id": 11272,
     "titre": "tira",
@@ -73848,13 +73063,7 @@
     "search": "tour tour (machine-outil)"
   },
 
-  {
-    "id": 11359,
-    "titre": "touraque, tourasse",
-    "definition": "buse",
-    "type": "nom féminin",
-    "search": "touraque, tourasse buse"
-  },
+ 
   {
     "id": 11360,
     "titre": "tourchoû",
@@ -74627,24 +73836,24 @@
   },
   {
     "id": 11470,
-    "titre": "trasfourma",
+    "titre": "transfourma",
     "definition": "transformer",
     "type": "verbe transitif",
-    "search": "trasfourma transformer"
+    "search": "transfourma transformer"
   },
   {
     "id": 11471,
-    "titre": "trasfourmacioû",
+    "titre": "transfourmacioû",
     "definition": "transformation",
     "type": "nom féminin",
-    "search": "trasfourmacioû transformation"
+    "search": "transfourmacioû transformation"
   },
   {
     "id": 11472,
-    "titre": "trasmétẹ",
+    "titre": "transmétẹ",
     "definition": "transmettre",
     "type": "verbe transitif",
-    "search": "trasmétẹ transmettre"
+    "search": "transmétẹ transmettre"
   },
   {
     "id": 11473,
@@ -74670,10 +73879,10 @@
   },
   {
     "id": 11477,
-    "titre": "trattemén",
+    "titre": "trettemén",
     "definition": "traitement",
     "type": "nom masculin",
-    "search": "trattemén traitement"
+    "search": "trettemén traitement"
   },
   {
     "id": 11478,
@@ -74710,13 +73919,7 @@
     "type": "nom masculin",
     "search": "trauque-sègues troglodyte (oiseau)"
   },
-  {
-    "id": 11483,
-    "titre": "trauquét",
-    "definition": "guichet, lucarne",
-    "type": "nom masculin",
-    "search": "trauquét guichet, lucarne"
-  },
+ 
   {
     "id": 11484,
     "titre": "trauquilha",
@@ -74738,13 +73941,7 @@
     "type": "verbe pronominal",
     "search": "trayna-s se traîner"
   },
-  {
-    "id": 11487,
-    "titre": "trebatén -te",
-    "definition": "(individu) agité, turbulent",
-    "type": "adjectif et nom",
-    "search": "trebatén -te (individu) agité, turbulent"
-  },
+  
   {
     "id": 11488,
     "titre": "trebuc",
@@ -74804,10 +74001,10 @@
   },
   {
     "id": 11497,
-    "titre": "trembla, tremoula",
+    "titre": "trembla",
     "definition": "trembler",
     "type": "verbe intransitif",
-    "search": "trembla, tremoula trembler"
+    "search": "trembla trembler"
   },
   {
     "id": 11498,
@@ -74853,13 +74050,7 @@
     "type": "verbe transitif et intransitif",
     "search": "trempa tremper (mouiller ; rester plongé dans un liquide)"
   },
-  {
-    "id": 11508,
-    "titre": "trena",
-    "definition": "tresser",
-    "type": "verbe transitif",
-    "search": "trena tresser"
-  },
+  
   {
     "id": 11509,
     "titre": "trenca",
@@ -74874,13 +74065,7 @@
     "type": "nom féminin",
     "search": "trencade tranchée ; cloison"
   },
-  {
-    "id": 11511,
-    "titre": "tréne",
-    "definition": "tresse de cheveux ; tresse, glane, chapelet d'oignons, de gousses d'ail",
-    "type": "nom féminin",
-    "search": "tréne tresse de cheveux ; tresse, glane, chapelet d'oignons, de gousses d'ail"
-  },
+
   {
     "id": 11512,
     "titre": "trénte",
@@ -74903,13 +74088,7 @@
     "type": "adjectif et nom",
     "search": "trentau trentième"
   },
-  {
-    "id": 11516,
-    "titre": "trepa",
-    "definition": "piaffer, trépigner ; trottiner",
-    "type": "verbe intransitif",
-    "search": "trepa piaffer, trépigner ; trottiner"
-  },
+ 
   {
     "id": 11517,
     "titre": "trepè",
@@ -74959,13 +74138,7 @@
     "type": "préfixe",
     "search": "tres- préfixe indiquant le passage, le changement"
   },
-  {
-    "id": 11524,
-    "titre": "tresana",
-    "definition": "dépérir, se flétrir",
-    "type": "verbe intransitif",
-    "search": "tresana dépérir, se flétrir"
-  },
+  
   {
     "id": 11525,
     "titre": "tresau",
@@ -74996,17 +74169,17 @@
   },
   {
     "id": 11529,
-    "titre": "tresorerie, tresourerie",
+    "titre": "tresorerie",
     "definition": "trésorerie",
     "type": "nom féminin",
-    "search": "tresorerie, tresourerie trésorerie"
+    "search": "tresorerie trésorerie"
   },
   {
     "id": 11530,
-    "titre": "tresoriè -re, tresouriè -re",
+    "titre": "tresoriè -re",
     "definition": "trésorier",
     "type": "nom",
-    "search": "tresoriè -re, tresouriè -re trésorier"
+    "search": "tresoriè -re trésorier"
   },
   {
     "id": 11531,
@@ -75059,25 +74232,13 @@
   },
   {
     "id": 11538,
-    "titre": "treytiâ",
+    "titre": "treytura",
     "definition": "défricher",
     "type": "verbe transitif",
-    "search": "treytiâ défricher"
+    "search": "treytura défricher"
   },
-  {
-    "id": 11539,
-    "titre": "treytiê",
-    "definition": "houe servant à défricher (dans la locution houssé treytiê)",
-    "type": "adjectif masculin",
-    "search": "treytiê houe servant à défricher (dans la locution houssé treytiê)"
-  },
-  {
-    "id": 11540,
-    "titre": "treytina",
-    "definition": "défricher",
-    "type": "verbe transitif",
-    "search": "treytina défricher"
-  },
+
+
   {
     "id": 11541,
     "titre": "trî",
@@ -75134,13 +74295,7 @@
     "type": "verbe intransitif",
     "search": "tribalhouteya travailler peu et sans méthode, bricoler"
   },
-  {
-    "id": 11549,
-    "titre": "tribulòcis",
-    "definition": "tracas",
-    "type": "nom masculin pluriel",
-    "search": "tribulòcis tracas"
-  },
+
   {
     "id": 11550,
     "titre": "tribunal, tribunau",
@@ -75233,13 +74388,7 @@
     "type": "nom féminin",
     "search": "trincade action de trinquer, toast"
   },
-  {
-    "id": 11564,
-    "titre": "tringalha",
-    "definition": "retentir, sonner, vibrer",
-    "type": "verbe intransitif",
-    "search": "tringalha retentir, sonner, vibrer"
-  },
+ 
   {
     "id": 11565,
     "titre": "tringla",
@@ -75254,13 +74403,7 @@
     "type": "nom féminin",
     "search": "tringlade sonnerie, tintement, action de trinquer"
   },
-  {
-    "id": 11567,
-    "titre": "tringlan -te",
-    "definition": "sémillant, vif, battant, fringant",
-    "type": "adjectif",
-    "search": "tringlan -te sémillant, vif, battant, fringant"
-  },
+ 
   {
     "id": 11568,
     "titre": "tringlat",
@@ -75324,13 +74467,7 @@
     "type": "verbe transitif",
     "search": "tripla tripler"
   },
-  {
-    "id": 11577,
-    "titre": "tripoû",
-    "definition": "gros boudin",
-    "type": "nom masculin",
-    "search": "tripoû gros boudin"
-  },
+
   {
     "id": 11578,
     "titre": "tripouta, tripouteya",
@@ -75682,13 +74819,7 @@
     "type": "nom masculin",
     "search": "troussèu trousseau"
   },
-  {
-    "id": 11629,
-    "titre": "trousseya, troussica",
-    "definition": "couper en morceaux, déchiqueter, casser",
-    "type": "verbe transitif",
-    "search": "trousseya, troussica couper en morceaux, déchiqueter, casser"
-  },
+ 
   {
     "id": 11630,
     "titre": "trouta",
@@ -75710,20 +74841,7 @@
     "type": "nom féminin",
     "search": "trouye truie"
   },
-  {
-    "id": 11633,
-    "titre": "trbalh",
-    "definition": "travail",
-    "type": "nom masculin",
-    "search": "trbalh travail"
-  },
-  {
-    "id": 11634,
-    "titre": "trbalha",
-    "definition": "travailler",
-    "type": "verbe transitif et intransitif",
-    "search": "trbalha travailler"
-  },
+
   {
     "id": 11635,
     "titre": "trabersa",
@@ -76040,13 +75158,7 @@
     "type": "verbe transitif",
     "search": "turmenta tourmenter, importuner"
   },
-  {
-    "id": 11681,
-    "titre": "turoun",
-    "definition": "colline, coteau",
-    "type": "nom masculin",
-    "search": "turoun colline, coteau"
-  },
+
   {
     "id": 11682,
     "titre": "tusque",
@@ -76068,13 +75180,7 @@
     "type": "nom féminin",
     "search": "tustade coup donné à la porte"
   },
-  {
-    "id": 11685,
-    "titre": "tustàyrẹ",
-    "definition": "fouineur",
-    "type": "adjectif et nom",
-    "search": "tustàyrẹ fouineur"
-  },
+ 
   {
     "id": 11686,
     "titre": "tuste",
@@ -76089,13 +75195,7 @@
     "type": "verbe transitif et intransitif",
     "search": "tustereya, tusteya chercher à tâtons, fouiner, fureter"
   },
-  {
-    "id": 11688,
-    "titre": "tut",
-    "definition": "dans l'expression N'at as pas au tut : Tu ne t'es pas mis ça dans le crâne",
-    "type": "nom masculin",
-    "search": "tut dans l'expression N'at as pas au tut : Tu ne t'es pas mis ça dans le crâne"
-  },
+
   {
     "id": 11689,
     "titre": "tuta",
@@ -76138,13 +75238,7 @@
     "type": "nom féminin",
     "search": "tute 1 corne (instrument) ; klaxon"
   },
-  {
-    "id": 11695,
-    "titre": "tute",
-    "definition": "tanière, terrier ; grotte ; niche (dans un mur)",
-    "type": "nom féminin",
-    "search": "tute tanière, terrier ; grotte ; niche (dans un mur)"
-  },
+ 
   {
     "id": 11696,
     "titre": "tutét",
@@ -76152,13 +75246,7 @@
     "type": "nom masculin",
     "search": "tutét petit coup de trompe"
   },
-  {
-    "id": 11697,
-    "titre": "tutèth",
-    "definition": "tuyau court ; goulot de cruche, bec verseur",
-    "type": "nom masculin",
-    "search": "tutèth tuyau court ; goulot de cruche, bec verseur"
-  },
+
   {
     "id": 11698,
     "titre": "tuteya",
@@ -76411,34 +75499,7 @@
     "type": "adverbe",
     "search": "urousemén heureusement"
   },
-  {
-    "id": 11734,
-    "titre": "urpa",
-    "definition": "griffer",
-    "type": "verbe transitif",
-    "search": "urpa griffer"
-  },
-  {
-    "id": 11735,
-    "titre": "urpade",
-    "definition": "griffure",
-    "type": "nom féminin",
-    "search": "urpade griffure"
-  },
-  {
-    "id": 11736,
-    "titre": "urpat",
-    "definition": "griffure",
-    "type": "nom masculin",
-    "search": "urpat griffure"
-  },
-  {
-    "id": 11737,
-    "titre": "urpe",
-    "definition": "griffe, serre",
-    "type": "nom féminin",
-    "search": "urpe griffe, serre"
-  },
+ 
   {
     "id": 11738,
     "titre": "ursòu",
@@ -76961,10 +76022,10 @@
   },
   {
     "id": 11815,
-    "titre": "yemi, yemica",
+    "titre": "yemi",
     "definition": "gémir",
     "type": "verbe intransitif",
-    "search": "yemi, yemica gémir"
+    "search": "yemi gémir"
   },
   {
     "id": 11816,
@@ -77001,13 +76062,7 @@
     "type": "nom féminin",
     "search": "yéne gêne"
   },
-  {
-    "id": 11821,
-    "titre": "yenè",
-    "definition": "janvier",
-    "type": "nom masculin",
-    "search": "yenè janvier"
-  },
+ 
   {
     "id": 11822,
     "titre": "yeneralisa",
@@ -77134,13 +76189,7 @@
     "type": "nom masculin",
     "search": "yéte-perpau, yéte-pince jeu qui consiste à lancer une pince de fer"
   },
-  {
-    "id": 11840,
-    "titre": "yetipèri",
-    "definition": "imprécation",
-    "type": "nom masculin",
-    "search": "yetipèri imprécation"
-  },
+
   {
     "id": 11841,
     "titre": "yetoû",
@@ -77219,13 +76268,7 @@
     "type": "nom féminin",
     "search": "yogue jeu ; pari ; Comment ça va ?"
   },
-  {
-    "id": 11853,
-    "titre": "yolhes",
-    "definition": "bijoux",
-    "type": "nom féminin pluriel",
-    "search": "yolhes bijoux"
-  },
+
   {
     "id": 11854,
     "titre": "you",
