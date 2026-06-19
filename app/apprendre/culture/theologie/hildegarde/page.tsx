@@ -212,10 +212,10 @@ export default function HildegardePage() {
             </div>
           </div>
         </section>
- <section className="content-section">
+ <section className="content-section alt">
           <div className="container">
             <div className="grid">
-              <div className="card large">
+              <div className="card full dark">
                  <h3>💞 L’importance de l’union des parents</h3>
 
         <p>
@@ -345,10 +345,10 @@ export default function HildegardePage() {
         </section>
 
         {/* SECTION 2 */}
-        <section className="content-section alt">
+           <section className="content-section alt">
           <div className="container">
-            <div className="card full">
-              <h3>🫀 Le cœur, siège de l’âme</h3>
+            <div className="card full dark">
+              <h3>❤️ Le cœur, siège de l’âme</h3>
 
               <p>
                 Hildegarde place principalement l’âme dans le cœur,
@@ -496,13 +496,13 @@ export default function HildegardePage() {
        .hildegarde-page {
   min-height: 100vh;
 --or: #f4c542;
-  background:
-    linear-gradient(
-      180deg,
-      #faf7ff 0%,
-      #fffdf7 45%,
-      #ffffff 100%
-    );
+ background:
+  linear-gradient(
+    180deg,
+    #24103b 0%,
+    #13081f 45%,
+    #09060d 100%
+  );
 
   color: #2d0a45;
 }
@@ -763,6 +763,35 @@ export default function HildegardePage() {
     0 6px 18px rgba(42,12,69,.08);
 }
         }
+
+@media (max-width: 1100px) {
+
+  .intro-section,
+  .content-section,
+  .final-section {
+    padding: 1rem 0 3rem;
+  }
+    .hero {
+     padding: 1rem 0 3rem;
+}
+
+}
+@media (max-width: 768px) {
+
+  .intro-section,
+  .content-section,
+  .final-section {
+    padding: .5rem 0 1.5rem;
+  }
+.hero {
+  padding: .5rem 0 1.5rem;
+}
+}
+
+
+
+
+
       `}</style>
     </>
   )
