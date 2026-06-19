@@ -126,7 +126,15 @@ export default function HildegardePage() {
         cursor: 'pointer',
       }}
     >
-      🇫🇷
+      <img
+    src="/fra.png"
+    alt="France"
+    style={{
+      width: '24px',
+      height: '24px',
+      objectFit: 'contain',
+    }}
+  />
     </button>
 
     <button

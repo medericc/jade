@@ -177,7 +177,15 @@ export default function Timeline() {
         fontSize: '1.1rem',
       }}
     >
-      🇫🇷
+     <img
+    src="/fra.png"
+    alt="France"
+    style={{
+      width: '24px',
+      height: '24px',
+      objectFit: 'contain',
+    }}
+  />
     </button>
 
     <button

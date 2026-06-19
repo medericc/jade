@@ -147,7 +147,15 @@ export default function SevenMansionsPage() {
             : 'text-[#c6a972]'
         }`}
       >
-        🇫🇷
+          <img
+    src="/fra.png"
+    alt="France"
+    style={{
+      width: '24px',
+      height: '24px',
+      objectFit: 'contain',
+    }}
+  />
       </button>
 
       <button
