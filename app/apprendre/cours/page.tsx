@@ -1132,7 +1132,7 @@ color: '#374151',
       fontSize: 'clamp(.95rem,1vw,1.1rem)'
     }}
   >
-    {lesson + 1} / {lessons.length}
+    {lesson + 0} / {lessons.length -1}
   </div>
 
   <button
