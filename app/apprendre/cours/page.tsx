@@ -429,7 +429,7 @@ const [open, setOpen] = useState(false)
     "desbroumba → oublier.",
     "Qu'éy desbroumbat de-p at dìsẹ. → J’ai oublié de le dire.",
     "paréchẹ-s → paraître.",
-    "Que-s paréch que-y ba bàdẹ céps. → Il paraît qu’il va y avoir des cèpes.",
+    "Que-s paréch que-y ba bàdẹ céths. → Il paraît qu’il va y avoir des cèpes.",
     "pressa-u → avoir hâte.",
     "Que-u prèsse de l’ana bédẹ ad ére. → Il a hâte d’aller la voir.",
     "soubiénẹ-u → se souvenir.",
@@ -735,8 +735,8 @@ const [open, setOpen] = useState(false)
 {
   title: 'Les nombres',
   content: [
-    "û (masculin) / ûe (féminin) → un, une.",
-    "Dus → deux.",
+    "û / ûe → un, une.",
+    "Dus / dues → deux.",
     "Très → trois.",
     "Quoatẹ → quatre.",
     "Cinc → cinq.",

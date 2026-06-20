@@ -19304,27 +19304,7 @@
     "type": "nom féminin",
     "search": "cèp clôture naturelle, faite avec des branchages entrelaçant des pieux"
   },
-  {
-    "id": 3155,
-    "titre": "cép",
-    "definition": "cèpe ; champignon",
-    "type": "nom masculin",
-    "search": "cép cèpe ; champignon"
-  },
-  {
-    "id": 3156,
-    "titre": "cepassè -re",
-    "definition": "ramasseur de cèpes, de champignons ; amateur de cèpes, de champignons",
-    "type": "nom",
-    "search": "cepassè -re ramasseur de cèpes, de champignons ; amateur de cèpes, de champignons"
-  },
-  {
-    "id": 3157,
-    "titre": "cepère",
-    "definition": "grande quantité de cèpes, de champignons ; endroit où poussent les cèpes",
-    "type": "nom féminin",
-    "search": "cepère grande quantité de cèpes, de champignons ; endroit où poussent les cèpes"
-  },
+ 
   {
     "id": 3158,
     "titre": "cerbèle",
@@ -20438,10 +20418,10 @@
   },
   {
     "id": 3341,
-    "titre": "chin",
+    "titre": "tin",
     "definition": "petit ; bébé, petit enfant",
     "type": "adjectif et nom",
-    "search": "chin petit ; bébé, petit enfant"
+    "search": "tin petit ; bébé, petit enfant"
   },
   {
     "id": 3342,
@@ -54620,13 +54600,7 @@
     "type": "nom féminin",
     "search": "orgue orgue"
   },
-  {
-    "id": 8575,
-    "titre": "original",
-    "definition": "original",
-    "type": "adjectif et nom",
-    "search": "original original"
-  },
+ 
   {
     "id": 8576,
     "titre": "orp",
@@ -55085,17 +55059,17 @@
   },
   {
     "id": 8650,
-    "titre": "ouriginau",
+    "titre": "originau",
     "definition": "original",
     "type": "adjectif et nom",
-    "search": "ouriginau original"
+    "search": "originau original"
   },
   {
     "id": 8651,
-    "titre": "ouriyine",
+    "titre": "origine",
     "definition": "origine",
     "type": "nom féminin",
-    "search": "ouriyine origine"
+    "search": "origine origine"
   },
  
   
