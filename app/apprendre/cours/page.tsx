@@ -221,7 +221,7 @@ const [open, setOpen] = useState(false)
     "Balhe-la-me ! → Donne me la.",
   
     "Quoan lou nse porte. → Quand il nous l'apporte.",
-    "Que las pe cau. → "
+    "Que las pe cau. → Il vous les faut."
   ]
 },
 
@@ -233,7 +233,7 @@ const [open, setOpen] = useState(false)
     "Gahe-lè ! → Attrape-la !",
     "Dèche-lès ! → Laisse-les !",
      "Parlat-li → Parlez-lui",
-    "Parlat-li → Parlez-leur",
+    "Parlat-lis → Parlez-leur",
   ]
 },
       ]
@@ -302,8 +302,8 @@ const [open, setOpen] = useState(false)
     "Quoan ? → Quand ?",
     "Quin ? → Quel ?",
     "Que et qui se traduisent généralement par « qui ».",
-    "Qu'éy ço qui prenét ? → Qui prend cela ?",
-    "Que prenét ? → Qui prenez-vous ?",
+    "Qu'éy ço qui prenét ? → Qu'est ce que vous prenez ?",
+    "Que prenét ? → Que prenez-vous ?",
     "Oun éy la clau ? → Où est la clé ?",
     "Oun soun lous noùstes amics ? → Où sont nos amis ?"
   ]
@@ -423,11 +423,11 @@ const [open, setOpen] = useState(false)
   title: 'Verbes employés impersonnellement',
   content: [
     "coumbiénẹ → convenir.",
-    "Que coumbieneré de-us at dìsẹ. → Il conviendrait de vous le dire.",
-    "escàdẹ-s → arriver, se trouver.",
+    "Que coumbieneré de-p at dìsẹ. → Il conviendrait de vous le dire.",
+    "escàdẹ-s → se trouver.",
     "Oéy que-s escat que souy esbagat. → Aujourd’hui il se trouve que je suis disponible.",
     "desbroumba → oublier.",
-    "Qu'éy desbroumbat de-p at dìsẹ. → J’ai oublié de le dire.",
+    "Qu'éy desbroumbat d'ou at dìsẹ. → J’ai oublié de le dire.",
     "paréchẹ-s → paraître.",
     "Que-s paréch que-y ba bàdẹ céths. → Il paraît qu’il va y avoir des cèpes.",
     "pressa-u → avoir hâte.",
@@ -497,10 +497,9 @@ const [open, setOpen] = useState(false)
   title: 'Verbes suivis d’un infinitif',
   content: [
     "Les verbes transitifs de mouvement comme mia(-n), embia(-n) et manda(-n) s’emploient avec la préposition « ta » devant l’infinitif.",
-    "Qu'ou ne bau embia ta croumpa pâ. → Je vais l’envoyer acheter du pain."
+    "Qu'ou bau embia ta croumpa pâ. → Je vais l’envoyer acheter du pain."
 ,
-    "Les verbes bédẹ, enténẹ, escouta et espia s’emploient avec la préposition « à » devant l’infinitif.",
-    "Qu'ous entenèn à canta. → Ils les entendaient chanter."
+  
   ]
 },
 
@@ -641,7 +640,7 @@ const [open, setOpen] = useState(false)
     "→ L’eau jaillissait jusqu’à mi-jambe entre les galets.",
     "Sus → sur.",
     "Dessus → dessus, une surface supérieure.",
-    "En aquéres → sur ce.",
+   
     "Aquiu dessus, qu'éy lou gran ausèth. → Là-dessus, c'est le grand oiseau."
  
   ]
@@ -656,7 +655,7 @@ const [open, setOpen] = useState(false)
     "Influence → influence.",
     "Que m'a hèyt chiscla hangue ta dessus. → Il m’a éclaboussé de boue."
     ,
-     "Exemple : Û cop de méy la rasoû qu’abè abut lou dessus dou cabourrudè !",
+     "Û cop de méy la resoû qu’abè abut lou dessus dou cabourrudè !",
      "→ Une fois de plus, la raison avait eu le dessus sur l’entêtement."
   ]
 },
