@@ -6,13 +6,14 @@ import Link from 'next/link'
 export default function LeconsPage() {
   const [lesson, setLesson] = useState(0)
 const [open, setOpen] = useState(false)
+
   const lessons = [
     {
       title: 'Leçon 0 — Principes de base',
       icon: '📖',
       sections: [
         {
-          title: 'Principes de base',
+          title: 'Pour la lecture',
           content: [
             "En béarnais, on lit toutes les lettres, y compris les consonnes finales.",
             "Les consonnes doublées s'entendent nettement (caddèt, arrecatta)."
@@ -96,15 +97,15 @@ const [open, setOpen] = useState(false)
           title: 'Négation',
           content: [
             "N'es pas de Madrid. → Tu n’es pas de Madrid.",
-            "Je ne suis pas chez lui → Ne souy pas à lou.",
-            "Et vous, vous n'êtes pas anglais. → E bousauts, n’èt pas anglés."
+            "Ne souy pas à lou. → Je ne suis pas chez lui",
+            "E bousauts, n’èt pas anglés. → Et vous, vous n'êtes pas anglais."
           ]
         },
         {
           title: 'Pronoms de 3e personne',
           content: [
-            "éth / éths",
-            "ére / éres"
+             "Éth / Éths → Il / Ils",
+            "Ére / Éres → Elle / Elles"
           ]
         },
         {
@@ -260,9 +261,9 @@ const [open, setOpen] = useState(false)
     "Que bouleri. → Je voudrais.",
     "Que bouli. → Je voulais.",
   "Que bòu. → Il veut.",
-    "Je veux que tu m’écoutes. → Que bouy que-m escoutis.",
-    "Je voudrais que tu m’écoutes. → Que bouleri que-m escoutis.",
-    "Je voulais que tu m’écoutes. → Que bouli que-m escoutis."
+    "Que bouy que-m escoutis. → Je veux que tu m’écoutes.",
+    "Que bouleri que-m escoutis. → Je voudrais que tu m’écoutes.",
+    "Que bouli que-m escoutis. → Je voulais que tu m’écoutes."
   ]
 },
 {
@@ -294,7 +295,19 @@ const [open, setOpen] = useState(false)
   ]
 },
 
-
+{
+  title: 'Questions courantes',
+  content: [
+    "Oun ? → Où ?",
+    "Quoan ? → Quand ?",
+    "Quin ? → Quel ?",
+    "Que et qui se traduisent généralement par « qui ».",
+    "Qu'éy ço qui prenét ? → Qui prend cela ?",
+    "Que prenét ? → Qui prenez-vous ?",
+    "Oun éy la clau ? → Où est la clé ?",
+    "Oun soun lous noùstes amics ? → Où sont nos amis ?"
+  ]
+},
 
 {
   title: 'Le pronom « en »',
@@ -307,17 +320,7 @@ const [open, setOpen] = useState(false)
   ]
 },
 
-{
-  title: 'Questions avec « en »',
-  content: [
-    "Combien vous en reste-t-il ? → Quoan pe-n demoure ?",
-    "Combien en vendez-vous ? → Quoan en benét ?",
-    "Combien vous en faut-il ? → Quoàn pe-n cau ?",
-    "Combien y en a-t-il ? → Quoàn-n y a ?",
-    "J’en veux beaucoup ! → Qu’en bouy hère !",
-    "En veux-tu encore ? → Que-n bos encoère ?"
-  ]
-},
+
 
 {
   title: 'Prépositions : au, aux',
@@ -367,17 +370,16 @@ const [open, setOpen] = useState(false)
   ]
 },
 
+
 {
-  title: 'Questions courantes',
+  title: 'Questions avec « en »',
   content: [
-    "Oun ? → Où ?",
-    "Quoan ? → Quand ?",
-    "Quin ? → Quel ?",
-    "Que et qui se traduisent généralement par « qui ».",
-    "Qu'éy ço qui prenét ? → Qui prend cela ?",
-    "Que prenét ? → Qui prenez-vous ?",
-    "Oun éy la clau ? → Où est la clé ?",
-    "Oun soun lous noùstes amics ? → Où sont nos amis ?"
+    "Quoan pe-n demoure ? → Combien vous en reste-t-il ?",
+    "Quoan en benét ? → Combien en vendez-vous ?",
+    "Quoàn pe-n cau ? → Combien vous en faut-il ?",
+    "Quoàn-n y a ? → Combien y en a-t-il ?",
+    "Qu’en bouy hère ! → J’en veux beaucoup !",
+    "Que-n bos encoère ? → En veux-tu encore ?"
   ]
 },
 
@@ -818,22 +820,22 @@ const [open, setOpen] = useState(false)
 {
   title: 'Différences de genre entre le français et le béarnais',
   content: [
-    "Une affaire → û aha.",
-    "Une horloge → û arrelòdye.",
-    "Une crémaillère → û crimalh.",
-    "La dette → lou déutẹ.",
-    "La graisse → lou grèch.",
-    "La fumée → lou hum.",
-    "Une limace → û limac.",
-    "Une paire → û pa.",
-    "Le ticket → la bilhéte.",
-    "Le lièvre → la lèbẹ.",
-    "Le lait → la lèyt.",
-    "Le mensonge → la mensounye.",
-    "Le sang → la sanc.",
-    "Le sel → la sau.",
-    "Le serpent → la sèrp.",
-    "Un ongle → ûe ungle."
+    "Û aha → une affaire",
+    "Û arrelòdye → une horloge",
+    "Û crimalh → une crémaillère.",
+    "Lou déutẹ → la dette",
+    "Lou grèch → la graisse",
+    "Lou hum → la fumée",
+    "Û limac → une limace",
+    "Û pa → une paire",
+    "La bilhéte → le ticket.",
+    "La lèbẹ → le lièvre.",
+    "La lèyt → le lait",
+    "La mensounye → le mensonge",
+    "La sanc → le sang",
+    "La sau → le sel",
+    "La sèrp → le serpent",
+    "Ûe ungle → un ongle"
   ]
 },
 
@@ -870,35 +872,92 @@ const [open, setOpen] = useState(false)
       style={{
         minHeight: '100vh',
         background: '#f8f6ff',
-        padding: '20px'
+
       }}
     >
+          <section
+        style={{
+          background:
+            'linear-gradient(180deg,#2a0c45 0%, #3f1764 100%)',
+          padding: '5rem 1rem',
+          textAlign: 'center',
+        }}
+      >
+        <div
+          style={{
+            maxWidth: 1000,
+            margin: '0 auto',
+          }}
+        >
+          <Link
+            href="/apprendre"
+            style={{
+              textDecoration: 'none',
+            }}
+          >
+            <div
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '.5rem',
+                background: '#fff',
+                color: '#2a0c45',
+                border: '2px solid #f3c623',
+                borderRadius: 999,
+                padding: '.75rem 1.25rem',
+                fontWeight: 700,
+                marginBottom: '2rem',
+              }}
+            >
+              ← Retour
+            </div>
+          </Link>
+
+          <div
+            style={{
+              color: '#f3c623',
+              fontWeight: 700,
+              letterSpacing: '.15em',
+              textTransform: 'uppercase',
+              marginBottom: '1rem',
+            }}
+          >
+            📚 Langue Béarnaise
+          </div>
+
+          <h1
+            style={{
+              color: '#fff',
+              fontSize: 'clamp(2.5rem,6vw,4.5rem)',
+              fontWeight: 800,
+              margin: 0,
+            }}
+          >
+Oéyt Leçoûs
+
+          </h1>
+
+          <p
+            style={{
+              color: '#d8c7e8',
+              lineHeight: 1.8,
+              maxWidth: 800,
+              margin: '1.5rem auto 0',
+            }}
+          >
+            Découvrez les règles essentielles de la conjugaison béarnaise,
+            les temps verbaux et les principales particularités.
+          </p>
+        </div>
+      </section>
       <div
         style={{
           maxWidth: 1200,
-          margin: '0 auto'
+          margin: '0 auto',
+          padding: '2rem',
         }}
       >
-        <Link
-          href="/apprendre"
-          style={{
-            color: '#6d28d9',
-            textDecoration: 'none',
-            fontWeight: 600
-          }}
-        >
-          ← Retour
-        </Link>
-
-        <h1
-          style={{
-            fontSize: 'clamp(2rem,4vw,4rem)',
-            marginTop: 20,
-            marginBottom: 30
-          }}
-        >
-          Leçons de Béarnais
-        </h1>
+      
 
      <div
   style={{
@@ -909,16 +968,7 @@ const [open, setOpen] = useState(false)
     marginBottom: 25,
   }}
 >
-  <label
-    style={{
-      display: 'block',
-      marginBottom: 10,
-      fontWeight: 700,
-      color: '#5a4a2a',
-    }}
-  >
-    Choisir une leçon
-  </label>
+
 
   <div style={{ position: 'relative' }}>
     <button
@@ -926,10 +976,9 @@ const [open, setOpen] = useState(false)
       style={{
         width: '100%',
         padding: '14px 18px',
-       
-        border: '1px solid #d8c58a',
-        background: '#faf8f1',
-        color: '#4a3a20',
+       border: '1px solid #e5e7eb',
+background: '#fff',
+color: '#374151',
         fontWeight: 600,
         textAlign: 'left',
         cursor: 'pointer',
@@ -941,9 +990,9 @@ const [open, setOpen] = useState(false)
     {open && (
       <div
         style={{
-          border: '1px solid #d8c58a',
+          border: '1px solid #e5e7eb',
           borderTop: 'none',
-          background: '#faf8f1',
+          background: '#fff',
           borderBottomLeftRadius: 14,
           borderBottomRightRadius: 14,
           overflow: 'hidden',
@@ -960,8 +1009,8 @@ const [open, setOpen] = useState(false)
               padding: '12px 18px',
               cursor: 'pointer',
               background:
-                lesson === i ? '#f1e5b8' : 'transparent',
-              color: '#4a3a20',
+                lesson === i ? '#ece6fc' : 'transparent',
+              color: '#374151',
               borderTop: '1px solid rgba(216,197,138,.3)',
             }}
           >
@@ -975,7 +1024,7 @@ const [open, setOpen] = useState(false)
 
         <div
           style={{
-            background: 'linear-gradient(135deg,#6d28d9,#9333ea)',
+            background: 'linear-gradient(135deg,#59218c, #501e7e)',
             color: 'white',
             padding: 25,
             borderRadius: 24,
@@ -1020,7 +1069,8 @@ const [open, setOpen] = useState(false)
               <h3
                 style={{
                   marginTop: 0,
-                  color: '#6d28d9'
+                  color: '#6d28d9',
+                  fontSize: '22px'
                 }}
               >
                 {section.title}
