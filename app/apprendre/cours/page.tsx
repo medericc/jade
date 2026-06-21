@@ -989,22 +989,22 @@ Oéyt Leçoûs
       <select
         value={lesson}
         onChange={(e) => setLesson(Number(e.target.value))}
-        style={{
-          width: '100%',
-          padding: '1rem 3rem 1rem 1.25rem',
-          borderRadius: 18,
-          border: '2px solid #f3c623',
-          background: '#fffdf7',
-          color: '#2a0c45',
-          fontSize: '1rem',
-          fontWeight: 700,
-          cursor: 'pointer',
-          outline: 'none',
-          boxShadow: '0 8px 20px rgba(42,12,69,.06)',
-          appearance: 'none',
-          WebkitAppearance: 'none',
-          MozAppearance: 'none',
-        }}
+       style={{
+  width: '100%',
+  padding: '14px 50px 14px 18px',
+  border: '1px solid #e5e7eb',
+  borderRadius: 18,
+  background: '#fff',
+  color: '#374151',
+  fontSize: '1rem',
+  fontWeight: 600,
+  cursor: 'pointer',
+  outline: 'none',
+  boxShadow: 'none',
+  appearance: 'none',
+  WebkitAppearance: 'none',
+  MozAppearance: 'none',
+}}
       >
         {lessons.map((l, i) => (
           <option key={i} value={i}>
@@ -1019,7 +1019,7 @@ Oéyt Leçoûs
           right: 18,
           top: '50%',
           transform: 'translateY(-50%)',
-          color: '#b8941f',
+          color: '#6b7280',
           fontSize: '1rem',
           pointerEvents: 'none',
           fontWeight: 700,
