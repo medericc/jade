@@ -1,12 +1,29 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import Link from 'next/link'
+function useMediaQuery(query: string) {
+  const [matches, setMatches] = useState(false)
 
+  useEffect(() => {
+    const media = window.matchMedia(query)
+
+    const listener = () => setMatches(media.matches)
+
+    listener()
+
+    media.addEventListener('change', listener)
+
+    return () =>
+      media.removeEventListener('change', listener)
+  }, [query])
+
+  return matches
+}
 export default function LeconsPage() {
   const [lesson, setLesson] = useState(0)
 const [open, setOpen] = useState(false)
-
+const isMobile = useMediaQuery('(max-width: 767px)')
   const lessons = [
     {
       title: 'Leçon 0 — Principes de base',
@@ -966,58 +983,102 @@ Oéyt Leçoûs
     marginBottom: 25,
   }}
 >
-
-
-  <div style={{ position: 'relative' }}>
-    <button
-      onClick={() => setOpen(!open)}
-      style={{
-        width: '100%',
-        padding: '14px 18px',
-       border: '1px solid #e5e7eb',
-background: '#fff',
-color: '#374151',
-        fontWeight: 600,
-        textAlign: 'left',
-        cursor: 'pointer',
-      }}
-    >
-      {lessons[lesson].title} ▾
-    </button>
-
-    {open && (
-      <div
+  {isMobile ? (
+    <div style={{ position: 'relative' }}>
+      <select
+        value={lesson}
+        onChange={(e) => setLesson(Number(e.target.value))}
         style={{
-          border: '1px solid #e5e7eb',
-          borderTop: 'none',
-          background: '#fff',
-          borderBottomLeftRadius: 14,
-          borderBottomRightRadius: 14,
-          overflow: 'hidden',
+          width: '100%',
+          padding: '1rem 3rem 1rem 1.25rem',
+          borderRadius: 18,
+          border: '2px solid #f3c623',
+          background: '#fffdf7',
+          color: '#2a0c45',
+          fontSize: '1rem',
+          fontWeight: 700,
+          cursor: 'pointer',
+          outline: 'none',
+          boxShadow: '0 8px 20px rgba(42,12,69,.06)',
+          appearance: 'none',
+          WebkitAppearance: 'none',
+          MozAppearance: 'none',
         }}
       >
         {lessons.map((l, i) => (
-          <div
-            key={i}
-            onClick={() => {
-              setLesson(i)
-              setOpen(false)
-            }}
-            style={{
-              padding: '12px 18px',
-              cursor: 'pointer',
-              background:
-                lesson === i ? '#ece6fc' : 'transparent',
-              color: '#374151',
-              borderTop: '1px solid rgba(216,197,138,.3)',
-            }}
-          >
+          <option key={i} value={i}>
             {l.title}
-          </div>
+          </option>
         ))}
+      </select>
+
+      <div
+        style={{
+          position: 'absolute',
+          right: 18,
+          top: '50%',
+          transform: 'translateY(-50%)',
+          color: '#b8941f',
+          fontSize: '1rem',
+          pointerEvents: 'none',
+          fontWeight: 700,
+        }}
+      >
+        ▼
       </div>
-    )}
-  </div>
+    </div>
+  ) : (
+    <div style={{ position: 'relative' }}>
+      <button
+        onClick={() => setOpen(!open)}
+        style={{
+          width: '100%',
+          padding: '14px 18px',
+          border: '1px solid #e5e7eb',
+          background: '#fff',
+          color: '#374151',
+          fontWeight: 600,
+          textAlign: 'left',
+          cursor: 'pointer',
+        }}
+      >
+        {lessons[lesson].title} ▾
+      </button>
+
+      {open && (
+        <div
+          style={{
+            border: '1px solid #e5e7eb',
+            borderTop: 'none',
+            background: '#fff',
+            borderBottomLeftRadius: 14,
+            borderBottomRightRadius: 14,
+            overflow: 'hidden',
+          }}
+        >
+          {lessons.map((l, i) => (
+            <div
+              key={i}
+              onClick={() => {
+                setLesson(i)
+                setOpen(false)
+              }}
+              style={{
+                padding: '12px 18px',
+                cursor: 'pointer',
+                background:
+                  lesson === i ? '#ece6fc' : 'transparent',
+                color: '#374151',
+                borderTop: '1px solid rgba(216,197,138,.3)',
+              }}
+            >
+              {l.title}
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )}
 </div>
 
         <div
