@@ -178,7 +178,7 @@ export default function Timeline() {
       }}
     >
      <img
-    src="/fra.png"
+    src="/fra.webp"
     alt="France"
     style={{
       width: '24px',

@@ -112,7 +112,7 @@ export default function SaintAugustinPage() {
       }}
     >
       <img
-    src="/fra.png"
+    src="/fra.webp"
     alt="France"
     style={{
       width: '24px',

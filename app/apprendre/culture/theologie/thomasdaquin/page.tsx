@@ -432,7 +432,7 @@ export default function SaintThomasAquinPage() {
       }}
     >
        <img
-    src="/fra.png"
+    src="/fra.webp"
     alt="France"
     style={{
       width: '24px',
