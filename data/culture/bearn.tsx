@@ -324,7 +324,7 @@ be: (    <p>
   'republique': {
      titre: "L'Affirmation Béarnaise",
     periode: "Temps Féodaux",
-    resume: "Les États devant la France",
+    resume: "Les États de Béarn devant la France",
     introduction: "Les États affirment définitivement leur indépendance...",
     image: "/images/histoire/antiquite.jpg",
     sections: [

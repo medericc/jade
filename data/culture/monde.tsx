@@ -553,7 +553,7 @@ Le 1er août 1793, la République naissante est en danger. ”On ne peut pas cha
    'revolution-france': {
      titre: "Sous la Terreur",
     periode: "Époque Moderne",
-    resume: "Les Deux France",
+    resume: "La France se rapproche du libéralisme",
     introduction: "La République s'impose en France....",
     image: "/images/histoire/antiquite.jpg",
     sections: [
