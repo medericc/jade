@@ -216,11 +216,12 @@ Counyuguesoû
     position: 'absolute',
     right: 18,
     top: 18,
-transform: 'none',
-    color: '#b8941f',
+    color: '#2a0c45',
     fontSize: '1rem',
     pointerEvents: 'none',
     fontWeight: 700,
+    transform: open ? 'rotate(180deg)' : 'rotate(0deg)',
+    transition: 'transform 0.2s ease',
   }}
 >
   ▼

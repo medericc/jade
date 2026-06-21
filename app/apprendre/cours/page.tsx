@@ -1054,6 +1054,8 @@ Oéyt Leçoûs
     fontSize: '1rem',
     pointerEvents: 'none',
     fontWeight: 700,
+     transform: open ? 'rotate(180deg)' : 'rotate(0deg)',
+    transition: 'transform 0.2s ease',
   }}
 >
   ▼
