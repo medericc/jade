@@ -1,6 +1,5 @@
 [
- 
- 
+
   {
     "id": 4,
     "titre": "a",
@@ -11121,13 +11120,7 @@
     "type": "nom masculin",
     "search": "bilhét billet de banque ; billet (court message écrit)"
   },
-  {
-    "id": 1850,
-    "titre": "bilhéte",
-    "definition": "ticket, quittance",
-    "type": "nom féminin",
-    "search": "bilhéte ticket, quittance"
-  },
+ 
   {
     "id": 1851,
     "titre": "bilhoû",
@@ -55071,6 +55064,13 @@
     "type": "nom féminin",
     "search": "origine origine"
   },
+   {
+    "id": 8651,
+    "titre": "orlòdye",
+    "definition": "horloge",
+    "type": "nom féminin",
+    "search": "orlòdye horloge"
+  },
  
   
   {
@@ -67104,7 +67104,7 @@
     "id": 10444,
     "titre": "sanc",
     "definition": "sang",
-    "type": "nom masculin et féminin",
+    "type": "nom masculin",
     "search": "sanc sang"
   },
   {
@@ -68528,10 +68528,10 @@
   },
   {
     "id": 10672,
-    "titre": "sèrp",
+    "titre": "serpèn",
     "definition": "serpent",
-    "type": "nom féminin",
-    "search": "sèrp serpent"
+    "type": "nom masculin",
+    "search": "serpèn serpent"
   },
   {
     "id": 10673,

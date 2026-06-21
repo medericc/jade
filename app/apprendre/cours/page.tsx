@@ -846,13 +846,13 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Lou hum → la fumée",
     "Û limac → une limace",
     "Û pa → une paire",
-    "La bilhéte → le ticket.",
+    
     "La lèbẹ → le lièvre.",
     "La lèyt → le lait",
     "La mensounye → le mensonge",
-    "La sanc → le sang",
+    
     "La sau → le sel",
-    "La sèrp → le serpent",
+  
     "Ûe ungle → un ongle"
   ]
 },
