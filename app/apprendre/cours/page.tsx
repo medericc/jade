@@ -470,7 +470,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Aquéths / Aquéres → ceux-ci, celles-ci",
     "Acéth / Acére → celui-là, celle-là",
     "Acéths / Acéres → ceux-là, celles-là",
-    "Aquéste chin ba à hoéc de calhau dinco à lou ! → Cet enfant va vite chez lui !"
+    "Aquéste maynàdye ba à hoéc de calhau dinco à lou ! → Cet enfant va vite chez lui !"
   ]
 },
 
