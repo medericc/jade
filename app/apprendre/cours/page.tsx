@@ -23,6 +23,7 @@ function useMediaQuery(query: string) {
 export default function LeconsPage() {
   const [lesson, setLesson] = useState(0)
 const [open, setOpen] = useState(false)
+const [hoveredLesson, setHoveredLesson] = useState<number | null>(null)
 const isMobile = useMediaQuery('(max-width: 767px)')
   const lessons = [
     {
@@ -1033,7 +1034,7 @@ Oéyt Leçoûs
         onClick={() => setOpen(!open)}
         style={{
           width: '100%',
-          padding: '14px 18px',
+         padding: '14px 50px 14px 18px',
           border: '1px solid #e5e7eb',
           background: '#fff',
           color: '#374151',
@@ -1042,9 +1043,21 @@ Oéyt Leçoûs
           cursor: 'pointer',
         }}
       >
-        {lessons[lesson].title} ▾
+        {lessons[lesson].title}
       </button>
-
+<div
+  style={{
+    position: 'absolute',
+    right: 18,
+    top: 18,
+    color: '#b8941f',
+    fontSize: '1rem',
+    pointerEvents: 'none',
+    fontWeight: 700,
+  }}
+>
+  ▼
+</div>
       {open && (
         <div
           style={{
@@ -1059,16 +1072,22 @@ Oéyt Leçoûs
           {lessons.map((l, i) => (
             <div
               key={i}
+              onMouseEnter={() => setHoveredLesson(i)}
+    onMouseLeave={() => setHoveredLesson(null)}
               onClick={() => {
                 setLesson(i)
+                
                 setOpen(false)
               }}
               style={{
                 padding: '12px 18px',
                 cursor: 'pointer',
-                background:
-                  lesson === i ? '#ece6fc' : 'transparent',
-                color: '#374151',
+              background:
+  lesson === i
+    ? '#ece6fc'
+    : hoveredLesson === i
+    ? '#f5f3ff'
+    : 'transparent', color: '#374151',
                 borderTop: '1px solid rgba(216,197,138,.3)',
               }}
             >
