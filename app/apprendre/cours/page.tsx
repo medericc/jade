@@ -1050,7 +1050,7 @@ Oéyt Leçoûs
     position: 'absolute',
     right: 18,
     top: 18,
-    color: '#b8941f',
+    color: '#6b7280',
     fontSize: '1rem',
     pointerEvents: 'none',
     fontWeight: 700,
