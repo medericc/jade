@@ -508,14 +508,15 @@ const [open, setOpen] = useState(false)
   content: [
     "Adiu ! → Bonjour, au revoir.",
     "Adichat ! → Bonjour, au revoir.",
-    "Adichat, bràbe moùnde ! → Salut, gentils gens !",
+    "Adichat, bràbe moùnde ! → Bonjour, gentilles gens !",
     "Boû die ! → Bonjour !",
     "Boû brèspe ! → Bon après-midi !",
     "Boune serade ! → Bonne soirée !",
     "Boune noéyt ! → Bonne nuit !",
     "Boune escadénce ! → Bonne chance !",
     "Merci hère ! → Merci beaucoup !",
-    "D’arré. → De rien.",
+    "Que pe-n séy grat → Je vous en sais gré",
+  "D’arré. → De rien.",
     "En te pregan. → Je t’en prie.",
     "En pe pregan. → Je vous en prie.",
     "Si-bou-plèt. → S’il vous plaît."
@@ -944,9 +945,7 @@ Oéyt Leçoûs
               margin: '1.5rem auto 0',
             }}
           >
-            Découvrez les règles essentielles de la conjugaison béarnaise,
-            les temps verbaux et les principales particularités.
-          </p>
+     Apprenez le béarnais pas à pas grâce à des leçons thématiques, des règles essentielles et des exemples pratiques.  </p>
         </div>
       </section>
       <div
@@ -1069,24 +1068,28 @@ color: '#374151',
                 style={{
                   marginTop: 0,
                   color: '#6d28d9',
-                  fontSize: '22px'
+                  fontSize: '23px'
                 }}
               >
                 {section.title}
               </h3>
-
+<div  style={{
+          
+            marginTop: 10
+          }}>
               {section.content.map((line, i) => (
                 <p
                   key={i}
                   style={{
                     lineHeight: 1.8,
                     marginBottom: 10,
-    fontSize: '1.5rem'
+                        
+    fontSize: '1.2rem'
                   }}
                 >
                   {line}
                 </p>
-              ))}
+              ))}</div>
             </div>
           ))}
         </div>

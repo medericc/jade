@@ -179,8 +179,15 @@ Counyuguesoû
 
       {section === 'pronoms' && (
         <section style={{ padding: '0 1rem 5rem' }}>
-          <div style={{ maxWidth: 1200, margin: '0 auto' }}>
-            <Card
+      <div
+  style={{
+    maxWidth: 1200,
+    margin: '0 auto',
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '2rem',
+  }}
+>   <Card
               title="Pronom personnel"
               icon="📝"
             >
