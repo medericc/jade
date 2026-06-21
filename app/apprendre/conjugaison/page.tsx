@@ -1,7 +1,27 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
+
+
+function useMediaQuery(query: string) {
+  const [matches, setMatches] = useState(false)
+
+  useEffect(() => {
+    const media = window.matchMedia(query)
+
+    const listener = () => setMatches(media.matches)
+
+    listener()
+
+    media.addEventListener('change', listener)
+
+    return () =>
+      media.removeEventListener('change', listener)
+  }, [query])
+
+  return matches
+}
 
 const sections = [
   {
@@ -28,7 +48,9 @@ const sections = [
 
 export default function ConjugaisonPage() {
   const [section, setSection] = useState('pronoms')
-
+  const [open, setOpen] = useState(false)
+  const [hovered, setHovered] = useState<string | null>(null)
+const isMobile = useMediaQuery('(max-width: 767px)')
   return (
     <main
       style={{
@@ -125,53 +147,129 @@ Counyuguesoû
       margin: '0 auto',
     }}
   >
-    <div
+   {isMobile ? (
+  <div style={{ position: 'relative' }}>
+    <select
+      value={section}
+      onChange={(e) => setSection(e.target.value)}
       style={{
-        position: 'relative',
+        width: '100%',
+        padding: '1rem 3rem 1rem 1.25rem',
+        borderRadius: open ? '18px 18px 0 0' : 18,
+        border: '2px solid #f3c623',
+        background: '#fffdf7',
+        color: '#2a0c45',
+        fontSize: '1rem',
+        fontWeight: 700,
+        cursor: 'pointer',
+        outline: 'none',
+        boxShadow: '0 8px 20px rgba(42,12,69,.06)',
+        appearance: 'none',
+        WebkitAppearance: 'none',
+        MozAppearance: 'none',
       }}
     >
-      <select
-        value={section}
-        onChange={(e) => setSection(e.target.value)}
+      {sections.map((s) => (
+        <option key={s.key} value={s.key}>
+          {s.label}
+        </option>
+      ))}
+    </select>
+
+    <div
+      style={{
+        position: 'absolute',
+        right: 18,
+        top: '50%',
+        transform: 'translateY(-50%)',
+        color: '#b8941f',
+        fontSize: '1rem',
+        pointerEvents: 'none',
+        fontWeight: 700,
+      }}
+    >
+      ▼
+    </div>
+  </div>
+) : (
+  <div style={{ position: 'relative' }}>
+<button
+  onClick={() => setOpen(!open)}
+  style={{
+    width: '100%',
+    padding: '14px 50px 14px 18px',
+    border: '2px solid #f3c623',
+    background: '#fffdf7',
+    color: '#2a0c45',
+    fontWeight: 700,
+    textAlign: 'left',
+    cursor: 'pointer',
+    borderRadius: open ? '18px 18px 0 0' : 18,
+    boxShadow: '0 8px 20px rgba(42,12,69,.06)',
+  }}
+>
+  {sections.find((s) => s.key === section)?.label}
+</button>
+
+<div
+  style={{
+    position: 'absolute',
+    right: 18,
+    top: 18,
+transform: 'none',
+    color: '#b8941f',
+    fontSize: '1rem',
+    pointerEvents: 'none',
+    fontWeight: 700,
+  }}
+>
+  ▼
+</div>
+
+    {open && (
+      <div
         style={{
-          width: '100%',
-          padding: '1rem 3rem 1rem 1.25rem',
-          borderRadius: 18,
           border: '2px solid #f3c623',
+          borderTop: 'none',
           background: '#fffdf7',
-          color: '#2a0c45',
-          fontSize: '1rem',
-          fontWeight: 700,
-          cursor: 'pointer',
-          outline: 'none',
+          borderBottomLeftRadius: 18,
+          borderBottomRightRadius: 18,
+          overflow: 'hidden',
           boxShadow: '0 8px 20px rgba(42,12,69,.06)',
-          appearance: 'none',
-          WebkitAppearance: 'none',
-          MozAppearance: 'none',
         }}
       >
         {sections.map((s) => (
-          <option key={s.key} value={s.key}>
+          <div
+            key={s.key}
+            onMouseEnter={() => setHovered(s.key)}
+  onMouseLeave={() => setHovered(null)}
+            onClick={() => {
+              setSection(s.key)
+              setOpen(false)
+            }}
+            style={{
+              padding: '12px 18px',
+              cursor: 'pointer',
+               background:
+      section === s.key
+        ? '#ece6fc'
+        : hovered === s.key
+        ? '#f6f0ff'
+        : 'transparent',
+              color: '#2a0c45',
+              borderTop:
+                '1px solid rgba(243,198,35,.25)',
+              fontWeight:
+                section === s.key ? 700 : 500,
+            }}
+          >
             {s.label}
-          </option>
+          </div>
         ))}
-      </select>
-
-      <div
-        style={{
-          position: 'absolute',
-          right: 18,
-          top: '50%',
-          transform: 'translateY(-50%)',
-          color: '#b8941f',
-          fontSize: '1rem',
-          pointerEvents: 'none',
-          fontWeight: 700,
-        }}
-      >
-        ▼
       </div>
-    </div>
+    )}
+  </div>
+)}
   </div>
 </section>
 
