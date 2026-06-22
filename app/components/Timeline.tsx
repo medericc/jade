@@ -180,7 +180,7 @@ export default function Timeline() {
     >
     <Image
   src="/fra.webp"
-  alt="France"
+alt="Drapeau de la France"
   width={24}
   height={24}
   style={{
@@ -203,7 +203,7 @@ export default function Timeline() {
     >
       <Image
   src="/bearn.png"
-  alt="Béarn"
+alt="Drapeau du Béarn"
   width={24}
   height={24}
   style={{
