@@ -4,13 +4,26 @@ import ApprendreHeader from '../components/apprendre/ApprendreHeader'
 import HeroSection from '../components/apprendre/HeroSection'
 import LearningGrid from '../components/apprendre/LearningGrid'
 
-import '@/app/components/apprendre/styles.module.css'
-
+export const metadata = {
+  title: "Apprendre le béarnais | Cours, conjugaison, dictionnaire et culture",
+  description:
+    "Découvrez le béarnais grâce à des cours gratuits, une conjugaison complète, un dictionnaire, des ressources culturelles et l'histoire du Béarn.",
+  keywords: [
+    "béarnais",
+    "apprendre le béarnais",
+    "cours de béarnais",
+    "langue béarnaise",
+    "dictionnaire béarnais",
+    "conjugaison béarnaise",
+    "culture béarnaise",
+    "histoire du Béarn",
+    "occitan béarnais",
+  ],
+}
 export default function ApprendrePage() {
   return (
     <main className="apprendre-page">
 
-{/* Le courage de Gaston IV le Croisé, la rigueur morale de Jeanne d’Albret, la foi de Saint Gontran, la défense de Catherine de Navarre, l’amour d’Henri d’Albret, la ténacité de Catherine de Bourbon et, si possible, le génie de Fébus : toute l'âme du Béarn. */}
 
 
       <ApprendreHeader />
@@ -19,7 +32,7 @@ export default function ApprendrePage() {
 
       <LearningGrid />
 
-     
+
 
       <Footer />
     </main>

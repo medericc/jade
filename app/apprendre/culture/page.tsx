@@ -1,4 +1,4 @@
-// app/histoire/page.tsx
+// app/apprendre/culture/page.tsx
 
 import Timeline from '../../components/Timeline'
 import Link from 'next/link'
@@ -19,12 +19,30 @@ type Carte =
 
 
 
-
-
-
-
 export const metadata = {
+  title: 'Culture Béarnaise - Histoire du Béarn, du Monde et Théologie',
+  description:
+    "Découvrez l'histoire du Béarn, du Monde et les grandes figures historiques, les saints, docteurs de l'Église et les enseignements de la tradition catholique.",
+  keywords: [
+    'Béarn',
+    'histoire du Béarn',
+    'histoire du Monde',
+    'culture béarnaise',
+    'théologie catholique',
+    'saints catholiques',
+    'saint Augustin',
+    'sainte Hildegarde',
+    'saint Thomas d’Aquin',
+  ],
+   alternates: {
+    canonical: '/apprendre/culture',
+  },
+  openGraph: {
   title: 'Culture Béarnaise',
+  description:
+    "Histoire du Béarn, du Monde et grandes figures spirituelles.",
+  type: 'website',
+}
 }
 const cartes : Carte[] = [
   {
@@ -146,7 +164,7 @@ export default function HistoirePage() {
             Histoire du Béarn
           </h1>
 
-          <p
+          <h2
             style={{
               color: '#d8c7e8',
               fontSize: '1.2rem',
@@ -157,7 +175,7 @@ export default function HistoirePage() {
             Découvrez les événements, les personnages et les
             transformations qui ont façonné l&apos;histoire du Béarn
             et du monde.
-          </p>
+          </h2>
         </div>
       </section>
 
@@ -285,7 +303,7 @@ export default function HistoirePage() {
         textDecoration: 'none',
       }}
     >
-      <div
+      <article
         style={{
           background:
             'linear-gradient(180deg,#fff9de,#fff4cc)',
@@ -326,7 +344,7 @@ export default function HistoirePage() {
         >
           Découvrir →
         </div>
-      </div>
+      </article>
     </Link>
   )
 })}
@@ -334,6 +352,54 @@ export default function HistoirePage() {
     </div>
 
    
+  </div>
+</section>
+
+
+<section
+  style={{
+    padding: '0 1rem 5rem',
+  }}
+>
+  <div
+    style={{
+      maxWidth: 900,
+      margin: '0 auto',
+      background: '#fff',
+      borderRadius: 24,
+      padding: '2rem',
+      boxShadow: '0 8px 25px rgba(0,0,0,.06)',
+      lineHeight: 1.9,
+      color: '#4b5563',
+    }}
+  >
+    <h2
+      style={{
+        color: '#2a0c45',
+        fontSize: 'clamp(1.8rem,4vw,2.5rem)',
+        marginTop: 0,
+      }}
+    >
+      L’âme du Béarn
+    </h2>
+
+    <p>
+      Le Béarn possède une histoire riche qui s&apos;étend de
+      l&apos;Antiquité à nos jours. Ancienne principauté
+      pyrénéenne, il a connu de nombreux événements
+      politiques, religieux et culturels qui ont façonné
+      son identité. Découvrez les grandes périodes de
+      l&apos;histoire béarnaise et du monde ainsi que les
+      personnages qui ont marqué le territoire.
+    </p>
+
+    <p>
+      La hargne de Gaston IV le Croisé, la rigueur morale
+      de Jeanne d&apos;Albret, la foi de Saint Gontran, la
+      défense de Catherine de Navarre, la pragmaticité d&apos;Henri
+      d&apos;Albret, la ténacité de Catherine de Bourbon et, si possible, 
+      le génie de Fébus : toute l&apos;âme du Béarn. 
+    </p>
   </div>
 </section>
     </main>

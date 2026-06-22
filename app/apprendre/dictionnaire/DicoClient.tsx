@@ -438,6 +438,92 @@ overflow: hidden;
             )}
           </div>
         </section>
+
+
+
+
+
+<section
+  style={{
+    maxWidth: 950,
+    margin: '5rem auto',
+    padding: '0 2rem',
+  }}
+>
+  <div
+    style={{
+      display: 'inline-block',
+      padding: '0.3rem 0.8rem',
+      borderRadius: 999,
+      background: '#f3c623',
+      color: '#2a0c45',
+      fontSize: '.75rem',
+      fontWeight: 800,
+      letterSpacing: '.12em',
+      textTransform: 'uppercase',
+      marginBottom: '1rem',
+    }}
+  >
+    Dictionnaire
+  </div>
+
+  <h2
+    style={{
+      margin: 0,
+      marginBottom: '1.5rem',
+      color: '#2a0c45',
+      fontSize: 'clamp(2rem,3vw,2.8rem)',
+      fontWeight: 800,
+    }}
+  >
+    Dictionnaire béarnais–français en ligne
+  </h2>
+
+  <p
+    style={{
+      color: '#4b2c68',
+      fontSize: '1.1rem',
+      lineHeight: 1.9,
+      marginBottom: '1rem',
+    }}
+  >
+    Ce <strong>dictionnaire béarnais–français</strong> vous permet de rechercher
+    rapidement la traduction et la définition de nombreux mots en béarnais.
+    Que vous cherchiez un terme précis ou que vous souhaitiez enrichir votre
+    vocabulaire, cette ressource a été conçue pour offrir une consultation
+    simple, rapide et gratuite.
+  </p>
+
+  <p
+    style={{
+      color: '#4b2c68',
+      fontSize: '1.1rem',
+      lineHeight: 1.9,
+      marginBottom: '1rem',
+    }}
+  >
+    Grâce au moteur de recherche intégré, trouvez facilement un mot béarnais,
+    une traduction en français ou une expression courante.
+Pour aller plus loin, vous pouvez également consulter les{" "}
+    <Link href="/apprendre/cours" style={{ color: '#5c2390', fontWeight: 700 }}>
+      cours de béarnais
+    </Link>{" "}
+    ainsi que la{" "}
+    <Link
+      href="/apprendre/conjugaison"
+      style={{ color: '#5c2390', fontWeight: 700 }}
+    >
+      conjugaison béarnaise
+    </Link>
+    , afin de compléter votre apprentissage avec des explications et des
+    exemples pratiques.
+  </p>
+</section>
+
+
+
+
+
 </main>
         {/* FOOTER */}
         <footer
