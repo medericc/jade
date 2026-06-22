@@ -1,6 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
+import Image from "next/image"
 import Link from "next/link"
 import { useState } from "react"
 const demeures = [
@@ -147,15 +148,15 @@ export default function SevenMansionsPage() {
             : 'text-[#c6a972]'
         }`}
       >
-          <img
-    src="/fra.webp"
-    alt="France"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+         <Image
+  src="/fra.webp"
+  alt="France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
       </button>
 
       <button
@@ -166,11 +167,15 @@ export default function SevenMansionsPage() {
             : 'text-[#c6a972]'
         }`}
       >
-        <img
-          src="/bearn.png"
-          alt="Béarn"
-          className="h-5 w-5 object-contain"
-        />
+       <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
       </button>
     </div>
 

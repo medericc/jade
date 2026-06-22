@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Footer from '../../../../components/layout/Footer'
 
 import styles from './augustin.module.css'
+import Image from 'next/image'
 
 const teachings = [
   {
@@ -111,15 +112,15 @@ export default function SaintAugustinPage() {
         cursor: 'pointer',
       }}
     >
-      <img
-    src="/fra.webp"
-    alt="France"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+    <Image
+  src="/fra.webp"
+  alt="France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
 
     <button
@@ -136,15 +137,15 @@ export default function SaintAugustinPage() {
         cursor: 'pointer',
       }}
     >
-      <img
-        src="/bearn.png"
-        alt="Béarn"
-        style={{
-          width: '24px',
-          height: '24px',
-          objectFit: 'contain',
-        }}
-      />
+    <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
   </div>
     </div>
@@ -210,15 +211,15 @@ export default function SaintAugustinPage() {
         cursor: 'pointer',
       }}
     >
-      <img
-        src="/bearn.png"
-        alt="Béarn"
-        style={{
-          width: '24px',
-          height: '24px',
-          objectFit: 'contain',
-        }}
-      />
+    <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
   </div>
     </div>

@@ -2,6 +2,7 @@
 
 import { ReactNode, useState, useEffect } from 'react';
 import ExpandableSection from '../../../../components/ExpandableSection';
+import Image from "next/image";
 
 type Section = {
   titre: string;
@@ -77,15 +78,15 @@ export default function HistoireAnalyse({
                 cursor: 'pointer',
               }}
             >
-                 <img
-    src="/fra.webp"
-    alt="France"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+                <Image
+  src="/fra.webp"
+  alt="France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
             </button>
 
             <button
@@ -106,15 +107,15 @@ export default function HistoireAnalyse({
                 cursor: 'pointer',
               }}
             >
-               <img
-    src="/bearn.png"
-    alt="Béarn"
-    style={{
-      width: '26px',
-      height: '26px',
-      objectFit: 'contain',
-    }}
-  />
+           <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
             </button>
           </div>
         </div>

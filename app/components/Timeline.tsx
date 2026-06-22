@@ -4,6 +4,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import Image from 'next/image';
 
 type Periode = {
   annee: string;
@@ -177,15 +178,15 @@ export default function Timeline() {
         fontSize: '1.1rem',
       }}
     >
-     <img
-    src="/fra.webp"
-    alt="France"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+    <Image
+  src="/fra.webp"
+  alt="France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
 
     <button
@@ -200,15 +201,15 @@ export default function Timeline() {
         fontSize: '1.1rem',
       }}
     >
-       <img
-    src="/bearn.png"
-    alt="Béarn"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+      <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
   </div>
 </div>

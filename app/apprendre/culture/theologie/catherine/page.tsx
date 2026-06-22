@@ -5,6 +5,7 @@ import { useState } from 'react'
 import Footer from '../../../../components/layout/Footer'
 
 import styles from './catherine.module.css'
+import Image from 'next/image'
 
 const teachingsF = [
   `Ne pas corriger un pécheur par peur ou polir ses phrases par confort social, c'est comme un médecin qui met un pansement sur une plaie purulente sans la nettoyer. On peut même accomplir soi-même sa pénitence car ce péché est seulement endormi en nous.`,
@@ -132,15 +133,15 @@ const teachings =
         cursor: 'pointer',
       }}
     >
-      <img
-        src="/bearn.png"
-        alt="Béarn"
-        style={{
-          width: '24px',
-          height: '24px',
-          objectFit: 'contain',
-        }}
-      />
+     <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
   </div>
     </div>
@@ -188,15 +189,15 @@ const teachings =
         cursor: 'pointer',
       }}
     >
-      <img
-    src="/fra.webp"
-    alt="France"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+    <Image
+  src="/fra.webp"
+  alt="France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
 
     <button
@@ -213,15 +214,15 @@ const teachings =
         cursor: 'pointer',
       }}
     >
-      <img
-        src="/bearn.png"
-        alt="Béarn"
-        style={{
-          width: '24px',
-          height: '24px',
-          objectFit: 'contain',
-        }}
-      />
+      <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
   </div>
     </div>

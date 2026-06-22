@@ -39,8 +39,12 @@ title: 'Page non trouvée',
 }
 
 return {
-title: `${data.titre} • Histoire du Béarn`,
-description: data.resume,
+ title: `${data.titre} | Histoire du Béarn et du Monde`,
+  description: data.resume,
+  openGraph: {
+    title: `${data.titre} | Histoire du Béarn et du Monde`,
+    description: data.resume,
+    type: 'article',},
 };
 }
 

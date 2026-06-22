@@ -4,6 +4,7 @@ import Footer from '@/app/components/layout/Footer'
 import { useState } from 'react'
 import styles from './hildegarde.module.css'
 import Link from 'next/link'
+import Image from 'next/image'
 
 
 export default function HildegardePage() {
@@ -73,15 +74,15 @@ export default function HildegardePage() {
         cursor: 'pointer',
       }}
     >
-      <img
-        src="/bearn.png"
-        alt="Béarn"
-        style={{
-          width: '24px',
-          height: '24px',
-          objectFit: 'contain',
-        }}
-      />
+    <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
   </div>
     </div>
@@ -126,15 +127,15 @@ export default function HildegardePage() {
         cursor: 'pointer',
       }}
     >
-      <img
-    src="/fra.webp"
-    alt="France"
-    style={{
-      width: '24px',
-      height: '24px',
-      objectFit: 'contain',
-    }}
-  />
+  <Image
+  src="/fra.webp"
+  alt="France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
 
     <button
@@ -151,15 +152,15 @@ export default function HildegardePage() {
         cursor: 'pointer',
       }}
     >
-      <img
-        src="/bearn.png"
-        alt="Béarn"
-        style={{
-          width: '24px',
-          height: '24px',
-          objectFit: 'contain',
-        }}
-      />
+    <Image
+  src="/bearn.png"
+  alt="Béarn"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
   </div>
     </div>
