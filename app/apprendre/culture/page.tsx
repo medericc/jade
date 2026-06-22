@@ -338,7 +338,7 @@ export default function HistoirePage() {
 
         <div
           style={{
-            color: '#8c63b5',
+            color: '#5b21b6',
             fontWeight: 600,
           }}
         >
@@ -363,42 +363,54 @@ export default function HistoirePage() {
 >
   <div
     style={{
-      maxWidth: 900,
+      maxWidth: 950,
       margin: '0 auto',
-      background: '#fff',
-      borderRadius: 24,
-      padding: '2rem',
-      boxShadow: '0 8px 25px rgba(0,0,0,.06)',
-      lineHeight: 1.9,
-      color: '#4b5563',
+       background: '#fff',
+      borderRadius: 28,
+      padding: '3rem 2rem',
+      boxShadow:
+        '0 12px 30px rgba(42,12,69,.08)',
+      textAlign: 'center',
     }}
   >
+    <div
+      style={{
+        color: '#b8941f',
+        fontWeight: 700,
+        letterSpacing: '.15em',
+        textTransform: 'uppercase',
+        marginBottom: '1rem',
+      }}
+    >
+      ✦ Béarn ✦
+    </div>
+
     <h2
       style={{
         color: '#2a0c45',
-        fontSize: 'clamp(1.8rem,4vw,2.5rem)',
-        marginTop: 0,
+        fontSize: 'clamp(2.4rem,5vw,4rem)',
+        fontWeight: 800,
+        margin: 0,
+        marginBottom: '2rem',
       }}
     >
-      L’âme du Béarn
+      L&apos;âme du Béarn
     </h2>
 
-    <p>
-      Le Béarn possède une histoire riche qui s&apos;étend de
-      l&apos;Antiquité à nos jours. Ancienne principauté
-      pyrénéenne, il a connu de nombreux événements
-      politiques, religieux et culturels qui ont façonné
-      son identité. Découvrez les grandes périodes de
-      l&apos;histoire béarnaise et du monde ainsi que les
-      personnages qui ont marqué le territoire.
-    </p>
-
-    <p>
+    <p
+      style={{
+        color: '#4b5563',
+        fontSize: 'clamp(1.2rem,2vw,1.5rem)',
+        lineHeight: 2,
+        margin: 0,
+        fontWeight: 500,
+      }}
+    >
       La hargne de Gaston IV le Croisé, la rigueur morale
       de Jeanne d&apos;Albret, la foi de Saint Gontran, la
-      défense de Catherine de Navarre, la pragmaticité d&apos;Henri
-      d&apos;Albret, la ténacité de Catherine de Bourbon et, si possible, 
-      le génie de Fébus : toute l&apos;âme du Béarn. 
+      défense de Catherine de Navarre, la pragmaticité
+      d&apos;Henri d&apos;Albret, la ténacité de Catherine de
+      Bourbon et, si possible, le génie de Fébus.
     </p>
   </div>
 </section>
