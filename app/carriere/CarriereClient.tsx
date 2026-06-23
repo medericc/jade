@@ -199,6 +199,24 @@ export default function CarrierePage() {
           background-size: 200% 100%;
           animation: shine 3s linear infinite;
         }
+
+        .highlightsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-md);
+}
+
+@media (max-width: 950px) {
+  .highlightsGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 450px) {
+  .highlightsGrid {
+    grid-template-columns: 1fr;
+  }
+}
       `}</style>
 
       <main style={{ minHeight: '100vh' }}>
@@ -356,11 +374,7 @@ export default function CarrierePage() {
               🏆 Highlights de carrière
             </h2>
 
-            <div style={{
-              display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
-              gap: 'var(--space-md)'
-            }}>
+         <div className="highlightsGrid">
            {careerHighlights.map((highlight, index) => (
   <div
     key={index}
