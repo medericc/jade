@@ -208,13 +208,25 @@
 /* RESPONSIVE */
 @media (max-width: 900px) {
 
+.fanzoneSection {
+  padding: 0 0 5rem 0;
+}
+
   .fanzoneLayout {
     grid-template-columns: 1fr;
     gap: 3rem;
   }
 
+  .fanzoneCard {
+    order: 1;
+    margin-bottom:5px;
+  }
+
+  .fanzoneLeft {
+    order: 2;
+  }
+
   .fanStats {
     grid-template-columns: 1fr;
   }
-
 }
