@@ -116,11 +116,11 @@
 .backLink {
   justify-self: start;
 
- color: #babd0d;
+ color: #f3cb5e;
 
   font-size: 1rem;
   font-weight: 700;
-color: rgb(255,255,0);
+
   transition: .25s ease;
 }
 
@@ -141,7 +141,7 @@ color: rgb(255,255,0);
 
   text-align: center;
 
-  color: #e7e4c3;
+ color: #f6f1e7;
 
   text-shadow:
     0 2px 8px rgba(244,197,66,.15);
