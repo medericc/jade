@@ -19,7 +19,7 @@ export default function PlayerSpotlight() {
         <div className={styles.playerOverlay} />
       </div>
 
-      <h1>JADE CELERIER</h1>
+      <h1 id="hero-heading">JADE CELERIER</h1>
       <p>#04 • Meneuse • Dodge City</p>
     </div>
   )

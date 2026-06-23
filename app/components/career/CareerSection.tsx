@@ -11,7 +11,7 @@ const career = [
   },
   {
     year: '-2025',
-    title: 'Entrèe au TGB',
+    title: 'Entrée au TGB',
     desc: 'Continue le Basket en Bigorre'
   },
   {
@@ -33,7 +33,7 @@ export default function CareerSection() {
 
         <div className={styles.sectionHeader}>
           <span className={styles.badge}>Parcours</span>
-          <h2>Sa Carrière</h2>
+          <h2 id="career-heading">Sa Carrière</h2>
           <p>
             Une multitude de clubs en quelques années
           </p>

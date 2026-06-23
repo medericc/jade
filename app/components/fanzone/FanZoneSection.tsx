@@ -60,7 +60,7 @@ export default function FanZoneSection() {
         <div className={styles.fanzoneCard}>
           <div className={styles.fanzoneIcon}>🗣️</div>
 
-          <h3>E tù, que parles biarnés ?</h3>
+          <h3 id="fan-zone-heading">E tù, que parles biarnés ?</h3>
 
           <p>
             Apprends la langue de Gaston Fébus et plonge dans la culture

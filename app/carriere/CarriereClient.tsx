@@ -18,7 +18,7 @@ export default function CarrierePage() {
     },
     {
       year: '-2025',
-      title: 'Entrèe au TGB',
+      title: 'Entrée au TGB',
       description: 'Elle passe 5 ans au Centre de Formation de Tarbes',
       icon: '⭐',
       color: '#FFD700'
