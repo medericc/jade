@@ -116,7 +116,7 @@
 .backLink {
   justify-self: start;
 
-  color: var(--orBearn);
+ color: #babd0d;
 
   font-size: 1rem;
   font-weight: 700;
@@ -141,15 +141,11 @@ color: rgb(255,255,0);
 
   text-align: center;
 
-  background: linear-gradient(
-    135deg,
-    #fff,
-    #f4c542,
-    #fff3bf
-  );
+  color: #e7e4c3;
 
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  text-shadow:
+    0 2px 8px rgba(244,197,66,.15);
+
 }
 @media (min-width: 769px) and (max-width: 1400px) {
 
