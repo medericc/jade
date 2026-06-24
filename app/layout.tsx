@@ -1,6 +1,10 @@
 import './globals.css'
 import type { Metadata } from 'next'
 
+
+// Search Console
+
+
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.ton-domaine.fr'),
   title: {
@@ -27,17 +31,33 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
+     url: '',
     title: 'Jade Célérier • Basket, Béarnais, Histoire et Culture',
     description:
       "Carrière sportive, apprentissage du béarnais et découverte de l'histoire et de la culture du Béarn.",
     siteName: 'Jade Célérier',
+     images: [
+    {
+      url: '/og-image.jpg',
+      width: 1200,
+      height: 630,
+      alt: 'Jade Célérier',
+    }, ],
   },
-  twitter: {
-    card: 'summary_large_image',
-  },
+ twitter: {
+  card: 'summary_large_image',
+  title: 'Jade Célérier • Basket, Béarnais, Histoire et Culture',
+   description:
+      "Carrière sportive, apprentissage du béarnais et découverte de l'histoire et de la culture du Béarn.",
+   images: ['/og-image.jpg'],
+},
   alternates: {
     canonical: '/',
   },
+  icons: {
+  icon: '/favicon.ico',
+  apple: '/apple-touch-icon.png',
+},
 }
 
 export default function RootLayout({
