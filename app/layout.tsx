@@ -54,9 +54,27 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/',
   },
-  icons: {
-  icon: '/favicon.ico',
+ icons: {
+  icon: [
+    {
+      url: '/favicon-96x96.png',
+      sizes: '96x96',
+      type: 'image/png',
+    },
+    {
+      url: '/favicon.svg',
+      type: 'image/svg+xml',
+    },
+  ],
+  shortcut: '/favicon.ico',
   apple: '/apple-touch-icon.png',
+},
+applicationName: 'Jade Célérier',
+
+appleWebApp: {
+  capable: true,
+  title: 'Jade, Béarn, Monde',
+  statusBarStyle: 'default',
 },
 }
 
