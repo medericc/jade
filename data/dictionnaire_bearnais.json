@@ -28486,13 +28486,7 @@
     "type": "adjectif",
     "search": "decourat -ade décoré"
   },
-  {
-    "id": 4549,
-    "titre": "deén",
-    "definition": "dedans",
-    "type": "adverbe, préposition et nom masculin",
-    "search": "deén dedans"
-  },
+
   {
     "id": 4550,
     "titre": "deduccioû",
@@ -28612,6 +28606,13 @@
     "definition": "dedans, à l'intérieur (adverbe) ; dans (préposition) ; dedans, intérieur (nom)",
     "type": "adverbe, préposition et nom masculin",
     "search": "dehén dedans, à l'intérieur (adverbe) ; dans (préposition) ; dedans, intérieur (nom)"
+  },
+   {
+    "id": 4571,
+    "titre": "déns",
+    "definition": "dans",
+    "type": "préposition",
+    "search": "déns dans"
   },
   {
     "id": 4568,
@@ -47564,7 +47565,7 @@
     "id": 7536,
     "titre": "lèbẹ",
     "definition": "lièvre. ♦ Pot de lèbẹ → bec de lièvre",
-    "type": "nom féminin",
+    "type": "nom masculin",
     "search": "lèbẹ lièvre. ♦ Pot de lèbẹ → bec de lièvre"
   },
   {
@@ -58501,10 +58502,10 @@
   },
   {
     "id": 9169,
-    "titre": "pès",
+    "titre": "pèys",
     "definition": "pays",
     "type": "nom masculin",
-    "search": "pès pays"
+    "search": "pèys pays"
   },
   {
     "id": 9170,
