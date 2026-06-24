@@ -280,7 +280,7 @@ alt="Drapeau du Béarn"
     <div className="container">
       <div className={styles.doctorCard}>
         <h3> {langue === 'fr'  ?
-          'Docteur de l’Église' : 'Docteur de l’Église' }
+          'Docteur de l’Église' : 'Douctur de la Glèyse' }
         </h3>
 
         <p>  {langue === 'fr' ? (  <>

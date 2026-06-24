@@ -10,6 +10,8 @@ type Periode = {
   annee: string;
   titre: string;
   description: string;
+  titrebe: string;
+  descriptionbe: string;
   slug: string;
 };
 
@@ -28,24 +30,32 @@ const periodes: Periode[] = [
     annee: "XIIe-XIVe siècle",
     titre: "Formation du Béarn médiéval", 
     description: "Émergence de la vicomté de Béarn",
+    titrebe: "Fourmaciou dou Biarn miéyancè",
+    descriptionbe: "Espelide de la Biscoumtat de Biarn",
     slug: 'fondement',
   },
  {
     annee: "XIVe siècle", 
     titre: "La Souveraineté",
     description: "Sous Fébus, le Béarn atteint son apogée politique",
+    titrebe: "La Souberanitat",
+    descriptionbe: " Debath Febus, lou Biarn qu'atén lou soû soum poulitique",
     slug: 'souverain',
   },
  {
     annee: "XIVe-XVIe siècle", 
    titre: "L'Affirmation Béarnaise",
     description: "Les États en affirmation définitivement l'indépendance",
+    titrebe: "L’Afirmaciou Biarnése",
+    descriptionbe: "Lous Estats qu'ahourtìssẹn plâ l'independénce",
     slug: 'republique',
   },
    {
     annee: "XVIe siècle", 
     titre: "Union avec la Navarre",
     description: "Union, perte de territoire mais affermissement de leur pouvoir",
+    titrebe: "Uniou dap la Nabarre",
+    descriptionbe: "Uniou, ménch de territòri més ahourtimén dou lou poudé",
     slug: 'navarre',
   }
   
@@ -56,6 +66,9 @@ const periodes: Periode[] = [
     annee: "XVIIe siècle", 
     titre: "Sous la Monarchie Absolue",
     description: "Le Béarn dirigeait depuis la région parisienne",
+     titrebe: "Debath la Mounarquìe Absolue",
+    descriptionbe: "Lou Biarn que miabe despuch la redyiou parisiène",
+
     slug: 'monarchie-absolue',
   }
   ,
@@ -64,6 +77,8 @@ const periodes: Periode[] = [
     annee: "XVIIIe siècle", 
     titre: "Le Béarn sous la Terreur",
     description: "Jusqu'à l'assassinat de Maximilien de Robespierre...",
+    titrebe: "Lou Biarn debath l'Espauride",
+    descriptionbe: "Dinco l’assassina de Maximilien de Robespierre...",
     slug: 'la-terreur',
   }
 
@@ -83,24 +98,32 @@ const periodes2: Periode[] = [
     annee: "Ie-Ve siècle",
     titre: "Naissance de l'Eglise", 
     description: "Les Enseignements du Christ",
+    titrebe: "Badence de la Glèyse",
+    descriptionbe: "Lous Ensegnaméns dou Crist",
     slug: 'eglise',
   },
   {
     annee: "Ve-VIIe siècle",
     titre: "Les Mérovingiens", 
     description: "La Naissance de la France",
+   titrebe: "Lous Meroubingièns ",
+    descriptionbe: "La Badence de la France",
     slug: 'naissance-france',
   },
  {
     annee: "IXe-XIVe siècle", 
     titre: "Les Capétiens",
     description: "De Charlemagne à Gaston Fébus",
+    titrebe: "Lous Capetians",
+    descriptionbe: "De Charlemagne dinco Gastoû Febus",
     slug: 'capet',
   },
  {
     annee: "XVe-XVIe siècle", 
    titre: "La Pucelle d'Orléans",
     description: "La Providence démarre de Lorraine",
+     titrebe: "La Puncèle d'Orléans",
+    descriptionbe: "La Proubidénci que part de Lorraine",
     slug: 'sainte-jeanne',
   }
   
@@ -109,6 +132,8 @@ const periodes2: Periode[] = [
     annee: "XVIe-XVIIIe siècle", 
     titre: "Les Protestants",
     description: "Une hérésie se disperse à travers l'Europe",
+    titrebe: "Lous Proutestans",
+    descriptionbe: "Ûe heretyìe se despartéch a-trabèrs l'Europe",
     slug: 'calviniste',
   }
   
@@ -117,6 +142,8 @@ const periodes2: Periode[] = [
     annee: "XVIIIe siècle", 
     titre: "La Révolution",
     description: "Les Républicains prennent Paris",
+      titrebe: "Le Monde des Banques",
+    descriptionbe: "Lous Republicâs gahen Paris",
     slug: 'paris',
   }
   
@@ -126,6 +153,8 @@ const periodes2: Periode[] = [
     annee: "XVIIIe-XIXe siècle", 
     titre: "Sous la Terreur",
     description: "La République s'impose en France",
+      titrebe: "Debath l'Espauride",
+    descriptionbe: "La Republique s'empose en France",
     slug: 'revolution-france',
   }
   ,
@@ -134,13 +163,15 @@ const periodes2: Periode[] = [
     annee: "XIXe-XXe siècle", 
     titre: "Le Monde des Banques",
     description: "L'être humain est objet...",
+    titrebe: "Lou Moùndẹ dous Banques",
+    descriptionbe: "L'òmi qu’éy û oubyèt...",
     slug: 'technologie',
   }
 ];
 
 export default function Timeline() {
   const [mode, setMode] = useState<'bearn' | 'monde'>('bearn');
-
+const [langue, setLangue] = useState<'fr' | 'be'>('fr');
   const data = mode === 'bearn' ? periodes : periodes2;
 
   return (
@@ -341,7 +372,9 @@ alt="Drapeau du Béarn"
                       marginBottom: '.75rem',
                     }}
                   >
-                    {periode.titre}
+                  {langue === 'be'
+  ? periode.titrebe || periode.titre
+  : periode.titre}
                   </h3>
 
                   <p
@@ -350,7 +383,9 @@ alt="Drapeau du Béarn"
                       lineHeight: 1.8,
                     }}
                   >
-                    {periode.description}
+                  {langue === 'be'
+  ? periode.descriptionbe || periode.description
+  : periode.description}
                   </p>
 
                   <Link
