@@ -66,7 +66,7 @@ const teachingsB = [
 
   `Lous qui atàquen la Glèyse ne pòdẹn pas touca Diu, més que pèrden la gràci, ço qu'ous mie ta la pèrtẹ si ne-s repénten pas. Touca ad û prèste (ou per despudi), qu'éy aufensat Diu directamén. Lou prèste qu'éy û tresor héns û bachèth de tèrre.`,
 
-  `Diu da à chacû lous secours doun a besougn, qu'éy lou boû e bertadè medecî. Si permet ûe esprabe qu'éy ta la toûe santificacioû. La hàmi, la sét, la pèrt de mounéde, las enhountes, lou rét que pèrmetẹn û but precis : lou salut. La sodomie ou la masturbaciou que soun hàstis, medich lous demouns (per noublesse de nature anyoulique) que-n soun espaurits.`
+  `Diu da à chacû lous secours doun a besougn, qu'éy lou boû e bertadè medecî. Si permet ûe esprabe qu'éy ta la toûe santificacioû. La hàmi, la sét, la pèrte de mounéde, las enhountes, lou rét que pèrmetẹn û but precis : lou salut. La sodomie ou la masturbaciou que soun hàstis, medich lous demouns (per noublesse de nature anyoulique) que-n soun espaurits.`
 
 
 
