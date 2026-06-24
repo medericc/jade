@@ -15,15 +15,15 @@ const teachings = [
     titleFr: 'Le but et la connaissance de soi',
        titleBe: 'Lou but e la counechence de se',
     textFr: `Personne ne se connaît assez pour savoir ce qu'il sera demain. Tout l'effort de la prière doit converger vers un seul but : la vie éternelle. La prière est puissamment aidée par les jeûnes et surtout par les aumônes (« chercher Dieu avec ses mains »). La prière est incompatible avec l'espoir placé dans les richesses incertaines. Méprisons le faste pour embrasser la vie véritable.`,
-    textBe: `Arrés ne se counèche  proû ta sabe  ço qui sera doumâ . Toute la pregari deu ana de cap à la bite eternau. La pregari qu'ey aydade p'ous dousyoas e sustout p'as deyoâs (« cerca Diu dap las soûes mas »). La pregari ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite beritàblẹ.`
+    textBe: `Arrés ne se counèche  proû ta sabe  ço qui sera doumâ . Toute la pregari deu ana de cap à la bite eternau. La pregari qu'ey aydade p'ous dousyoas e sustout p'as deyoâs (« cerca Diu dap las soûes mas »). La pregari ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite bertadère.`
   },
 
   {
     titleFr: 'La nature de la demande',
-      titleBe: 'La pratique des moines et la nature de la demande',
+      titleBe: 'La nature de la demande',
   
     textFr: `Les moines d'Égypte privilégient des prières brèves et fréquentes pour maintenir une attention vigilante sans se lasser. La prière se réalise souvent mieux dans les larmes que dans les grands discours. Si une demande ne peut pas se rapporter au Notre Père (ex : demander des richesses par cupidité), elle est "charnelle" ou illicite. Celui qui ne vit que pour les plaisirs des sens est considéré mort spirituellement.`,
-    textBe: `Les moines d'Égypte privilégient des prières brèves et fréquentes pour maintenir une attention vigilante sans se lasser. La prière se réalise souvent mieux dans les larmes que dans les grands discours. Si une demande ne peut pas se rapporter au Notre Père (ex : demander des richesses par cupidité), elle est "charnelle" ou illicite.`
+    textBe: `Lous moènes d'Egipte preferen pregaries braques e soubendes ta tiéne ûe atenciou arnauta. La pregari que se hé souben miélhẹ déns las larmes que déns lous grans debis. Si ûe demande ne-s pot pas yunta au Nouste Pay (ex : demanda richeses per aganidè), qu'ey "carnau" ou countre la ley. Lou qui bìbe que t'ous plases dous sens qu'ey counsiderat mour spirituaumen.`
   },
 
   {
@@ -47,23 +47,23 @@ const teachings = [
 
   {
     titleFr: 'La prière comme désir du cœur',
-      titleBe: 'La prière comme désir du cœur',
+      titleBe: 'La pregari coum desi dou co',
    
     textFr: `La véritable prière est un "désir continuel" nourri par la foi, l'espérance et la charité. La prière ne sert pas à informer Dieu, mais à exercer et dilater notre désir. Plus notre désir est grand, plus nous devenons capables de recevoir les dons que Dieu prépare. Les paroles ne sont là que pour nous rappeler à nous-mêmes ce que nous demandons et pour ranimer notre ferveur quand elle s'attiédit.`,
-    textBe: `La véritable prière est un "désir continuel" nourri par la foi, l'espérance et la charité. La prière ne sert pas à informer Dieu, mais à exercer et dilater notre désir. Plus notre désir est grand, plus nous devenons capables de recevoir les dons que Dieu prépare. Les paroles ne sont là que pour nous rappeler à nous-mêmes ce que nous demandons et pour ranimer notre ferveur quand elle s'attiédit.`
+    textBe: `La bertadère pregari qu'éy û "desi countinu" neurit per la fè, l'esperance e la caritat. La pregari ne sèr pas ta assabenta Diu, mé à-d exerça e dilata lou noùste desi. Méy lou noùstẹ desi qu'éy gran, méy que debieném capàblẹs de recébẹ lous dats qui Diu prepare. Las paraules soun aquiu soùnquẹ ta-ns rapela à nous-medichs ço qui demandam e ta rebiscoula lou noùste arséc quoan bade dousse.`
   },
 {
     titleFr: 'L’orientation des soins',
-    titleBe: 'Les limites et l’orientation des soins',
+    titleBe: 'L’orientaciou dous soégns',
   
     textFr: `Il est permis de prier pour la santé (intégrité de l'âme et du corps), l'amitié (l'affection envers les proches) et le nécessaire (nourriture et vêtement) pour maintenir un état convenable sans tomber dans l'excès ou l'orgueil. Par nécessité pour servir Dieu, ne pas laisser la concupiscence guider ces soins, rester orienté vers 1 seule fin.`,
-    textBe: `Il est permis de prier pour la santé (intégrité de l'âme et du corps), l'amitié (l'affection envers les proches et même les ennemis) et le nécessaire (nourriture et vêtement) pour maintenir un état convenable sans tomber dans l'excès ou l'orgueil. Par nécessité pour servir Dieu, ne pas laisser la « concupiscence » guider ces soins, rester orienté vers 1 seule fin.`
+    textBe: `Qu'éy permetut de prega ta la santat (integritat de l'àmne e dou cos), l'amistat (l'affecioû dap lous proches) e lou necessàri (mascadure e pélhe) ta tiéne û estat chéns càdẹ héns l'excès ou l'ourgulh. Per necessiytat ta serbi Diu, ne pas decha la counqupisence mia aquéts soégns, e demoura orientat de cap ad ûe soule fì.`
   },
   {
     titleFr: 'Le vrai bonheur',
-     titleBe: 'Le vrai bonheur et la fin de la prière',
+     titleBe: 'Lou bertadè bounur',
     textFr: `L'homme heureux n'est pas celui qui fait ce qu'il veut (car on peut vouloir le mal), mais celui qui a tout ce qu'il veut, à condition de ne vouloir que ce qui convient. La prière ne cessera que lorsque nous serons dans la terre des vivants, là où l'on ne demande plus le bien, mais où on le contemple.`,
-    textBe: `L'homme heureux n'est pas celui qui fait ce qu'il veut (car on peut vouloir le mal), mais celui qui a tout ce qu'il veut, à condition de ne vouloir que ce qui convient. La prière ne cessera que lorsque nous serons dans la terre des vivants, là où l'on ne demande plus le bien, mais où on le contemple.`
+    textBe: `Lou òmi urous n'éy pas lou qui hè ço qui bòu (permou qui poudém boùle lou mau), mé lou qui a tout ço qui bòu, à coundicioû de ne boùle soùnquẹ ço qui coumbiéne. La pregari ne s'estanquera soùnquẹ quoan seram héns la tèrre dous bibens, aquiu oun ne demandam pas méy lou bê, més oun qu'ou coùntemplam.`
   }
 ]
 

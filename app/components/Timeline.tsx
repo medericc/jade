@@ -55,7 +55,7 @@ const periodes: Periode[] = [
     titre: "Union avec la Navarre",
     description: "Union, perte de territoire mais affermissement de leur pouvoir",
     titrebe: "Uniou dap la Nabarre",
-    descriptionbe: "Uniou, ménch de territòri més ahourtimén dou lou poudé",
+    descriptionbe: "Uniou, ménch de territòri mé ahourtimén dou lou poudé",
     slug: 'navarre',
   }
   

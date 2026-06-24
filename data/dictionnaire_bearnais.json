@@ -9642,13 +9642,7 @@
     "type": "verbe intransitif",
     "search": "bela bêler"
   },
-  {
-    "id": 1595,
-    "titre": "béle",
-    "definition": "voile",
-    "type": "nom féminin",
-    "search": "béle voile"
-  },
+
   {
     "id": 1596,
     "titre": "bèle-filhe",
@@ -24723,13 +24717,7 @@
     "type": "nom masculin",
     "search": "countroulur -use contrôleur"
   },
-  {
-    "id": 3975,
-    "titre": "countunia",
-    "definition": "continuer",
-    "type": "verbe transitif",
-    "search": "countunia continuer"
-  },
+ 
   {
     "id": 3976,
     "titre": "countùnie (à)",
@@ -37186,13 +37174,7 @@
     "type": "nom masculin",
     "search": "esberroc beuglement, meuglement"
   },
-  {
-    "id": 5859,
-    "titre": "abugla",
-    "definition": "aveugler, éblouir",
-    "type": "verbe transitif",
-    "search": "abugla aveugler, éblouir"
-  },
+  
   {
     "id": 5860,
     "titre": "esbita",
@@ -63228,10 +63210,10 @@
   },
   {
     "id": 9870,
-    "titre": "pusa",
+    "titre": "putsa",
     "definition": "puiser",
     "type": "verbe transitif",
-    "search": "pusa puiser"
+    "search": "putsa puiser"
   },
   {
     "id": 9871,

@@ -42,7 +42,7 @@ const teachingsB = [
 
   `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'esprabe e qu'agalharden la bertut dous gouyes de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns lou gay, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre (qu'ayme de bertat). Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
 
-  `Ne se pot pas segui lou Crist au noùste coumbenénce, que cau segui lou soû camì d'umilitat. Lous pecadous que soufèren coum lous sènts més la loue soufrence n'éy pas utìlẹ. Û petit àctẹ hèyt dap caritat qu'a méy de pés qui douléncis subi chéns amou. Ne soufrim pas tad éth-medich, més per amou ta Diu e per la doulou de bédẹ lous àutẹs pèrdẹ-s.`,
+  `Ne se pot pas segui lou Crist au noùste coumbenénce, que cau segui lou soû camì d'umilitat. Lous pecadous que soufèren coum lous sènts mé la loue soufrence n'éy pas utìlẹ. Û petit àctẹ hèyt dap caritat qu'a méy de pés qui douléncis subi chéns amou. Ne soufrim pas tad éth-medich, mé per amou ta Diu e per la doulou de bédẹ lous àutẹs pèrdẹ-s.`,
 
  
  
@@ -64,7 +64,7 @@ const teachingsB = [
 
   `Taus qui nou pòdẹn pas ploura (Diu qu'at hè ta-t empacha de debiénẹ orgulhous ou de-t acountenta de la toûe emouciou), qu'éy lou desi ardent dou co qui coùmpte autâ que l'aygue dous oélhs (l'oélh qu'arrebire ço qui lou co sent, û co plé d'amou-propi da larmes egoïstes). La perfecciou qu'éy de ploura sus lous pecats dou moùndẹ e la pèrtẹ de las àmnes.`,
 
-  `Lous qui atàquen la Glèyse ne pòdẹn pas touca Diu, més que pèrden la gràci, ço qu'ous mie ta la pèrtẹ si ne-s repénten pas. Touca ad û prèste (ou per despudi), qu'éy aufensat Diu directamén. Lou prèste qu'éy û tresor héns û bachèth de tèrre.`,
+  `Lous qui atàquen la Glèyse ne pòdẹn pas touca Diu, mé que pèrden la gràci, ço qu'ous mie ta la pèrtẹ si ne-s repénten pas. Touca ad û prèste (ou per despudi), qu'éy aufensat Diu directamén. Lou prèste qu'éy û tresor héns û bachèth de tèrre.`,
 
   `Diu da à chacû lous secours doun a besougn, qu'éy lou boû e bertadè medecî. Si permet ûe esprabe qu'éy ta la toûe santificacioû. La hàmi, la sét, la pèrte de mounéde, las enhountes, lou rét que pèrmetẹn û but precis : lou salut. La sodomie ou la masturbaciou que soun hàstis, medich lous demouns (per noublesse de nature anyoulique) que-n soun espaurits.`
 
@@ -363,7 +363,7 @@ alt="Drapeau du Béarn"
          
       {langue === 'fr'  ?    
          
-          '« La Vierge Marie à Sainte Bernadette (souvent malade) : Je ne vous promets pas de vous rendre heureuse dans ce monde, mais dans l’autre. »' : '« La Bièrye Marie à Sénte Bernadette (soubén malaude) : Ne-p prouméti pas de-p réndẹ urouse héns aquéstẹ moùndẹ, més héns l\'àutẹ. »'
+          '« La Vierge Marie à Sainte Bernadette (souvent malade) : Je ne vous promets pas de vous rendre heureuse dans ce monde, mais dans l’autre. »' : '« La Bièrye Marie à Sénte Bernadette (soubén malaude) : Ne-p prouméti pas de-p réndẹ urouse héns aquéstẹ moùndẹ, mé héns l\'àutẹ. »'
   }  </p>
       </div>
     </div>
