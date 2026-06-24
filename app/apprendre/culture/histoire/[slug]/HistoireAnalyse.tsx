@@ -6,6 +6,7 @@ import Image from "next/image";
 
 type Section = {
   titre: string;
+   titrebe?: string;
   fr: ReactNode;
   be: ReactNode;
 };
@@ -156,7 +157,11 @@ export default function HistoireAnalyse({
       {sections?.map((section, index) => (
         <ExpandableSection
           key={index}
-          titre={section.titre}
+           titre={
+    langue === 'be'
+      ? section.titrebe || section.titre
+      : section.titre
+  }
           defaultOpen={index === 0}
           enfants={
             <div
