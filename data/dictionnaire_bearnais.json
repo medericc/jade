@@ -42243,9 +42243,9 @@
   {
     "id": 6619,
     "titre": "gaha",
-    "definition": "1♦ verbe transitif Attraper, rattraper, prendre, saisir. ◊ L'emplegat que gahè lou telefone → l'employé a pris le téléphone. ♦ Gaha lou coùrrẹ → se mettre à courir. ◊ Gaha la boulade → prendre son vol. 2♦ verbe intransitif Prendre (début d'un processus feu, action, gestation etc.). Devenir grosse (se dit d'un animal, spécialement de la vache). ◊ Que mìi tau tàurẹ aquéste pute de baque, més ne pot pas gaha ! → Je mène au taureau cette garce de vache, mais elle ne peut pas prendre ! 3♦ verbe transitif et intransitif Coller. ♦ Gaha-s verbe pronominal s'accrocher (se tenir, se disputer), coller (être collant). 4♦ Gaha-le → se diriger (surtout à la forme interrogative). Per oun la gahat / ent'oun la gahat ? → De quel côté vous dirigez-vous ?",
+    "definition": "1♦ verbe transitif Attraper, rattraper, prendre, saisir. ◊ L'emplegat que gahè lou telefone → l'employé a pris le téléphone. ♦ Gaha lou coùrrẹ → se mettre à courir. ◊ Gaha la boulade → prendre son vol. 2♦ verbe intransitif Prendre (début d'un processus feu, action, gestation etc.). Devenir grosse (se dit d'un animal, spécialement de la vache). ◊ Que mìi tau tàurẹ aquéste pute de baque, mé ne pot pas gaha ! → Je mène au taureau cette garce de vache, mais elle ne peut pas prendre ! 3♦ verbe transitif et intransitif Coller. ♦ Gaha-s verbe pronominal s'accrocher (se tenir, se disputer), coller (être collant). 4♦ Gaha-le → se diriger (surtout à la forme interrogative). Per oun la gahat / ent'oun la gahat ? → De quel côté vous dirigez-vous ?",
     "type": "verbe transitif et intransitif",
-    "search": "gaha 1♦ verbe transitif Attraper, rattraper, prendre, saisir. ◊ L'emplegat que gahè lou telefone → l'employé a pris le téléphone. ♦ Gaha lou coùrrẹ → se mettre à courir. ◊ Gaha la boulade → prendre son vol. 2♦ verbe intransitif Prendre (début d'un processus feu, action, gestation etc.). Devenir grosse (se dit d'un animal, spécialement de la vache). ◊ Que mìi tau tàurẹ aquéste pute de baque, més ne pot pas gaha ! → Je mène au taureau cette garce de vache, mais elle ne peut pas prendre ! 3♦ verbe transitif et intransitif Coller. ♦ Gaha-s verbe pronominal s'accrocher (se tenir, se disputer), coller (être collant). 4♦ Gaha-le → se diriger (surtout à la forme interrogative). Per oun la gahat / ent'oun la gahat ? → De quel côté vous dirigez-vous ?"
+    "search": "gaha 1♦ verbe transitif Attraper, rattraper, prendre, saisir. ◊ L'emplegat que gahè lou telefone → l'employé a pris le téléphone. ♦ Gaha lou coùrrẹ → se mettre à courir. ◊ Gaha la boulade → prendre son vol. 2♦ verbe intransitif Prendre (début d'un processus feu, action, gestation etc.). Devenir grosse (se dit d'un animal, spécialement de la vache). ◊ Que mìi tau tàurẹ aquéste pute de baque, mé ne pot pas gaha ! → Je mène au taureau cette garce de vache, mais elle ne peut pas prendre ! 3♦ verbe transitif et intransitif Coller. ♦ Gaha-s verbe pronominal s'accrocher (se tenir, se disputer), coller (être collant). 4♦ Gaha-le → se diriger (surtout à la forme interrogative). Per oun la gahat / ent'oun la gahat ? → De quel côté vous dirigez-vous ?"
   },
   {
     "id": 6620,
@@ -46575,9 +46575,9 @@
   {
     "id": 7327,
     "titre": "enteressa",
-    "definition": "intéresser. ◊ Pas estounan que-n nterèssẹ à quàuquẹs-ûs ! → Pas étonnant que ça en intéresse quelques-uns ! ♦ teressa-s verbe pronominal s'intéresser. ◊ Més que-m interèsse → mais ça m'intéresse",
+    "definition": "intéresser. ◊ Pas estounan que-n nterèssẹ à quàuquẹs-ûs ! → Pas étonnant que ça en intéresse quelques-uns ! ♦ teressa-s verbe pronominal s'intéresser. ◊ Mé que-m interèsse → mais ça m'intéresse",
     "type": "verbe transitif",
-    "search": "enteressa intéresser. ◊ Pas estounan que-n nterèssẹ à quàuquẹs-ûs ! → Pas étonnant que ça en intéresse quelques-uns ! ♦ teressa-s verbe pronominal s'intéresser. ◊ Més que-m interèsse → mais ça m'intéresse"
+    "search": "enteressa intéresser. ◊ Pas estounan que-n nterèssẹ à quàuquẹs-ûs ! → Pas étonnant que ça en intéresse quelques-uns ! ♦ teressa-s verbe pronominal s'intéresser. ◊ Mé que-m interèsse → mais ça m'intéresse"
   },
   {
     "id": 7328,
@@ -57769,13 +57769,7 @@
     "type": "interjection",
     "search": "per ma, per ma fé ! Ma foi ! (vieux)"
   },
-  {
-    "id": 9062,
-    "titre": "permè -re",
-    "definition": "premier ; avant de ; plutôt que de ; premièrement, d'abord",
-    "type": "adjectif, adverbe et nom",
-    "search": "permè -re premier ; avant de ; plutôt que de ; premièrement, d'abord"
-  },
+
   {
     "id": 9063,
     "titre": "permeries",
@@ -71936,7 +71930,13 @@
     "type": "nom masculin",
     "search": "terradou (littéraire) terroir"
   },
- 
+  {
+    "id": 11185,
+    "titre": "stàblẹ",
+    "definition": "stable",
+    "type": "adjectif",
+    "search": "stàblẹ stable"
+  },
   {
     "id": 11186,
     "titre": "terrassa",

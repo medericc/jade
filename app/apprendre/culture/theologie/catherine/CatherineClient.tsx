@@ -38,7 +38,7 @@ const teachingsF = [
 const teachingsB = [
   `Ne pas courridya û pecadou per pòu ou dousseya las soûes frases per counfòrt souciau, qu'éy coum û medecî qui hique û pansamén sus ûe plague pudentisse chéns aproupia-la. Que poudém médich feni éth-medich la soûe penitence permou qu'aquéste pecat qu'éy soulamen adroumit déns nousàudis.`,
 
-  `L'amou-propi qu'éy lou pousoû dou moùndẹ e que produsech touts lous pecats. Que cau boùle lou saubet de las àmnes e ha la boulentat de Diu, noû pas la soûe. Tout lou bê e lou mau que se hèn per lou proche.`,
+  `L'amou-propi qu'éy lou pousoû dou moùndẹ e que produsech touts lous pecats. Que cau boùle lou saubet de las àmnes e ha la boulentat de Diu, noû pas la soûe. Tout lou bê e lou mau que se hèn per lou prouchén.`,
 
   `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'esprabe e qu'agalharden la bertut dous gouyes de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns lou gay, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre (qu'ayme de bertat). Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
 
@@ -47,7 +47,7 @@ const teachingsB = [
  
  
  
-  `Ne pas jaméy yudyat la boulentat dous àutẹs e ne-s senti aufensat soùnquẹ p'ou qui aufénse Diu. Si Diu que-t hè senti la doulou d'aquéste àmne, qu'éy ta que-t l'àydes. Medich ûe pensade egoïste que hè dou mau au proche, qu'ou payres d'ûe pregari.`,
+  `Ne pas jaméy yudyat la boulentat dous àutẹs e ne-s senti aufensat soùnquẹ p'ou qui aufénse Diu. Si Diu que-t hè senti la doulou d'aquéste àmne, qu'éy ta que-t l'àydes. Medich ûe pensade egoïste que hè dou mau au prouchén, qu'ou payres d'ûe pregari.`,
 
   `Diu bòu que lou rìche àyẹ besougn dou pràubẹ e qu'ou saben àyi besougn de l'ignouren. Ta-ns hourça à la caritat. Si abès touts lous talénts, ne-t caleré pas lou moùndẹ e que caderés héns l'ourgulh. Diu que-ns emplegue coum las soûes mâs ta desparti lous soûs dats. Si qu'as quàuqu'arré, qu'éy ta-u da au qui n'a pas.`,
 

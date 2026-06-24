@@ -14,25 +14,25 @@ const intro1 = {
  
   },
   be: {
-    title: 'Lo Castèth interior',
-    subtitle: '...',
-    content: '...',
+    title: 'Purmère demoure',
+    subtitle: 'Counechénce de se e umilitat',
+    content: 'Fausse perfecciou : penitence de trop (qui desbarate la santat), arséc indiscrèt (s\'aucupa de las mantes dous àutẹs que desrùye la noùstẹ pats e l\'amou tau prouchén"). Lou demoun qu\'emplegue soubén l\'arséc ta la règle ou l\'enquietè daban lous pecats dous àutẹs ta troubla l\'àmne.  Que hìque en goarde coùntre lou hèyt de debisa d\'aquéstẹs sudyèts enter se, permou qu\'aco qu\'atrena l’abitude de la malì. Chéns umilitat (bédẹ-s tau coum qu\'em daban la granesse de Diu), ne se pot pas en-dabana. L\'àmne que déu ha coum l\'abelhe déns lou soû abelhè : que hè lou soû mèu (la counechénce de Diu) mé que sourtech tabé de l\'abelhè ta tribalha (la counechénce de la soûe pròpi dèche).',
 
   },
 }
 
 const intro2 = {
    fr: {
-    title: 'Deuxième demeure',
+    title: 'Dusau demeure',
     subtitle: "Persévérance & combat intérieur",
      content:
       "Pour contrer les difficultés, Dieu utilise des intermédiaires (paroles de gens de bien, sermons, lectures de bons livres, des épreuves comme la maladie ou la douleur). Il faut persévérer, Dieu sait attendre des années s'il voit un désir sincère. Le démon présente les plaisirs terrestres comme éternels. Il rappelle l'estime sociale et l'affection des proches que l'âme pourrait perdre. Il fait craindre pour la santé à cause des pénitences. Il faut utiliser la Raison (les biens du monde ne sont que « pur néant » face au bonheur espéré), la foi (seul ce bonheur divin rassasie), la mémoire (se rappeler la fin inévitable de toute chose terrestre), la volonté (attiré par cet Dieu qui nous quitte jamais) et l'entendement (hors du château ni sécurité et paix). Il faut fréquenter de bonnes personnes. Le but ultime de ce chemin n'est pas d'obtenir des faveurs extraordinaires, mais de conformer sa volonté à celle de Dieu ! Il ne faut pas vouloir que Dieu fasse notre volonté et nous conduise par le chemin qui nous plaît. Dieu peut faire tourner une chute à l'avantage de l'âme pour la rendre plus vigilante. L'oraison est la seule porte pour entrer dans le château. Vouloir entrer au ciel sans entrer en soi-même pour se connaître et voir sa propre misère est une folie.",
- 
+
   },
   be: {
-    title: 'Lo Castèth interior',
-    subtitle: '...',
-    content: '...',
+    title: 'Dusau demeure',
+    subtitle: 'Perserbence e coumbat de-dehéns',
+    content: "Ta lutar coùntre las dificultats, Diu qu'emplegue entermediàris (paraules de moùndẹ de bês, predics, lectures de boûs lìbẹs, esprabes coum la malaudie ou la doulou). Que cau perserbera, Diu que sap aténdẹ anades se bét û desi sincè. Lou demoun qu'amuche lous plasés de la tèrre coum eternaus. Que mustre l'estimacioû souciale e l'affecioû dous tagnéns qui l'àmne e pouderé pèrdẹ. Que hè cràgnẹ ta la santat dap las penitences. Que cau emplega la resoû (lous bés dou moùndẹ ne soun soùnquẹ « pur arré » daban lou bounur esperat), la fè (soul aquéth bounur  hàrte), la memoère (remembra-s la fì oubliga de toute cause de la tèrre), la boulentat (tirat per aquéth Diu qui ne-ns quìte pas jaméy) e l'entenède (hore dou castèth ni seguretat ni pats). Que cau frequenta bounes persounes. Lou but finau d'aquéth camì n'éy pas d'oubtiéne fabous enòrmẹs, mé de counfourma la soûe boulentat à la de Diu ! Ne cau pas boùle que Diu e hàçi la noùstẹ boulentat e qui-ns mìẹ p'ou camì qui-ns plats. Diu que pot ha bira ûe cadude à l'abantàdye de l'àmne ta la réndẹ méy abisade. La pregari éy la soule porte ta-d entra déns lou castèth. Boùle entra tau cèu chéns entra en se-medich ta-s counéche e bédẹ la soûe pròpi dèche qu'éy ûe houlie.",
 
   },
 }
@@ -47,9 +47,9 @@ const intro3 = {
  
   },
   be: {
-    title: 'Lo Castèth interior',
-    subtitle: '...',
-    content: '...',
+    title: 'Tresau demoure',
+    subtitle: 'Bertut stàblẹ mé encoère emperfèyte',
+    content: "L’àmne que pot manca d’umilitat, que-s crét merita méy per las soûes obres mé que cau espia-s coum gouyes chic utìlẹs. L’àmne ùmblẹ trobe méy de pats héns la soumìssiou e la bigou dous sequères qui d’àutẹs héns lous gayes spirituaus. Diu retìre bèth cop las soûes gràcies ta que l’àmne sènte la soûe pròpi dèche e qui sàpi couneche-s. Aquére esprabe qu’éy ûe misericorde permou qui mène l’umilitat. Per exémple, ûe persoune rìchẹ qui pèrdẹ û tros dou soû bé (en goardan toutû proû) e qui se-n tesique, que proùbe qui n’éy pas prèste à tout quita tau Segnou. Boùle aumenta la soûe fourtune, medich dap bounes entencioûs, qu'empache d'atégnẹ las demoures méy tagnénes dou gran Réy (ayda lous pràubẹs). Si ûe leuyère mauheyte a l'aunou e produsech û souci qui ne-s pot pas mata, qu'éy lou sìnnẹ qui n'èm pas encoère tout à fèyt mèstẹ de las soûes passioûs. Que tirem en daban per aquéth camì per ûe pregounde umilitat meylèu que per las hòrtes penitences dou cos, qui soun dou darrè.",
 
   },
 }
@@ -64,8 +64,8 @@ const intro4 = {
  
   },
   be: {
-    title: 'Lo Castèth interior',
-    subtitle: '...',
+    title: 'Quatau demoure',
+    subtitle: 'Lou coumencemén de la pregàri pregoundou',
     content: '...',
 
   },
@@ -81,8 +81,8 @@ const intro5 = {
  
   },
   be: {
-    title: 'Lo Castèth interior',
-    subtitle: '...',
+    title: 'Cincau demoure',
+    subtitle: 'Unioû de-dehéns e amou dou prouchén',
     content: '...',
 
   },
@@ -97,8 +97,8 @@ const intro6 = {
  
   },
   be: {
-    title: 'Lo Castèth interior',
-    subtitle: '...',
+    title: 'Cheysau demoure',
+    subtitle: 'Purificacioûs e douléncis',
     content: '...',
 
   },
@@ -113,8 +113,8 @@ const intro7 = {
   
   },
   be: {
-    title: 'Lo Castèth interior',
-    subtitle: '...',
+    title: 'Setau demoure',
+    subtitle: 'Unioû qui transfourme',
     content: '...',
 
   },
