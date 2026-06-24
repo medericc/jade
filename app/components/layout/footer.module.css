@@ -28,12 +28,12 @@
   font-weight: 900;
   letter-spacing: .08em;
 
-  background:
-    linear-gradient(
-      135deg,
-      #fff,
-      var(--gold-500)
-    );
+  background: linear-gradient(
+    135deg,
+    #dfbc41 0%,
+    rgba(216, 172, 52, 0.9) 60%,
+    rgba(226, 180, 55, 0.75) 100%
+  );
 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -42,7 +42,7 @@
 }
 
 .description {
-  color: rgba(255,255,255,.65);
+  color: rgba(224, 217, 145, 0.65);
 
   font-size: 1rem;
 }
@@ -77,13 +77,15 @@
 }
 
 .location {
-  color: rgba(255,255,255,.6);
+
+  color: rgba(244,197,66,.75);
+  font-weight: 600;
+
 }
 
 .motto {
-  color: var(--gold-500);
-
-  font-weight: 700;
+  color: rgba(244,197,66,.75);
+  font-weight: 600;
 }
 
 @media (max-width: 768px) {

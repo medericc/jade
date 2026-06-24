@@ -18,7 +18,7 @@ export default function Footer() {
         <div className={styles.divider} />
 
         <div className={styles.bottom}>
-          <span>
+          <span className={styles.motto}> 
             © 2026 Jade Célerier Fan
           </span>
 
