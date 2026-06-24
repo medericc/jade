@@ -13,9 +13,9 @@ import Image from 'next/image'
 const teachings = [
   {
     titleFr: 'Le but et la connaissance de soi',
-       titleBe: 'La connaissance de soi et le but de la prière',
+       titleBe: 'Lou but e la counechence de se',
     textFr: `Personne ne se connaît assez pour savoir ce qu'il sera demain. Tout l'effort de la prière doit converger vers un seul but : la vie éternelle. La prière est puissamment aidée par les jeûnes et surtout par les aumônes (« chercher Dieu avec ses mains »). La prière est incompatible avec l'espoir placé dans les richesses incertaines. Méprisons le faste pour embrasser la vie véritable.`,
-    textBe: `Personne ne se connaît assez pour savoir ce qu'il sera demain. Tout l'effort de la prière doit converger vers un seul but : la vie éternelle. La prière est puissamment aidée par les jeûnes et surtout par les aumônes (« chercher Dieu avec ses mains »). La prière est incompatible avec l'espoir placé dans les richesses incertaines. Méprisons le faste pour embrasser la vie véritable. Celui qui ne vit que pour les plaisirs des sens est considéré mort spirituellement.`
+    textBe: `Arrés ne se counèche  proû ta sabe  ço qui sera doumâ . Toute la pregari deu ana de cap à la bite eternau. La pregari qu'ey aydade p'ous dousyoas e sustout p'as deyoâs (« cerca Diu dap las soûes mas »). La pregari ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite beritàblẹ.`
   },
 
   {
@@ -28,13 +28,22 @@ const teachings = [
 
   {
     titleFr: 'La santé, l’amitié et la volonté de Dieu',
-     titleBe: 'La santé, l’amitié et la volonté de Dieu',
+     titleBe: 'La santat, l\'amistat e la boulentat de Diu',
   
     textFr: `La santé et l'amitié sont des biens précieux, mais passagers, utiles que s'ils nous aident à acquérir le mérite de la vie éternelle. On doit aimer Dieu pour lui-même, et s'aimer soi-même (ou son prochain) en vue de Dieu. Nous pouvons demander la fin d'une souffrance alors qu'elle nous est utile pour notre humilité ou notre patience. Dieu peut refuser une demande par bonté (Paul) ou l'accorder pour nous laisser constater l'absurdité de nos propres caprices (Israélites au désert).`,
-    textBe: `La santé et l'amitié sont des biens précieux, mais passagers, utiles que s'ils nous aident à acquérir le mérite de la vie éternelle. On doit aimer Dieu pour lui-même, et s'aimer soi-même (ou son prochain) en vue de Dieu. Nous pouvons demander la fin d'une souffrance alors qu'elle nous est utile pour notre humilité ou notre patience. Dieu peut refuser une demande par bonté (Paul) ou l'accorder nous laisser constater l'absurdité de nos propres caprices (Israélites au désert).`
+    textBe: `La santat e l'amistat que soun bês precious, mé qui pàssen, utìles soùnque" si-ns ayden a-d obtiénẹ lou merite de la bite eternale. Que cau ayma Diu tad eth-medich, e ayma-s se-medich (ou lou sou proche") en l'esperance de Diu. Que poudém demanda la fì d'ûe doulénci alabéts qu'ey utìle ta la nouste umilitat ou la nouste pacience. Diu pot refusat ûe demande per bountat (Pol) ou la da ta-ns decha bede la peguesse de las noustes caprìcis (Isuraelìtes au desert).`
   },
 
   
+
+
+
+
+
+
+
+
+
 
   {
     titleFr: 'La prière comme désir du cœur',
@@ -241,9 +250,9 @@ alt="Drapeau de la France"
     </>
   ) : (
     <>
-      Cossí pregar segon
+    Quin prega suban
       <br />
-      Sent Augustin
+      Sen Augustin
     </>
   )}
 </h2>
@@ -251,7 +260,7 @@ alt="Drapeau de la France"
      <p>
   {langue === 'fr'
     ? '« Se tromper était humain, mais persévérer dans l’erreur, c’est l’orgueil satanique. »'
-    : '« S’enganar qu’èra uman, mes demorar dens l’error qu’ei l’orgulh satanic. »'}
+    : '« Troumpa-s qu\'ere uma , mé perserbera déns l\'errou, qu\'ey l\'ourgulh satanique. »'}
 </p>
 
       </div>
@@ -270,13 +279,35 @@ alt="Drapeau de la France"
         </div>
 
         <p className={styles.quoteText}>
+
+
+ {langue === 'fr' ? (
+    <>
           « Le célibat ou le mariage virginal
           permet de se préparer au paradis
           où nous serons seuls. »
+
+   </>
+
+ ) : (   
+ <>
+   «  Lou celibatàri ou lou maridadye bieryinaumen permet de-s prepara tau paradis ounseram souls. »
+
+  </>
+  )}
+
         </p>
 
         <span className={styles.quoteAuthor}>
-          — Saint Augustin
+      {langue === 'fr' ? (
+    <>     — Saint Augustin
+   </>
+
+ ) : (   
+ <>   
+  — Sen Augustin
+ </>
+  )}
         </span>
 
       </div>
@@ -291,7 +322,7 @@ alt="Drapeau de la France"
      <h2 className={styles.sectionTitle}>
   {langue === 'fr'
     ? 'Enseignements sur la prière'
-    : 'Ensenhaments sus la pregària'}
+    : 'Ensegnamens sus la pregari'}
 </h2>
 
       <div className={styles.learningGrid}>
@@ -346,11 +377,19 @@ alt="Drapeau de la France"
       <p className={styles.quoteText}>
   {langue === 'fr'
     ? '« Tu nous as faits pour toi Seigneur, et notre cœur est sans repos tant qu’il ne repose pas en toi. »'
-    : '« Senhor, que ns has hèits entà tu, e lo nòste còr n’a pas de repaus tant que non repausa en tu. »'}
+    : '« Tu que-ns as heyts ta tu, Segnou, e lou nouste co demoùre chéns repaus tan qui ne-s repause pas dehén tu. »'}
 </p>
 
-        <span className={styles.quoteAuthor}>
-          — Saint Augustin
+       <span className={styles.quoteAuthor}>
+      {langue === 'fr' ? (
+    <>     — Saint Augustin
+   </>
+
+ ) : (   
+ <>   
+  — Sen Augustin
+ </>
+  )}
         </span>
 
       </div>
