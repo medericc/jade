@@ -40,7 +40,7 @@ const teachingsB = [
 
   `L'amou-pròpi qu'éy lou pousoû dou moùndẹ e que produsech touts lous pecats. Que cau boulé lou salut de las àmnes e ha la boulentat de Diu, noû pas la soûe. Tout lou bê e lou mau se hèn per lou prouchén.`,
 
-  `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'espròbe e qu'agalharden la bertut dous serbitous de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns la gauyu, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre. Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
+  `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'espròbe e qu'agalharden la bertut dous serbitous de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns la gauyou, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre. Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
 
   `Ne se pot pas segui lou Crist au noùste coumbenénce, que cau segui lou soû camì d'umilitat. Lous pecadous soufèren coum lous sènts mé la loue soufrence n'éy pas utìlẹ. Û petit àctẹ hèyt dap caritat qu'a méy de pés qui doulous subi chéns amou. Ne soufrim pas ta nous-medich, mé per amou ta Diu e per la doulou de bédẹ lous àutẹs-s pèrdẹ.`,
 

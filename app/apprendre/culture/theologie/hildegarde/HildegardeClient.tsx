@@ -386,7 +386,7 @@ alt="Drapeau de la France"
          Au countràri, ûe councepcioû mercade per l’amarè, lou malìci, lous bìcis ou lou mancat d’amou pot destroubla aquére armounie. Lou maynàdyẹ risque alabéts de pourta ûe complexioû méy mauayside : temperamén escu, de malìci ou bìbes de barreyade.       </p>
 
         <p>
-    Hildegarde descrìu tabé certéns desequilibris énter lou pay e la may : si l’amou bertadè abite l’û mé noû l’àutẹ, lou maynàdyẹ poudera bàdẹ méy debìle, ménch stàblẹ ou abé dou mau à trouba la gauyu e l’equilibrì.
+    Hildegarde descrìu tabé certéns desequilibris énter lou pay e la may : si l’amou bertadè abite l’û mé noû l’àutẹ, lou maynàdyẹ poudera bàdẹ méy debìle, ménch stàblẹ ou abé dou mau à trouba la gauyou e l’equilibrì.
         </p>
 
         <p>

@@ -33884,34 +33884,27 @@
   
  {
     "id": 5367,
-    "titre": "empatch",
-    "definition": "empêchement, obstacle, gêne",
+    "titre": "serbitous",
+    "definition": "serviteur",
     "type": "nom masculin",
-    "search": "empatch empêchement, obstacle, gêne"
+    "search": "serbitous serviteur"
   },
-  {
+    {
     "id": 5368,
-    "titre": "empatcha",
-    "definition": "embarrasser, gêner",
-    "type": "verbe transitif",
-    "search": "empatcha embarrasser, gêner"
+    "titre": "gauyou",
+    "definition": "joie",
+    "type": "nom féminin",
+    "search": "joie  gauyou"
   },
-  {
+     {
     "id": 5369,
-    "titre": "empatchuc",
-    "definition": "empêchement, obstacle, gêne",
-    "type": "nom masculin",
-    "search": "empatchuc empêchement, obstacle, gêne"
+    "titre": "agalharda",
+    "definition": "renforcer",
+    "type": "verbe transitif",
+    "search": "agalharda  renforcer"
   },
   {
     "id": 5370,
-    "titre": "empatchuca",
-    "definition": "faire obstacle, gêner",
-    "type": "verbe transitif",
-    "search": "empatchuca faire obstacle, gêner"
-  },
-  {
-    "id": 5372,
     "titre": "empaus",
     "definition": "impôt",
     "type": "nom masculin",
@@ -62186,8 +62179,6 @@
     "type": "nom et adjectif",
     "search": "productou -re producteur"
   },
-  serbitous
-  gauyu 
 
   {
     "id": 9728,
