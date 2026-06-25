@@ -15,7 +15,7 @@ const teachings = [
     titleFr: 'Le but et la connaissance de soi',
        titleBe: 'Lou but e la counechence de se',
     textFr: `Personne ne se connaît assez pour savoir ce qu'il sera demain. Tout l'effort de la prière doit converger vers un seul but : la vie éternelle. La prière est puissamment aidée par les jeûnes et surtout par les aumônes (« chercher Dieu avec ses mains »). La prière est incompatible avec l'espoir placé dans les richesses incertaines. Méprisons le faste pour embrasser la vie véritable.`,
-    textBe: `Arrés ne se counèche  proû ta sabe  ço qui sera doumâ . Toute la pregàri deu ana de cap à la bite eternau. La pregàri qu'ey aydade p'ous dousyoas e sustout p'as deyoâs (« cerca Diu dap las soûes mas »). La pregàri ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite bertadère.`
+    textBe: `Arrés ne se counèche  proû ta sabe  ço qui sera doumâ . Toute la pregàri deu ana de cap à la bite eternau. La pregàri qu'ey aydade p'ous yunes e sustout p'as aumoynes (« cerca Diu dap las soûes mas »). La pregàri ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite bertadère.`
   },
 
   {
@@ -31,7 +31,7 @@ const teachings = [
      titleBe: 'La santat, l\'amistat e la boulentat de Diu',
   
     textFr: `La santé et l'amitié sont des biens précieux, mais passagers, utiles que s'ils nous aident à acquérir le mérite de la vie éternelle. On doit aimer Dieu pour lui-même, et s'aimer soi-même (ou son prochain) en vue de Dieu. Nous pouvons demander la fin d'une souffrance alors qu'elle nous est utile pour notre humilité ou notre patience. Dieu peut refuser une demande par bonté (Paul) ou l'accorder pour nous laisser constater l'absurdité de nos propres caprices (Israélites au désert).`,
-    textBe: `La santat e l'amistat que soun bês precious, mé qui pàssen, utìles soùnque si-ns ayden a obtiénẹ lou merite de la bite eternale. Que cau ayma Diu ta eth-medich, e ayma-s se-medich (ou lou sou prouchén) en l'esperance de Diu. Que poudém demanda la fì d'ûe doulénci alabéts qu'ey utìle ta la nouste umilitat ou la nouste pacience. Diu pot refusat ûe demande per bountat (Pol) ou la da ta-ns decha bede la peguesse de las noustes caprìcis (Isuraelìtes au desert).`
+    textBe: `La santat e l'amistat que soun bês precious, mé qui pàssen, utìles soùnque si-ns ayden a obtiénẹ lou merite de la bite eternau. Que cau ayma Diu ta eth-medich, e ayma-s se-medich (ou lou sou prouchén) en l'esperance de Diu. Que poudém demanda la fì d'ûe doulénci alabéts qu'ey utìle ta la nouste umilitat ou la nouste pacience. Diu pot refusat ûe demande per bountat (Pol) ou la da ta-ns decha bede la peguesse de lous noustes caprìcis (Israelìtes au desert).`
   },
 
   
@@ -50,20 +50,20 @@ const teachings = [
       titleBe: 'La pregàri coum desi dou co',
    
     textFr: `La véritable prière est un "désir continuel" nourri par la foi, l'espérance et la charité. La prière ne sert pas à informer Dieu, mais à exercer et dilater notre désir. Plus notre désir est grand, plus nous devenons capables de recevoir les dons que Dieu prépare. Les paroles ne sont là que pour nous rappeler à nous-mêmes ce que nous demandons et pour ranimer notre ferveur quand elle s'attiédit.`,
-    textBe: `La bertadère pregàri qu'éy û "desi countinu" neurit per la fè, l'esperance e la caritat. La pregàri ne sèr pas ta assabenta Diu, mé à exerça e dilata lou noùste desi. Méy lou noùstẹ desi qu'éy gran, méy que debieném capàblẹs de recébẹ lous dats qui Diu prepare. Las paraules soun aquiu soùnquẹ ta-ns rapela à nous-medichs ço qui demandam e ta rebiscoula lou noùste arséc quoan bade dousse.`
+    textBe: `La bertadère pregàri qu'éy û "desi countinu" neurit per la fè, l'esperance e la caritat. La pregàri ne sèr pas ta assabenta Diu, mé à exerça e dilata lou noùste desi. Méy lou noùstẹ desi qu'éy gran, méy que debieném capàblẹs de recébẹ lous dats qui Diu prepare. Las paraules soun aquiu soùnquẹ ta-ns rapela à nous-medichs ço qui demandam e ta rebiscoula lou noùste arzéc quoan bade dousse.`
   },
 {
     titleFr: 'L’orientation des soins',
     titleBe: 'L’orientacioû dous soégns',
   
     textFr: `Il est permis de prier pour la santé (intégrité de l'âme et du corps), l'amitié (l'affection envers les proches) et le nécessaire (nourriture et vêtement) pour maintenir un état convenable sans tomber dans l'excès ou l'orgueil. Par nécessité pour servir Dieu, ne pas laisser la concupiscence guider ces soins, rester orienté vers 1 seule fin.`,
-    textBe: `Qu'éy permetut de prega ta la santat (integritat de l'àmne e dou cos), l'amistat (l'affecioû dap lous proches) e lou necessàri (mascadure e pélhe) ta tiéne û estat chéns càdẹ héns l'excès ou l'ourgulh. Per necessitat ta serbi Diu, ne pas decha la counqupisence mia aquéts soégns, e demoura orientat de cap a ûe soule fì.`
+    textBe: `Qu'éy permetut de prega ta la santat (integritat de l'àmne e dou cos), l'amistat (l'affecioû dap lous proches) e lou necessàri (mascadure e pélhe) ta tiéne û estat chéns càdẹ héns l'excès ou l'ourgul. Per necessitat ta serbi Diu, ne pas decha la councupisence mia aquéts soégns, e demoura orientat de cap a ûe soule fì.`
   },
   {
     titleFr: 'Le vrai bonheur',
      titleBe: 'Lou bertadè bounur',
     textFr: `L'homme heureux n'est pas celui qui fait ce qu'il veut (car on peut vouloir le mal), mais celui qui a tout ce qu'il veut, à condition de ne vouloir que ce qui convient. La prière ne cessera que lorsque nous serons dans la terre des vivants, là où l'on ne demande plus le bien, mais où on le contemple.`,
-    textBe: `L'òmi urous n'éy pas lou qui hè ço qui bòu (permou qui poudém boùle lou mau), mé lou qui a tout ço qui bòu, à coundicioû de ne boùle soùnquẹ ço qui coumbiéne. La pregàri ne s'estanquera soùnquẹ quoan seram héns la tèrre dous bibens, aquiu oun ne demandam pas méy lou bê, més oun qu'ou coùntemplam.`
+    textBe: `L'òmi urous n'éy pas lou qui hè ço qui bòu (permou qui poudém boùle lou mau), mé lou qui a tout ço qui bòu, à coundicioû de ne boùle soùnquẹ ço qui coumbiéne. La pregàri ne s'estanquera soùnquẹ quoan seram héns la tèrre dous bibens, aquiu oun ne demandam pas méy lou bê, mé oun qu'ou coùntemplam.`
   }
 ]
 
@@ -268,7 +268,7 @@ alt="Drapeau de la France"
      <p>
   {langue === 'fr'
     ? '« Se tromper était humain, mais persévérer dans l’erreur, c’est l’orgueil satanique. »'
-    : '« Troumpa-s qu\'ere uma , mé perserbera déns l\'errou, qu\'ey l\'ourgulh satanique. »'}
+    : '« Troumpa-s qu\'ere uma, mé perserbera déns l\'errou, qu\'ey l\'ourgul satanique. »'}
 </p>
 
       </div>

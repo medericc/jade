@@ -40,7 +40,7 @@ const teachingsB = [
 
   `L'amou-propi qu'éy lou pousoû dou moùndẹ e que produsech touts lous pecats. Que cau boùle lou saubet de las àmnes e ha la boulentat de Diu, noû pas la soûe. Tout lou bê e lou mau que se hèn per lou prouchén.`,
 
-  `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'esprabe e qu'agalharden la bertut dous gouyes de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns lou gay, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre (qu'ayme de bertat). Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
+  `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'esprabe e qu'agalharden la bertut dous gouyes de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns lou yoye, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre (qu'ayme de bertat). Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
 
   `Ne se pot pas segui lou Crist au noùste coumbenénce, que cau segui lou soû camì d'umilitat. Lous pecadous que soufèren coum lous sènts mé la loue soufrence n'éy pas utìlẹ. Û petit àctẹ hèyt dap caritat qu'a méy de pés qui douléncis subi chéns amou. Ne soufrim pas tad éth-medich, mé per amou ta Diu e per la doulou de bédẹ lous àutẹs pèrdẹ-s.`,
 
@@ -49,7 +49,7 @@ const teachingsB = [
  
   `Ne pas jaméy yudyat la boulentat dous àutẹs e ne-s senti aufensat soùnquẹ p'ou qui aufénse Diu. Si Diu que-t hè senti la doulou d'aquéste àmne, qu'éy ta que-t l'àydes. Medich ûe pensade egoïste que hè dou mau au prouchén, qu'ou payres d'ûe pregàri.`,
 
-  `Diu bòu que lou rìche àyẹ besougn dou pràubẹ e qu'ou saben àyi besougn de l'ignouren. Ta-ns hourça à la caritat. Si abès touts lous talénts, ne-t caleré pas lou moùndẹ e que caderés héns l'ourgulh. Diu que-ns emplegue coum las soûes mâs ta desparti lous soûs dats. Si qu'as quàuqu'arré, qu'éy ta-u da au qui n'a pas.`,
+  `Diu bòu que lou rìche àyẹ besougn dou pràubẹ e qu'ou saben àyi besougn de l'ignouren. Ta-ns hourça à la caritat. Si abès touts lous talénts, ne-t caleré pas lou moùndẹ e que caderés héns l'ourgul. Diu que-ns emplegue coum las soûes mâs ta desparti lous soûs dats. Si qu'as quàuqu'arré, qu'éy ta-u da au qui n'a pas.`,
 
   `Si ne-t sèrbes pas de la toûe rasoû ta cerca la Bertat, que marches à l'abùglẹ e que bas ayma lou mau en credén qu'éy û bê. Si tournes sourti lou bachèth de la houn ta da à bébẹ aus àutẹs, que-s boéyte bìstẹ. Si qu'ès trìste permou qui ne-t rendém pas lou toû amou, qu'éy qui lou toû amou n'éy pas encoère perfèyt e qu'éy en-clabat sus tu.`,
 
