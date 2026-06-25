@@ -170,9 +170,9 @@ alt="Drapeau de la France"
                 
        {langue === 'fr'
     ?          
-          '🌿 Visionnaire du Moyen Âge'
+          '🌿 Visionnaire des Téms Féodaux'
                 
-                 : '🌿 Bisioùnàri dou Miéyantéms' }
+                 : '🌿 Bisioùnàri dous ' }
                 
                 </span>
 

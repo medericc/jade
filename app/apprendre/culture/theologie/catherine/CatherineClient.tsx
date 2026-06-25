@@ -47,7 +47,7 @@ const teachingsB = [
  
  
  
-  `Ne pas jaméy yudyat la boulentat dous àutẹs e ne-s senti aufensat soùnquẹ p'ou qui aufénse Diu. Si Diu que-t hè senti la doulou d'aquéste àmne, qu'éy ta que-t l'àydes. Medich ûe pensade egoïste que hè dou mau au prouchén, qu'ou payres d'ûe pregari.`,
+  `Ne pas jaméy yudyat la boulentat dous àutẹs e ne-s senti aufensat soùnquẹ p'ou qui aufénse Diu. Si Diu que-t hè senti la doulou d'aquéste àmne, qu'éy ta que-t l'àydes. Medich ûe pensade egoïste que hè dou mau au prouchén, qu'ou payres d'ûe pregàri.`,
 
   `Diu bòu que lou rìche àyẹ besougn dou pràubẹ e qu'ou saben àyi besougn de l'ignouren. Ta-ns hourça à la caritat. Si abès touts lous talénts, ne-t caleré pas lou moùndẹ e que caderés héns l'ourgulh. Diu que-ns emplegue coum las soûes mâs ta desparti lous soûs dats. Si qu'as quàuqu'arré, qu'éy ta-u da au qui n'a pas.`,
 
@@ -60,13 +60,13 @@ const teachingsB = [
   
   
   
-  `Û crestia qui peque qu'éy méy colupàble qu'û paga permou que méy que recebèm, méy que debem réndẹ. Lou demoun que-ns pot ha càdẹ soùnquẹ si dam lou noùstẹ counsentimen. Diu permet la tentaciou ta que-n proùbim lou noùstẹ amou e grandìm en counechénce de nousàutẹs. Que cau boeyta lous soûs ligames dou moùndẹ ta que Diu entre.`,
+  `Û crestia qui peque qu'éy méy colupàble qu'û paga permou que méy que recebèm, méy que debem réndẹ. Lou demoun que-ns pot ha càdẹ soùnquẹ si dam lou noùstẹ counsentimen. Diu permet la tentacioû ta que-n proùbim lou noùstẹ amou e grandìm en counechénce de nousàutẹs. Que cau boeyta lous soûs ligames dou moùndẹ ta que Diu entre.`,
 
-  `Taus qui nou pòdẹn pas ploura (Diu qu'at hè ta-t empacha de debiénẹ orgulhous ou de-t acountenta de la toûe emouciou), qu'éy lou desi ardent dou co qui coùmpte autâ que l'aygue dous oélhs (l'oélh qu'arrebire ço qui lou co sent, û co plé d'amou-propi da larmes egoïstes). La perfecciou qu'éy de ploura sus lous pecats dou moùndẹ e la pèrtẹ de las àmnes.`,
+  `Taus qui ne pòdẹn pas ploura (Diu qu'at hè ta-t empacha de debiénẹ orgulhous ou de-t acountenta de la toûe emouciou), qu'éy lou desi ardent dou co qui coùmpte autâ que l'aygue dous oélhs (l'oélh qu'arrebire ço qui lou co sent, û co plé d'amou-propi da larmes egoïstes). La perfeccioû qu'éy de ploura sus lous pecats dou moùndẹ e la pèrtẹ de las àmnes.`,
 
   `Lous qui atàquen la Glèyse ne pòdẹn pas touca Diu, mé que pèrden la gràci, ço qu'ous mie ta la pèrtẹ si ne-s repénten pas. Touca ad û prèste (ou per despudi), qu'éy aufensat Diu directamén. Lou prèste qu'éy û tresor héns û bachèth de tèrre.`,
 
-  `Diu da à chacû lous secours doun a besougn, qu'éy lou boû e bertadè medecî. Si permet ûe esprabe qu'éy ta la toûe santificacioû. La hàmi, la sét, la pèrte de mounéde, las enhountes, lou rét que pèrmetẹn û but precis : lou salut. La sodomie ou la masturbaciou que soun hàstis, medich lous demouns (per noublesse de nature anyoulique) que-n soun espaurits.`
+  `Diu da à chacû lous secours doun a besougn, qu'éy lou boû e bertadè medecî. Si permet ûe esprabe qu'éy ta la toûe santificacioû. La hàmi, la sét, la pèrte de mounéde, las enhountes, lou rét que pèrmetẹn û but precis : lou salut. La sodomie ou la masturbacioû que soun hàstis, medich lous demouns (per noublesse de nature anyoulique) que-n soun espaurits.`
 
 
 
