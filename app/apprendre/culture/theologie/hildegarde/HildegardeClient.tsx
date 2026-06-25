@@ -166,11 +166,19 @@ alt="Drapeau de la France"
     </div>
           <div className="container">
             <div className="hero-card">
-              <span className="badge">🌿 Visionnaire du Moyen Âge</span>
+              <span className="badge">
+                
+       {langue === 'fr'
+    ?          
+          '🌿 Visionnaire du Moyen Âge'
+                
+                 : '🌿 Bisioùnàri dou Miéyantéms' }
+                
+                </span>
 
               <h1> {langue === 'fr'
     ? 'La vie de la conception'
-    : 'La vita de la concepcion'}</h1>
+    : 'La bite de la councepciou'}</h1>
 
               <p>
   {langue === 'fr' ? (
@@ -185,8 +193,7 @@ alt="Drapeau de la France"
             </>
   ) : (
     <>
-      Santa Hildegarda de Bingen contempla la neishença
-      de l’òmi com ua òbra cosmica...
+    Sénte Hildegarde de Bingen que coùntemple la badence de l&lsquo;uma coum ûe obre coustique : lou cos reçèu chic à chic la soûe fòrme, puch Diu que y soùfle l&lsquo;àmne, hoéc biben destinat à counduìse l&lsquo;òmi de cap à la luts, per la prabade dinco l’àdyẹ hèyt
           
           
           
@@ -201,6 +208,11 @@ alt="Drapeau de la France"
         <section className="intro-section">
           <div className="container">
             <div className="intro-box">
+           
+           
+         {langue === 'fr' ? (
+    <>   
+           
               <h2>✨ Le mystère de l’âme et du corps</h2>
 
               <p>
@@ -218,6 +230,23 @@ alt="Drapeau de la France"
                 vivante,
                 comparable à une sphère de feu parcourant tout l’être humain.
               </p>
+             </>
+  ) : (
+    <>     
+          
+             <h2>✨ Lou miste!ri de l&lsquo;àmne e dou cos</h2>
+
+              <p>
+              Ta Hildegarde, la councepciou n’éy pas û sìmplẹ fénomène bioulouyique. Lou cos uma qu&lsquo;éy fourmat chic à chic déns lou bènte de la may, coum ûe tèrre graniu preparade à recébẹ û hoéc biénut de Diu. 
+              </p>
+
+              <p>
+         Quoan lou cos éy prèste, Diu que soùfle l&lsquo;àmne : ûe realitat spirituau, lusènte, bibante, coumparàble ad ûe sfère de hoéc caminàn tout l&lsquo;uma.
+              </p>  
+            
+            </>
+  )}
+         
             </div>
           </div>
         </section>
@@ -225,6 +254,12 @@ alt="Drapeau de la France"
           <div className="container">
             <div className="grid">
               <div className="card full dark">
+            
+            
+           {langue === 'fr' ? (
+    <>   
+            
+            
                  <h3>💞 L’importance de l’union des parents</h3>
 
         <p>
@@ -251,6 +286,30 @@ alt="Drapeau de la France"
           prudent et vertueux.
         </p>
 
+    </>
+  ) : (
+    <>     
+           
+           
+                <h3>💞 L&lsquo;empourtance de l&lsquo;unioû dous paréns</h3>
+
+        <p>
+         Hildegarde que l&lsquo;esplìque de qu&lsquo;ou hìdyẹ qu&lsquo;entertien la calou bitale en rescauhan lou co, alabéts qui la courade qu&lsquo;ou prouteye e qu&lsquo;ou embouloupe.
+          
+        </p>
+
+        <p>
+        Deya déns lou bènte de la may, l&lsquo;àmne couménce à desbelha doussemen lous cinc sèns dou maynàdyẹ, coum ûe presénce spirituau qui prepare chic à chic « l&lsquo;òmi de dehore » abans la badence.
+
+        </p>
+
+        <p>
+       Més Hildegarde ensìste sustout sus û punt essenciou : l’estat de-dehéns dous paréns au moumén de l&lsquo;acte enfluence pregoundamen lou maynàdyẹ à biénẹ. Ûe unioû biscude héns la caritat, l&lsquo;amou franc e la pats dou co que faborìse segoun ére la badence d’û èstẹ armounious, abisat e bertuous.
+
+        </p>
+           
+             </>
+  )}
 
 
 
@@ -267,8 +326,8 @@ alt="Drapeau de la France"
 
 
 
-
-
+  {langue === 'fr' ? (
+    <> 
 
 
         <p>
@@ -317,6 +376,37 @@ alt="Drapeau de la France"
           de réparer
           et de conduire l’être humain vers davantage d’harmonie.
         </p>
+
+    </>
+  ) : (
+    <>      
+           
+           
+              <p>
+         Au countràri, ûe councepciou mercade per l’amarè, lou malìci, lous bìcis ou lou mancat d’amou pot destroubla aquére armounie. Lou maynàdyẹ risque alabéts de pourta ûe complexiou méy mauayside : temperamén escu, de malìci ou bìbes de barreyade.       </p>
+
+        <p>
+    Hildegarde descrìu tabé certéns desequilibris éntre lou pay e la may : si l’amou bertadè abite l’û més noû l’àutẹ, lou maynàdyẹ poudera bàdẹ méy debìle, ménch stàblẹ ou abé dou mau à trouba lou gaye e l’equilibrì.
+        </p>
+
+        <p>
+      Que-s yuntat tabé lous mouméns de la lue a las dispousicioûs naturàles dou maynàdyẹ : certènes tempourades que fabourise l’ourgulh ou l’asprou, alabéts qui d’àutẹs que-n anounçarẹn fidelitat, santat e bounur.
+        </p>
+
+        <p>
+       Toutû, arré n’éy pas tout à fèyt estancat. Medich quoan ûe badence sémble mercade per dificultats, Hildegarde afirme que Diu pot encoère transfourma aquéste nature. Coum epices adouban ûe mascadure amare, la hòrce spirituau, ûe bite drète e ûe boune maniere de bìbe pòdẹn goari e tourna equilibra l’uma.
+
+        </p>
+
+        <p>
+      Atau, maugrat las feblesses ou lous barréys preséns au moumén de la councepciou, la gràci dibîne demoùre toustém capàblẹ d’ayda, de repara e de counduìse l’uma de cap à méy d’armounie.
+
+        </p>
+           
+             </>
+  )}
+
+
               </div>
             </div>
           </div>
@@ -326,6 +416,11 @@ alt="Drapeau de la France"
           <div className="container">
             <div className="grid">
               <div className="card large">
+             
+             {langue === 'fr' ? (
+    <> 
+             
+             
                 <h3>🌱 La formation de l’enfant</h3>
 
                 <p>
@@ -346,10 +441,38 @@ alt="Drapeau de la France"
                   C’est seulement alors que l’enfant commence à bouger dans le sein,
                   semblable à un fruit vivant sous la rosée.
                 </p>
+
+    </>
+  ) : (
+    <>    
+          
+                <h3>🌱 La fourmaciou dou maynàdyẹ</h3>
+
+                <p>
+        Hildegarde descrìu la generaciou umàne coum ûe unioû éntre la semence masculìe e la hòrce de gestacioû feminìe.
+
+                </p>
+
+                <p>
+                Lou cos prén fòrme chic à chic graci à la calou mayràne, coum la lèyt debienen roumàdyẹ, car puch os.
+
+                </p>
+
+                <p>
+                 Û cop aquéste bastìsse preparade, Diu da l’àmne. Qu’éy alabéts qui lou maynàdyẹ couménce à maneya-s héns lou bènte, semblàblẹ ad û frut biban debath l’arrous.
+                </p>
+          
+          
+             </>
+  )} 
+
+
+
               </div>
 
               <div className="card purple">
-                <h3>🔥 L’âme</h3>
+       {langue === 'fr' ? (
+    <>             <h3>🔥 L’âme</h3>
 
                 <p>
                   L’âme est décrite comme :
@@ -368,16 +491,63 @@ alt="Drapeau de la France"
                   les sens
                   et la croissance de l’être humain.
                 </p>
+    </>
+  ) : (
+    <>     
+           
+            <h3>🔥 L’àmne</h3>
+
+                <p>
+                 L’àmne qu’éy descrìte coum :
+                </p>
+
+                <ul>
+                  <li>ûe sfère de hoéc</li>
+                  <li> û bén caut e pouchan</li>
+                  <li>ûe sape caminàn lou cos</li>
+                  <li>ûe luts de-dehéns</li>
+                </ul>
+
+                <p>
+            Qu’anìme lou sanc, l’aledade, lous sèns e la badence de l’uma.
+
+                </p>
+           
+             </>
+  )} 
+
+
               </div>
             </div>
           </div>
         </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         {/* SECTION 2 */}
            <section className="content-section alt">
           <div className="container">
             <div className="card full dark">
-              <h3>❤️ Le cœur, siège de l’âme</h3>
+       {langue === 'fr' ? (
+    <>         <h3>❤️ Le cœur, siège de l’âme</h3>
 
               <p>
                 Hildegarde place principalement l’âme dans le cœur,
@@ -399,6 +569,29 @@ alt="Drapeau de la France"
                 et le nez
                 sont les fenêtres par lesquelles l’âme contemple le monde.
               </p>
+
+    </>
+  ) : (
+    <>    
+ <h3>❤️ Lou co, sièdye de l’amne</h3>
+
+              <p>
+              Hildegarde hìque sustout l’amne déns lou co, « coum héns ûe maysoû »
+.
+              </p>
+
+              <p>
+              Lou co deu lou mieyloc biban de l’uma : las pensades que y éntrẹn e que-n sòrtẹn, puch que pùyẹn de cap tau cerbeth ta esta deleyades e ourdounades.
+              </p>
+
+              <p>
+             Lou cerbeth espàrs adarroun la soûe hòrce déns tout lou cos coum l’arrous umidifie la terre. Lous oelhs, las aurelhes e lou nas soun las frinestes per lasquoaus l’amne coùntemple lou moùndẹ.
+
+              </p>
+
+             </>
+  )}
+
             </div>
           </div>
         </section>
@@ -408,6 +601,9 @@ alt="Drapeau de la France"
           <div className="container">
             <div className="grid">
               <div className="card">
+            
+        {langue === 'fr' ? (
+    <>      
                 <h3>⚖️ Entendement et volonté</h3>
 
                 <p>
@@ -426,9 +622,36 @@ alt="Drapeau de la France"
                   transforme l’intention en action
                   et gouverne les passions grâce à la crainte de Dieu.
                 </p>
+               </>
+  ) : (
+    <>    
+          
+            <h3>⚖️ Entenède e boulentat</h3>
+
+                <p>
+                L’amne ayi sustout per dues pouchances : l’entenède e la boulentat.  
+
+                </p>
+
+                <p>
+                L’entenède deleye lou bê e lou mau, coum û òmi separàn lou grâ de la palhe.
+
+                </p>
+
+                <p>
+                La boulentat, enracinade déns lou co, transfoùrme l’entencioû en accioû e que goubèrne las passioûs gràci à la cragnénce de Diu.
+
+                </p>
+          
+             </>
+  )}
+           
               </div>
 
               <div className="card gold">
+        
+          {langue === 'fr' ? (
+    <>  
                 <h3>🌳 L’âme comme une sève</h3>
 
                 <p>
@@ -450,6 +673,30 @@ alt="Drapeau de la France"
                   ses forces semblent se retirer
                   comme la sève d’un arbre durant l’hiver.
                 </p>
+            </>
+  ) : (
+    <>    
+          <h3>🌳 L’amne coum ûe sape</h3>
+
+                <p>
+                  Hildegarde coumpare l’amne à ûe sape bibante.
+                </p>
+
+                <p>
+Déns lou maynadè, que sémble ad û bourou debile. Déns la yoenésse, que flourèch dap bigou. Déns l’àdyẹ madu, qu’abaste la soûe plée sayésse.
+
+                </p>
+
+                <p>
+              Puch, déns lou bielhè, las soûes hòrces sémblẹn se retira coum la sape d’û àrbou pendén l’ibèr.
+
+                </p>
+        
+        
+             </>
+  )}
+        
+        
               </div>
             </div>
           </div>
@@ -459,6 +706,10 @@ alt="Drapeau de la France"
         <section className="content-section alt">
           <div className="container">
             <div className="card full dark">
+           
+            {langue === 'fr' ? (
+    <> 
+           
               <h3>🌑 Le péché et la noirceur de l’âme</h3>
 
               <p>
@@ -484,6 +735,37 @@ alt="Drapeau de la France"
                 La lumière ou la noirceur de l’âme
                 révèle finalement toute la vérité de l’existence humaine.
               </blockquote>
+        
+            </>
+  ) : (
+    <>     
+
+  <h3>🌑 Lou pecat e la negrura de l’amne</h3>
+
+              <p>
+        Las obres umanes dèchẹn ûe beritable mèrque sus l’amne.
+           </p>
+
+              <p>
+            Las bounes obres que la coùbrẹn de luts e d’û esclat semblable à l’or. Lou pecat coum la fournicacioû, au countràri, que la coubrèch d’escurade, coum û pousoû arrougagnan de-dehéns.
+
+              </p>
+
+              <p>
+         Ûe amne qui perserbere déns lou mau que perde chic à chic la bisioû dou dibî e n’éy pas méy capàblẹ de-s lheba de cap à Diu.
+            </p>
+
+              <blockquote>
+            La luts ou la negrura de l’amne demoustre toute la bertat de l’existénce umane.
+
+              </blockquote>
+
+             </>
+  )}
+        
+        
+        
+        
             </div>
           </div>
         </section>
@@ -492,6 +774,11 @@ alt="Drapeau de la France"
         <section className="final-section">
           <div className="container">
             <div className="final-box">
+         
+           {langue === 'fr' ? (
+    <>
+         
+         
               <h2>✨ Une vision profondément spirituelle de l’homme</h2>
 
               <p>
@@ -513,7 +800,25 @@ alt="Drapeau de la France"
                 Toute la vie spirituelle consiste alors
                 à laisser cette lumière intérieure
                 illuminer de nouveau l’âme entière.
+              </p>     </>
+  ) : (
+    <>  
+          <h2>✨ Ûe bisioû pregoundamén spirituau de l’òmi</h2>
+
+              <p>
+            Enço de Hildegarde, lou cos, l’amne, la mourale e medich las emoucioûs umanes hòurmẹn ûe unitat bibante.
+
               </p>
+
+              <p>
+           L’uma qu’éy û miralh miniature dou cosmos : aperat à-d arraya per la luts dibîne, mé capàblẹ tabé de-s assoumbri p’ou pecat.
+
+              </p>
+
+              <p>
+             Toute la bite spirituau counsìste alabéts à decha aquéste luts de-dehéns illumina de nabèth l’amne entière.
+              </p>       </>
+  )} 
             </div>
           </div>
         </section>
