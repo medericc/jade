@@ -31,7 +31,7 @@ const teachings = [
      titleBe: 'La santat, l\'amistat e la boulentat de Diu',
   
     textFr: `La santé et l'amitié sont des biens précieux, mais passagers, utiles que s'ils nous aident à acquérir le mérite de la vie éternelle. On doit aimer Dieu pour lui-même, et s'aimer soi-même (ou son prochain) en vue de Dieu. Nous pouvons demander la fin d'une souffrance alors qu'elle nous est utile pour notre humilité ou notre patience. Dieu peut refuser une demande par bonté (Paul) ou l'accorder pour nous laisser constater l'absurdité de nos propres caprices (Israélites au désert).`,
-    textBe: `La santat e l'amistat que soun bês precious, mé qui pàssen, utìles soùnque si-ns ayden a obtiénẹ lou merite de la bite eternau. Que cau ayma Diu ta eth-medich, e ayma-s se-medich (ou lou sou prouchén) en l'esperance de Diu. Que poudém demanda la fì d'ûe doulénci alabéts qu'ey utìle ta la nouste umilitat ou la nouste pacience. Diu pot refusat ûe demande per bountat (Pol) ou la da ta-ns decha bede la peguesse de lous noustes caprìcis (Israelìtes au desert).`
+    textBe: `La santat e l'amistat que soun bês precious, mé qui pàssen, utìles soùnque si-ns ayden a obtiénẹ lou merite de la bite eternau. Que cau ayma Diu ta eth-medich, e s'ayma se-medich (ou lou sou prouchén) en l'esperance de Diu. Que poudém demanda la fì d'ûe doulénci alabéts qu'ey utìle ta la nouste umilitat ou la nouste pacience. Diu pot refusat ûe demande per bountat (Pol) ou la da ta-ns decha bede la peguesse de lous noustes caprìcis (Israelìtes au desert).`
   },
 
   
@@ -63,7 +63,7 @@ const teachings = [
     titleFr: 'Le vrai bonheur',
      titleBe: 'Lou bertadè bounur',
     textFr: `L'homme heureux n'est pas celui qui fait ce qu'il veut (car on peut vouloir le mal), mais celui qui a tout ce qu'il veut, à condition de ne vouloir que ce qui convient. La prière ne cessera que lorsque nous serons dans la terre des vivants, là où l'on ne demande plus le bien, mais où on le contemple.`,
-    textBe: `L'òmi urous n'éy pas lou qui hè ço qui bòu (permou qui poudém boùle lou mau), mé lou qui a tout ço qui bòu, à coundicioû de ne boùle soùnquẹ ço qui coumbiéne. La pregàri ne s'estanquera soùnquẹ quoan seram héns la tèrre dous bibens, aquiu oun ne demandam pas méy lou bê, mé oun qu'ou coùntemplam.`
+    textBe: `L'òmi urous n'éy pas lou qui hè ço qui bòu (permou qui poudém boulé lou mau), mé lou qui a tout ço qui bòu, à coundicioû de ne boulé soùnquẹ ço qui coumbiéne. La pregàri ne s'estanquera soùnquẹ quoan seram héns la tèrre dous bibens, aquiu oun ne demandam pas méy lou bê, mé oun qu'ou coùntemplam.`
   }
 ]
 
@@ -268,7 +268,7 @@ alt="Drapeau de la France"
      <p>
   {langue === 'fr'
     ? '« Se tromper était humain, mais persévérer dans l’erreur, c’est l’orgueil satanique. »'
-    : '« Troumpa-s qu\'ere uma, mé perserbera déns l\'errou, qu\'ey l\'ourgul satanique. »'}
+    : '« Se troumpa qu\'ere uma, mé perserbera déns l\'errou, qu\'ey l\'ourgul satanique. »'}
 </p>
 
       </div>

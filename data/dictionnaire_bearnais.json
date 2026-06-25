@@ -33788,41 +33788,7 @@
     "type": "nom féminin pluriel",
     "search": "emourrugues (littéraire) hémorroïdes"
   },
-  {
-    "id": 5348,
-    "titre": "empach",
-    "definition": "empêchement, obstacle, gêne",
-    "type": "nom masculin",
-    "search": "empach empêchement, obstacle, gêne"
-  },
-  {
-    "id": 5349,
-    "titre": "empacha",
-    "definition": "embarrasser, gêner",
-    "type": "verbe transitif",
-    "search": "empacha embarrasser, gêner"
-  },
-  {
-    "id": 5350,
-    "titre": "empachiu -ibe",
-    "definition": "gênant",
-    "type": "adjectif",
-    "search": "empachiu -ibe gênant"
-  },
-  {
-    "id": 5351,
-    "titre": "empachoc",
-    "definition": "empêchement, obstacle, gêne",
-    "type": "nom masculin",
-    "search": "empachoc empêchement, obstacle, gêne"
-  },
-  {
-    "id": 5352,
-    "titre": "empachouca",
-    "definition": "faire obstacle, gêner",
-    "type": "verbe transitif (qu'empachòqui)",
-    "search": "empachouca faire obstacle, gêner"
-  },
+ 
   {
     "id": 5353,
     "titre": "empafa-s",
@@ -39102,13 +39068,7 @@
     "type": "nom féminin",
     "search": "esperissade écorchure, égratignure ; bagarre, peignée"
   },
-  {
-    "id": 6150,
-    "titre": "esperit",
-    "definition": "esprit",
-    "type": "nom masculin",
-    "search": "esperit esprit"
-  },
+
   {
     "id": 6151,
     "titre": "espernabàtẹ(-s)",
@@ -62226,6 +62186,9 @@
     "type": "nom et adjectif",
     "search": "productou -re producteur"
   },
+  serbitous
+  gauyu 
+
   {
     "id": 9728,
     "titre": "pròpi",

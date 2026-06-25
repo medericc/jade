@@ -23,7 +23,7 @@ export default function Footer() {
           </span>
 
           <span className={styles.location}>
-            Dodge City 🇺🇸
+            Dodge City
           </span>
 
           <span className={styles.motto}>

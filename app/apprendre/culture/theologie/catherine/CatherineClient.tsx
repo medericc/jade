@@ -36,37 +36,37 @@ const teachingsF = [
 ]
 
 const teachingsB = [
-  `Ne pas courridya û pecadou per pòu ou dousseya las soûes frases per counfòrt souciau, qu'éy coum û medecî qui hique û pansamén sus ûe plague pudentisse chéns aproupia-la. Que poudém médich feni éth-medich la soûe penitence permou qu'aquéste pecat qu'éy soulamen adroumit déns nousàudis.`,
+  `Ne pas courridya û pecadou per pòu ou dousseya las soûes frases per counfòrt souciau, qu'éy coum û medecî qui hique û pansamén sus ûe plague pudentisse chéns la neteya. Que poudém médich ha nous-medich la soûe penitence permou qu'aquéste pecat qu'éy soulamen adroumit déns nous.`,
 
-  `L'amou-propi qu'éy lou pousoû dou moùndẹ e que produsech touts lous pecats. Que cau boùle lou saubet de las àmnes e ha la boulentat de Diu, noû pas la soûe. Tout lou bê e lou mau que se hèn per lou prouchén.`,
+  `L'amou-pròpi qu'éy lou pousoû dou moùndẹ e que produsech touts lous pecats. Que cau boulé lou salut de las àmnes e ha la boulentat de Diu, noû pas la soûe. Tout lou bê e lou mau se hèn per lou prouchén.`,
 
-  `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'esprabe e qu'agalharden la bertut dous gouyes de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns lou yoye, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre (qu'ayme de bertat). Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
+  `Lous pecadous en tentan lous òmis que debiénen lous utìs qui hìquen à l'espròbe e qu'agalharden la bertut dous serbitous de Diu. La bertut déns lou mauaysit qu'a méy de balou que déns la gauyu, coum û yardinè qui pèr lou soû casau e countinue de tribalha la tèrre. Û laïque qui aubedi dap û gran amou qu'a méy de merite qu'û reliyious qui aubedi per abitude.`,
 
-  `Ne se pot pas segui lou Crist au noùste coumbenénce, que cau segui lou soû camì d'umilitat. Lous pecadous que soufèren coum lous sènts mé la loue soufrence n'éy pas utìlẹ. Û petit àctẹ hèyt dap caritat qu'a méy de pés qui douléncis subi chéns amou. Ne soufrim pas tad éth-medich, mé per amou ta Diu e per la doulou de bédẹ lous àutẹs pèrdẹ-s.`,
+  `Ne se pot pas segui lou Crist au noùste coumbenénce, que cau segui lou soû camì d'umilitat. Lous pecadous soufèren coum lous sènts mé la loue soufrence n'éy pas utìlẹ. Û petit àctẹ hèyt dap caritat qu'a méy de pés qui doulous subi chéns amou. Ne soufrim pas ta nous-medich, mé per amou ta Diu e per la doulou de bédẹ lous àutẹs-s pèrdẹ.`,
 
  
  
  
-  `Ne pas jaméy yudyat la boulentat dous àutẹs e ne-s senti aufensat soùnquẹ p'ou qui aufénse Diu. Si Diu que-t hè senti la doulou d'aquéste àmne, qu'éy ta que-t l'àydes. Medich ûe pensade egoïste que hè dou mau au prouchén, qu'ou payres d'ûe pregàri.`,
+  `Ne pas jaméy yudyat la boulentat dous àutẹs e ne-s senti aufensat soùnquẹ p'ou qui aufénse Diu. Si Diu que-t hè senti la doulou d'aquére àmne, qu'éy ta que-t l'àydis. Medich ûe pensade egoïste que hè dou mau au prouchén, qu'ou pribes d'ûe pregàri.`,
 
-  `Diu bòu que lou rìche àyẹ besougn dou pràubẹ e qu'ou saben àyi besougn de l'ignouren. Ta-ns hourça à la caritat. Si abès touts lous talénts, ne-t caleré pas lou moùndẹ e que caderés héns l'ourgul. Diu que-ns emplegue coum las soûes mâs ta desparti lous soûs dats. Si qu'as quàuqu'arré, qu'éy ta-u da au qui n'a pas.`,
+  `Diu bòu que lou rìche àyi besougn dou pràubẹ e qu'ou saben àyi besougn de l'ignouren. Ta-ns hourça à la caritat. Si abès touts lous talénts, ne-t caleré pas lou moùndẹ e que caderés héns l'ourgul. Diu que-ns emplegue coum las soûes mâs ta desparti lous soûs dats. Si qu'as quàuqu'arré, qu'éy ta-u da au qui n'a pas.`,
 
-  `Si ne-t sèrbes pas de la toûe rasoû ta cerca la Bertat, que marches à l'abùglẹ e que bas ayma lou mau en credén qu'éy û bê. Si tournes sourti lou bachèth de la houn ta da à bébẹ aus àutẹs, que-s boéyte bìstẹ. Si qu'ès trìste permou qui ne-t rendém pas lou toû amou, qu'éy qui lou toû amou n'éy pas encoère perfèyt e qu'éy en-clabat sus tu.`,
+  `Si ne-t sèrbes pas de la toûe resoû ta cerca la Bertat, que marches à l'abùglẹ e que bas ayma lou mau en credén qu'éy û bê. Si tournes sourti lou bachèth de la houn ta da à bébẹ aus àutẹs, que-s boéyte bìstẹ. Si qu'ès trìste permou qui ne-t rendém pas lou toû amou, qu'éy qui lou toû amou n'éy pas encoère perfèyt e qu'éy en-clabat sus tu.`,
 
   `Héns la bite spirituau, lou qui n'abance pas recule. Que cau passa de la pòu dou castic à l'amou de la bertut. Arré ne pot sourti de la mâ de Diu. Que demouren aciu per la misericorde ou debath la soûe yustìci. Si la tentacioû ne-t plats pas, qu'éy la probe de que Diu qu'éy déns tu.`,
 
-  `Diu retìre lou sentimén de la soûe presénce ta-ns empacha de debiénẹ "maynats gastats" qui ne cèrcan soùnquẹ lous douçous spirituaus ta que coumprenìm qui lou pecat qu'éy boéyt e que-ns ne toùrnim ta lou. Coum ûe may qu'arreste d'apoupa lou soû maynat ta qui couménce à minya mascadure. Ne pas ayma-s éth-medich à trabèrs Diu.`,
+  `Diu retìre lou sentimén de la soûe presénce ta-ns empecha de debiénẹ "maynats gastats" qui ne cèrcan soùnquẹ lous douçous spirituaus ta que coumprenìm qui lou pecat qu'éy boéyt e que-ns ne toùrnim ta lou. Coum ûe may qu'arreste d'apoupa lou soû maynat ta qui couménce à minya mascadure. Ne pas s'ayma nous-medich à trabèrs Diu.`,
 
   
   
   
-  `Û crestia qui peque qu'éy méy colupàble qu'û paga permou que méy que recebèm, méy que debem réndẹ. Lou demoun que-ns pot ha càdẹ soùnquẹ si dam lou noùstẹ counsentimen. Diu permet la tentacioû ta que-n proùbim lou noùstẹ amou e grandìm en counechénce de nousàutẹs. Que cau boeyta lous soûs ligames dou moùndẹ ta que Diu entre.`,
+  `Û crestia qui pechque qu'éy méy coupàble qu'û paga permou que méy que recebèm, méy que debem réndẹ. Lou demoun que-ns pot ha càdẹ soùnquẹ si dam lou noùstẹ counsentimen. Diu permet la tentacioû ta que-n proùbim lou noùstẹ amou e grandìm en counechénce de nousàutẹs. Que cau tira lous soûs ligames dou moùndẹ ta que Diu entre.`,
 
-  `Taus qui ne pòdẹn pas ploura (Diu qu'at hè ta-t empacha de debiénẹ orgulhous ou de-t acountenta de la toûe emouciou), qu'éy lou desi ardent dou co qui coùmpte autâ que l'aygue dous oélhs (l'oélh qu'arrebire ço qui lou co sent, û co plé d'amou-propi da larmes egoïstes). La perfeccioû qu'éy de ploura sus lous pecats dou moùndẹ e la pèrtẹ de las àmnes.`,
+  `Taus qui ne pòdẹn pas ploura (Diu qu'at hè ta-t empecha de debiénẹ orgulhous ou de-t acountenta de la toûe emoucioû), qu'éy lou desi ardent dou co qui coùmpte autâ que l'aygue dous oélhs (l'oélh qu'arrebire ço qui lou co sen, û co plé d'amou-pròpi da larmes egoïstes). La perfeccioû qu'éy de ploura sus lous pecats dou moùndẹ e la pèrtẹ de las àmnes.`,
 
-  `Lous qui atàquen la Glèyse ne pòdẹn pas touca Diu, mé que pèrden la gràci, ço qu'ous mie ta la pèrtẹ si ne-s repénten pas. Touca ad û prèste (ou per despudi), qu'éy aufensat Diu directamén. Lou prèste qu'éy û tresor héns û bachèth de tèrre.`,
+  `Lous qui atàquen la Glèyse ne pòdẹn pas touca Diu, mé que pèrden la gràci, ço qu'ous mie ta la pèrtẹ si ne-s repénten pas. Touca a û prèste (ou per despudi), qu'éy aufensat Diu directamén. Lou prèste qu'éy û tresor héns û bachèth de tèrre.`,
 
-  `Diu da à chacû lous secours doun a besougn, qu'éy lou boû e bertadè medecî. Si permet ûe esprabe qu'éy ta la toûe santificacioû. La hàmi, la sét, la pèrte de mounéde, las enhountes, lou rét que pèrmetẹn û but precis : lou salut. La sodomie ou la masturbacioû que soun hàstis, medich lous demouns (per noublesse de nature anyoulique) que-n soun espaurits.`
+  `Diu da à chacû lous secours doun a besougn, qu'éy lou boû e beritàblẹ medecî. Si permé ûe espròbe qu'éy ta la toûe santificacioû. La hàmi, la sét, la pèrte de mounéde, las enhountes, lou rét que pèrmetẹn û but precis : lou salut. La sodomie ou la masturbacioû que soun hàstis, medich lous demouns (per noublesse de nature anyoulique) que-n soun espaurits.`
 
 
 
@@ -275,7 +275,7 @@ alt="Drapeau du Béarn"
 
             {langue === 'fr'  ?
           '« Vous n’avez pas été bien ferme. Je prie pour que vous agissiez en homme viril. Ayez faim du salut de vos brebis. »' :
-           '« Ne p\'èt pas estats proû rèdẹs. Que prèghi ta qui pouchquiats ha coum û òmi d\'òmi. Ayit hami dou salut de las bòstẹs aulhes. »'}
+           '« Ne p\'èt pas estats proû rèdẹs. Que prègui ta qui pouchquiats ha coum û Òmi. Ayìt hami dou salut de las bòstẹs aulhes. »'}
         </p>
 
         <span className={styles.quoteAuthor}>
@@ -306,7 +306,7 @@ alt="Drapeau du Béarn"
           une sagesse inspirée
           par l’Esprit Saint. </>   ) : (  
  <>  
-    Ûe hémble chéns enstruccioû unibersitàri, chéns n’abé pas jaméy estudiat héns ûe escole de theoulouyìe ni oubèrt de manuau de drét canoun, qu’estou toutû recounéchude coum tout à fèyt counfourme à l’ourtoudoussìe après l’ispeccioû dous soûs escriuts.
+    Ûe hémble chéns enstruccioû unibersitàri, chéns n’abé pas jaméy estudiat héns ûe escole de theoulouyìe ni oubèrt de manuau de drét canoun, qu’estou toutû recounéchude coum tout à fèyt counfourme à l’ourtoudoussìe après l’enspeccioû dous soûs escriuts.
           <br />
           <br />
 
@@ -314,7 +314,7 @@ alt="Drapeau du Béarn"
           Douctur de la Glèyse,
           recounéchén héns las soûes paraules
           ûe sayesse enspirade
-          per l’Esperit Sén.   </>  )}
+          per l’Esprit Sén.   </>  )}
         </p>
       </div>
     </div>

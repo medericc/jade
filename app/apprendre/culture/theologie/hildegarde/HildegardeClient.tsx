@@ -241,7 +241,7 @@ alt="Drapeau de la France"
               </p>
 
               <p>
-         Quoan lou cos éy prèste, Diu que soùfle l&lsquo;àmne : ûe realitat spirituau, lusènte, bibante, coumparàble ad ûe sfère de hoéc caminàn tout l&lsquo;uma.
+         Quoan lou cos éy prèste, Diu que soùfle l&lsquo;àmne : ûe realitat spirituau, lusènte, bibante, coumparàble a ûe sfère de hoéc caminàn tout l&lsquo;uma.
               </p>  
             
             </>
@@ -386,7 +386,7 @@ alt="Drapeau de la France"
          Au countràri, ûe councepcioû mercade per l’amarè, lou malìci, lous bìcis ou lou mancat d’amou pot destroubla aquére armounie. Lou maynàdyẹ risque alabéts de pourta ûe complexioû méy mauayside : temperamén escu, de malìci ou bìbes de barreyade.       </p>
 
         <p>
-    Hildegarde descrìu tabé certéns desequilibris énter lou pay e la may : si l’amou bertadè abite l’û mé noû l’àutẹ, lou maynàdyẹ poudera bàdẹ méy debìle, ménch stàblẹ ou abé dou mau à trouba la yoye e l’equilibrì.
+    Hildegarde descrìu tabé certéns desequilibris énter lou pay e la may : si l’amou bertadè abite l’û mé noû l’àutẹ, lou maynàdyẹ poudera bàdẹ méy debìle, ménch stàblẹ ou abé dou mau à trouba la gauyu e l’equilibrì.
         </p>
 
         <p>
@@ -459,7 +459,7 @@ alt="Drapeau de la France"
                 </p>
 
                 <p>
-                 Û cop aquéste bastìsse preparade, Diu da l’àmne. Qu’éy alabéts qui lou maynàdyẹ couménce à maneya-s héns lou bènte, semblàblẹ ad û frut biban debath l’arrous.
+                 Û cop aquéste bastìsse preparade, Diu da l’àmne. Qu’éy alabéts qui lou maynàdyẹ couménce à se maneya héns lou bènte, semblàblẹ a û frut biban debath l’arrous.
                 </p>
           
           
@@ -683,7 +683,7 @@ alt="Drapeau de la France"
                 </p>
 
                 <p>
-Déns lou maynadè, que sémble ad û bouroû debile. Déns la yoenésse, que flourèch dap bigou. Déns l’àdyẹ madu, qu’abaste la soûe plée sayésse.
+Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flourèch dap bigou. Déns l’àdyẹ madu, qu’abaste la soûe plée sayésse.
 
                 </p>
 
