@@ -823,7 +823,6 @@ Déns lou maynadè, que sémble ad û bouroû debile. Déns la yoenésse, que fl
           </div>
         </section>
 
-        <Footer />
       </main>
 
       <style jsx>{`
