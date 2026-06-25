@@ -966,6 +966,7 @@ Oéyt Leçoûs
      Apprenez le béarnais pas à pas grâce à des leçons thématiques, des règles essentielles et des exemples pratiques.  </p>
         </div>
       </section>
+     
       <div
         style={{
           maxWidth: 1200,

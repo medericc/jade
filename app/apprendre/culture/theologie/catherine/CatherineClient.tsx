@@ -369,7 +369,6 @@ alt="Drapeau du Béarn"
     </div>
   </section>
 
-  <Footer />
 </main>
   )
 }

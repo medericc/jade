@@ -369,6 +369,7 @@ export default function SaintThomasAquinPage() {
           --space-sm: clamp(0.75rem, 1.5vw, 1rem);
           --space-md: clamp(1rem, 2vw, 1.5rem);
           --space-lg: clamp(1.5rem, 3vw, 2.5rem);
+            --space-lgg: clamp(1.5rem, 0vw, 2.5rem);
           --space-xl: clamp(2rem, 4vw, 4rem);
           --space-xxl: clamp(3rem, 6vw, 6rem);
         }
@@ -387,93 +388,10 @@ export default function SaintThomasAquinPage() {
         .animate-fade-up { animation: fadeUp 0.6s ease-out forwards; }
       `}</style>
 
-      <main style={{ minHeight: '100vh' }}>
+      <main >
         
-        {/* Header */}
-      <header className={styles.catherineHeader}>
-    <div className={`container ${styles.catherineHeaderContent}`}>
-      <Link
-        href="/apprendre/culture"
-        className={styles.backLink}
-      >
-        ← Retour
-      </Link>
-
-      <h1 className={styles.catherineTitle}>
-       
-        <span> Saint Thomas d&apos;Aquin</span>
-      </h1>
-    
-     <div
-    style={{
-      display: 'flex',
-      alignItems: 'center',
-      background: '#fff',
-      border: '2px solid #f3c623',
-      borderRadius: '999px',
-      padding: '4px',
-    }}
-  >
-    <button
-      onClick={() => setLangue('fr')}
-      style={{
-        border: 'none',
-        background:
-          langue === 'fr'
-            ? '#2a0c45'
-            : 'transparent',
-        color:
-          langue === 'fr'
-            ? '#fff'
-            : '#2a0c45',
-        fontWeight: 700,
-        padding: '.65rem 1rem',
-        borderRadius: '999px',
-        cursor: 'pointer',
-      }}
-    >
-     <Image
-  src="/fra.webp"
- alt="Drapeau de la France"
-  width={24}
-  height={24}
-  style={{
-    objectFit: "contain",
-  }}
-/>
-    </button>
-
-    <button
-      onClick={() => setLangue('be')}
-      style={{
-        border: 'none',
-        background:
-          langue === 'be'
-            ? '#2a0c45'
-            : 'transparent',
-        padding: '.65rem 1rem',
-        
-        borderRadius: '999px',
-        cursor: 'pointer',
-      }}
-    >
-    <Image
-  src="/bearn.png"
-alt="Drapeau du Béarn"
-  width={24}
-  height={24}
-  style={{
-    objectFit: "contain",
-  }}
-/>
-    </button>
-  </div>
-    </div>
-     
-  </header>
-
         {/* Hero PAS MONTER SAUF MOBILE */}
-        <section style={{
+        <header style={{
           padding: 'var(--space-xxl) 0 var(--space-xl)',
           background: 'linear-gradient(180deg, var(--violet-tres-clair) 0%, var(--blanc) 100%)'
         }}>
@@ -482,70 +400,33 @@ alt="Drapeau du Béarn"
 <div className={styles.catherineHeaderContent2}>
    
    
-      <Link
-        href="/apprendre/culture"
-        className={styles.backLink2}
-      >
-        ← Retour
-      </Link>
+    <Link
+            href="/apprendre/culture"
+            style={{
+              textDecoration: 'none',
+            }}
+          >
+            <div
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '.5rem',
+                background: '#fff',
+                color: '#2a0c45',
+                border: '2px solid var(--jaune-vif)',
+                borderRadius: 999,
+                padding: '.75rem 1.25rem',
+                fontWeight: 700,
+                marginBottom: '2rem',
+              }}
+            >
+              ← Retour
+            </div>
+          </Link>
 
    
-     <div
-    style={{
-      display: 'flex',
-      alignItems: 'center',
-      background: '#fff',
-      border: '2px solid #f3c623',
-      borderRadius: '999px',
-      padding: '4px',
-    }}
-  >
-    <button
-      onClick={() => setLangue('fr')}
-      style={{
-        border: 'none',
-        background:
-          langue === 'fr'
-            ? '#2a0c45'
-            : 'transparent',
-        color:
-          langue === 'fr'
-            ? '#fff'
-            : '#2a0c45',
-        fontWeight: 700,
-        padding: '.65rem 1rem',
-        borderRadius: '999px',
-        cursor: 'pointer',
-      }}
-    >
-      🇫🇷
-    </button>
+    
 
-    <button
-      onClick={() => setLangue('be')}
-      style={{
-        border: 'none',
-        background:
-          langue === 'be'
-            ? '#2a0c45'
-            : 'transparent',
-        padding: '.65rem 1rem',
-        
-        borderRadius: '999px',
-        cursor: 'pointer',
-      }}
-    >
-     <Image
-  src="/bearn.png"
-  alt="Drapeau du Béarn"
-  width={24}
-  height={24}
-  style={{
-    objectFit: "contain",
-  }}
-/>
-    </button>
-  </div>
     </div>
 
 
@@ -570,9 +451,9 @@ alt="Drapeau du Béarn"
                 lineHeight: 1.2,
                 marginBottom: 'var(--space-sm)',
                 maxWidth: '800px',
-                margin: '0 auto var(--space-lg)'
+                margin: '0 auto var(--space-lgg)'
               }}>
-                Saint Thomas
+                Saint Thomas d&lsquo;Aquin
               </h2>
          
             </div>
@@ -580,7 +461,7 @@ alt="Drapeau du Béarn"
             {/* Sommaire rapide */}
      
           </div>
-        </section>
+        </header>
 
         {/* Sections */}
         <section style={{

@@ -405,7 +405,7 @@ alt="Drapeau de la France"
     </div>
   </section>
 
-  <Footer />
+
 
 </main>
   )
