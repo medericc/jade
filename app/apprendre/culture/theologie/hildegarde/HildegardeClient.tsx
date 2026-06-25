@@ -237,7 +237,7 @@ alt="Drapeau de la France"
              <h2>✨ Lou miste!ri de l&lsquo;àmne e dou cos</h2>
 
               <p>
-              Ta Hildegarde, la councepciou n’éy pas û sìmplẹ fénomène bioulouyique. Lou cos uma qu&lsquo;éy fourmat chic à chic déns lou bènte de la may, coum ûe tèrre graniu preparade à recébẹ û hoéc biénut de Diu. 
+              Ta Hildegarde, la councepcioû n’éy pas û sìmplẹ fénomène bioulouyique. Lou cos uma qu&lsquo;éy fourmat chic à chic déns lou bènte de la may, coum ûe tèrre graniu preparade à recébẹ û hoéc biénut de Diu. 
               </p>
 
               <p>
@@ -304,7 +304,7 @@ alt="Drapeau de la France"
         </p>
 
         <p>
-       Més Hildegarde ensìste sustout sus û punt essenciou : l’estat de-dehéns dous paréns au moumén de l&lsquo;acte enfluence pregoundamen lou maynàdyẹ à biénẹ. Ûe unioû biscude héns la caritat, l&lsquo;amou franc e la pats dou co que faborìse segoun ére la badence d’û èstẹ armounious, abisat e bertuous.
+       Més Hildegarde ensìste sustout sus û punt essencioû : l’estat de-dehéns dous paréns au moumén de l&lsquo;acte enfluence pregoundamen lou maynàdyẹ à biénẹ. Ûe unioû biscude héns la caritat, l&lsquo;amou franc e la pats dou co que faborìse segoun ére la badence d’û èstẹ armounious, abisat e bertuous.
 
         </p>
            
@@ -383,7 +383,7 @@ alt="Drapeau de la France"
            
            
               <p>
-         Au countràri, ûe councepciou mercade per l’amarè, lou malìci, lous bìcis ou lou mancat d’amou pot destroubla aquére armounie. Lou maynàdyẹ risque alabéts de pourta ûe complexiou méy mauayside : temperamén escu, de malìci ou bìbes de barreyade.       </p>
+         Au countràri, ûe councepcioû mercade per l’amarè, lou malìci, lous bìcis ou lou mancat d’amou pot destroubla aquére armounie. Lou maynàdyẹ risque alabéts de pourta ûe complexioû méy mauayside : temperamén escu, de malìci ou bìbes de barreyade.       </p>
 
         <p>
     Hildegarde descrìu tabé certéns desequilibris éntre lou pay e la may : si l’amou bertadè abite l’û més noû l’àutẹ, lou maynàdyẹ poudera bàdẹ méy debìle, ménch stàblẹ ou abé dou mau à trouba lou gaye e l’equilibrì.
@@ -446,10 +446,10 @@ alt="Drapeau de la France"
   ) : (
     <>    
           
-                <h3>🌱 La fourmaciou dou maynàdyẹ</h3>
+                <h3>🌱 La fourmacioû dou maynàdyẹ</h3>
 
                 <p>
-        Hildegarde descrìu la generaciou umàne coum ûe unioû éntre la semence masculìe e la hòrce de gestacioû feminìe.
+        Hildegarde descrìu la generacioû umàne coum ûe unioû éntre la semence masculìe e la hòrce de gestacioû feminìe.
 
                 </p>
 
@@ -683,7 +683,7 @@ alt="Drapeau de la France"
                 </p>
 
                 <p>
-Déns lou maynadè, que sémble ad û bourou debile. Déns la yoenésse, que flourèch dap bigou. Déns l’àdyẹ madu, qu’abaste la soûe plée sayésse.
+Déns lou maynadè, que sémble ad û bouroû debile. Déns la yoenésse, que flourèch dap bigou. Déns l’àdyẹ madu, qu’abaste la soûe plée sayésse.
 
                 </p>
 
