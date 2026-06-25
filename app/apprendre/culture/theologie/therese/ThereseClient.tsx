@@ -23,7 +23,7 @@ const intro1 = {
 
 const intro2 = {
    fr: {
-    title: 'Dusau demeure',
+    title: 'Deuxième demeure',
     subtitle: "Persévérance & combat intérieur",
      content:
       "Pour contrer les difficultés, Dieu utilise des intermédiaires (paroles de gens de bien, sermons, lectures de bons livres, des épreuves comme la maladie ou la douleur). Il faut persévérer, Dieu sait attendre des années s'il voit un désir sincère. Le démon présente les plaisirs terrestres comme éternels. Il rappelle l'estime sociale et l'affection des proches que l'âme pourrait perdre. Il fait craindre pour la santé à cause des pénitences. Il faut utiliser la Raison (les biens du monde ne sont que « pur néant » face au bonheur espéré), la foi (seul ce bonheur divin rassasie), la mémoire (se rappeler la fin inévitable de toute chose terrestre), la volonté (attiré par cet Dieu qui nous quitte jamais) et l'entendement (hors du château ni sécurité et paix). Il faut fréquenter de bonnes personnes. Le but ultime de ce chemin n'est pas d'obtenir des faveurs extraordinaires, mais de conformer sa volonté à celle de Dieu ! Il ne faut pas vouloir que Dieu fasse notre volonté et nous conduise par le chemin qui nous plaît. Dieu peut faire tourner une chute à l'avantage de l'âme pour la rendre plus vigilante. L'oraison est la seule porte pour entrer dans le château. Vouloir entrer au ciel sans entrer en soi-même pour se connaître et voir sa propre misère est une folie.",
