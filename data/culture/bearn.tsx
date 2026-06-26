@@ -76,7 +76,7 @@ be: (  <p>
   },
   
   'moncade': {
-    titre: "Formation du Béarn", 
+    titre: "Jusqu'à la Souveraineté", 
     periode: "Temps Féodaux",
     resume: "Le Béarn naît d’une autonomie ancienne, forgée entre foi et féodalité",
     introduction: "Aux origines du Béarn, une autonomie singulière…",
@@ -171,6 +171,7 @@ be: ( <p>
           
    fr: (         <p>
 En janvier 1356, Jean le Bon signe des lettres de rémission pour amnistier son fils, le roi de Navarre, ainsi que le comte de Foix. Cette clémence renforce Charles II de Navarre dans la conviction qu’il peut tout se permettre et il monte alors un nouveau complot, découvert lors d’un banquet à Rouen le 5 avril 1356. Il y est arrêté, certainement comme Fébus, son complice présumé. Le roi de France exige alors de Fébus un hommage pour le Béarn, mais celui-ci refuse, préférant préserver la souveraineté de ses terres. Alors que le Prince de Galles s’apprête à lancer une chevauchée entre Bordeaux et Calais, le roi finit par libérer Fébus pour éviter qu'il ne change de camp. Fébus ira accueillir le roi d'Aragon à Perpignan contre la Castille (hommage à Pierre IV pour ses terres de Cerdagne et de Conflent, promettant en retour une aide militaire, en échange d’une indemnité confortable pour chaque homme et chaque cheval engagé). Ensuite Pierre d'Aragon demande Fébus à l'aide pour la guerre des 2 Pierre, mais Fébus demande a être payer plus. Pierre IV finit par céder, concédant à Gaston un supplément de solde pour chaque soldat.  Fébus a l'assurance que le prince noir (Edouard de Windstock, Prince de Galles) n'allait pas attaquer le Béarn. Il se rapproche de la Castille donc il reçoit le paiement intégral des soldes promises par l'Aragon avant le début de la campagne militaire. Fébus avança lentement et arriva après la trêve. Jean le Bon est capturé à Poitiers par le prince noir. Puis Gaston décide de partir en croisade avec le seigneur pro-anglais Jean III de Grailly, captal de Buch (lui assurant aucune attaque anglaise). Le pays de Buch fut reçu par cette famille originaire de Savoie par un mariage avec des Anglais au XIIIe siècle (Pierre de Grailly épouse grâce aux Anglais une héritière bordelaise). Fébus peut donc ne pas répondre aux sollicitations du roi d’Aragon, dont la trêve avec la Castille venait d’être rompue, lui évitant ainsi d’être impliqué dans le conflit entre la Navarre et la France. Il emprunte à Bruges pour financer sa croisade et aura du mal à la rembourser. 
+
 </p>),
 be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
@@ -198,6 +199,7 @@ be: ( <p>
           
     fr: (        <p>
 Le dauphin de France nomme lieutenant en Languedoc le comte de Poitiers (son frère Jean), laissant la région sous la garde de Jean Ier d’Armagnac, gouverneur et allié avec le pape. Le Languedoc occidental est favorable à Fébus mais le Languedoc oriental, aligné sur Carcassonne, lui est hostile. Au cours de l’hiver 1359-1360, Gaston profite de la rupture entre le Dauphin Charles et le roi d’Angleterre Édouard III pour rallier les bandes anglo-gasconnes et lance une vaste chevauchée militaire (Bigorre, Foix, l’Albigeois...). Jean Ier d’Armagnac, également comte de Rouergue, tenta de résister depuis Lautrec, tandis que le comte de Poitiers cherchait en vain à négocier la paix car les finances du royaume étaient épuisées, les revenus de Champagne faibles, et le prince noir, fils d’Édouard III, menaçait Reims. Fébus demandait la Bigorre, le remplacement du lieutenant général et de l'argent. Débutant une guerre d'usure avec Jean de Poitiers, qui se mariera avec une infante d'Armagnac. Au printemps de 1360, le traité de Brétigny donne Poitiers aux Anglais, la Bigorre devient anglaise comme toute l'Aquitaine, les Albret, ex-alliés des Anglais, s'allient à l'Armagnac. Fébus signe Pamiers et reçoit de l'argent du Languedoc.  Fébus, dans son autorité grandissante, va jusqu’à nommer un receveur agissant en son nom dans la sénéchaussée royale de Beaucaire, où il se comporte comme sur ses propres terres. Les routiers (mercenaire) ravagent la région du sud de la France. Jean, duc de Berry, lieutenant général en Languedoc dérange Fébus car il est le gendre d'Armagnac. Le 5 décembre 1362, les deux armées d'Armagnac et de Béarn se rencontrent près de Launac et c'est une victoire pour Fébus. 
+
 </p>),
 be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
@@ -211,6 +213,7 @@ be: ( <p>
           
     fr: (        <p>
 Febus reçoit de l'argent (conserve ces prisonniers jusqu'à recevoir l’intégralité des rançons, car à l’époque une partie des sommes versées disparaissait souvent entre les mains des intermédiaires) et la maison d'Armagnac renonçait à ses réclamations territoriales. À la suite de cette victoire il répudie sa femme se déliant de Charles de Navarre avec qui il avait eu des intrigues contre la France. Le 14 janvier 1364 vers neuf heures du matin, Fébus rend hommage à Edouard de Galles pour le Marsan et le Gabardan mais pas le Béarn. Ensuite après avoir retrouvé l'ancien hommage de Marguerite, Édouard lui dit de venir prêter hommage pour le Béarn. Mais Fébus prétexte alors une blessure à la jambe. Édouard renvoie un sauf-conduit et un médecin, Gaston lui assure que sa jambe guérit « grâce à Dieu » en le flattant. Le prince lui dit de venir fin septembre (fermé car les Anglo-Navarrais ont déjà perdu la bataille de Cocherel, ce qui stoppe l'ambition de Charles II). Castelbon, Albret et même Armagnac (ruiné par la rançon qu'il doit payer à Fébus, il a demandé l'aide du prince de Galles) ont prêté hommage. Fébus ne prête toujours pas hommage et parle d'un complot qui l'attend. 
+
 </p>),
 be: ( <p>
       Les Vascons ont participé aux batailles de Roncevaux (778 et 824) contre les armées de Charlemagne puis de Louis le Pieux près de Pampelune et à la bataille de Taller face aux Vikings (982). Les Francs cessent d'intervenir en Béarn (chrétiens depuis le Ve siècle). Lors de la restructuration épiscopale, le titre d’évêque de Lescar remplaça celui de Beneharnum (approximativement ancien nom de Lescar) qui a donné son nom au Béarn. Vers 980, le vicomte de Béarn est très probablement assassiné près de Lescar par Loup Fort, chevalier de Serre-Castet (envoyé par le comte), qui fera ensuite pénitence. Après cet épisode, le comte Guillaume Sanche confie le titre de vicomte non pas au puissant viguier, mais au viguier du Vic-Bilh, jugé moins urbain et donc moins dangereux politiquement. Le vicomte réside à Morlaàs, l’évêque à Lescar, le viguier à Pau. En 1022, le comte Sanche Guillaume vient en Béarn, le viguier de Lescar est déplacé à Pau (probablement parce que son influence devenait trop forte) puis il meurt en 1032. C’est alors la guerre de succession : le Béarn soutient l'Armagnac, mais c’est Poitiers qui gagne. Le territoire s’étend vers le nord, laissant une autonomie au Béarn ! 
@@ -265,6 +268,13 @@ Sous le préau de sa vigne à Moncade, près du gave au pied du château de Pau,
          </p>),
          
       },
+
+
+
+
+
+
+
         {
         titre: "La guerre pour le Comminges",
         
@@ -280,6 +290,9 @@ Sous le préau de sa vigne à Moncade, près du gave au pied du château de Pau,
          </p>),
          
       },
+
+
+
       {
         titre: "La Mort du Jeune Gaston",
         
@@ -306,6 +319,10 @@ be: (    <p>
          </p>),
          
       },
+
+
+
+
 
 
 
@@ -371,6 +388,13 @@ be: (    <p>
          </p>),
          
       },
+
+
+
+
+
+
+
        {
         titre: "Une Alliance Lucrative pour Fébus",
         
@@ -409,6 +433,9 @@ be: (    <p>
          </p>),
          
       },
+
+
+
       {
         titre: "Les Foix Maîtres du Midi",
         
@@ -449,6 +476,25 @@ be: (   <p>
 
     ]
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
    'navarre': {
     titre: "Union avec la Navarre", 
     periode: "Renaissance",
