@@ -60,7 +60,7 @@ const teachingsB = [
   
   
   
-  `Û crestia qui pechque qu'éy méy coupàble qu'û paga permou que méy que recebèm, méy que debem réndẹ. Lou demoun que-ns pot ha càdẹ soùnquẹ si dam lou noùstẹ counsentimen. Diu permet la tentacioû ta que-n proùbim lou noùstẹ amou e grandìm en counechénce de nousàutẹs. Que cau tira lous soûs ligames dou moùndẹ ta que Diu entre.`,
+  `Û crestia qui pechque qu'éy méy coupàble qu'û pagâ permou que méy que recebèm, méy que debem réndẹ. Lou demoun que-ns pot ha càdẹ soùnquẹ si dam lou noùstẹ counsentimen. Diu permet la tentacioû ta que-n proùbim lou noùstẹ amou e grandìm en counechénce de nousàutẹs. Que cau tira lous soûs ligames dou moùndẹ ta que Diu entre.`,
 
   `Taus qui ne pòdẹn pas ploura (Diu qu'at hè ta-t empecha de debiénẹ orgulhous ou de-t acountenta de la toûe emoucioû), qu'éy lou desi ardent dou co qui coùmpte autâ que l'aygue dous oélhs (l'oélh qu'arrebire ço qui lou co sen, û co plé d'amou-pròpi da larmes egoïstes). La perfeccioû qu'éy de ploura sus lous pecats dou moùndẹ e la pèrtẹ de las àmnes.`,
 
