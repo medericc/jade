@@ -22,15 +22,15 @@ const teachings = [
     titleFr: 'La nature de la demande',
       titleBe: 'La nature de la demande',
   
-    textFr: `Les moines d'Égypte privilégient des prières brèves et fréquentes pour maintenir une attention vigilante sans se lasser. La prière se réalise souvent mieux dans les larmes que dans les grands discours. Si une demande ne peut pas se rapporter au Notre Père (ex : demander des richesses par cupidité), elle est "charnelle" ou illicite. Celui qui ne vit que pour les plaisirs des sens est considéré mort spirituellement.`,
+    textFr: `Les moines d'Égypte privilégient des prières brèves et fréquentes pour maintenir une attention vigilante sans se lasser. La prière se réalise souvent mieux dans les larmes que dans les grands discours. Si une demande ne peut pas se rapporter au Notre Père (ex : demander des richesses par cupidité), elle est "charnelle" ou illicite. Vivre pour les plaisirs des sens c'est être mort spirituellement.`,
     textBe: `Lous moènes d'Egipte preferen pregàries braques e soubendes ta tiéne ûe atencioû arnauta. La pregàri que se hé souben miélhẹ déns las larmes que déns lous grans debis. Si ûe demande ne-s pot pas yunta au Nouste Pay (ex : demanda richeses per aganidè), qu'ey "carnau" ou countre la ley. Lou qui bìbe que t'ous plases dous sens qu'ey counsiderat mour spirituaumen.`
   },
 
   {
     titleFr: 'La santé, l’amitié et la volonté de Dieu',
-     titleBe: 'La santat, l\'amistat e la boulentat de Diu',
+     titleBe: 'La santat, l\'amistat',
   
-    textFr: `La santé et l'amitié sont des biens précieux, mais passagers, utiles que s'ils nous aident à acquérir le mérite de la vie éternelle. On doit aimer Dieu pour lui-même, et s'aimer soi-même (ou son prochain) en vue de Dieu. Nous pouvons demander la fin d'une souffrance alors qu'elle nous est utile pour notre humilité ou notre patience. Dieu peut refuser une demande par bonté (Paul) ou l'accorder pour nous laisser constater l'absurdité de nos propres caprices (Israélites au désert).`,
+    textFr: `La santé et l'amitié sont utiles que s'ils nous aident à acquérir le mérite de la vie éternelle. On doit aimer Dieu pour lui-même, et s'aimer soi-même (ou son prochain) en vue de Dieu. Nous pouvons demander la fin d'une souffrance alors qu'elle nous est utile pour notre humilité ou notre patience. Dieu peut refuser une demande par bonté (Paul) ou l'accorder pour nous laisser constater l'absurdité de nos propres caprices (Israélites au désert).`,
     textBe: `La santat e l'amistat que soun bês precious, mé qui pàssen, utìles soùnque si-ns ayden a obtiénẹ lou merite de la bite eternau. Que cau ayma Diu ta eth-medich, e s'ayma se-medich (ou lou sou prouchén) en l'esperance de Diu. Que poudém demanda la fì d'ûe doulénci alabéts qu'ey utìle ta la nouste umilitat ou la nouste pacience. Diu pot refusat ûe demande per bountat (Pol) ou la da ta-ns decha bede la peguesse de lous noustes caprìcis (Israelìtes au desert).`
   },
 
@@ -47,16 +47,16 @@ const teachings = [
 
   {
     titleFr: 'La prière comme désir du cœur',
-      titleBe: 'La pregàri coum desi dou co',
+      titleBe: 'La pregàri û desi dou co',
    
     textFr: `La véritable prière est un "désir continuel" nourri par la foi, l'espérance et la charité. La prière ne sert pas à informer Dieu, mais à exercer et dilater notre désir. Plus notre désir est grand, plus nous devenons capables de recevoir les dons que Dieu prépare. Les paroles ne sont là que pour nous rappeler à nous-mêmes ce que nous demandons et pour ranimer notre ferveur quand elle s'attiédit.`,
     textBe: `La bertadère pregàri qu'éy û "desi countinu" neurit per la fè, l'esperance e la caritat. La pregàri ne sèr pas ta assabenta Diu, mé à exerça e dilata lou noùste desi. Méy lou noùstẹ desi qu'éy gran, méy que debieném capàblẹs de recébẹ lous dats qui Diu prepare. Las paraules soun aquiu soùnquẹ ta-ns rapela à nous-medichs ço qui demandam e ta rebiscoula lou noùste arzéc quoan bade dousse.`
   },
 {
     titleFr: 'L’orientation des soins',
-    titleBe: 'L’orientacioû dous soégns',
+    titleBe: 'L’orientacioû',
   
-    textFr: `Il est permis de prier pour la santé (intégrité de l'âme et du corps), l'amitié (l'affection envers les proches) et le nécessaire (nourriture et vêtement) pour maintenir un état convenable sans tomber dans l'excès ou l'orgueil. Par nécessité pour servir Dieu, ne pas laisser la concupiscence guider ces soins, rester orienté vers 1 seule fin.`,
+    textFr: `Il est permis de prier pour la santé (intégrité de l'âme et du corps), l'amitié (l'affection envers les proches) et le nécessaire (nourriture et vêtement) pour maintenir un état convenable sans tomber dans l'excès ou l'orgueil et rester orienté vers 1 seule fin.`,
     textBe: `Qu'éy permetut de prega ta la santat (integritat de l'àmne e dou cos), l'amistat (l'affecioû dap lous proches) e lou necessàri (mascadure e pélhe) ta tiéne û estat chéns càdẹ héns l'excès ou l'ourgul. Per necessitat ta serbi Diu, ne pas decha la councupisence mia aquéts soégns, e demoura orientat de cap a ûe soule fì.`
   },
   {
