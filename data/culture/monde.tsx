@@ -372,6 +372,21 @@ Afin de stabiliser son royaume, la servante de Dieu Isabelle de Castille parvien
           
         
       },
+
+         {
+        titre: "La Bataille de Lépante",
+        titrebe: "La Batalhe de Lepante",
+       
+          
+       fr: (      <p>
+Joseph Nasi (banquier juif expulsé d’Ibérie qui fuira d’Anvers où il avait créé une succursale avec le concours de Rabbi Abraham Benveniste, et se mariera à sa cousine) est proche du sultan musulman Soliman le Magnifique (lié par son médecin, le rabbin Moïse/Moché Hamon), ce qui lui permet de libérer sa tante et de s'installer là-bas (le sultan étant intéressé par sa richesse). Le fils de Soliman le fera duc. Il soutient les souverains tolérants Sigismond II Auguste et Maximilien II (ils n'y voyaient pas de problème, mais Joseph lui y voyait une opportunité) et encourage la révolte des Pays-Bas face à l'Espagne (1566, conseil des protestants d'Anvers). Coligny, proche de Jeanne, voulait s'allier avec les Hollandais protestants donc Catherine lui propose d'aller combattre avec eux pour l'éloigner de Jeanne, pendant que Elisabeth 1e et Louis de Nassau (ami de Jeanne, à qui elle offre une horloge avant de mourir) soutiennent le mariage Marguerite–Henri pour une coalition anti-espagnole aux Pays-Bas mais Jeanne a peur d’une ruse (comme avec son mari). Au surplus, Joseph saisit des navires français car la France (1569) ne lui paye pas sa dette (au motif qu'il avait menti en ne se déclarant pas juif) et provoque la guerre contre Venise, qui mènera à la bataille de Lépante où les chrétiens l'emportent (par l'intercession de la Vierge Marie selon le pape Pie V), tout en avançant un projet sioniste. 
+
+     </p>  ),  be: (  <p>
+   Ta stabilisa lou soû reyame, la serbiciale de Diu Isabelle de Castille qu'escadit, mercés au soû contexte geopolitique, à pità l'Inquisicioû espagnole (lou pùple qu'ère ta d’aco). Aquére enstitucioû, establide héns toute l’Espagne reünide pouliticamén entour de lèys mourales, que-s s'amuche hère sebere" de cap aus rìchẹs — ta que la Couroune demoùri mestrésse à case daban Diu e ne s'abiégne pas dap puchances de mounéde aus prouyéts materièls (ta ne pas coupa lou sistèmi) perillouses ta las àmnes — e tabé de cap au clerat, tiengut de ha probe d’ûe exemplaritat mourale e d’ûe boune fe (per la loûe autouritat, que pòdẹn esgaria lou pùple, ta coupa lou sistèmi per exémple). S’ou plan dougmatic, û caperâ en estat de pecat mortèl qu'administre toutû sacraméns balìdẹs, segoun sénte Thérèse d'Avila, e « medich lou batiou de Yudas qu'ère balìdẹ » segoun Sén Augustin (touts dus estan noumentats dou tìtrẹ de "douctur" de la Glèyse, en tratan aquéth tìtrẹ s’û pè de paritat assoulude). En counterroullan, instruìsin e courridyan — au countràri dous àutẹs tribunaus cibils de la tempourade, hère méy abancius — la reyne que bòu assegura lou salut de touts lous soûs sudyèts estan chacû despuch la soûe ouriyine ordounat à la bite e, s’ou plan teleounoumique, coum û biélh en puchence, chéns soumissioû ta banquiès sedentaris. Ta-d esbita lou pecat, que cau estirpâ ço qui-u prouboque, l’apoulouyie estan counsiderade coum pìri que l’acte éth-medich. Quàuquẹs sudyèts qu'ignòrẹn tout simplemen que la fournicacioû ou l’usure excessibe e hèn û crìme, e que lou counsentimen qu'éy ûe circounsténce agrabante. Lou hèyt de-s denouncia éth-medich que te moigne dou repenti-s, e la péne que-s en trobe fourçadamén aleuyade. Atau, û acte isolat de soudoumie nou miara pas ta la péne de mourt — à part taus rìchẹs, lous mèmbrẹs dou clerat ou aus purmeries de l’enstitucioû —, més la persistançe encabourride héns lou crìme, qui nou prén pas méy d’ûe simple pèrdẹ de luciditat més d’û refus descidat de-s repenti, qu'éy grabamén sancciounade ta-d apara lous pùplẹs d’aquéths predaturs qui-us mian héns û pecat qui ahortechi l'amne e qu'ennegrechi la counsciénce. De cap méy, ûe soufrence, ûe humiliacioû ou ûe puniciou que pòdẹn debiénẹ û parat de repenti-s ; chéns repenti-s, qu'éy la desseparacioû de cap à Diu, l'ihèr. Ûe grane part de la coumunitat musulmane que-s coumbertira tau proutestantìsme" e que-s recattara héns lou Biarn.
+    </p>),
+          
+        
+      },
        
     ]
   },
