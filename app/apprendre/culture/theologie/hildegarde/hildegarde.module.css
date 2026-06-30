@@ -43,11 +43,11 @@
   background: linear-gradient(
   180deg,
   #522378 0%,
-  #3d1a5c 50%,
-  #28103d 100%
+  #522378 50%,
+  #522378 100%
 );
 
-  border-bottom: 1px solid rgba(244,197,66,.18);
+  border-bottom: 1px solid rgba(22, 22, 22, 0.18);
 }
 
 .hildegardeHeader::before {

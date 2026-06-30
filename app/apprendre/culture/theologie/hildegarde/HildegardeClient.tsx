@@ -57,7 +57,15 @@ export default function HildegardePage() {
         cursor: 'pointer',
       }}
     >
-      🇫🇷
+  <Image
+  src="/fra.webp"
+alt="Drapeau de la France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
 
     <button
@@ -832,9 +840,9 @@ Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flo
  background:
   linear-gradient(
     180deg,
-    #24103b 0%,
-    #13081f 45%,
-    #09060d 100%
+    #3a1b5c  0%,
+    #3a1b5c  45%,
+    #3a1b5c  100%
   );
 
   color: #2d0a45;
