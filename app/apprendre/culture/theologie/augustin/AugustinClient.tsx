@@ -347,9 +347,9 @@ alt="Drapeau de la France"
             `}
           >
 
-            <div className={styles.cardIcon}>
-              ✝️
-            </div>
+        <div className={styles.cardNumber}>
+  {String(index + 1).padStart(2, '0')}
+</div>
 
         <h3>
   {langue === 'fr'
