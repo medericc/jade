@@ -839,7 +839,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
   title: 'Différences de genre entre le français et le béarnais',
   content: [
     "Û aha → une affaire",
-    "Û arrelòdye → une horloge",
+    "Ûe orlòdye → une horloge",
     "Û crimalh → une crémaillère.",
     "Lou déutẹ → la dette",
     "Lou grèch → la graisse",
