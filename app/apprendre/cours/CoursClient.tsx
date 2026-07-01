@@ -299,11 +299,11 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "En purmè → premièrement",
     "Tout d’abor → tout d’abord",
     "Ta coumença → pour commencer",
-    "Tad alengua → pour commencer",
+    "Ta alengua → pour commencer",
     "Puch → puis",
     "Ad arroun → ensuite",
     "En seguin → en suivant",
-    "Tad acaba → pour terminer",
+    "Ta acaba → pour terminer",
      "Ta feni → pour finir",
     "À la fî → à la fin",
     "Per la fî → finalement",
@@ -430,7 +430,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "apari-u → arriver.",
     "Que l’aparéch soubén. → Il lui arrive souvent.",
     "baga-u → avoir le temps.",
-    "Que-u bague toustém ad ére ! → Il a toujours le temps pour elle !",
+    "Qu'ou bague toustém ta ére ! → Il a toujours le temps pour elle !",
     "càlẹ / calé → falloir.",
     "Estudia que cau ! → Il faut étudier !",
     
@@ -449,7 +449,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "paréchẹ-s → paraître.",
     "Que-s paréch que-y ba bàdẹ céths. → Il paraît qu’il va y avoir des cèpes.",
     "pressa-u → avoir hâte.",
-    "Que-u prèsse de l’ana bédẹ ad ére. → Il a hâte d’aller la voir.",
+    "Qu'ou prèsse de l’a bédẹ. → Il a hâte d’aller la voir.",
     "soubiénẹ-u → se souvenir.",
     "Que-m soubién ço qui-m digous. → Je me souviens de ce que tu m’as dit."
   ]
