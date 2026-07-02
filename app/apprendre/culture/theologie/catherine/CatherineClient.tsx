@@ -337,9 +337,9 @@ alt="Drapeau du Béarn"
                 : styles.purple
             }`}
           >
-            <div className={styles.cardIcon}>
-              ✝️
-            </div>
+          <div className={styles.cardNumber}>
+  {String(index + 1).padStart(2,'0')}
+</div>
 
             <p>
               {text}
