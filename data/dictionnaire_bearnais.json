@@ -1,6 +1,6 @@
 [
 
-  {
+  { 
     "id": 4,
     "titre": "a",
     "definition": "il / elle a",
@@ -7314,21 +7314,7 @@
   },
  
  
-  {
-    "id": 1184,
-    "titre": "aurina",
-    "definition": "uriner",
-    "type": "verbe intransitif/transitif",
-    "search": "aurina uriner"
-  },
-
-  {
-    "id": 1186,
-    "titre": "aurine",
-    "definition": "urine",
-    "type": "nom féminin",
-    "search": "aurine urine"
-  },
+  
  
   {
     "id": 1189,
@@ -41077,13 +41063,7 @@
     "type": "verbe transitif",
     "search": "fesilha fusiller"
   },
-  {
-    "id": 6451,
-    "titre": "fèyt",
-    "definition": "dans les locutions adverbiales tout à fè(y)t → tout à fait. ♦ Si fè(y)t → mais oui, si fait. ♦ Nàni fè(y)t → non et non, ah non. ",
-    "type": "nom masculin",
-    "search": "fèyt dans les locutions adverbiales tout à fè(y)t → tout à fait. ♦ Si fè(y)t → mais oui, si fait. ♦ Nàni fè(y)t → non et non, ah non. "
-  },
+
   {
     "id": 6452,
     "titre": "fî",
@@ -42274,9 +42254,9 @@
   {
     "id": 6630,
     "titre": "gale",
-    "definition": "gale. ♦ Ne-u manque (pas) que pedoulhs e gales → Il a tout ce qui lui faut (« Il ne lui manque que les poux et la gale »).",
+    "definition": "gale. ♦ N'ou manque (pas) que pedoulhs e gales → Il a tout ce qui lui faut (« Il ne lui manque que les poux et la gale »).",
     "type": "nom féminin",
-    "search": "gale gale. ♦ Ne-u manque (pas) que pedoulhs e gales → Il a tout ce qui lui faut (« Il ne lui manque que les poux et la gale »)."
+    "search": "gale gale. ♦ N'ou manque (pas) que pedoulhs e gales → Il a tout ce qui lui faut (« Il ne lui manque que les poux et la gale »)."
   },
   {
     "id": 6631,

@@ -382,11 +382,7 @@ margin-top: 1rem;
 
   gap:2rem;
 }
-.learningGrid article:last-child{
 
-  grid-column:2 / span 2;
-
-}
 /* =========================================
    CARD
 ========================================= */

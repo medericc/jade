@@ -214,7 +214,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Le pronom neutre « at » renvoie à l’idée de « ça ».",
     "Formes : at, -m at, -p at.",
     "Que-m-at a dit ! → Il me l’a dit !",
-     "Qu'ou/ous - Que la/las  →  le/les - la/les",
+     "Qu'ou/ous (Que-u/us) - Que la/las  →  le/les - la/les",
      "Qu'ou (que + lou) crey. → Je le crois.",
           "Toutes aquéres maysoûs que soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon."
  

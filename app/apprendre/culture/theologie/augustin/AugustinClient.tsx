@@ -18,13 +18,7 @@ const teachings = [
     textBe: `Arrés ne se counèche  proû ta sabe  ço qui sera doumâ . Toute la pregàri deu ana de cap à la bite eternau. La pregàri qu'ey aydade p'ous yunes e sustout p'as aumoynes (« cerca Diu dap las soûes mas »). La pregàri ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite bertadère.`
   },
 
-  {
-    titleFr: 'La nature de la demande',
-      titleBe: 'La nature de la demande',
-  
-    textFr: `Les moines d'Égypte privilégient des prières brèves et fréquentes pour maintenir une attention vigilante sans se lasser. La prière se réalise souvent mieux dans les larmes que dans les grands discours. Si une demande ne peut pas se rapporter au Notre Père (ex : demander des richesses par cupidité), elle est "charnelle" ou illicite. Vivre pour les plaisirs des sens c'est être mort spirituellement.`,
-    textBe: `Lous moènes d'Egipte preferen pregàries braques e soubendes ta tiéne ûe atencioû arnauta. La pregàri que se hé souben miélhẹ déns las larmes que déns lous grans debis. Si ûe demande ne-s pot pas yunta au Nouste Pay (ex : demanda richeses per aganidè), qu'ey "carnau" ou countre la ley. Lou qui bìbe que t'ous plases dous sens qu'ey counsiderat mour spirituaumen.`
-  },
+
 
   {
     titleFr: 'La santé, l’amitié et la volonté de Dieu',
@@ -36,22 +30,28 @@ const teachings = [
 
   
 
-
-
-
-
-
-
-
-
-
-  {
+ {
     titleFr: 'La prière comme désir du cœur',
       titleBe: 'La pregàri û desi dou co',
    
     textFr: `La véritable prière est un "désir continuel" nourri par la foi, l'espérance et la charité. La prière ne sert pas à informer Dieu, mais à exercer et dilater notre désir. Plus notre désir est grand, plus nous devenons capables de recevoir les dons que Dieu prépare. Les paroles ne sont là que pour nous rappeler à nous-mêmes ce que nous demandons et pour ranimer notre ferveur quand elle s'attiédit.`,
     textBe: `La bertadère pregàri qu'éy û "desi countinu" neurit per la fè, l'esperance e la caritat. La pregàri ne sèr pas ta assabenta Diu, mé à exerça e dilata lou noùste desi. Méy lou noùstẹ desi qu'éy gran, méy que debieném capàblẹs de recébẹ lous dats qui Diu prepare. Las paraules soun aquiu soùnquẹ ta-ns rapela à nous-medichs ço qui demandam e ta rebiscoula lou noùste arzéc quoan bade dousse.`
   },
+
+
+  {
+    titleFr: 'La nature de la demande',
+      titleBe: 'La nature de la demande',
+  
+    textFr: `Les moines d'Égypte privilégient des prières brèves et fréquentes pour maintenir une attention vigilante sans se lasser. La prière se réalise souvent mieux dans les larmes que dans les grands discours. Si une demande ne peut pas se rapporter au Notre Père (ex : demander des richesses par cupidité), elle est "charnelle" ou illicite. Vivre pour les plaisirs des sens c'est être mort spirituellement.`,
+    textBe: `Lous moènes d'Egipte preferen pregàries braques e soubendes ta tiéne ûe atencioû arnauta. La pregàri que se hé souben miélhẹ déns las larmes que déns lous grans debis. Si ûe demande ne-s pot pas yunta au Nouste Pay (ex : demanda richeses per aganidè), qu'ey "carnau" ou countre la ley. Lou qui bìbe que t'ous plases dous sens qu'ey counsiderat mour spirituaumen.`
+  },
+
+
+
+
+
+ 
 {
     titleFr: 'L’orientation des soins',
     titleBe: 'L’orientacioû',
