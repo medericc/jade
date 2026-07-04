@@ -105,7 +105,7 @@ const teachings =
       padding: '4px',
     }}
   >
-    <button
+  <button
       onClick={() => setLangue('fr')}
       style={{
         border: 'none',
@@ -123,7 +123,15 @@ const teachings =
         cursor: 'pointer',
       }}
     >
-      🇫🇷
+    <Image
+  src="/fra.webp"
+alt="Drapeau de la France"
+  width={24}
+  height={24}
+  style={{
+    objectFit: "contain",
+  }}
+/>
     </button>
 
     <button
