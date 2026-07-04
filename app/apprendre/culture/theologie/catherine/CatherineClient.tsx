@@ -121,6 +121,7 @@ const teachings =
         padding: '.65rem 1rem',
         borderRadius: '999px',
         cursor: 'pointer',
+        zIndex: 9999,
       }}
     >
     <Image
@@ -146,6 +147,7 @@ alt="Drapeau de la France"
         
         borderRadius: '999px',
         cursor: 'pointer',
+        zIndex: 9999,
       }}
     >
      <Image
@@ -202,6 +204,7 @@ alt="Drapeau du Béarn"
         padding: '.65rem 1rem',
         borderRadius: '999px',
         cursor: 'pointer',
+        zIndex: 9999,
       }}
     >
     <Image
@@ -227,6 +230,7 @@ alt="Drapeau de la France"
         
         borderRadius: '999px',
         cursor: 'pointer',
+        zIndex: 9999,
       }}
     >
       <Image

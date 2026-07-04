@@ -77,6 +77,7 @@ export default function HistoireAnalyse({
                 padding: '.65rem 1rem',
                 borderRadius: '999px',
                 cursor: 'pointer',
+                zIndex: 9999,
               }}
             >
                 <Image
@@ -106,6 +107,7 @@ export default function HistoireAnalyse({
                 padding: '.65rem 1rem',
                 borderRadius: '999px',
                 cursor: 'pointer',
+                zIndex: 9999,
               }}
             >
            <Image
