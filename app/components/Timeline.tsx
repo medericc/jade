@@ -198,10 +198,10 @@ const [langue, setLangue] = useState<'fr' | 'be'>('fr');
     }}
   >
     <button
-      style={{
-        border: 'none',
-        background: '#2a0c45',
-        color: '#fff',
+      onClick={() => setLangue('fr')}
+      style={{        border: 'none',
+        background: langue === 'fr' ? '#2a0c45' : 'transparent',
+    color: langue === 'fr' ? '#fff' : '#2a0c45',
         fontWeight: 700,
         padding: '.6rem .9rem',
         borderRadius: '999px',
@@ -221,10 +221,11 @@ alt="Drapeau de la France"
     </button>
 
     <button
+      onClick={() => setLangue('be')}
       style={{
         border: 'none',
-        background: 'transparent',
-        color: '#2a0c45',
+           background: langue === 'be' ? '#2a0c45' : 'transparent',
+       color: langue === 'be' ? '#fff' : '#2a0c45',
         fontWeight: 700,
         padding: '.6rem .9rem',
         borderRadius: '999px',
