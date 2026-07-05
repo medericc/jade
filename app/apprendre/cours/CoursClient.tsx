@@ -265,7 +265,8 @@ const isMobile = useMediaQuery('(max-width: 767px)')
   title: 'Expressions courantes',
   content: [
     "Que cau ha ço qui cau ! → Il faut faire ce qu’il faut !",
-    "Ne cau pas arré ! → Il ne faut rien !",
+    "Ne cau pas arré ! (\"ne\" est toujours suivi de \"pas\") → Il ne faut rien !",
+     "Ne mie pas à-d arré ! (le son \"d\" entre les \"a\") → Il ne mène à rien !",
     "Que caleré maynàdyes aciu. → Il faudrait des enfants ici.",
     "Youga dou piano. → Jouer du piano.",
     "Ha à las cartes. → Jouer aux cartes."
