@@ -280,10 +280,10 @@ alt="Drapeau de la France"
             du Château intérieur
 </>
             ) : (  
- <>
+ <> <span className="text-[0.9em]">
   Las 7 demoures
             <br />
-            dou Castèth de-dehéns
+            dou Castèth de-dehéns</span>
  
  </>
             )}
