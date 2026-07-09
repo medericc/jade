@@ -76,6 +76,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
               
             "é et è portent toujours un accent.",
             "à, ì, ò et ù portent généralement un accent.",
+             "a, à ou encore ta peuvent recevoir un -d euphonique devant un mot commençant par une voyelle (a-).",
             "Le tréma (ü) est rare (flaüte)."
           ]
         },
@@ -300,11 +301,11 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "En purmè → premièrement",
     "Tout d’abor → tout d’abord",
     "Ta coumença → pour commencer",
-    "Ta alengua → pour commencer",
+    "Ta/Tad alengua → pour commencer",
     "Puch → puis",
     "Ad arroun → ensuite",
     "En seguin → en suivant",
-    "Ta acaba → pour terminer",
+    "Ta/Tad acaba → pour terminer",
      "Ta feni → pour finir",
     "À la fî → à la fin",
     "Per la fî → finalement",
@@ -575,7 +576,11 @@ const isMobile = useMediaQuery('(max-width: 767px)')
   title: 'Déplacements et actions',
   content: [
     "Ana-se-n → S’en aller.",
-    "Qu'y èt anades ? → Y êtes-vous allées ?"
+    "Qu'y èt anades ? → Y êtes-vous allées ?",
+      "Pour exprimer la réitération d'une action en béarnais, on utilise le verbe « tourna » conjugué + l'infinitif du verbe.",
+  "Je reviens ! → Que tourni biénẹ !",
+      "Je l'ai revu là-bas. → Que l'èy tournade bédẹ acera.",
+     
   ]
 },
 
