@@ -240,7 +240,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Balhe-la-me ! → Donne me la.",
   
     "Quoan lou nse porte. → Quand il nous l'apporte.",
-    "Que las pe cau. → Il vous les faut."
+    "Que las pe cau. → Il vous les faut.",
+     "Celle que nous voyons. → La qui bedém.",
+      "Celui que nous voyons. → Lou qui bedém."
   ]
 },
 

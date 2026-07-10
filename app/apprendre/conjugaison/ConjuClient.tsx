@@ -616,19 +616,20 @@ window.history.replaceState(null, '', `#${s.key}`)
                On insère abut ou estat entre l&apos;auxiliaire et le participe
               </p>
        
-               <p>Qu&apos;èy abut tribalhat en ouctoùbrẹ. → Il m&apos;est arrivé de trvailler en octobre.</p>
+               <p>Qu&apos;èy abut tribalhat en ouctoùbrẹ. → Il m&apos;est arrivé de travailler en octobre.</p>
        
 
             </Card>
 
              <Card title="Imparfait du Subjonctif" icon="📜">
-               <p>⚠ Peu courant !</p>
-               <p>3e personne du passé simple + -ssi, -ssẹs, -ssẹ, -ssẹm, -ssẹt, -ssẹn</p>
+            
+               <p>3e personne du passé simple + -ssi, -ssis, -ssi, -ssim, -ssit, -ssin</p>
         <p>
-       Exprime de manière emphatique un souhait (souvent un regret) ! </p>
+       Le conditionnel et les temps du passé exigent le subjonctif imparfait.</p>
     <p>
-         Exemple : Ah, si je savais au moins ce que tu veux ! → Que saboùssi au ménch ço qui bos !   </p>
-
+        Je voudrais que tu m&apos;écoutes. → Que bouleri que-m escoutèssis/escoutassis. </p>
+    <p>
+         Je voulais que tu m&apos;écoutes. → Que bouli que-m escoutèssis/escoutassis. </p>
                 <p>
        Auxiliaire à l&apos;imparfait du subjonctif + participe passé = subjonctif plus que parfait  </p>
             </Card>
