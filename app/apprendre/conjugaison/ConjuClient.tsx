@@ -427,7 +427,7 @@ window.history.replaceState(null, '', `#${s.key}`)
             </Card>
 
               <Card title="Futur du Passé" icon="🔮">
-                   <p>3e personne du passé simple + -ri, -rẹs, -rẹ, -rẹm, -rẹt, -rẹn</p>
+                   <p>3e personne du passé simple + -r + i, ẹs, ẹ, -ẹm, ẹt, ẹn</p>
         <p>
         À utiliser après une proposition subordonnée introduite par « si » ou « que » avec un verbe au passé. S&apos;il est au présent, il faut utiliser le futur. </p>
     
@@ -440,7 +440,7 @@ window.history.replaceState(null, '', `#${s.key}`)
 
             <Card title="Conditionnel" icon="✨">
               <p>
-                Infinitif sans accent + r + i, és, é, ém, ét, én.
+                Infinitif sans accent + -r + i, és, é, ém, ét, én.
               </p>
                 <p>
                 Pour certains verbes du premier groupe,
@@ -462,7 +462,7 @@ window.history.replaceState(null, '', `#${s.key}`)
 
             <Card title="Subjonctif" icon="✠">
               <p>
-                Radical + éch? + i + -, s, -, m, t, n.
+                Radical + éch? + -i + -, s, -, m, t, n.
               </p>
  <p>
               Sauf pour nous et vous, on appuie sur la 1ère syllabe, 2e si «éch» (&#34;`&#34; pour le 1er groupe, &#34;´&#34; pour les autres)
@@ -534,17 +534,17 @@ window.history.replaceState(null, '', `#${s.key}`)
   <Card title="Passé Simple" icon="🏛">
               <p>
                 1er groupe :
-                radical + èy, ès, è, èm, èt, èn
+                radical + -è/a + y, s, -, m, t, n
               </p>
 
               <p>
                 2e groupe :
-                radical + ouy, ous, ou, oum, out, oun
+                radical + -ou + y, s, -, m, t, n
               </p>
 
               <p>
                 3e groupe :
-                radical + i, is, i, im, it, in
+                radical + -i + (y), s, -, m, t, n
               </p>
                  Auxiliaire au passé simple + participe passé = passé antérieur
             </Card>
@@ -569,9 +569,9 @@ window.history.replaceState(null, '', `#${s.key}`)
             </Card>
 
             <Card title="Imparfait" icon="📜">
-              <p>1er groupe : àbi, abes, abe, àbem, àbet, aben</p>
-              <p>2e groupe (sans accent sur 1ère voyelle) : i/èbi, ès/èbes, è/èbe, èm/èbem, èt/èbet, èn/èben</p>
-              <p>3e groupe : ibi, ibes, ibe, ibem, ibet, iben</p>
+              <p>1er groupe : -àb + i, es, e, em, et, en</p>
+              <p>2e groupe (sans accent sur 1ère voyelle) : -i/èbi, -ès/èbes, -è/èbe, -èm/èbem, -èt/èbet, -èn/èben</p>
+              <p>3e groupe : -ib + i, es, e, em, et, en</p>
                 <p>Auxiliaire à l&apos;imparfait + participe passé = plus-que-parfait</p>
       
             </Card>
@@ -623,7 +623,7 @@ window.history.replaceState(null, '', `#${s.key}`)
 
              <Card title="Imparfait du Subjonctif" icon="📜">
             
-               <p>3e personne du passé simple + -ssi, -ssis, -ssi, -ssim, -ssit, -ssin</p>
+               <p>3e personne du passé simple + -ssi + -, s, -, m, t, n</p>
         <p>
        Le conditionnel et les temps du passé exigent le subjonctif imparfait.</p>
     <p>
