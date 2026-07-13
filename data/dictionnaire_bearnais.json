@@ -11910,7 +11910,7 @@
     "id": 1982,
     "titre": "boèle",
     "definition": "voile",
-    "type": "nom féminin",
+    "type": "nom masculin",
     "search": "boèle voile"
   },
   {
@@ -23867,16 +23867,16 @@
   {
     "id": 3856,
     "titre": "counqueri",
-    "definition": "conquérir",
+    "definition": "conquérir (soumettre)",
     "type": "verbe transitif",
     "search": "counqueri conquérir"
   },
   {
     "id": 3857,
-    "titre": "counqueride",
+    "titre": "counqueste",
     "definition": "conquête",
     "type": "nom féminin",
-    "search": "counqueride conquête"
+    "search": "counqueste conquête"
   },
 
   {
@@ -23951,10 +23951,10 @@
   },
   {
     "id": 3870,
-    "titre": "counsentide",
+    "titre": "counsentimèn",
     "definition": "consentement",
     "type": "nom féminin",
-    "search": "counsentide consentement"
+    "search": "counsentimèn consentement"
   },
   {
     "id": 3871,
@@ -29588,13 +29588,7 @@
     "type": "verbe transitif",
     "search": "dechifra déchiffrer"
   },
-  {
-    "id": 4720,
-    "titre": "desida",
-    "definition": "décider",
-    "type": "verbe transitif",
-    "search": "desida décider"
-  },
+
   {
     "id": 4721,
     "titre": "desidat -ade",
@@ -34862,13 +34856,7 @@
     "type": "adjectif / nom masculin",
     "search": "endefinit -ide indéfini (littéraire)"
   },
-  {
-    "id": 5525,
-    "titre": "endeguén",
-    "definition": "dedans, intérieur, for intérieur",
-    "type": "nom masculin",
-    "search": "endeguén dedans, intérieur, for intérieur"
-  },
+
   {
     "id": 5526,
     "titre": "endehore",
@@ -51584,10 +51572,10 @@
   },
   {
     "id": 8150,
-    "titre": "mieyoû -oune",
-    "definition": "jumeau",
+    "titre": "bessoû -oune",
+    "definition": "jumeau ♦ La Yade e la Manoû soun sos bessounes. → Jade et Manon sont sœurs jumelles. ",
     "type": "adjectif et nom",
-    "search": "mieyoû -oune jumeau"
+    "search": "bessou -oune jumeau jumelle"
   },
   {
     "id": 8151,
@@ -64967,13 +64955,7 @@
     "type": "adjectif et nom",
     "search": "reliyious religieux"
   },
-  {
-    "id": 10152,
-    "titre": "remarca",
-    "definition": "remarquer",
-    "type": "verbe transitif",
-    "search": "remarca remarquer"
-  },
+
   {
     "id": 10153,
     "titre": "remarida-s",
@@ -64981,13 +64963,7 @@
     "type": "verbe pronominal",
     "search": "remarida-s se remarier"
   },
-  {
-    "id": 10154,
-    "titre": "remarque",
-    "definition": "remarque",
-    "type": "nom féminin",
-    "search": "remarque remarque"
-  },
+
   {
     "id": 10155,
     "titre": "rembès",
@@ -65789,7 +65765,7 @@
   {
     "id": 10269,
     "titre": "retour",
-    "definition": "compensation ; héritage inattendu",
+    "definition": "compensation ; héritage inattendu ; retour",
     "type": "nom masculin",
     "search": "retour compensation ; héritage inattendu"
   },
@@ -73711,13 +73687,7 @@
     "search": "trasse trace, piste, sentier"
   },
   
-  {
-    "id": 11476,
-    "titre": "tratta",
-    "definition": "traiter",
-    "type": "verbe transitif",
-    "search": "tratta traiter"
-  },
+
   {
     "id": 11477,
     "titre": "trettemén",
@@ -76466,5 +76436,230 @@
     "definition": "zouave",
     "type": "nom masculin",
     "search": "zoabe zouave"
+  },
+    {
+    "id": 11905,
+    "titre": "emperadou",
+    "definition": "empereur",
+    "type": "nom masculin",
+    "search": "emperadou empereur"
+  }
+  ,
+    {
+    "id": 11906,
+    "titre": "bouffa",
+    "definition": "manger avec excès",
+    "type": "verbe",
+    "search": "emperadou empereur"
+  }
+  ,
+    {
+    "id": 11907,
+    "titre": "aban-hèyt",
+    "definition": "précoce ; une personne présomptueuse",
+    "type": "nom masculin",
+    "search": "aban-hèyt précoce une personne présomptueuse"
+  }
+  ,
+    {
+    "id": 11908,
+    "titre": "douréc",
+    "definition": "précoce, hâtif",
+    "type": "adjectif",
+    "search": "douréc précoce, hâtif"
+  }
+,
+    {
+    "id": 11909,
+    "titre": "embadidou",
+    "definition": "envahisseur",
+    "type": "nom masculin",
+    "search": "embadidou envahisseur"
+  }
+  ,
+    {
+    "id": 11910,
+    "titre": "mesfida",
+    "definition": "méfier",
+    "type": "verbe",
+    "search": "mesfida méfier"
+  }
+   ,
+    {
+    "id": 11911,
+    "titre": "heretique",
+    "definition": "hérétique",
+    "type": "adjectif et nom",
+    "search": "heretique hérétique"
+  }
+   ,
+    {
+    "id": 11912,
+    "titre": "absouludamen",
+    "definition": "absolument",
+    "type": "adjectif et nom",
+    "search": "absouludamen absolument"
+  }
+,
+{
+    "id": 11913,
+    "titre": "aubedience",
+    "definition": "obéissance",
+    "type": "nom féminin",
+    "search": "aubedience obéissance"
+  },
+  ,
+   {
+    "id": 11914,
+    "titre": "auberga",
+    "definition": "héberger",
+    "type": "verbe",
+    "search": "auberga héberger"
+  },
+
+ {
+    "id": 11915,
+    "titre": "counquista",
+    "definition": "conquérir (vaincre)",
+    "type": "verbe transitif",
+    "search": "counquista conquérir"
+  },
+,
+ {
+    "id": 11916,
+    "titre": "coùmte",
+    "definition": "comte",
+    "type": "nom masculin",
+    "search": "coumte compte"
+  },
+
+  
+ {
+    "id": 11917,
+    "titre": "bescoumte",
+    "definition": "vicomte",
+    "type": "nom masculin",
+    "search": "bescoumte vicomte"
+  }
+
+  ,
+ {
+    "id": 11918,
+    "titre": "claberie",
+    "definition": "enclos",
+    "type": "nom masculin",
+    "search": "claberie enclos"
+  },
+  
+ {
+    "id": 11919,
+    "titre": "ducat",
+    "definition": "duché",
+    "type": "nom masculin",
+    "search": "ducat duché"
+  },
+  
+ {
+    "id": 11920,
+    "titre": "duc, -quesse",
+    "definition": "duc",
+    "type": "nom masculin",
+    "search": "duc duc duquesse"
+  }
+  ,
+ {
+    "id": 11921,
+    "titre": "goubèrne",
+    "definition": "gouvernement",
+    "type": "nom féminin",
+    "search": "goubèrne gouvernement"
+  }
+   ,
+ {
+    "id": 11922,
+    "titre": "gouberna",
+    "definition": "gouverner",
+    "type": "verbe",
+    "search": "gouberna gouverner"
+  }
+   ,
+ {
+    "id": 11923,
+    "titre": "goubernadou",
+    "definition": "gouverneur",
+    "type": "nom masculin",
+    "search": "goubernadou gouverneur"
+  }
+    ,
+ {
+    "id": 11924,
+    "titre": "goubernamèn",
+    "definition": "gouvernement",
+    "type": "nom masculin",
+    "search": "goubernamèn gouvernement"
+  },
+   {
+    "id": 11925,
+    "titre": "hoéytẹ",
+    "definition": "fuite",
+    "type": "nom féminin",
+    "search": "fuite hoéytẹ"
+  }
+  ,
+   {
+    "id": 11926,
+    "titre": "copi",
+    "definition": "grande quantité",
+    "type": "nom féminin",
+    "search": "copi grande quantité"
+  }
+   ,
+   {
+    "id": 11927,
+    "titre": "premier",
+    "definition": "purmè",
+    "type": "adjectif et nom",
+    "search": "premier purmè"
+  }
+   ,
+   {
+    "id": 11928,
+    "titre": "desatourmera",
+    "definition": "dérouler",
+    "type": "verbe",
+    "search": "dérouler desatourmera"
+  },
+    {
+    "id": 11929,
+    "titre": "dibidou",
+    "definition": "divisible",
+    "type": "adjectif",
+    "search": "dibidou divisible"
+  },
+  
+    {
+    "id": 11930,
+    "titre": "bot",
+    "definition": "vœu",
+    "type": "nom masculib",
+    "search": "bot vœu "
+  }
+  ,
+  
+    {
+    "id": 11931,
+    "titre": "concèpt",
+    "definition": "concept, dessein",
+    "type": "nom masculin",
+    "search": "concèpt concept "
+  }
+  ,
+  
+    {
+    "id": 11932,
+    "titre": "espacì",
+    "definition": "espace",
+    "type": "nom masculin",
+    "search": "espacì espace"
   }
 ]
