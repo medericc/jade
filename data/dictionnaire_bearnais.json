@@ -37720,10 +37720,10 @@
   },
   {
     "id": 5957,
-    "titre": "escauhe",
-    "definition": "échauffement entre les orteils",
-    "type": "nom féminin",
-    "search": "escauhe échauffement entre les orteils"
+    "titre": "escauhè",
+    "definition": "échauffement",
+    "type": "nom masculin",
+    "search": "escauhè échauffement"
   },
   {
     "id": 5958,
@@ -76167,7 +76167,7 @@
   {
     "id": 11866,
     "titre": "yudèu, yudiu -ibe",
-    "definition": "juif",
+    "definition": "juif ♦ À crestiâ qui ploure, yudiu qu(arrit. → À chrétien qui pleure, juif qui rit. ♦ Quoan lou diable prègue Diu, que hé lou yudiu. → Quand le diable prie Dieu, il fait le juif.",
     "type": "adjectif et nom",
     "search": "yudèu, yudiu -ibe juif"
   },
@@ -76661,5 +76661,182 @@
     "definition": "espace",
     "type": "nom masculin",
     "search": "espacì espace"
+  }
+
+
+
+
+
+
+   ,
+  
+    {
+    "id": 11933,
+    "titre": "bâ, -ane",
+    "definition": "vain",
+    "type": "adjectif",
+    "search": "bâ vaine"
+  }
+   ,
+  
+    {
+    "id": 11934,
+    "titre": "diliyènt",
+    "definition": "diligence",
+    "type": "adjectif",
+    "search": "diliyènt diligence"
+  }
+   ,
+  
+    {
+    "id": 11935,
+    "titre": "flica",
+    "definition": "claquer (les doigts)",
+    "type": "verbe",
+    "search": "flica claquer"
+  }
+   ,
+  
+    {
+    "id": 11936,
+    "titre": "espacì",
+    "definition": "espace",
+    "type": "nom masculin",
+    "search": "espacì espace"
+  }
+   ,
+  
+    {
+    "id": 11937,
+    "titre": "Castilhe",
+    "definition": "Castille",
+    "type": "nom propre",
+    "search": "Castilhe Castille"
+  }
+   ,
+  
+    {
+    "id": 11938,
+    "titre": "glourifia",
+    "definition": "glorifier",
+    "type": "verbe",
+    "search": "glourifia glorifier"
+  }
+   ,
+  
+   
+    {
+    "id": 11939,
+    "titre": "flisqueya",
+    "definition": "flexible",
+    "type": "adjectif",
+    "search": "flisqueya flexible"
+  }
+   ,
+  
+    {
+    "id": 11940,
+    "titre": "si you ti bau",
+    "definition": "\"si je t'y vais\" → Si j'y vais, prend garde ! (une menace)",
+    "type": "locution",
+    "search": "si you ti bau Si j'y vais, prend garde ! (une menace) si je t'y vais"
+  }
+
+  ,
+    {
+    "id": 11941,
+    "titre": "diable",
+    "definition": "diable",
+    "type": "nom masculin",
+    "search": "diable diable"
+  },
+    {
+    "id": 11942,
+    "titre": "aryéntiu",
+    "definition": "qui tient à l'argent ♦ Aryéntiu, Yudiu. → Qui tient à l'argent, Juif.",
+    "type": "adjectif",
+    "search": "aryén argent (métal) ; sous"
+  },
+    {
+    "id": 11943,
+    "titre": "ciutadâ, -ane",
+    "definition": "citoyen",
+    "type": "nom masculin",
+    "search": "ciutadâ citoyen"
+  },
+   {
+    "id": 11944,
+    "titre": "briu",
+    "definition": "vif",
+    "type": "adjectif",
+    "search": "briu vif"
+  },
+   {
+    "id": 11945,
+    "titre": "ihèrnau",
+    "definition": "infernal",
+    "type": "adjectif",
+    "search": "ihèrnau infernal"
+  },
+   {
+    "id": 11946,
+    "titre": "illicit",
+    "definition": "illégitime",
+    "type": "adjectif",
+    "search": "illicit illégitime"
+  }
+  ,
+  
+   {
+    "id": 11947,
+    "titre": "illusori",
+    "definition": "illusoire",
+    "type": "adjectif",
+    "search": "illusori illusoire"
+  }
+  ,
+  
+   {
+    "id": 11948,
+    "titre": "embouca",
+    "definition": "invoquer",
+    "type": "verbe",
+    "search": "embouca invoquer"
+  }
+  ,
+  
+   {
+    "id": 11949,
+    "titre": "embentouria",
+    "definition": "inventorier",
+    "type": "verbe",
+    "search": "embentouria inventorier"
+  }
+  ,
+  
+   {
+    "id": 11950,
+    "titre": "imita",
+    "definition": "imiter",
+    "type": "verbe",
+    "search": "imita imiter"
+  }
+ ,
+  
+   {
+    "id": 11951,
+    "titre": "imitacioû",
+    "definition": "imitation",
+    "type": "nom féminin",
+    "search": "imitacioû imitation"
+  }
+   ,
+  
+   {
+    "id": 11952,
+    "titre": "immensitat",
+    "definition": "immensité",
+    "type": "nom féminin",
+    "search": "immensitat immensité"
   }
 ]
