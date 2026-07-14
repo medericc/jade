@@ -18702,20 +18702,7 @@
     "type": "nom féminin",
     "search": "categourie catégorie"
   },
-  {
-    "id": 3064,
-    "titre": "catolic -ique",
-    "definition": "catholique",
-    "type": "adjectif et nom",
-    "search": "catolic -ique catholique"
-  },
-  {
-    "id": 3065,
-    "titre": "catolique",
-    "definition": "catholique",
-    "type": "adjectif et nom",
-    "search": "catolique catholique"
-  },
+
   {
     "id": 3066,
     "titre": "catoulicìsmẹ",
@@ -47218,7 +47205,7 @@
   },
   {
     "id": 7502,
-    "titre": "laquoau",
+    "titre": "laquoau, lasquoaus",
     "definition": "laquelle. ◊ Qu'éy la cause à laquoau ne pensat pas → c'est la chose à laquelle vous ne pensez pas. ◊ Que soun las causes à lasquoaus ne pensat pas → ce sont les choses auxquelles vous ne pensez pas. ◊ Laquoau ?... Lou bielhè ! → Laquelle ?... La vieillesse ! ",
     "type": "pronom relatif féminin et pronom interrogatif féminin",
     "search": "laquoau laquelle. ◊ Qu'éy la cause à laquoau ne pensat pas → c'est la chose à laquelle vous ne pensez pas. ◊ Que soun las causes à lasquoaus ne pensat pas → ce sont les choses auxquelles vous ne pensez pas. ◊ Laquoau ?... Lou bielhè ! → Laquelle ?... La vieillesse ! "
@@ -48070,7 +48057,7 @@
   {
     "id": 7630,
     "titre": "ligue",
-    "definition": "lien, brin d'osier utilisé comme lien",
+    "definition": "ligue, lien, brin d'osier utilisé comme lien",
     "type": "nom féminin",
     "search": "ligue lien, brin d'osier utilisé comme lien"
   },
@@ -48518,7 +48505,7 @@
   },
   {
     "id": 7695,
-    "titre": "louquoau",
+    "titre": "louquoau, lousquoaus",
     "definition": "lequel. ◊ L'enemic coùntrẹ louquoau ne pòts pas luta → l'ennemi contre lequel tu ne peux pas lutter. ◊ Ne sèy pas louquoau chausi → je ne sais pas lequel choisir. ◊ Lousquoaus èren pècs ? → Lesquels étaient idiots ? ♦ Coum louquoau → comme quoi.",
     "type": "adjectif et pronom relatif masculin et pronom interrogatif masculin",
     "search": "louquoau lequel. ◊ L'enemic coùntrẹ louquoau ne pots pas luta → l'ennemi contre lequel tu ne peux pas lutter. ◊ Ne sèy pas louquoau chausi → je ne sais pas lequel choisir. ◊ Lousquoaus èren pècs ? → Lesquels étaient idiots ? ♦ Coum louquoau → comme quoi."
@@ -69562,7 +69549,7 @@
   },
   {
     "id": 10854,
-    "titre": "souriscaube, souriscaute",
+    "titre": "souriscaube, souriscaute, souritcause",
     "definition": "chauve-souris",
     "type": "nom féminin",
     "search": "souriscaube, souriscaute chauve-souris"
@@ -71523,9 +71510,9 @@
   {
     "id": 11141,
     "titre": "tempourade",
-    "definition": "période, époque",
+    "definition": "période, saison",
     "type": "nom féminin",
-    "search": "tempourade période, époque"
+    "search": "tempourade période, saison"
   },
   {
     "id": 11142,
@@ -72989,7 +72976,7 @@
   {
     "id": 11375,
     "titre": "tournes",
-    "definition": "compensation, remboursement ; revanche",
+    "definition": "compensation, remboursement ; revanche, représailles",
     "type": "nom féminin pluriel",
     "search": "tournes compensation, remboursement ; revanche"
   },
@@ -76508,7 +76495,7 @@
     "type": "nom féminin",
     "search": "aubedience obéissance"
   },
-  ,
+  
    {
     "id": 11914,
     "titre": "auberga",
@@ -76524,7 +76511,7 @@
     "type": "verbe transitif",
     "search": "counquista conquérir"
   },
-,
+
  {
     "id": 11916,
     "titre": "coùmte",
@@ -76745,10 +76732,10 @@
   ,
     {
     "id": 11941,
-    "titre": "diable",
+    "titre": "diàble",
     "definition": "diable",
     "type": "nom masculin",
-    "search": "diable diable"
+    "search": "diàble diable"
   },
     {
     "id": 11942,
@@ -76838,5 +76825,176 @@
     "definition": "immensité",
     "type": "nom féminin",
     "search": "immensitat immensité"
+  },
+
+    {
+    "id": 11953,
+    "titre": "clemensi",
+    "definition": "clémence",
+    "type": "nom féminin",
+    "search": "clemensi clémence"
   }
+  ,
+  
+    {
+    "id": 11954,
+    "titre": "espudi",
+    "definition": "rejeter avec dégoût",
+    "type": "verbe",
+    "search": "espudi rejeter avec dégoût"
+  }
+   ,
+  
+    {
+    "id": 11955,
+    "titre": "departi",
+    "definition": "distinguer, partager",
+    "type": "verbe",
+    "search": "departi distinguer"
+  }
+    ,
+  
+    {
+    "id": 11956,
+    "titre": "departimèn",
+    "definition": "partage",
+    "type": "nom masculin",
+    "search": "departimèn partage"
+  },
+    {
+    "id": 11957,
+    "titre": "desparti",
+    "definition": "séparer",
+    "type": "verbe",
+    "search": "desparti séparer"
+  },
+    {
+    "id": 11958,
+    "titre": "desparti",
+    "definition": "séparer, distribuer",
+    "type": "verbe",
+    "search": "desparti séparer distribuer"
+  }
+  ,
+    {
+    "id": 11959,
+    "titre": "despausa",
+    "definition": "déposer, destituer",
+    "type": "verbe",
+    "search": "despausa déposer destituer"
+  }
+  ,
+    {
+    "id": 11960,
+    "titre": "despaysana",
+    "definition": "civiliser",
+    "type": "verbe",
+    "search": "despaysana civiliser"
+  }
+      ,
+    {
+    "id": 11961,
+    "titre": "balène",
+    "definition": "baleine",
+    "type": "nom féminin",
+    "search": "balène baleine"
+  }
+     ,
+    {
+    "id": 11962,
+    "titre": "cagarous",
+    "definition": "morveux",
+    "type": "nom masculin",
+    "search": "cagarous morveux"
+  }
+   ,
+    {
+    "id": 11963,
+    "titre": "pachoc",
+    "definition": "lourd",
+    "type": "adjectif",
+    "search": "pachoc lourd"
+  }
+  ,
+    {
+    "id": 11964,
+    "titre": "trettat",
+    "definition": "traité",
+    "type": "nom masculin",
+    "search": "trettat traité"
+  }
+  ,
+    {
+    "id": 11965,
+    "titre": "trettamèn",
+    "definition": "traitement",
+    "type": "nom masculin",
+    "search": "trettamèn traitement"
+  }
+   ,
+    {
+    "id": 11966,
+    "titre": "liberadou",
+    "definition": "libérateur",
+    "type": "nom masculin",
+    "search": "liberadou libérateur"
+  }
+   ,
+    {
+    "id": 11967,
+    "titre": "arcéu",
+    "definition": "arceau",
+    "type": "nom masculin",
+    "search": "arcéu arceau"
+  }
+   ,
+    {
+    "id": 11968,
+    "titre": "artisâ, -ane",
+    "definition": "artisan",
+    "type": "nom masculin",
+    "search": "artisâ artisan"
+  }
+   ,
+    {
+    "id": 11969,
+    "titre": "trèyte",
+    "definition": "traite",
+    "type": "nom féminin",
+    "search": "trèyte traite"
+  }
+   ,
+    {
+    "id": 11970,
+    "titre": "anade e tournade",
+    "definition": "aller et retour",
+    "type": "expression",
+    "search": "anade e tournade aller et retour"
+  }
+    ,
+    {
+    "id": 11971,
+    "titre": "singularamèn",
+    "definition": "singulièrement",
+    "type": "adjectif",
+    "search": "singularamèn singulièrement"
+  }
+   ,
+    {
+    "id": 11972,
+    "titre": "soulitari",
+    "definition": "solitaire",
+    "type": "nom et adjectif",
+    "search": "soulitari solitaire"
+  }
+    ,
+    {
+    "id": 11973,
+    "titre": "soupe-tard",
+    "definition": "ogre avide de chair humaine",
+    "type": "nom masculin",
+    "search": "soupe-tard ogre avide de chair humaine"
+  }
+   
+  
 ]

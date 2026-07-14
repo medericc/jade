@@ -594,7 +594,7 @@ window.history.replaceState(null, '', `#${s.key}`)
        
 
               <p>
-                abé → abut/abude
+                abé (ne s&apos;accorde pas sans COD avant) → abut/abude
               </p>
 
               <p>
