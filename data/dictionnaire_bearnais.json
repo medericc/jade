@@ -206,8 +206,8 @@
   },
   {
     "id": 34,
-    "titre": "abat",
-    "definition": "abbé",
+    "titre": "abat, -desse",
+    "definition": "abbé ♦ L'abadesse d'Orioû. → L'abbesse laïque d'Orion.",
     "type": "nom masculin",
     "search": "abat abbé"
   },
@@ -226,13 +226,7 @@
     "search": "abatoèr abattoir"
   },
 
-  {
-    "id": 38,
-    "titre": "abè",
-    "definition": "abbé",
-    "type": "nom masculin",
-    "search": "abè abbé"
-  },
+ 
   {
     "id": 39,
     "titre": "abé",
@@ -5997,7 +5991,7 @@
   {
     "id": 969,
     "titre": "asouade",
-    "definition": "ânerie",
+    "definition": "ânerie ♦ Il était de coutume de monter sur un âne un homme battu par sa femme ou un banqueroutier.",
     "type": "nom féminin",
     "search": "asouade ânerie"
   },
@@ -37603,7 +37597,7 @@
   {
     "id": 5942,
     "titre": "escarni",
-    "definition": "faire une mauvaise farce (à quelqu'un) ; imiter (quelqu'un) pour le ridiculiser",
+    "definition": "faire une mauvaise farce (à quelqu'un) ; singer ; imiter (quelqu'un) pour le ridiculiser",
     "type": "verbe transitif (qu'escarnéchi)",
     "search": "escarni faire une mauvaise farce (à quelqu'un) ; imiter (quelqu'un) pour le ridiculiser"
   },
@@ -62720,9 +62714,9 @@
   {
     "id": 9819,
     "titre": "puchèu",
-    "definition": "embarras",
+    "definition": "embarras, empêchement",
     "type": "nom masculin",
-    "search": "puchèu embarras"
+    "search": "puchèu embarras empêchement"
   },
   {
     "id": 9820,
@@ -63013,17 +63007,17 @@
   },
   {
     "id": 9861,
-    "titre": "putanè, putanerot",
-    "definition": "coureur de filles",
+    "titre": "putanè",
+    "definition": "débauché",
     "type": "nom masculin",
-    "search": "putanè, putanerot coureur de filles"
+    "search": "putanè débauché"
   },
   {
     "id": 9862,
     "titre": "putaneya",
-    "definition": "courir les filles",
+    "definition": "courir les filles ou chercher des hommes",
     "type": "verbe intransitif",
-    "search": "putaneya courir les filles"
+    "search": "putaneya courir les filles ou chercher des hommes"
   },
   {
     "id": 9863,
@@ -76603,10 +76597,10 @@
    ,
    {
     "id": 11927,
-    "titre": "premier",
-    "definition": "purmè",
+    "titre": "purmè, -re",
+    "definition": "premier",
     "type": "adjectif et nom",
-    "search": "premier purmè"
+    "search": "purmè premier"
   }
    ,
    {
@@ -76995,6 +76989,149 @@
     "type": "nom masculin",
     "search": "soupe-tard ogre avide de chair humaine"
   }
-   
-  
+    ,
+    {
+    "id": 11974,
+    "titre": "tampouna",
+    "definition": "manger et boire avec excès ♦ Ha la tampoune. → Faire la débauche.",
+    "type": "verbe",
+    "search": "tampouna manger et boire avec excès ♦ Ha la tampoune. → Faire la débauche."
+  }
+     ,
+    {
+    "id": 11975,
+    "titre": "tampounàyre",
+    "definition": "débauché, qui mange et boit avec excès",
+    "type": "nom masculin",
+    "search": "tampounàyre débauché, qui mange et boit avec excès"
+  }
+   ,
+   {
+    "id": 11976,
+    "titre": "bastidou",
+    "definition": "bâtisseur",
+    "type": "nom masculin",
+    "search": "bastidou bâtisseur"
+  }
+   ,
+   {
+    "id": 11977,
+    "titre": "damiselot",
+    "definition": "garçon efféminé",
+    "type": "nom féminin",
+    "search": "damiselot garçon efféminé"
+  }
+    ,
+   {
+    "id": 11978,
+    "titre": "cant",
+    "definition": "chant",
+    "type": "nom masculin",
+    "search": "cant chant"
+  }
+    ,
+   {
+    "id": 11979,
+    "titre": "temou",
+    "definition": "crainte, frayeur, terreur",
+    "type": "nom féminin",
+    "search": "temou terreur"
+  }
+    ,
+   {
+    "id": 11980,
+    "titre": "terrous",
+    "definition": "terreur",
+    "type": "nom féminin",
+    "search": "terrous terreur"
+  }
+      ,
+   {
+    "id": 11981,
+    "titre": "proubìnci",
+    "definition": "province",
+    "type": "nom féminin",
+    "search": "proubìnci province"
+  } ,
+   {
+    "id": 11982,
+    "titre": "débat",
+    "definition": "debat",
+    "type": "nom masculin",
+    "search": "débat debat"
+  },
+    {
+    "id": 11983,
+    "titre": "discrécioû",
+    "definition": "discrétion",
+    "type": "nom féminin",
+    "search": "discrécioû discrétion"
+  } ,
+   {
+    "id": 11984,
+    "titre": "discretamèn",
+    "definition": "discrètement",
+    "type": "adjectif",
+    "search": "discretamèn discrètement"
+  } ,
+   {
+    "id": 11985,
+    "titre": "disna",
+    "definition": "dîner",
+    "type": "nom masculin",
+    "search": "disna dîner"
+  }  ,
+   {
+    "id": 11986,
+    "titre": "distrahi",
+    "definition": "distraire, détourner",
+    "type": "verbe",
+    "search": "distrahi distraire, détourner"
+  } 
+  ,
+   {
+    "id": 11987,
+    "titre": "distribuadou",
+    "definition": "distributeur",
+    "type": "nom masculin",
+    "search": "distribuadou distributeur"
+  } 
+,
+   {
+    "id": 11988,
+    "titre": "etiquete",
+    "definition": "étiquette",
+    "type": "nom féminin",
+    "search": "etiquete étiquette"
+  } ,
+   {
+    "id": 11989,
+    "titre": "nabanteya",
+    "definition": "nonagénaire",
+    "type": "nom féminin",
+    "search": "nabanteya nonagénaire"
+  } ,
+ {
+    "id": 11990,
+    "titre": "interés",
+    "definition": "intérêt",
+    "type": "nom masculin",
+    "search": "interés intérêt"
+  } 
+,
+ {
+    "id": 11991,
+    "titre": "limounade",
+    "definition": "limonade ♦ Quin citroû ! Si cadèt au gabe, que seré tout limounade. → Quel citron ! Si vous tombiez au gave, il serait tout limonade.",
+    "type": "nom féminin",
+    "search": "limounade limonade"
+  } 
+,
+ {
+    "id": 11991,
+    "titre": "guilhesque",
+    "definition": "singerie",
+    "type": "nom féminin",
+    "search": "guilhesque singerie"
+  } 
 ]
