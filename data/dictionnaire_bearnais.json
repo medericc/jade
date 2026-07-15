@@ -77476,7 +77476,15 @@
     "id": 12035,
     "titre": "misseya",
     "definition": "célébrer la messe",
-    "type": "nom masculin",
-    "search": "misseya"
+    "type": "verbe",
+    "search": "misseya célébrer la messe"
+  }
+   ,
+   {
+    "id": 12036,
+    "titre": "mode",
+    "definition": "manière, façon (\"d'aquere mode\"), mode, en guise de (\"en mode de\")",
+    "type": "nom féminin",
+    "search": "mode manière, façon (d'aquere mode), mode, en guise de (en mode de)"
   }
 ]
