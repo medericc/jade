@@ -77175,7 +77175,7 @@
     "type": "adjectif",
     "search": "dibinau divin"
   },
-   ,
+   
    {
     "id": 11998,
     "titre": "spirituau",
@@ -77183,7 +77183,7 @@
     "type": "adjectif",
     "search": "spirituau spirituel"
   },
-   ,
+   
    {
     "id": 11999,
     "titre": "temporau",
@@ -77271,7 +77271,37 @@
     "type": "nom et adjectif",
     "search": "bencut perdant"
   }
+ ,
+   {
+    "id": 12010,
+    "titre": "defame",
+    "definition": "diffamer",
+    "type": "verbe",
+    "search": "defame diffamer"
+  }
+ ,
+   {
+    "id": 12011,
+    "titre": "defenedou",
+    "definition": "défenseur",
+    "type": "nom masculin",
+    "search": "defenedou défenseur"
+  }
 
-
-
+ ,
+   {
+    "id": 12012,
+    "titre": "defida",
+    "definition": "défier",
+    "type": "verbe",
+    "search": "defida défier"
+  }
+,
+   {
+    "id": 12013,
+    "titre": "ciutade",
+    "definition": "citoyen ♦ À Oloron, un étranger obtenait la citoyenneté s'l restait un an sans poser problème.",
+    "type": "nom masculin",
+    "search": "ciutade citoyen"
+  }
 ]
