@@ -77486,5 +77486,27 @@
     "definition": "manière, façon (\"d'aquere mode\"), mode, en guise de (\"en mode de\")",
     "type": "nom féminin",
     "search": "mode manière, façon (d'aquere mode), mode, en guise de (en mode de)"
+  },
+    {
+    "id": 12037,
+    "titre": "monester",
+    "definition": "monastère",
+    "type": "nom masculin",
+    "search": "monester monastère"
+  },
+   {
+    "id": 12038,
+    "titre": "pialâ",
+    "definition": "pilier",
+    "type": "nom masculin",
+    "search": "pialâ pilier"
+  }
+  ,
+   {
+    "id": 12039,
+    "titre": "regi",
+    "definition": "régir, diriger, gouverner",
+    "type": "verbe",
+    "search": "regi régir, diriger, gouverner"
   }
 ]
