@@ -77158,4 +77158,120 @@
     "type": "nom masculin",
     "search": "gestioû gestion"
   } 
+
+,
+
+     {
+    "id": 11996,
+    "titre": "dibî",
+    "definition": "divin",
+    "type": "adjectif",
+    "search": "dibî divin"
+  },
+   {
+    "id": 11997,
+    "titre": "dibinau",
+    "definition": "divin",
+    "type": "adjectif",
+    "search": "dibinau divin"
+  },
+   ,
+   {
+    "id": 11998,
+    "titre": "spirituau",
+    "definition": "spirituel",
+    "type": "adjectif",
+    "search": "spirituau spirituel"
+  },
+   ,
+   {
+    "id": 11999,
+    "titre": "temporau",
+    "definition": "temporel",
+    "type": "adjectif",
+    "search": "temporau temporel"
+  },
+   
+   {
+    "id": 12000,
+    "titre": "admounesta",
+    "definition": "avertir, avis qu'il faut payer",
+    "type": "verbe",
+    "search": "admounesta avertir, avis qu'il faut payer"
+  }
+   ,
+   {
+    "id": 12001,
+    "titre": "ibrougna",
+    "definition": "boire avec excès",
+    "type": "verbe",
+    "search": "ibrougna boire avec excès"
+  }
+    ,
+   {
+    "id": 12002,
+    "titre": "natiu",
+    "definition": "natif",
+    "type": "adjectif",
+    "search": "natiu natif"
+  }
+     ,
+   {
+    "id": 12003,
+    "titre": "negu",
+    "definition": "nul",
+    "type": "adjectif",
+    "search": "negu nul"
+  }
+   ,
+   {
+    "id": 12004,
+    "titre": "equitat",
+    "definition": "équité",
+    "type": "nom féminin",
+    "search": "equitat équité"
+  }
+    ,
+   {
+    "id": 12005,
+    "titre": "epistole",
+    "definition": "lettre",
+    "type": "nom féminin",
+    "search": "epistole lettre"
+  }
+    ,
+   {
+    "id": 12006,
+    "titre": "ère",
+    "definition": "aire",
+    "type": "nom féminin",
+    "search": "ère aire"
+  }
+   ,
+   {
+    "id": 12007,
+    "titre": "delicatesse",
+    "definition": "délicatesse",
+    "type": "adjectif",
+    "search": "delicatesse délicatesse"
+  }
+   ,
+   {
+    "id": 12008,
+    "titre": "delinqui",
+    "definition": "faire un délit",
+    "type": "verbe",
+    "search": "delinqui faire un délit"
+  }
+   ,
+   {
+    "id": 12009,
+    "titre": "bencut",
+    "definition": "perdant",
+    "type": "nom et adjectif",
+    "search": "bencut perdant"
+  }
+
+
+
 ]
