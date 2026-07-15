@@ -76336,10 +76336,10 @@
   },
   {
     "id": 11893,
-    "titre": "Yusèp",
+    "titre": "Yusèp, Yausep",
     "definition": "Joseph",
     "type": "nom propre",
-    "search": "Yusèp Joseph"
+    "search": "Yusèp Yausep Joseph"
   },
   {
     "id": 11894,
@@ -77311,5 +77311,164 @@
     "definition": "excommunication",
     "type": "nom féminin",
     "search": "excomunicacioû excommunication"
+  }
+
+
+   ,
+   {
+    "id": 12015,
+    "titre": "Arramound",
+    "definition": "Raymond",
+    "type": "nom propre",
+    "search": "Arramound Raymond"
+  }
+   ,
+   {
+    "id": 12016,
+    "titre": "Yaqués",
+    "definition": "Jacques",
+    "type": "nom propre",
+    "search": "Yaqués Jacques"
+  }
+   ,
+
+{
+    "id": 12017,
+    "titre": "Luc",
+    "definition": "Luc",
+    "type": "nom propre",
+    "search": "Luc Luc"
+  }
+   ,
+{
+    "id": 12018,
+    "titre": "Nicoulas",
+    "definition": "Nicolas",
+    "type": "nom propre",
+    "search": "Nicoulas Nicolas"
+  }
+   ,
+{
+    "id": 12019,
+    "titre": "Léoû",
+    "definition": "Léon",
+    "type": "nom propre",
+    "search": "Léoû Léon"
+  }
+      ,
+{
+    "id": 12020,
+    "titre": "Juliâ",
+    "definition": "Julien",
+    "type": "nom propre",
+    "search": "Juliâ Julien"
+  }
+
+   ,
+{
+    "id": 12021,
+    "titre": "Laze",
+    "definition": "Lazard",
+    "type": "nom propre",
+    "search": "Laze Lazard"
+  }
+  ,
+{
+    "id": 12022,
+    "titre": "Miquéu",
+    "definition": "Michel",
+    "type": "nom propre",
+    "search": "Miquéu Michel"
+  }
+   ,
+{
+    "id": 12023,
+    "titre": "Mathieu",
+    "definition": "Matheu",
+    "type": "nom propre",
+    "search": "Mathieu Matheu"
+  }
+   ,
+{
+    "id": 12024,
+    "titre": "Martin",
+    "definition": "Martî",
+    "type": "nom propre",
+    "search": "Martin Martî"
+  }
+     ,
+{
+    "id": 12025,
+    "titre": "Polit",
+    "definition": "Hippolyte",
+    "type": "nom propre",
+    "search": "Polit Hippolyte"
+  }
+   ,
+{
+    "id": 12026,
+    "titre": "Urbâ",
+    "definition": "Urbain",
+    "type": "nom propre",
+    "search": "Urbâ Urbain"
+  }
+    ,
+{
+    "id": 12027,
+    "titre": "Simoû",
+    "definition": "Simon",
+    "type": "nom propre",
+    "search": "Simoû Simon"
+  }
+   ,
+{
+    "id": 12028,
+    "titre": "blasphema",
+    "definition": "blasphémer",
+    "type": "nom propre",
+    "search": "blasphema blasphémer"
+  }
+   ,
+{
+    "id": 12029,
+    "titre": "blasphemadou",
+    "definition": "blasphémateur",
+    "type": "nom propre",
+    "search": "blasphemadou blasphémateur"
+  },
+  {
+    "id": 12030,
+    "titre": "sarrasî",
+    "definition": "sarrasin",
+    "type": "nom masculin",
+    "search": "sarrasî Maure, Sarrasin"
+  },
+   {
+    "id": 12031,
+    "titre": "sarri",
+    "definition": "isard",
+    "type": "nom masculin",
+    "search": "sarri isard"
+  },
+   {
+    "id": 12032,
+    "titre": "sarriade",
+    "definition": "troupe d'isards",
+    "type": "nom féminin",
+    "search": "sarriade troupe d'isards"
+  },
+   {
+    "id": 12033,
+    "titre": "sarriè",
+    "definition": "endroit où il y a des isards",
+    "type": "nom masculin",
+    "search": "sarriè endroit isard"
+  },
+   {
+    "id": 12034,
+    "titre": "perou",
+    "definition": "trognon de pomme, de poire",
+    "type": "nom masculin",
+    "search": "perou"
   }
 ]
