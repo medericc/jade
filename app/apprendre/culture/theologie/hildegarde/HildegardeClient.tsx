@@ -471,7 +471,7 @@ alt="Drapeau de la France"
                 </p>
 
                 <p>
-                 Û cop aquéste bastìsse preparade, Diu da l’àmne. Qu’éy alabéts qui lou maynàdyẹ couménce à se maneya héns lou bènte, semblàblẹ a û frut biban debath l’arrous.
+                 Û cop aquéste bastìsse preparade, Diu da l’àmne. Qu’éy alabéts qui lou maynàdyẹ couménce à maneya-s héns lou bènte, semblàblẹ a û frut biban debath l’arrous.
                 </p>
           
           
@@ -700,7 +700,7 @@ Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flo
                 </p>
 
                 <p>
-              Puch, déns lou bielhè, las soûes hòrces sémblẹn se retira coum la sape d’û àrbou pendén l’ibèr.
+              Puch, déns lou bielhè, las soûes hòrces sémblẹn que-s retira coum la sape d’û àrbou pendén l’ibèr.
 
                 </p>
         

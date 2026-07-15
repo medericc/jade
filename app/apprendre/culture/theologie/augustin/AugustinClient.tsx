@@ -15,7 +15,7 @@ const teachings = [
     titleFr: 'Le but et la connaissance de soi',
        titleBe: 'Lou but e la counechence de se',
     textFr: `Personne ne se connaît assez pour savoir ce qu'il sera demain. Tout l'effort de la prière doit converger vers un seul but : la vie éternelle. La prière est puissamment aidée par les jeûnes et surtout par les aumônes (« chercher Dieu avec ses mains »). La prière est incompatible avec l'espoir placé dans les richesses incertaines. Méprisons le faste pour embrasser la vie véritable.`,
-    textBe: `Arrés ne se counèche  proû ta sabe  ço qui sera doumâ . Toute la pregàri deu ana de cap à la bite eternau. La pregàri qu'ey aydade p'ous yunes e sustout p'as aumoynes (« cerca Diu dap las soûes mas »). La pregàri ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite bertadère.`
+    textBe: `Arrés ne-s counèche pas proû ta sabe ço qui sera doumâ. Toute la pregàri deu ana de cap à la bite eternau. La pregàri qu'ey aydade p'ous yunes e sustout p'as aumoynes (« cerca Diu dap las soûes mas »). La pregàri ne ba pas dap l'espoer hicat déns las richésses. Despudìm lou luxe ta embrassa la bite bertadère.`
   },
 
 
@@ -44,7 +44,7 @@ const teachings = [
       titleBe: 'La nature de la demande',
   
     textFr: `Les moines d'Égypte privilégient des prières brèves et fréquentes pour maintenir une attention vigilante sans se lasser. La prière se réalise souvent mieux dans les larmes que dans les grands discours. Si une demande ne peut pas se rapporter au Notre Père (ex : demander des richesses par cupidité), elle est "charnelle" ou illicite. Vivre pour les plaisirs des sens c'est être mort spirituellement.`,
-    textBe: `Lous moènes d'Egipte preferen pregàries braques e soubendes ta tiéne ûe atencioû arnauta. La pregàri que se hé souben miélhẹ déns las larmes que déns lous grans debis. Si ûe demande ne-s pot pas yunta au Nouste Pay (ex : demanda richeses per aganidè), qu'ey "carnau" ou countre la ley. Lou qui bìbe que t'ous plases dous sens qu'ey counsiderat mour spirituaumen.`
+    textBe: `Lous moènes d'Egipte preferen pregàries braques e soubendes ta tiéne ûe atencioû arnauta. La pregàri que-s hé souben miélhẹ déns las larmes que déns lous grans debis. Si ûe demande ne-s pot pas yunta au Nouste Pay (ex : demanda richeses per aganidè), qu'ey "carnau" ou countre la ley. Lou qui bìbe que t'ous plases dous sens qu'ey counsiderat mour spirituaumen.`
   },
 
 
@@ -272,7 +272,7 @@ alt="Drapeau de la France"
      <p>
   {langue === 'fr'
     ? '« Se tromper était humain, mais persévérer dans l’erreur, c’est l’orgueil satanique. »'
-    : '« Se troumpa qu\'ere uma, mé perserbera déns l\'errou, qu\'ey l\'ourgul satanique. »'}
+    : '« Troumpa-s qu\'ere uma, mé perserbera déns l\'errou, qu\'ey l\'ourgul satanique. »'}
 </p>
 
       </div>
