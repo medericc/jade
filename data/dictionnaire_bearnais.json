@@ -77175,7 +77175,7 @@
     "type": "adjectif",
     "search": "dibinau divin"
   },
-   
+  
    {
     "id": 11998,
     "titre": "spirituau",
@@ -77183,7 +77183,7 @@
     "type": "adjectif",
     "search": "spirituau spirituel"
   },
-   
+  
    {
     "id": 11999,
     "titre": "temporau",
@@ -77303,5 +77303,13 @@
     "definition": "citoyen ♦ À Oloron, un étranger obtenait la citoyenneté s'l restait un an sans poser problème.",
     "type": "nom masculin",
     "search": "ciutadâ ciutadane citoyen citoyenne"
+  }
+  ,
+   {
+    "id": 12014,
+    "titre": "excomunicacioû",
+    "definition": "excommunication",
+    "type": "nom féminin",
+    "search": "excomunicacioû excommunication"
   }
 ]
