@@ -5304,7 +5304,7 @@
   {
     "id": 854,
     "titre": "arrés",
-    "definition": "personne",
+    "definition": "personne (Ulysse)",
     "type": "pronom indéfini",
     "search": "arrés personne"
   },
@@ -30471,10 +30471,10 @@
   },
   {
     "id": 4852,
-    "titre": "deliura",
+    "titre": "desliura",
     "definition": "délivrer",
     "type": "verbe transitif",
-    "search": "deliura délivrer"
+    "search": "desliura délivrer"
   },
   {
     "id": 4853,
@@ -46120,13 +46120,7 @@
     "type": "adjectif et nom",
     "search": "empie impie"
   },
-  {
-    "id": 7276,
-    "titre": "empos",
-    "definition": "impôt",
-    "type": "nom masculin",
-    "search": "empos impôt. "
-  },
+ 
   {
     "id": 7277,
     "titre": "empoulit -ide",
@@ -77299,10 +77293,10 @@
    ,
    {
     "id": 12015,
-    "titre": "Arramound",
+    "titre": "Ramoun",
     "definition": "Raymond",
     "type": "nom propre",
-    "search": "Arramound Raymond"
+    "search": "Ramoun Raymond"
   }
    ,
    {
@@ -77365,18 +77359,18 @@
    ,
 {
     "id": 12023,
-    "titre": "Mathieu",
-    "definition": "Matheu",
+    "titre": "Mathiu",
+    "definition": "Mathieu",
     "type": "nom propre",
-    "search": "Mathieu Matheu"
+    "search": "Mathiu Mathieu"
   }
    ,
 {
     "id": 12024,
-    "titre": "Martin",
-    "definition": "Martî",
+    "titre": "Martî",
+    "definition": "Martin",
     "type": "nom propre",
-    "search": "Martin Martî"
+    "search": "Martî Martin"
   }
      ,
 {
@@ -77516,1778 +77510,1199 @@
     "search": "Guilhem Guillaume"
   },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
+    "id": 12043,
+    "titre": "esquèrre",
+    "definition": "gauche",
+    "type": "nom féminin",
+    "search": "esquèrre gauche"
+  },
+  {
+    "id": 12044,
+    "titre": "esquerrè, ère",
+    "definition": "gaucher",
+    "type": "nom masculin",
+    "search": "esquerrè gaucher"
+  },
+  {
+    "id": 12045,
+    "titre": "chibalé, ère",
+    "definition": "chevalier",
+    "type": "nom masculin",
+    "search": "chibalé chevalier"
+  },
+  {
+    "id": 12046,
+    "titre": "chibaugueya",
+    "definition": "chevaucher",
+    "type": "verbe",
+    "search": "chibaugueya chevaucher"
+  },
+  {
+    "id": 12047,
+    "titre": "courredou",
+    "definition": "courrier",
+    "type": "nom masculin",
+    "search": "courredou courrier"
+  },
+  {
+    "id": 12048,
+    "titre": "esquerrat",
+    "definition": "obliquité",
+    "type": "adjectif",
+    "search": "esquerrat obliquité"
+  },
+  {
+    "id": 12049,
+    "titre": "gnau",
+    "definition": "miaou",
+    "type": "onomatopée",
+    "search": "Gnau Miaou"
+  },
+  {
+    "id": 12050,
+    "titre": "gnaula",
+    "definition": "miauler",
+    "type": "verbe",
+    "search": "gnaula miauler"
+  },
+  {
+    "id": 12051,
+    "titre": "capdulh",
+    "definition": "chef-lieu ♦ Bièle, capdulh d'Ossau",
+    "type": "nom masculin",
+    "search": "capdulh chef-lieu"
+  },
+  {
+    "id": 12052,
+    "titre": "jacta",
+    "definition": "vanter, jacter",
+    "type": "verbe",
+    "search": "jacta vanter, jacter"
+  },
+  {
+    "id": 12053,
+    "titre": "daufî, ine",
+    "definition": "dauphin",
+    "type": "nom masculin",
+    "search": "daufî dauphin"
+  },
+  {
+    "id": 12054,
+    "titre": "archebesque",
+    "definition": "archevêque",
+    "type": "nom masculin",
+    "search": "archebesque archevêque"
+  },
+  {
+    "id": 12055,
+    "titre": "diaque",
+    "definition": "diacre",
+    "type": "nom masculin",
+    "search": "diaque diacre"
+  },
+  {
+    "id": 12056,
+    "titre": "archiprèste",
+    "definition": "archiprêtre",
+    "type": "nom masculin",
+    "search": "archiprèste archiprêtre"
+  },
+  {
+    "id": 12057,
+    "titre": "canounye",
+    "definition": "chanoine",
+    "type": "nom masculin",
+    "search": "canounye chanoine"
+  },
+  {
+    "id": 12058,
+    "titre": "caloumniatoû",
+    "definition": "calomniateur",
+    "type": "nom masculin",
+    "search": "caloumniatoû  calomniateur "
+  },
+  {
+    "id": 12059,
+    "titre": "cebassè",
+    "definition": "personne qui cultive des oignons ♦ Sobriquet des habitants de Castetpugon",
+    "type": "nom masculin",
+    "search": "cebassè cultive des oignons"
+  },
+  {
+    "id": 12060,
+    "titre": "adbersari",
+    "definition": "adversaire",
+    "type": "nom masculin",
+    "search": "adbersari adversaire"
+  },
+  {
+    "id": 12061,
+    "titre": "adbenemèn",
+    "definition": "avènement",
+    "type": "nom masculin",
+    "search": "adbenemèn avènement"
+  },
+  {
+    "id": 12062,
+    "titre": "bayle",
+    "definition": "bailli",
+    "type": "nom masculin",
+    "search": "bayle bailli"
+  },
+  {
+    "id": 12063,
+    "titre": "ostadye",
+    "definition": "otage",
+    "type": "nom masculin",
+    "search": "ostadye otage"
+  },
+  {
+    "id": 12064,
+    "titre": "canceller",
+    "definition": "chancelier",
+    "type": "nom masculin",
+    "search": "canceller chancelier"
+  },
+  {
+    "id": 12065,
+    "titre": "campanè",
+    "definition": "celui qui sonne les clochers",
+    "type": "nom masculin",
+    "search": "campanè celui qui sonne les clochers"
+  },
+  {
+    "id": 12066,
+    "titre": "camou",
+    "definition": "terrain fertile près du gave (surtout Oloron)",
+    "type": "nom masculin",
+    "search": "camou Guillaume"
+  },
+  {
+    "id": 12067,
+    "titre": "rebate",
+    "definition": "rabattre (les plis d'un vêtement)",
+    "type": "verbe",
+    "search": "rebate rabattre"
+  },
+  {
+    "id": 12068,
+    "titre": "menassa",
+    "definition": "menacer",
+    "type": "verbe",
+    "search": "menassa  menacer"
+  },
+  {
+    "id": 12069,
+    "titre": "menasse",
+    "definition": "menace",
+    "type": "nom féminin",
+    "search": "menasse menace"
+  },
+
+  {
+    "id": 12071,
+    "titre": "cabalè",
+    "definition": "chevalier",
+    "type": "nom masculin",
+    "search": "cabalè  chevalier"
+  },
+  {
+    "id": 12072,
+    "titre": "founda",
+    "definition": "fonder",
+    "type": "verbe",
+    "search": "founda fonder"
+  },
+  {
+    "id": 12073,
+    "titre": "centralisa",
+    "definition": "centraliser",
+    "type": "verbe",
+    "search": "centralisa centraliser"
+  },
+  {
+    "id": 12074,
+    "titre": "centralisacioû",
+    "definition": "cenralisation",
+    "type": "nom féminin",
+    "search": "centralisacioû cenralisation"
+  },
+  {
+    "id": 12075,
+    "titre": "recadibe",
+    "definition": "récidive",
+    "type": "nom féminin",
+    "search": "recadibe récidive"
+  },
+  {
+    "id": 12076,
+    "titre": "recade",
+    "definition": "retomber",
+    "type": "verbe",
+    "search": "recade  retomber"
+  },
+  {
+    "id": 12077,
+    "titre": "despéne",
+    "definition": "dépenser",
+    "type": "verbe",
+    "search": "despéne dépenser"
+  },
+  {
+    "id": 12078,
+    "titre": "rebuste",
+    "definition": "robuste",
+    "type": "adjectif",
+    "search": "rebuste robuste "
+  },
+  {
+    "id": 12079,
+    "titre": "exilha",
+    "definition": "exiler",
+    "type": "verbe",
+    "search": "exilha exiler"
+  },
+  {
+    "id": 12080,
+    "titre": "exilh",
+    "definition": "exil",
+    "type": "nom masculin",
+    "search": "exilh exil"
+  },
+  {
+    "id": 12081,
+    "titre": "exiya",
+    "definition": "exiger",
+    "type": "verbe",
+    "search": "exiya exiger"
+  },
+  {
+    "id": 12082,
+    "titre": "rebuta",
+    "definition": "repousser",
+    "type": "verbe",
+    "search": "rebuta  repousser"
+  },
+  {
+    "id": 12083,
+    "titre": "countrente",
+    "definition": "contraite",
+    "type": "nom féminin",
+    "search": "countrente contraite "
+  },
+  {
+    "id": 12084,
+    "titre": "colere",
+    "definition": "colère",
+    "type": "nom féminin",
+    "search": "colere colère"
+  },
+  {
+    "id": 12085,
+    "titre": "ire",
+    "definition": "colère",
+    "type": "nom féminin",
+    "search": "ire colère"
+  },
+  {
+    "id": 12086,
+    "titre": "coulerous",
+    "definition": "coléreux",
+    "type": "adjectif",
+    "search": "coulerous coléreux"
+  },
+  {
+    "id": 12087,
+    "titre": "permete",
+    "definition": "permettre",
     "type": "nom propre",
-    "search": "Guilhem Guillaume"
+    "search": "permete permettre"
+  },
+  {
+    "id": 12088,
+    "titre": "mounsegnou",
+    "definition": "monseigneur",
+    "type": "nom masculin",
+    "search": "mounsegnou monseigneur"
+  },
+  {
+    "id": 12089,
+    "titre": "capitâ",
+    "definition": "capitaine",
+    "type": "nom masculin",
+    "search": "capitâ capitaine"
+  },
+  {
+    "id": 12090,
+    "titre": "encroucat",
+    "definition": "courbaturé",
+    "type": "adjectif",
+    "search": "encroucat courbaturé"
+  },
+  {
+    "id": 12091,
+    "titre": "exclusioû",
+    "definition": "exclusion",
+    "type": "nom féminin",
+    "search": "exclusioû exclusion"
+  },
+  {
+    "id": 12092,
+    "titre": "soumissioû",
+    "definition": "soumission",
+    "type": "nom féminin",
+    "search": "soumissioû soumission"
+  },
+  {
+    "id": 12093,
+    "titre": "collectiu -ibe",
+    "definition": "collectif",
+    "type": "nom et adjectif",
+    "search": "collectiu collectif"
+  },
+  {
+    "id": 12094,
+    "titre": "acabè",
+    "definition": "achèvement complet",
+    "type": "adjectif",
+    "search": "acabè achèvement complet"
+  },
+  {
+    "id": 12095,
+    "titre": "acalahaba",
+    "definition": "lapider",
+    "type": "verbe",
+    "search": "acalahaba lapider"
+  },
+  {
+    "id": 12096,
+    "titre": "lapida",
+    "definition": "lapider",
+    "type": "verbe",
+    "search": "lapida lapider"
+  },
+  {
+    "id": 12097,
+    "titre": "ànyelicau",
+    "definition": "angélique",
+    "type": "adjectif",
+    "search": "ànyelicau angélique"
+  },
+  {
+    "id": 12098,
+    "titre": "aydadoû",
+    "definition": "celui qui aide",
+    "type": "nom masculin",
+    "search": "aydadoû celui qui aide"
+  },
+  {
+    "id": 12099,
+    "titre": "huganautalhe",
+    "definition": "engeance d'hugenots (donc pas tous, même si la LICRA veut le faire croire)",
+    "type": "nom masculin",
+    "search": "huganautalhe engeance d'hugenots"
+  },
+  {
+    "id": 12100,
+    "titre": "huganauterie",
+    "definition": "les huguenots",
+    "type": "nom féminin",
+    "search": "huganauterie huguenots"
+  },
+  {
+    "id": 12101,
+    "titre": "huganautisme",
+    "definition": "protestantisme de Calvin",
+    "type": "nom masculin",
+    "search": "huganautisme protestantisme de Calvin"
+  },
+  {
+    "id": 12102,
+    "titre": "acusamèn",
+    "definition": "accusation",
+    "type": "nom masculin",
+    "search": "acusamèn accusation"
+  },
+  {
+    "id": 12103,
+    "titre": "acusadou",
+    "definition": "accusateur",
+    "type": "nom masculin",
+    "search": "acusadou  accusateur"
+  },
+  {
+    "id": 12104,
+    "titre": "acoutra",
+    "definition": "vêtir",
+    "type": "verbe",
+    "search": "acoutra vêtir"
+  },
+  {
+    "id": 12105,
+    "titre": "cantadye",
+    "definition": "chant d'ensemble, d'église",
+    "type": "nom masculin",
+    "search": "cantadye Guillaume"
+  },
+  {
+    "id": 12106,
+    "titre": "bestimèn",
+    "definition": "vêtement",
+    "type": "nom masculin",
+    "search": "bestimèn vêtement"
+  },
+  {
+    "id": 12107,
+    "titre": "acoutramèn",
+    "definition": "vêtement",
+    "type": "nom masculin",
+    "search": "acoutramèn vêtement"
+  },
+  {
+    "id": 12108,
+    "titre": "cantasseya",
+    "definition": "mal chanter",
+    "type": "verbe",
+    "search": "cantasseya mal chanter"
+  },
+  {
+    "id": 12109,
+    "titre": "canteya",
+    "definition": "chantonner",
+    "type": "verbe",
+    "search": "canteya chantonner"
+  },
+  {
+    "id": 12110,
+    "titre": "canounè",
+    "definition": "canonnier",
+    "type": "nom masculin",
+    "search": "canounè canonnier"
+  },
+  {
+    "id": 12111,
+    "titre": "canounye",
+    "definition": "canonique",
+    "type": "adjectif",
+    "search": "canounye canonique"
+  },
+  {
+    "id": 12112,
+    "titre": "saumet, -te",
+    "definition": "ânon",
+    "type": "nom masculin",
+    "search": "saumet ânon anesse"
+  },
+  {
+    "id": 12113,
+    "titre": "esclabe",
+    "definition": "esclave",
+    "type": "nom masculin",
+    "search": "esclabe esclave"
+  },
+  {
+    "id": 12114,
+    "titre": "esclau",
+    "definition": "esclave",
+    "type": "nom masculin",
+    "search": "esclau esclave"
+  },
+  {
+    "id": 12115,
+    "titre": "facherie",
+    "definition": "colère",
+    "type": "nom féminin",
+    "search": "facherie colère"
+  },
+  {
+    "id": 12116,
+    "titre": "fadeya",
+    "definition": "faire le fat ; courtiser",
+    "type": "verbe",
+    "search": "fadeya faire le fat ; courtiser "
+  },
+  {
+    "id": 12117,
+    "titre": "fadesse",
+    "definition": "sottise, fatuité",
+    "type": "nom féminin",
+    "search": "fadesse sottise, fatuité"
+  },
+  {
+    "id": 12118,
+    "titre": "fadè",
+    "definition": "fatuité",
+    "type": "nom masculin",
+    "search": "fadè fatuité"
+  },
+  {
+    "id": 12119,
+    "titre": "fadou",
+    "definition": "fadeur",
+    "type": "nom masculin",
+    "search": "fadou fadeur"
+  },
+  {
+    "id": 12120,
+    "titre": "fadarie",
+    "definition": "fadaise",
+    "type": "nom féminin",
+    "search": "fadarie  fadaise"
+  },
+  {
+    "id": 12121,
+    "titre": "porche",
+    "definition": "portique",
+    "type": "nom masculin",
+    "search": "porche portique"
+  },
+  {
+    "id": 12122,
+    "titre": "entegramèn",
+    "definition": "intégralement",
+    "type": "adverbe",
+    "search": "entegramèn intégralement"
+  },
+  {
+    "id": 12123,
+    "titre": "entime",
+    "definition": "intime",
+    "type": "adjectif",
+    "search": "entime intime"
+  },
+  {
+    "id": 12124,
+    "titre": "bitalhe",
+    "definition": "vivres, denrées",
+    "type": "nom féminin",
+    "search": "bitalhe vivres, denrées"
+  },
+  {
+    "id": 12125,
+    "titre": "totalèmen",
+    "definition": "totalement",
+    "type": "adverbe",
+    "search": "totalèmen totalement"
+  },
+  {
+    "id": 12126,
+    "titre": "espade",
+    "definition": "épée",
+    "type": "nom féminin",
+    "search": "espade épée"
+  },
+  {
+    "id": 12127,
+    "titre": "persecutadou",
+    "definition": "persécuteur",
+    "type": "nom masculin",
+    "search": "persecutadou persécuteur"
+  },
+  {
+    "id": 12128,
+    "titre": "persecuta",
+    "definition": "persécuter",
+    "type": "verbe",
+    "search": "persecuta persécuter"
+  },
+  {
+    "id": 12129,
+    "titre": "combersacioû",
+    "definition": "conduite, mœurs",
+    "type": "nom féminin",
+    "search": "combersacioû conduite, mœurs"
+  },
+  {
+    "id": 12130,
+    "titre": "mile-pates",
+    "definition": "millepieds, insecte",
+    "type": "nom masculin",
+    "search": "mile-pates millepieds, insecte"
+  },
+  {
+    "id": 12131,
+    "titre": "enjurie",
+    "definition": "injure",
+    "type": "nom féminin",
+    "search": "enjurie injure"
+  },
+  {
+    "id": 12132,
+    "titre": "destrenhe",
+    "definition": "contraindre",
+    "type": "verbe",
+    "search": "destrenhe contraindre"
+  },
+  {
+    "id": 12133,
+    "titre": "destriga",
+    "definition": "presser",
+    "type": "verbe",
+    "search": "destriga  presser"
+  },
+  {
+    "id": 12134,
+    "titre": "pressa",
+    "definition": "presser",
+    "type": "verbe",
+    "search": "pressa presser"
+  },
+  {
+    "id": 12135,
+    "titre": "destrig",
+    "definition": "cas pressant",
+    "type": "nom masculin",
+    "search": "destrig cas pressant"
+  },
+  {
+    "id": 12136,
+    "titre": "bencut",
+    "definition": "perdant",
+    "type": "nom masculin",
+    "search": "bencut perdant"
+  },
+  {
+    "id": 12137,
+    "titre": "ibrougna",
+    "definition": "boire avec excès",
+    "type": "verbe",
+    "search": "ibrougna boire avec excès"
+  },
+  {
+    "id": 12138,
+    "titre": "natiu",
+    "definition": "natif",
+    "type": "adjectif",
+    "search": "natiu natif"
+  },
+  {
+    "id": 12139,
+    "titre": "equitat",
+    "definition": "équité",
+    "type": "nom féminin",
+    "search": "equitat équité"
+  },
+  {
+    "id": 12140,
+    "titre": "ère",
+    "definition": "aire",
+    "type": "nom féminin",
+    "search": "ère aire"
+  },
+  {
+    "id": 12141,
+    "titre": "delicatesse",
+    "definition": "délicatesse",
+    "type": "nom féminin",
+    "search": "delicatesse délicatesse"
+  },
+  {
+    "id": 12142,
+    "titre": "delinquèmen",
+    "definition": "délit",
+    "type": "nom masculin",
+    "search": "delinquèmen délit"
+  },
+  {
+    "id": 12143,
+    "titre": "delinqui",
+    "definition": "faire un délit",
+    "type": "verbe",
+    "search": "delinqui faire un délit"
+  },
+  {
+    "id": 12144,
+    "titre": "toumbe",
+    "definition": "tombe",
+    "type": "nom féminin",
+    "search": "toumbe tombe"
+  },
+  {
+    "id": 12145,
+    "titre": "toumbèu",
+    "definition": "tombeau",
+    "type": "nom masculin",
+    "search": "toumbèu tombeau"
+  },
+  {
+    "id": 12146,
+    "titre": "Salomo",
+    "definition": "Salomon",
+    "type": "nom propre",
+    "search": "Salomo  Salomon"
+  },
+  {
+    "id": 12147,
+    "titre": "tempourari",
+    "definition": "temporaire",
+    "type": "adjectif",
+    "search": "tempourari temporaire"
+  },
+  {
+    "id": 12148,
+    "titre": "temple",
+    "definition": "temple",
+    "type": "nom masculin",
+    "search": "temple temple"
+  },
+  {
+    "id": 12149,
+    "titre": "spirituau",
+    "definition": "spirituel",
+    "type": "adjectif",
+    "search": "spirituau spirituel"
+  },
+  {
+    "id": 12150,
+    "titre": "senechal",
+    "definition": "sénéchal",
+    "type": "nom masculin",
+    "search": "senechal sénéchal"
+  },
+  {
+    "id": 12151,
+    "titre": "despulhe",
+    "definition": "butin",
+    "type": "nom féminin",
+    "search": "despulhe butin"
+  },
+  {
+    "id": 12152,
+    "titre": "mouquirous",
+    "definition": "morveux",
+    "type": "nom masculin",
+    "search": "mouquirous morveux"
+  },
+  {
+    "id": 12153,
+    "titre": "ourdinacioû",
+    "definition": "ordination",
+    "type": "nom féminin",
+    "search": "ourdinacioû ordination"
+  },
+  {
+    "id": 12154,
+    "titre": "establimèn",
+    "definition": "établissement, ordonnance",
+    "type": "nom masculin",
+    "search": "establimèn établissement, ordonnance"
+  },
+  {
+    "id": 12155,
+    "titre": "saup-condut",
+    "definition": "sauf-conduit",
+    "type": "nom masculin",
+    "search": "saup-condut sauf-conduit"
+  },
+  {
+    "id": 12156,
+    "titre": "coumtat",
+    "definition": "comté",
+    "type": "nom masculin",
+    "search": "coumtat comté"
+  },
+  {
+    "id": 12157,
+    "titre": "coumplouta",
+    "definition": "comploter",
+    "type": "verbe",
+    "search": "coumplouta comploter"
+  },
+  {
+    "id": 12158,
+    "titre": "grandou",
+    "definition": "grandeur",
+    "type": "nom féminin",
+    "search": "grandou grandeur"
+  },
+  {
+    "id": 12159,
+    "titre": "perdoû",
+    "definition": "pardon",
+    "type": "nom masculin",
+    "search": "perdoû pardon"
+  },
+  {
+    "id": 12160,
+    "titre": "perde",
+    "definition": "perte",
+    "type": "nom féminin",
+    "search": "perde perte"
+  },
+  {
+    "id": 12161,
+    "titre": "perdure",
+    "definition": "perte",
+    "type": "nom féminin",
+    "search": "perdure perte"
+  },
+  {
+    "id": 12162,
+    "titre": "consul",
+    "definition": "consul",
+    "type": "nom masculin",
+    "search": "consul consul"
+  },
+  {
+    "id": 12163,
+    "titre": "horebouta",
+    "definition": "expulser, pousser hors, bannir l'autre",
+    "type": "verbe",
+    "search": "horebouta expulser"
+  },
+  {
+    "id": 12164,
+    "titre": "Fouch",
+    "definition": "Foix",
+    "type": "nom propre",
+    "search": "Fouch Foix"
+  },
+  {
+    "id": 12165,
+    "titre": "pouralhe",
+    "definition": "volaille",
+    "type": "nom féminin",
+    "search": "pouralhe volaille"
+  },
+  {
+    "id": 12166,
+    "titre": "coumunautat",
+    "definition": "communauté",
+    "type": "nom feminin",
+    "search": "coumunautat communauté"
+  },
+  {
+    "id": 12167,
+    "titre": "besiat",
+    "definition": "communauté, voisinage",
+    "type": "nom masculin",
+    "search": "besiat communauté, voisinage"
+  },
+  {
+    "id": 12168,
+    "titre": "biscoumtat",
+    "definition": "vicomté",
+    "type": "nom masculin",
+    "search": "biscoumtat vicomté"
+  },
+  {
+    "id": 12169,
+    "titre": "bouryès",
+    "definition": "bourgeois",
+    "type": "nom masculin",
+    "search": "bouryès bourgeois"
+  },
+  {
+    "id": 12170,
+    "titre": "bath",
+    "definition": "valée",
+    "type": "nom féminin",
+    "search": "bath valée"
+  },
+  {
+    "id": 12171,
+    "titre": "marechal",
+    "definition": "marechal",
+    "type": "nom masculin",
+    "search": "marechal marechal"
+  },
+
+
+  {
+    "id": 12172,
+    "titre": "pelerî",
+    "definition": "pélerin",
+    "type": "nom masculin",
+    "search": "pelerî pélerin"
+  },
+  {
+    "id": 12173,
+    "titre": "maudit",
+    "definition": "diffamation, médisance",
+    "type": "nom masculin",
+    "search": "maudit diffamation, médisance"
+  }
+  
+
+,
+
+   {
+    "id": 12174,
+    "titre": "apara",
+    "definition": "saisir une chose, soutenir quelqu'un",
+    "type": "verbe",
+    "search": "apara saisir une chose, soutenir quelqu'un"
+  },
+  {
+    "id": 12175,
+    "titre": "abatèmen",
+    "definition": "abattement, affaiblissement des forces physiques",
+    "type": "nom masculin",
+    "search": "abatèmen abattement, affaiblissement des forces physiques"
+  },
+  {
+    "id": 12176,
+    "titre": "esbarata",
+    "definition": "détruire, renverser",
+    "type": "verbe",
+    "search": "esbarata détruire, renverser"
+  },
+  {
+    "id": 12177,
+    "titre": "esbarat",
+    "definition": "détraqué, fou",
+    "type": "nom féminin",
+    "search": "esbarat détraqué, fou"
+  },
+  {
+    "id": 12178,
+    "titre": "alarga",
+    "definition": "délivrer, lâcher, mettre en liberté",
+    "type": "verbe",
+    "search": "alarga délivrer, lâcher, mettre en liberté"
+  },
+
+
+  {
+    "id": 12179,
+    "titre": "hagnous",
+    "definition": "hargneux",
+    "type": "adjectif",
+    "search": "hagnous hargneux"
+  },
+  {
+    "id": 12180,
+    "titre": "exempta",
+    "definition": "exempter",
+    "type": "verbe",
+    "search": "exempta exempter"
+  }
+,
+ {
+    "id": 12181,
+    "titre": "quotidiâ",
+    "definition": "quotidien",
+    "type": "adjectif et nom",
+    "search": "quotidiâ quotidien"
+  }
+,
+ {
+    "id": 12182,
+    "titre": "circounsicioû",
+    "definition": "circonsition",
+    "type": "nom féminin",
+    "search": "circounsicioû circonsition"
+  }
+  ,
+ {
+    "id": 12183,
+    "titre": "natibitat",
+    "definition": "nativité",
+    "type": "nom féminin",
+    "search": "natibitat nativité"
+  }
+   ,
+ {
+    "id": 12184,
+    "titre": "countrente",
+    "definition": "contrainte",
+    "type": "nom féminin",
+    "search": "countrente contrainte"
+  }
+    ,
+ {
+    "id": 12185,
+    "titre": "bourc",
+    "definition": "bourg",
+    "type": "nom masculin",
+    "search": "bourc bourg"
+  }
+   ,
+ {
+    "id": 12186,
+    "titre": "ourdouna",
+    "definition": "ordoner",
+    "type": "verbe",
+    "search": "ourdouna ordoner"
+  }
+   ,
+ {
+    "id": 12187,
+    "titre": "ourdounance",
+    "definition": "ordonnance",
+    "type": "nom féminin",
+    "search": "ourdounance ordonnance"
   },
    {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
-  }, {
-    "id": 0,
-    "titre": "Guilhem",
-    "definition": "Guillaume",
-    "type": "nom propre",
-    "search": "Guilhem Guillaume"
+    "id": 12188,
+    "titre": "laudete",
+    "definition": "alouette",
+    "type": "nom féminin",
+    "search": "laudete alouette"
+  }
+   ,
+ {
+    "id": 12189,
+    "titre": "darriga",
+    "definition": "déraciner",
+    "type": "verbe",
+    "search": "darriga déraciner"
+  }
+   ,
+ {
+    "id": 12190,
+    "titre": "assoula",
+    "definition": "rez de terre",
+    "type": "nom féminin",
+    "search": "assoula rez de terre"
+  }
+   ,
+ {
+    "id": 12191,
+    "titre": "darrouca",
+    "definition": "arracher abattre démolir",
+    "type": "verbe",
+    "search": "darrouca arracher abattre démolir"
+  }
+    ,
+ {
+    "id": 12192,
+    "titre": "enfidéu",
+    "definition": "infidèle",
+    "type": "nom et adjectif",
+    "search": "enfidéu infidèle"
+  }
+
+    ,
+ {
+    "id": 12193,
+    "titre": "tenís",
+    "definition": "tennis",
+    "type": "nom masculin",
+    "search": "tenís tennis"
+  }
+    ,
+ {
+    "id": 12194,
+    "titre": "teniste",
+    "definition": "joueur ou joueuse de tennis",
+    "type": "nom masculin et féminin",
+    "search": "teniste joueur ou joueuse de tennis"
+  }
+
+
+    ,
+ {
+    "id": 12195,
+    "titre": "basquet",
+    "definition": "basket",
+    "type": "nom masculin",
+    "search": "basquet basket"
+  }
+    ,
+ {
+    "id": 12196,
+    "titre": "basquetayre",
+    "definition": "basketteur",
+    "type": "nom masculin",
+    "search": "basquetayre basketteur"
+  }
+
+    ,
+ {
+    "id": 12197,
+    "titre": "foutbolayre",
+    "definition": "joueur de football",
+    "type": "nom masculin",
+    "search": "foutbolayre joueur de football"
+  }
+   ,
+ {
+    "id": 12198,
+    "titre": "ciclìsme",
+    "definition": "cyclisme",
+    "type": "nom masculin",
+    "search": "ciclisme cyclisme"
+  },
+   {
+    "id": 12199,
+    "titre": "massonarie",
+    "definition": "maçonnerie",
+    "type": "nom féminin",
+    "search": "massonarie maçonnerie"
+  },
+   {
+    "id": 12200,
+    "titre": "massouna",
+    "definition": "maçonner",
+    "type": "nom féminin",
+    "search": "massouna maçonner"
+  }
+,
+   {
+    "id": 12201,
+    "titre": "Magdalene",
+    "definition": "Madeleine",
+    "type": "nom propre",
+    "search": "Magdalene Madeleine"
+  }
+  ,
+   {
+    "id": 12202,
+    "titre": "misericordie",
+    "definition": "miséricode",
+    "type": "nom féminin",
+    "search": "misericordie miséricode"
+  }
+   ,
+   {
+    "id": 12203,
+    "titre": "anarquie",
+    "definition": "arnachie",
+    "type": "nom féminin",
+    "search": "anarquie arnachie"
+  }
+
+   ,
+   {
+    "id": 12204,
+    "titre": "disiple",
+    "definition": "disciple",
+    "type": "nom féminin",
+    "search": "disiple disciple"
+  }
+   ,
+   {
+    "id": 12205,
+    "titre": "accoumpli",
+    "definition": "accoumplir",
+    "type": "verbe",
+    "search": "accoumpli accoumplir"
+  }
+  ,
+   {
+    "id": 12206,
+    "titre": "hebriu",
+    "definition": "hébreu",
+    "type": "nom masculin",
+    "search": "hebriu hébreu"
+  }
+
+   ,
+   {
+    "id": 12207,
+    "titre": "roumâ",
+    "definition": "romain",
+    "type": "nom masculin",
+    "search": "roumâ romain"
+  }
+   ,
+   {
+    "id": 12208,
+    "titre": "Gascougne",
+    "definition": "Gascogne",
+    "type": "nom propre",
+    "search": "Gascougne Gascogne"
   }
 ]
