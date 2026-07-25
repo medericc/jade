@@ -30471,10 +30471,10 @@
   },
   {
     "id": 4852,
-    "titre": "desliura",
+    "titre": "deliura",
     "definition": "délivrer",
     "type": "verbe transitif",
-    "search": "desliura délivrer"
+    "search": "deliura délivrer"
   },
   {
     "id": 4853,
@@ -78738,5 +78738,44 @@
     "definition": "proroger",
     "type": "verbe",
     "search": "prourouga proroger"
+  }
+   ,
+   {
+    "id": 12214,
+    "titre": "prince, ésse",
+    "definition": "prince",
+    "type": "nom masculin",
+    "search": "prince prince"
+  }
+    ,
+   {
+    "id": 12215,
+    "titre": "usurpadou",
+    "definition": "usurpateur",
+    "type": "nom masculin",
+    "search": "usurpadou usurpateur"
+  }  ,
+   {
+    "id": 12216,
+    "titre": "puretat",
+    "definition": "pureté",
+    "type": "nom féminin",
+    "search": "puretat pureté"
+  }
+  ,
+   {
+    "id": 12217,
+    "titre": "reduech",
+    "definition": "réduit",
+    "type": "adjectif",
+    "search": "reduech réduit"
+  }
+    ,
+   {
+    "id": 12218,
+    "titre": "donacioû",
+    "definition": "donation",
+    "type": "nom féminin",
+    "search": "donacioû donation"
   }
 ]
