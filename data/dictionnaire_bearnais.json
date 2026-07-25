@@ -2573,7 +2573,7 @@
   {
     "id": 413,
     "titre": "alounga",
-    "definition": "allonger",
+    "definition": "allonger, prolonger",
     "type": "verbe transitif",
     "search": "alounga allonger"
   },
@@ -31339,10 +31339,10 @@
   },
   {
     "id": 4976,
-    "titre": "destrusi",
+    "titre": "destruise",
     "definition": "détruire",
-    "type": "verbe transitif (que destruséchi)",
-    "search": "destrusi détruire"
+    "type": "verbe transitif (que destruiséchi)",
+    "search": "destruise détruire"
   },
   {
     "id": 4977,
@@ -51989,13 +51989,7 @@
     "type": "adjectif",
     "search": "misterious mystérieux"
   },
-  {
-    "id": 8216,
-    "titre": "mistiou",
-    "definition": "matière",
-    "type": "nom féminin",
-    "search": "mistiou matière"
-  },
+ 
   {
     "id": 8217,
     "titre": "mistouflét",
@@ -78704,5 +78698,45 @@
     "definition": "Gascogne",
     "type": "nom propre",
     "search": "Gascougne Gascogne"
+  }
+    ,
+   {
+    "id": 12209,
+    "titre": "chibaugueya",
+    "definition": "chevaucher",
+    "type": "verbe",
+    "search": "chibaugueya chevaucher"
+  }
+  ,
+   {
+    "id": 12210,
+    "titre": "efficace",
+    "definition": "efficace",
+    "type": "adjectif",
+    "search": "efficace efficace"
+  }
+   ,
+   {
+    "id": 12211,
+    "titre": "ha partide a",
+    "definition": "être contre ...",
+    "type": "locution verbale",
+    "search": "ha partide a  être contre"
+  }
+    ,
+   {
+    "id": 12212,
+    "titre": "nabarrés",
+    "definition": "navarrais",
+    "type": "nom et adjectif",
+    "search": "nabarrés  navarrais"
+  }
+    ,
+   {
+    "id": 12213,
+    "titre": "prourouga",
+    "definition": "proroger",
+    "type": "verbe",
+    "search": "prourouga proroger"
   }
 ]
