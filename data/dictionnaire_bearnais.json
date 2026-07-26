@@ -11201,9 +11201,9 @@
   {
     "id": 1870,
     "titre": "bioula",
-    "definition": "violer",
+    "definition": "violer (quelqu'un)",
     "type": "verbe transitif",
-    "search": "bioula violer"
+    "search": "bioula violer (quelqu'un)"
   },
   {
     "id": 1871,
@@ -54672,13 +54672,7 @@
   },
 
  
-  {
-    "id": 8623,
-    "titre": "oùmi",
-    "definition": "homme ; époux, mari",
-    "type": "nom masculin",
-    "search": "oùmi homme ; époux, mari"
-  },
+
   {
     "id": 8624,
     "titre": "oumiot",
@@ -59003,10 +58997,10 @@
   },
   {
     "id": 9272,
-    "titre": "pi",
+    "titre": "pique",
     "definition": "pic (outil), pioche, houe ; pique (carte)",
     "type": "nom féminin",
-    "search": "pi pic (outil), pioche, houe ; pique (carte)"
+    "search": "pique pic (outil), pioche, houe ; pique (carte)"
   },
   {
     "id": 9273,
@@ -78163,13 +78157,7 @@
     "type": "verbe",
     "search": "ibrougna boire avec excès"
   },
-  {
-    "id": 12138,
-    "titre": "natiu",
-    "definition": "natif",
-    "type": "adjectif",
-    "search": "natiu natif"
-  },
+  
   {
     "id": 12139,
     "titre": "equitat",
@@ -78184,13 +78172,7 @@
     "type": "nom féminin",
     "search": "ère aire"
   },
-  {
-    "id": 12141,
-    "titre": "delicatesse",
-    "definition": "délicatesse",
-    "type": "nom féminin",
-    "search": "delicatesse délicatesse"
-  },
+
   {
     "id": 12142,
     "titre": "delinquèmen",
@@ -78221,10 +78203,10 @@
   },
   {
     "id": 12146,
-    "titre": "Salomo",
+    "titre": "Salomô",
     "definition": "Salomon",
     "type": "nom propre",
-    "search": "Salomo  Salomon"
+    "search": "Salomô  Salomon"
   },
   {
     "id": 12147,
@@ -78390,9 +78372,9 @@
   {
     "id": 12170,
     "titre": "bath",
-    "definition": "valée",
+    "definition": "vallée",
     "type": "nom féminin",
-    "search": "bath valée"
+    "search": "bath vallée"
   },
   {
     "id": 12171,
@@ -78516,9 +78498,9 @@
  {
     "id": 12186,
     "titre": "ourdouna",
-    "definition": "ordoner",
+    "definition": "ordonner",
     "type": "verbe",
-    "search": "ourdouna ordoner"
+    "search": "ourdouna ordonner"
   }
    ,
  {
@@ -78777,5 +78759,78 @@
     "definition": "donation",
     "type": "nom féminin",
     "search": "donacioû donation"
+  }
+    ,
+   {
+    "id": 12219,
+    "titre": "pribilèdye",
+    "definition": "privilège",
+    "type": "nom masculin",
+    "search": "pribilèdye privilège"
+  }
+   ,
+   {
+    "id": 12220,
+    "titre": "proupagande",
+    "definition": "propagande",
+    "type": "nom féminin",
+    "search": "proupagande propagande"
+  }
+   ,
+   {
+    "id": 12221,
+    "titre": "reclame",
+    "definition": "publicité",
+    "type": "nom féminin",
+    "search": "reclame publicité"
+  }
+   ,
+   {
+    "id": 12222,
+    "titre": "zel",
+    "definition": "zèle",
+    "type": "nom masculin",
+    "search": "zel zèle"
+  }
+
+   ,
+   {
+    "id": 12223,
+    "titre": "òmicide",
+    "definition": "homicide",
+    "type": "nom masculin",
+    "search": "òmicide homicide"
+  }
+ ,
+   {
+    "id": 12224,
+    "titre": "suprème",
+    "definition": "suprême",
+    "type": "adjectif",
+    "search": "suprème suprême"
+  }
+  ,
+   {
+    "id": 12225,
+    "titre": "Alemagne",
+    "definition": "Allemagne",
+    "type": "nom propre",
+    "search": "Alemagne Allemagne"
+  }
+   ,
+   {
+    "id": 12226,
+    "titre": "empuritat",
+    "definition": "impureté",
+    "type": "nom féminin",
+    "search": "empuritat impureté"
+  }
+   ,
+   {
+    "id": 12227,
+    "titre": "hor, -te",
+    "definition": "fort ♦ Fort comme Navarrenx → Hort coum Nabarrencs.",
+    "type": "nom et adjectif",
+    "search": "hor fort"
   }
 ]
