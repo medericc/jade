@@ -24448,13 +24448,7 @@
     "type": "nom féminin",
     "search": "countradiccioû contradiction"
   },
-  {
-    "id": 3944,
-    "titre": "countradìsẹ",
-    "definition": "contredire",
-    "type": "verbe transitif",
-    "search": "countradìsẹ contredire"
-  },
+
   {
     "id": 3945,
     "titre": "countràri",
@@ -78856,7 +78850,7 @@
     "titre": "acculh",
     "definition": "accueil",
     "type": "nom masculin",
-    "search": "aculh accueil"
+    "search": "acculh accueil"
   }
   ,
   {
@@ -78866,5 +78860,20 @@
     "type": "verbe",
     "search": "acculhi accueillir"
   }
-  
+    ,
+  {
+    "id": 12232,
+    "titre": "esperuca",
+    "definition": "examiner, sonder, scruter",
+    "type": "verbe",
+    "search": "esperuca examiner, sonder, scruter"
+  }
+    ,
+  {
+    "id": 12233,
+    "titre": "trahech",
+    "definition": "trahit",
+    "type": "3e personne au présent",
+    "search": "trahech trahit"
+  }
 ]
