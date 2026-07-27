@@ -78850,4 +78850,28 @@
     "search": "blasphèmi blasphème"
   }
    
+  ,
+  {
+    "id": 12230,
+    "titre": "arcoelh",
+    "definition": "accueil",
+    "type": "nom masculin",
+    "search": "arcoelh accueil"
+  }
+  ,
+  {
+    "id": 12231,
+    "titre": "arcoelhe",
+    "definition": "accueillir",
+    "type": "verbe",
+    "search": "arcoelhe accueillir"
+  }
+  ,
+  {
+    "id": 12232,
+    "titre": "arcoelhedou",
+    "definition": "qui fait accueil",
+    "type": "nom masculin",
+    "search": "arcoelhedou qui fait accueil"
+  }
 ]
