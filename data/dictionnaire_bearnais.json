@@ -78833,4 +78833,21 @@
     "type": "nom et adjectif",
     "search": "hor fort"
   }
+    ,
+   {
+    "id": 12228,
+    "titre": "apostou",
+    "definition": "apôtre",
+    "type": "nom masculin",
+    "search": "apostou fort"
+  }
+,
+  {
+    "id": 12229,
+    "titre": "blasphèmi",
+    "definition": "blasphème",
+    "type": "nom féminin",
+    "search": "blasphèmi blasphème"
+  }
+   
 ]
