@@ -32022,13 +32022,7 @@
     "type": "verbe pronominal",
     "search": "dòlẹ-s se plaindre (d'un mal), souffrir ; se tracasser"
   },
-  {
-    "id": 5086,
-    "titre": "dot, dote",
-    "definition": "dot",
-    "type": "nom féminin",
-    "search": "dot, dote dot"
-  },
+ 
   {
     "id": 5087,
     "titre": "dòu",
@@ -47486,10 +47480,10 @@
   },
   {
     "id": 7552,
-    "titre": "legitime",
+    "titre": "dot",
     "definition": "dot",
     "type": "nom féminin",
-    "search": "legitime dot."
+    "search": "dot dot."
   },
   {
     "id": 7553,
@@ -78883,5 +78877,490 @@
     "definition": "idolatrie",
     "type": "nom féminin",
     "search": "idolatrie idolatrie"
+  }
+   ,
+  {
+    "id": 12235,
+    "titre": "leyitime",
+    "definition": "légitime",
+    "type": "nom et adjectif",
+    "search": "leyitime légitime"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ,
+  {
+    "id": 12236,
+    "titre": "pasture",
+    "definition": "pâture",
+    "type": "nom féminin",
+    "search": "pasture pâture "
+  }
+   ,
+  {
+    "id": 12237,
+    "titre": "pataca",
+    "definition": "frapper",
+    "type": "verbe",
+    "search": "pataca frapper"
+  }
+   ,
+  {
+    "id": 12238,
+    "titre": "poutadyè",
+    "definition": "potager, qui aime le potage ♦ Sobriquet des gens de Bidos (ils avaient interdiction d'acheter de la viande à Oloron et en avaient caché dans leur potage",
+    "type": "nom masculin",
+    "search": "poutadyè potager, qui aime le potage ♦ Sobriquet de Bidos"
+  }
+   ,
+
+
+
+  {
+    "id": 12239,
+    "titre": "renardè",
+    "definition": "preneur de renards ♦ Sobriquet des gens de Serres-Castet",
+    "type": "nom masculin",
+    "search": "renardè preneur de renards sobriquet des gens de Serres-Castet"
+  }
+   ,
+  {
+    "id": 12240,
+    "titre": "sabatè",
+    "definition": "mangeur de châtaigne bouillie dans la peau ♦ Sobriquet des gens d'Abère",
+    "type": "nom masculin",
+    "search": "sabatè mangeur de châtaigne bouillie dans la peau"
+  }
+   ,
+  {
+    "id": 12241,
+    "titre": "siuletè",
+    "definition": "qui fait ou vend des sifflets ♦ Sobriquet des habitants d'Igon",
+    "type": "nom masculin",
+    "search": "siuletè qui fait ou vend des sifflets sobriquet des habitants d igon"
+  }
+   ,
+  {
+    "id": 12242,
+    "titre": "sourciè, -re",
+    "definition": "sorcier ♦ Sobriquet des gens de Lezons",
+    "type": "nom et adjectif",
+    "search": "sourciè, -re sorcier ♦ Sobriquet des gens de Lezons"
+  }
+   ,
+  {
+    "id": 12243,
+    "titre": "sourcelerie",
+    "definition": "sorcellerie",
+    "type": "nom féminin",
+    "search": "sourcelerie sorcellerie"
+  }
+   ,
+  {
+    "id": 12244,
+    "titre": "patacayre",
+    "definition": "qui a la main prompte ♦ Sobriquet des gens d'Uzos",
+    "type": "nom masculin",
+    "search": "patacayre qui a la main prompte ♦ Sobriquet des gens d'Uzos"
+  }
+   ,
+  {
+    "id": 12245,
+    "titre": "patacassè",
+    "definition": "frappeur ♦ Sobriquet des gens de Castéra",
+    "type": "nom masculin",
+    "search": "patacassè frappeur ♦ Sobriquet des gens de Castéra"
+  }
+   ,
+  {
+    "id": 12246,
+    "titre": "pati",
+    "definition": "cour, espace découvert environnée de murs ou de batiments",
+    "type": "nom masculin",
+    "search": "pati cour, espace découvert environnée de murs ou de batiments"
+  }
+   ,
+  {
+    "id": 12247,
+    "titre": "paternau",
+    "definition": "paternel",
+    "type": "nom masculin",
+    "search": "paternau paternel"
+  }
+   ,
+  {
+    "id": 12248,
+    "titre": "maternau",
+    "definition": "maternel",
+    "type": "nom masculin",
+    "search": "maternau maternel"
+  }
+   ,
+  {
+    "id": 12249,
+    "titre": "pacâ",
+    "definition": "grossier, rustre ♦ Sobriquet des gens de Momas",
+    "type": "nom masculin",
+    "search": "pacâ grossier, rustre ♦ Sobriquet des gens de Momas"
+  }
+   ,
+  {
+    "id": 12250,
+    "titre": "cu-rouyes",
+    "definition": "Sobriquet des gens de Morlaàs (d'une rencontre entre Palois et Morlanais où les Morlanais avaient une rayure rouge à l'arrière)",
+    "type": "nom masculin",
+    "search": "cu-rouyes Sobriquet des gens de Morlaàs (d'une rencontre entre Palois et Morlanais où les Morlanais avaient une rayure rouge à l'arrière)"
+  }
+   ,
+  {
+    "id": 12251,
+    "titre": "currou",
+    "definition": "sacrum",
+    "type": "nom masculin",
+    "search": "currou sacrum"
+  }
+   ,
+  {
+    "id": 12252,
+    "titre": "mahereya",
+    "definition": "dire 'ma hè' par mauvaise habitude, parler comme un rustre",
+    "type": "verbe",
+    "search": "mahereya dire ma hè par mauabise habituede, parler comme un  rustre"
+  }
+   ,
+  {
+    "id": 12253,
+    "titre": "maherâ",
+    "definition": "Sobriquet des bigourdans qui disent souvent ma hè ! ('ma foi'), terme rustre, injurieux",
+    "type": "nom masculin",
+    "search": "maherâ légitime"
+  }
+   ,
+  {
+    "id": 12254,
+    "titre": "loubatè",
+    "definition": "chasseur de loup ♦ Sobriquet des gens de Sauvagnon",
+    "type": "nom masculin",
+    "search": "loubatè chasseur de loup "
+  }
+   ,
+  {
+    "id": 12255,
+    "titre": "limaquère",
+    "definition": "grande quantité de limace",
+    "type": "nom féminin",
+    "search": "limaquère grande quantité de limace"
+  }
+   ,
+  {
+    "id": 12256,
+    "titre": "abarquè",
+    "definition": "celui qui fait des abarques (chaussures espagnoles) ♦ Sobriquet des gens de Laruns",
+    "type": "nom masculin",
+    "search": "abarquè celui qui fait des abarques"
+  }
+   ,
+  {
+    "id": 12257,
+    "titre": "arrabassé",
+    "definition": "qui cultive ou se nourrit de rave ♦ Sobriquet des gens de Préchacq-Josbaig",
+    "type": "nom masculin",
+    "search": "arrabassé qui cultive ou se nourrit de rave"
+  }
+   ,
+  {
+    "id": 12258,
+    "titre": "barricoulès",
+    "definition": "coup de trique ♦ Sobriquet des gens d'Asson",
+    "type": "nom masculin",
+    "search": "barricoulès coup de trique ♦ Sobriquet des gens d'Asson"
+  }
+   ,
+  {
+    "id": 12259,
+    "titre": "bietdasou",
+    "definition": "visage d'ane ♦ Sobriquet des gens de Bentayou",
+    "type": "nom masculin",
+    "search": "bietdasou visage d'ane ♦ Sobriquet des gens de Bentayou"
+  }
+   ,
+  {
+    "id": 12260,
+    "titre": "bouderou",
+    "definition": "beurrier ♦ Sobriquet des gens de Béost",
+    "type": "nom masculin",
+    "search": "bouderou beurrier ♦ Sobriquet des gens de Béost"
+  }
+   ,
+  {
+    "id": 12261,
+    "titre": "oussatè",
+    "definition": "chasseur d'ours (pas de 'r' à ours car ce n'est pas rude) ♦ Sobriquet des gens d'Assouste",
+    "type": "nom masculin",
+    "search": "oussatè chasseur d'ours "
+  }
+   ,
+  {
+    "id": 12262,
+    "titre": "oursè",
+    "definition": "qui appartient à l'ours (avec un 'r' car c'est rude) ♦ Sobriquet des gens d'Asson",
+    "type": "nom et adjectif",
+    "search": "oursè qui appartient à l'ours  ♦ Sobriquet des gens d'Asson"
+  }
+   ,
+  {
+    "id": 12263,
+    "titre": "bugadé",
+    "definition": "blanchisseur ♦ Sobriquet des gens de Bizanos",
+    "type": "nom masculin",
+    "search": "bugadé blanchisseur Sobriquet Bizanos"
+  }
+   ,
+  {
+    "id": 12264,
+    "titre": "buseroc",
+    "definition": "terme de mépris ♦ Sobriquet des gens de Buzy",
+    "type": "nom masculin",
+    "search": "buseroc terme de mépris Sobriquet Buzy"
+  }
+   ,
+  {
+    "id": 12265,
+    "titre": "brasouque",
+    "definition": "qui remue la cendre, qui ne quitte pas le coin du feu, qui tisonne ♦ Sobriquet des gens d'Andoins",
+    "type": "nom masculin",
+    "search": "brasouque qui remue la cendre, qui ne quitte pas le coin du feu, qui tisonne sobriquet Andoins"
+  }
+   ,
+  {
+    "id": 12266,
+    "titre": "moudacous",
+    "definition": " boueux ♦ Sobriquet des gens de Lannegrasse",
+    "type": "adjectif",
+    "search": "moudacous  boueux ♦ Sobriquet des gens de Lannegrasse"
+  }
+   ,
+  {
+    "id": 12267,
+    "titre": "moutagnous",
+    "definition": "montagneux ♦ Sobriquet des gens de Laruns",
+    "type": "adjectif",
+    "search": "moutagnous montagneux ♦ Sobriquet des gens de Laruns"
+  }
+   ,
+  {
+    "id": 12268,
+    "titre": "legumayre",
+    "definition": "qui cultive ou aime les légumes ♦ Sobriquet des gens de Gélos",
+    "type": "nom et adjectif",
+    "search": "legumayre qui cultive ou aime les légumes ♦ Sobriquet des gens de Gélos"
+  }
+   ,
+  {
+    "id": 12269,
+    "titre": "Mousquilhous",
+    "definition": "qui se fâche vite ('prendre la mouche') ♦ Sobriquet des gens d'Issor",
+    "type": "nom et adjectif",
+    "search": "Mousquilhous qui se fâche vite ('prendre la mouche')  ♦ Sobriquet des gens d'Issor"
+  }
+   ,
+  {
+    "id": 12270,
+    "titre": "lauquetè",
+    "definition": "pêcheur de loches ♦ Sobriquet des gens d'Idron",
+    "type": "nom masculin",
+    "search": "lauquetè pêcheur de loches ♦ Sobriquet des gens d'Idron"
+  }
+   ,
+  {
+    "id": 12271,
+    "titre": "castelâ",
+    "definition": "châtelain",
+    "type": "nom masculin",
+    "search": "castelâ châtelain"
+  }
+   ,
+  {
+    "id": 12272,
+    "titre": "libertî",
+    "definition": "libertin (incrédule, blasphémateur) ♦ Sobriquet des gens de Viellenave (Garlin)",
+    "type": "nom et adjectif",
+    "search": "libertî libertin (incrédule, blasphémateur) Sobriquet des gens de Viellenave (Garlin)"
+  }
+   ,
+  {
+    "id": 12273,
+    "titre": "leytassè",
+    "definition": "aime, vend le lait ♦ Sobriquet des gens de Bordes",
+    "type": "nom et adjectif",
+    "search": "leytassè aime, vend le lait ♦ Sobriquet des gens de Bordes"
+  }
+   ,
+  {
+    "id": 12274,
+    "titre": "crestadou",
+    "definition": "châtreur ♦ Sobriquet des gens d'Ogeu",
+    "type": "nom masculin",
+    "search": "crestadou châtreur ♦ Sobriquet des gens d'Ogeu"
+  }
+   ,
+  {
+    "id": 12275,
+    "titre": "gritchès",
+    "definition": "chercheur de grillon ♦ Sobriquet des gens de Rivehaute (ils cherchaient à savoir les mâles et femelles parmi les grillons)",
+    "type": "nom masculin",
+    "search": "gritchès chercheur de grillon Sobriquet des gens de Rivehaute"
+  }
+   ,
+  {
+    "id": 12276,
+    "titre": "haboè",
+    "definition": "qui cultive fèves, haricots ♦ Sobriquet des gens de Barraute",
+    "type": "nom masculin",
+    "search": "haboè qui cultive fèves haricots ♦ Sobriquet des gens de Barraute "
+  }
+   ,
+  {
+    "id": 12277,
+    "titre": "castanhoulet",
+    "definition": "petite châtaigne (castanhouletes) ♦ Sobriquet des gens de Mesplède",
+    "type": "nom masculin",
+    "search": "castanhoulet petite châtaigne ♦ Sobriquet des gens de Mesplède"
+  }
+   ,
+  {
+    "id": 12278,
+    "titre": "chaffre",
+    "definition": "sobriquet",
+    "type": "nom masculin",
+    "search": "chaffre sobriquet"
+  }
+   ,
+  {
+    "id": 12279,
+    "titre": "cerisoulè",
+    "definition": "mangeur de cerise ♦ Sobriquet des gens d'Andrein",
+    "type": "nom masculin",
+    "search": "cerisoulè mangeur de cerise ♦ Sobriquet des gens d'Andrein"
+  }
+   ,
+  {
+    "id": 12280,
+    "titre": "chapeletayre",
+    "definition": "vendeur de chapelet ♦ Sobriquet des gens de Lestelle",
+    "type": "nom masculin",
+    "search": "chapeletayre vendeur de chapelet"
+  }
+   ,
+  {
+    "id": 12281,
+    "titre": "courbassè",
+    "definition": "chasseur de corbeau ♦ Sobriquet des gens d'Urdos",
+    "type": "nom masculin",
+    "search": "courbassè chasseur de corbeau ♦ Sobriquet des gens d'Urdos"
+  }
+   ,
+  {
+    "id": 12282,
+    "titre": "graulhès",
+    "definition": "grenouillers ♦ Sobriquet des gens d'Aramits et d'Orin",
+    "type": "nom masculin",
+    "search": "graulhès grenouillers ♦ Sobriquet des gens d'Aramits et d'Orin"
+  }
+   ,
+  {
+    "id": 12283,
+    "titre": "grate-papès",
+    "definition": "gratte-papiers ♦ Sobriquet des gens de Bielle, ancien chef-lieu de la vallée d'Ossau, car, comme au Parlement de Navarre, ils faisaient beaucoup de transcriptions",
+    "type": "nom masculin",
+    "search": "grate-papès gratte-papiers Sobriquet des gens de Bielle, ancien chef-lieu de la vallée d'Ossau, car, comme au Parlement de Navarre, ils faisaient beaucoup de transcriptions"
+  }
+   ,
+  {
+    "id": 12284,
+    "titre": "couscoulhe",
+    "definition": "gousse, cosse, coquille ♦ Sobriquet des gens de Lion (vivant au dépend d'autrui)",
+    "type": "nom féminin",
+    "search": "couscoulhe gousse, cosse, coquille ♦ Sobriquet des gens de Lion "
+  }
+   ,
+  {
+    "id": 12285,
+    "titre": "cohou",
+    "definition": "têtard, arbre étêté ♦ Sobriquet des gens d'Asasp et d'Escurés (sûrement 'laid')",
+    "type": "nom et adjectif",
+    "search": "cohou légitime"
+  }
+
+,
+   {
+    "id": 12286,
+    "titre": "cague-habes",
+    "definition": "chie des fèves ♦ Sobriquet des gens de Pardies (Monein)",
+    "type": "nom masculin",
+    "search": "cague-habes chie des fèves Sobriquet des gens de Pardies (Monein)"
+  }
+   ,
+  {
+    "id": 12287,
+    "titre": "cabèc",
+    "definition": "chat-huant ♦ Sobriquet des gens d'Arette (expéditions nocturnes régulières)",
+    "type": "nom masculin",
+    "search": "cabèc chat-huant ♦ Sobriquet des gens d'Arette "
+  }
+   ,
+  {
+    "id": 12288,
+    "titre": "argoeyte-pintous",
+    "definition": "à l'affût d'occasions pour boire aux dépens des autres ♦ Sobriquet des gens de Vialer",
+    "type": "nom masculin",
+    "search": "argoeyte-pintous à l'affût d'occasions pour boire aux dépens des autres sobriquet Vialer"
+  }
+  ,
+  {
+    "id": 12289,
+    "titre": "cauletayre",
+    "definition": "cultive, mange des choux ♦ Sobriquet des gens de Meillon",
+    "type": "nom masculin",
+    "search": "cauletayre cultive, mange des choux ♦ Sobriquet des gens de Meillon"
+  }
+   ,
+  {
+    "id": 12290,
+    "titre": "carbouneya",
+    "definition": "charbonner",
+    "type": "verbe",
+    "search": "carbouneya charbonner"
+  }
+    ,
+  {
+    "id": 12291,
+    "titre": "carboère",
+    "definition": "lieu où onfait que le charbon",
+    "type": "nom masculin",
+    "search": "carboère lieu où onfait que le charbon"
+  }
+   ,
+  {
+    "id": 12292,
+    "titre": "courrumadye",
+    "definition": "confirmation (sacrement)",
+    "type": "nom masculin",
+    "search": "courrumadye confirmation"
   }
 ]
