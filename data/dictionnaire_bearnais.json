@@ -32251,10 +32251,10 @@
   },
   {
     "id": 5121,
-    "titre": "doun",
+    "titre": "dounc",
     "definition": "donc",
     "type": "adverbe",
-    "search": "doun donc"
+    "search": "dounc donc"
   },
  
   {
@@ -79362,5 +79362,21 @@
     "definition": "confirmation (sacrement)",
     "type": "nom masculin",
     "search": "courrumadye confirmation"
+  }
+    ,
+  {
+    "id": 12293,
+    "titre": "aquech",
+    "definition": "acquiert",
+    "type": "3e personne du présent",
+    "search": "aquech acquiert"
+  }
+    ,
+  {
+    "id": 12294,
+    "titre": "aquit",
+    "definition": "acquis",
+    "type": "participe passé",
+    "search": "aquit acquis"
   }
 ]
