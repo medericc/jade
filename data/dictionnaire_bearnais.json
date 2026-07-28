@@ -10662,13 +10662,7 @@
     "type": "nom masculin",
     "search": "bî vin"
   },
-  {
-    "id": 1770,
-    "titre": "bi",
-    "definition": "venir",
-    "type": "verbe intransitif",
-    "search": "bi venir"
-  },
+
   {
     "id": 1771,
     "titre": "biace",
@@ -38203,7 +38197,7 @@
   {
     "id": 6032,
     "titre": "escu -ure",
-    "definition": "obscur, sombre ♦ Goardat-pe de Lescu mey que e l'escu. → Gardez-vous de Lescun (cachot à ciel ouvert aux mauvaises mœurs) plus que de l'obscurité.",
+    "definition": "obscur, sombre ♦ Goardat-pe de Lescu méy que e l'escu. → Gardez-vous de Lescun (cachot à ciel ouvert aux mauvaises mœurs) plus que de l'obscurité.",
     "type": "adjectif",
     "search": "escu -ure obscur, sombre"
   },
