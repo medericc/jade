@@ -45661,9 +45661,9 @@
   {
     "id": 7200,
     "titre": "hourat",
-    "definition": "trou. ◊ Hourat d'agulhe → trou d'aiguille. ♦ Abé ûe cabilhe enta cade hourat → avoir réponse à tout (« avoir une cheville pour chaque trou »). ♦ Bas-fond. ♦ Village isolé. ◊ Û lè hourat → un trou perdu et sans attrait. ♦ Terrier",
+    "definition": "trou. ◊ Hourat d'agulhe → trou d'aiguille. ♦ Abé ûe cabilhe ta cade hourat → avoir réponse à tout (« avoir une cheville pour chaque trou »). ♦ Bas-fond. ♦ Village isolé. ◊ Û lè hourat → un trou perdu et sans attrait. ♦ Terrier",
     "type": "nom masculin",
-    "search": "hourat trou. ◊ Hourat d'agulhe → trou d'aiguille. ♦ Abé ûe cabilhe enta cade hourat → avoir réponse à tout (« avoir une cheville pour chaque trou »). ♦ Bas-fond. ♦ Village isolé. ◊ Û lè hourat → un trou perdu et sans attrait. ♦ Terrier"
+    "search": "hourat trou. ◊ Hourat d'agulhe → trou d'aiguille. ♦ Abé ûe cabilhe ta cade hourat → avoir réponse à tout (« avoir une cheville pour chaque trou »). ♦ Bas-fond. ♦ Village isolé. ◊ Û lè hourat → un trou perdu et sans attrait. ♦ Terrier"
   },
   {
     "id": 7201,
@@ -46141,9 +46141,9 @@
   {
     "id": 7282,
     "titre": "empourténce",
-    "definition": "importance. ◊ Enta û aha de tau empourténce → pour une affaire d'une telle importance",
+    "definition": "importance. ◊ Ta û aha de tau empourténce → pour une affaire d'une telle importance",
     "type": "nom féminin",
-    "search": "empourténce importance. ◊ Enta û aha de tau empourténce → pour une affaire d'une telle importance"
+    "search": "empourténce importance. ◊ Ta û aha de tau empourténce → pour une affaire d'une telle importance"
   },
   {
     "id": 7283,
@@ -46835,9 +46835,9 @@
   {
     "id": 7426,
     "titre": "journalìstẹ",
-    "definition": "journaliste. ◊ Embia û journalìstẹ enta ha û repourtàdyẹ → envoyer un journaliste pour faire un reportage",
+    "definition": "journaliste. ◊ Embia û journalìstẹ ta ha û repourtàdyẹ → envoyer un journaliste pour faire un reportage",
     "type": "nom",
-    "search": "journalìstẹ journaliste. ◊ Embia û journalìstẹ enta ha û repourtàdyẹ → envoyer un journaliste pour faire un reportage"
+    "search": "journalìstẹ journaliste. ◊ Embia û journalìstẹ ta ha û repourtàdyẹ → envoyer un journaliste pour faire un reportage"
   },
   {
     "id": 7427,
@@ -49172,9 +49172,9 @@
   {
     "id": 7804,
     "titre": "maneya",
-    "definition": "manier, manipuler (sens propre) ; dresser (animal). ♦ Maneya-s verbe pronominal se dépêcher. ◊ Lous souldats que-s soun maneyats. → Les soldats se sont dépêchés. ◊ Que calè esta hort enta maneya lou bouhadé. → Il fallait être fort pour manier le soufflet. ♦ Maneya ûe bèstie → palper, dresser, faire manœuvrer une bête",
+    "definition": "manier, manipuler (sens propre) ; dresser (animal). ♦ Maneya-s verbe pronominal se dépêcher. ◊ Lous souldats que-s soun maneyats. → Les soldats se sont dépêchés. ◊ Que calè esta hort ta maneya lou bouhadé. → Il fallait être fort pour manier le soufflet. ♦ Maneya ûe bèstie → palper, dresser, faire manœuvrer une bête",
     "type": "verbe transitif",
-    "search": "maneya manier, manipuler (sens propre) ; dresser (animal). ♦ Maneya-s verbe pronominal se dépêcher. ◊ Lous souldats que-s soun maneyats. → Les soldats se sont dépêchés. ◊ Que calè esta hort enta maneya lou bouhadé. → Il fallait être fort pour manier le soufflet. ♦ Maneya ûe bèstie → palper, dresser, faire manœuvrer une bête"
+    "search": "maneya manier, manipuler (sens propre) ; dresser (animal). ♦ Maneya-s verbe pronominal se dépêcher. ◊ Lous souldats que-s soun maneyats. → Les soldats se sont dépêchés. ◊ Que calè esta hort ta maneya lou bouhadé. → Il fallait être fort pour manier le soufflet. ♦ Maneya ûe bèstie → palper, dresser, faire manœuvrer une bête"
   },
   {
     "id": 7805,
@@ -49376,9 +49376,9 @@
   {
     "id": 7834,
     "titre": "marcadeya",
-    "definition": "marchander. ◊ Qu'arcoelhében las paysanes enta-us marcadeya tout ço qui bienében bénẹ. → Ils accueillaient les paysannes pour leur marchander tout ce qu'elles venaient vendre. ♦ Lou téms que marcadéye → Le temps est incertain."
+    "definition": "marchander. ♦ Lou téms que marcadéye → Le temps est incertain."
     ,"type": "verbe transitif",
-    "search": "marcadeya marchander. ◊ Qu'arcoelhében las paysanes enta-us marcadeya tout ço qui bienében bénẹ. → Ils accueillaient les paysannes pour leur marchander tout ce qu'elles venaient vendre. ♦ Lou téms que marcadéye → Le temps est incertain. "
+    "search": "marcadeya marchander.  ♦ Lou téms que marcadéye → Le temps est incertain. "
   },
   {
     "id": 7835,
