@@ -36,11 +36,11 @@ const theologyCards = [
       'Découvre la vie dès la conception et l’âme humaine.'
   },
   {
-    title: 'Défense de la foi',
-    emoji: '⚔️',
-    href: 'theologie/defense-foi',
+    title: 'Signification Sponsale',
+    emoji: '💍',
+    href: 'theologie/mariage',
     description:
-      'Réponses aux objections, apologétique chrétienne et fondements de la foi.'
+      'Découvre la beauté du sacrement du mariage.'
   }
 ]
 
