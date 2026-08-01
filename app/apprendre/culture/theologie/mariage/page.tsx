@@ -1,22 +1,33 @@
 import type { Metadata } from 'next'
-import CatherineClient from './MariageClient'
+import MariageClient from './MariageClient'
 
 export const metadata = {
-  title: 'Sainte Catherine de Sienne | Enseignements spirituels',
+  title: 'Signification sponsale | Théologie du Corps de saint Jean-Paul II',
   description:
-    'Découvrez la vie de Sainte Catherine de Sienne, Docteur de l’Église, ses enseignements spirituels, ses lettres au pape et son influence sur l’histoire de l’Église catholique.',
+    "Découvrez la signification sponsale du corps selon la Théologie du Corps de saint Jean-Paul II et saint Augustin : création de l'homme et de la femme, mariage, chasteté, communion des personnes, concupiscence, rédemption, fidélité et vocation des époux.",
 
-    keywords: [
-    'Sainte Catherine de Sienne',
-    'Catherine de Sienne',
-    'Docteur de l’Église',
+  keywords: [
+    'signification sponsale',
+    'théologie du corps',
+    'saint Jean-Paul II',
+    'Jean-Paul II',
+    'mariage chrétien',
     'théologie catholique',
-    'saints catholiques',
-    'spiritualité chrétienne',
-    'histoire de l’Église',
+    'communion des personnes',
+    'homme et femme',
+    'Adam et Ève',
+    'création',
+    'sacrement du mariage',
+    'chasteté',
+    'concupiscence',
+    'rédemption',
+    'fidélité conjugale',
+       'saint Augustin',
+    'spiritualité catholique',
+    'enseignement catholique',
   ],
 }
 
 export default function Page() {
-  return <CatherineClient />
+  return <MariageClient />
 }

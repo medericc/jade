@@ -51355,13 +51355,7 @@
     "type": "verbe intransitif",
     "search": "miaula miauler"
   },
-  {
-    "id": 8128,
-    "titre": "miàyrẹ",
-    "definition": "guide, meneur, conducteur",
-    "type": "nom",
-    "search": "miàyrẹ guide, meneur, conducteur"
-  },
+
   {
     "id": 8129,
     "titre": "micoulut -ude",
@@ -79388,5 +79382,51 @@
     "definition": "soupçon",
     "type": "nom masculin",
     "search": "suspectioû soupçon"
+  }
+
+  ,
+  {
+    "id": 12297,
+    "titre": "originau",
+    "definition": "originel, original",
+    "type": "adjectif",
+    "search": "originau originel, original"
+  }
+
+  ,
+  {
+    "id": 12298,
+    "titre": "original",
+    "definition": "original ♦ Lous originals soun aquiu.",
+    "type": "adjectif",
+    "search": "original original"
+  }
+
+   ,
+  {
+    "id": 12299,
+    "titre": "abstinence",
+    "definition": "abstinence",
+    "type": "nom féminin",
+    "search": "abstinence abstinence"
+  }
+
+
+  ,
+  {
+    "id": 12300,
+    "titre": "adultèri",
+    "definition": "adultère",
+    "type": "nom et adjectif",
+    "search": "adultèri adultère"
+  }
+
+   ,
+  {
+    "id": 12301,
+    "titre": "opposa",
+    "definition": "opposer",
+    "type": "verbe",
+    "search": "opposa opposer"
   }
 ]
