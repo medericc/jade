@@ -79429,4 +79429,20 @@
     "type": "verbe",
     "search": "opposa opposer"
   }
+    ,
+  {
+    "id": 12302,
+    "titre": "proubidénce",
+    "definition": "providence",
+    "type": "nom féminin",
+    "search": "proubidénce providence"
+  }
+   ,
+  {
+    "id": 12303,
+    "titre": "reçeu",
+    "definition": "reçoit",
+    "type": "3ème personne du présent",
+    "search": "reçeu reçoit"
+  }
 ]
