@@ -7452,9 +7452,9 @@
   {
     "id": 1224,
     "titre": "autreya",
-    "definition": "(hist) octroyer",
+    "definition": "octroyer",
     "type": "verbe transitif",
-    "search": "autreya (hist) octroyer"
+    "search": "autreya octroyer"
   },
   {
     "id": 1225,
@@ -17298,7 +17298,7 @@
   {
     "id": 2863,
     "titre": "carat -ade",
-    "definition": "(individu) discret",
+    "definition": "(individu) discret, taciturne",
     "type": "adjectif et nom",
     "search": "carat -ade (individu) discret"
   },
@@ -29483,7 +29483,7 @@
   {
     "id": 4709,
     "titre": "descarca",
-    "definition": "décharger",
+    "definition": "décharger, exonérer",
     "type": "verbe transitif",
     "search": "descarca décharger"
   },
@@ -79444,5 +79444,300 @@
     "definition": "reçoit",
     "type": "3ème personne du présent",
     "search": "reçeu reçoit"
+  }
+
+
+   ,
+  {
+    "id": 12304,
+    "titre": "ourdi",
+    "definition": "ourdir",
+    "type": "verbe",
+    "search": "ourdi ourdir"
+  },
+
+
+    {
+    "id": 12305,
+    "titre": "mendisence",
+    "definition": "médisance",
+    "type": "nom féminin",
+    "search": "mendisence médisance"
+  }
+  ,
+    {
+    "id": 12306,
+    "titre": "temerari",
+    "definition": "teméraire",
+    "type": "adjectif",
+    "search": "temerari teméraire"
+  }
+
+   ,
+    {
+    "id": 12307,
+    "titre": "translata",
+    "definition": "translater",
+    "type": "verbe",
+    "search": "translata translater"
+  }
+
+   ,
+    {
+    "id": 12308,
+    "titre": "trespassa",
+    "definition": "trépasser",
+    "type": "verbe",
+    "search": "trespassa trépasser"
+  }
+
+   ,
+    {
+    "id": 12309,
+    "titre": "puyoo",
+    "definition": "éminence, monticule",
+    "type": "nom masculin",
+    "search": "puyoo éminence, monticule"
+  }
+
+
+     ,
+    {
+    "id": 12310,
+    "titre": "sacrificatou",
+    "definition": "sacrificateur",
+    "type": "nom masculin",
+    "search": "sacrificatou sacrificateur"
+  }
+
+   ,
+    {
+    "id": 12311,
+    "titre": "cura",
+    "definition": "se soucier",
+    "type": "verbe",
+    "search": "cura se soucier"
+  }
+   ,
+    {
+    "id": 12312,
+    "titre": "desestima",
+    "definition": "mésestimer",
+    "type": "verbe",
+    "search": "desestima mésestimer"
+  }
+
+    ,
+    {
+    "id": 12313,
+    "titre": "arboulè",
+    "definition": "arboriculteur",
+    "type": "nom masculin",
+    "search": "arboulè arboriculteur"
+  }
+    ,
+    {
+    "id": 12314,
+    "titre": "oumete",
+    "definition": "omettre",
+    "type": "verbe",
+    "search": "oumete omettre"
+  }
+
+    ,
+    {
+    "id": 12315,
+    "titre": "manda",
+    "definition": "mander, enjoindre de venir",
+    "type": "verbe",
+    "search": "manda mander, enjoindre de venir"
+  }
+  ,
+    {
+    "id": 12316,
+    "titre": "enjoègne",
+    "definition": "enjoindre",
+    "type": "verbe",
+    "search": "enjoègne enjoindre"
+  }
+    ,
+    {
+    "id": 12317,
+    "titre": "admounesta",
+    "definition": "admonester",
+    "type": "verbe",
+    "search": "admounesta admonester"
+  }
+    ,
+    {
+    "id": 12318,
+    "titre": "encens",
+    "definition": "encens",
+    "type": "nom masculin",
+    "search": "encens encens"
+  }
+   ,
+    {
+    "id": 12319,
+    "titre": "basca-s",
+    "definition": "se soucier",
+    "type": "verbe",
+    "search": "basca-s se soucier"
+  }
+ ,
+    {
+    "id": 12320,
+    "titre": "asoulerie",
+    "definition": "ânerie",
+    "type": "nom féminin",
+    "search": "asoulerie ânerie"
+  }
+   ,
+    {
+    "id": 12321,
+    "titre": "asoulade",
+    "definition": "ânerie",
+    "type": "nom féminin",
+    "search": "asoulade ânerie"
+  }
+   ,
+    {
+    "id": 12322,
+    "titre": "couroussa",
+    "definition": "courroucer",
+    "type": "verbe",
+    "search": "couroussa courroucer"
+  },
+
+    {
+    "id": 12323,
+    "titre": "camaligue",
+    "definition": "embrouille",
+    "type": "nom féminin",
+    "search": "camaligue embrouille"
+  }
+  ,
+
+    {
+    "id": 12324,
+    "titre": "sustreye",
+    "definition": "soustraire",
+    "type": "verbe",
+    "search": "sustreye soustraire"
+  }
+
+
+  ,
+
+    {
+    "id": 12325,
+    "titre": "gadyadure",
+    "definition": "gageure, enjeu",
+    "type": "nom féminin",
+    "search": "gadjadure gageure, enjeu"
+  }
+
+  ,
+
+    {
+    "id": 12326,
+    "titre": "yougadure",
+    "definition": "gageure, enjeu",
+    "type": "nom féminin",
+    "search": "yougadure gageure, enjeu"
+  }
+
+   ,
+
+    {
+    "id": 12327,
+    "titre": "rudeya",
+    "definition": "rudoyer",
+    "type": "verbe",
+    "search": "rudeya rudoyer"
+  }
+
+   ,
+
+    {
+    "id": 12328,
+    "titre": "oblaciou",
+    "definition": "oblation",
+    "type": "nom féminin",
+    "search": "oblaciou oblation"
+  }
+
+,
+   {
+    "id": 12329,
+    "titre": "pernicious",
+    "definition": "pernicieux",
+    "type": "adjectif",
+    "search": "pernicious pernicieux"
+  }
+
+   ,
+
+    {
+    "id": 12330,
+    "titre": "pounsounhous",
+    "definition": "venimeux, pourri, dépravé, pernicieux",
+    "type": "adjectif",
+    "search": "pounsounhous enimeux, pourri, dépravé, pernicieux"
+  }
+
+
+    ,
+
+    {
+    "id": 12331,
+    "titre": "dessensa",
+    "definition": "perdre le sens",
+    "type": "verbe",
+    "search": "dessensa perdre le sens"
+  }
+
+
+  
+    ,
+
+    {
+    "id": 12332,
+    "titre": "tuteyàyre",
+    "definition": "mauvaise habitude de tutoyer",
+    "type": "nom féminin",
+    "search": "tuteyàyre mauvaise habitude de tutoyer"
+  }
+
+
+    ,
+
+    {
+    "id": 12333,
+    "titre": "caradèmen",
+    "definition": "tacitement",
+    "type": "adverbe",
+    "search": "caradèmen tacitement"
+  }
+
+  
+    ,
+
+    {
+    "id": 12334,
+    "titre": "tributari",
+    "definition": "tributaire",
+    "type": "adjectif",
+    "search": "tributari tributaire"
+  }
+
+    ,
+
+    {
+    "id": 12335,
+    "titre": "batisa",
+    "definition": "baptiser",
+    "type": "verbe",
+    "search": "batisa baptiser"
   }
 ]
