@@ -133,7 +133,7 @@ const periodes2: Periode[] = [
     titre: "Les Protestants",
     description: "Une hérésie se disperse à travers l'Europe",
     titrebe: "Lous Proutestans",
-    descriptionbe: "Ûe heretyìe se despartéch a-trabèrs l'Europe",
+    descriptionbe: "Ûe heretyìe se despartéch a-trubès l'Europe",
     slug: 'calviniste',
   }
   

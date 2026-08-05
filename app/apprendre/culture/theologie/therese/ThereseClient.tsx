@@ -49,7 +49,7 @@ const intro3 = {
   be: {
     title: 'Tresau demoure',
     subtitle: 'Bertut stàble mé encoère emperfèyte',
-    content: "L’amne pot manca d’umilitat, que-s crét merita méy per las soûes obres mé que-s cau béde coum gouyes chic utìles. L’amne ùmble trobe méy de pats héns la soumìssiou e la bigou dous sequères qui d’àutes héns lous bounics spirituaus. Diu retìre bèth cop las soûes gràcies ta que l’amne sènte la soûe pròpi dèche e qui sàpi couneche-s. Aquére esprabe qu’éy ûe misericorde permou qui mène l’umilitat. Per exémple, ûe persoune rìche qui pèrde û tros dou soû bé (en goardan toutû proû) e qui se-n tesique, que proùbe qui n’éy pas prèste à tout quita tau Segnou. Boulé aumenta la soûe fourtune, medich dap bounes entencioûs, qu'empache d'atégne las demoures méy tagnénes dou gran Réy (ayda lous pràubes). Si ûe leuyère mauheyte a l'aunou e produsech û souci qui ne-s pot pas mata, qu'éy lou sìnne qui n'èm pas encoère tout à fèyt mèste de las soûes passioûs. Que tirem en daban per aquéth camì per ûe pregounde umilitat meylèu que per las hòrtes penitences dou cos, qui soun dou darrè.",
+    content: "L’amne pot manca d’umilitat, que-s crét merita méy per las soûes obres mé que-s cau béde coum gouyes chic utìles. L’amne ùmble trobe méy de pats héns la soumìssiou e la bigou dous sequères qui d’àutes héns lous sabous spirituaus. Diu retìre bèth cop las soûes gràcies ta que l’amne sènte la soûe pròpi dèche e qui sàpi couneche-s. Aquére esprabe qu’éy ûe misericorde permou qui mène l’umilitat. Per exémple, ûe persoune rìche qui pèrde û tros dou soû bé (en goardan toutû proû) e qui se-n tesique, que proùbe qui n’éy pas prèste à tout quita tau Segnou. Boulé aumenta la soûe fourtune, medich dap bounes entencioûs, qu'empache d'atégne las demoures méy tagnénes dou gran Réy (ayda lous pràubes). Si ûe leuyère mauheyte a l'aunou e produsech û souci qui ne-s pot pas mata, qu'éy lou sìnne qui n'èm pas encoère tout à fèyt mèste de las soûes passioûs. Que tirem en daban per aquéth camì per ûe pregounde umilitat meylèu que per las hòrtes penitences dou cos, qui soun dou darrè.",
 
   },
 }
@@ -308,7 +308,7 @@ alt="Drapeau de la France"
         </>
             ) : (  
  <>   
- Ûe assenciou de-dehéns de cap à Diu à trabèrs las pregoundous de l’amne, despuch las purmères coumbercioûs dinco l’unioû qui transfoùrme.
+ Ûe assenciou de-dehéns de cap à Diu à trubès las pregoundous de l’amne, despuch las purmères coumbercioûs dinco l’unioû qui transfourme.
  </>  )}
         
         
@@ -360,15 +360,15 @@ alt="Drapeau de la France"
             ) : (  
  <>   
   <p>
-       Que poudém counsidera la noùste amne coum û castèth, hèyt d’û soul diamant oun y a hère d&apos;apartamens, coum héns lou cèu que y a demoures.
+       Que poudém counsidera la noùste amne coum û castèth, hèyt d’û soul diamant oun que y a hère d&apos;aparteméns, coum héns lou cèu que y a demoures.
            </p>
 
             <p>
-         L’amne dou yuste n’éy pas àute cause qu’û paradis oun lou Segnou e prén lous soûs bounics.
+         L’amne dou yuste n’éy pas àute cause qu’û paradis oun lou Segnou prén lous soûs sabous.
             </p>
 
             <p>
-        Thérèse que perpause ûe assenciou dap granchots qui-s seguéchen (l’amne poudén camina libramén déns lou castèth).
+        Thérèse perpause ûe assenciou dap estanquéts qui-s succeden (l’amne poudén camina libramén déns lou castèth).
 
             </p>
  
