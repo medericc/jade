@@ -318,7 +318,7 @@ alt="Drapeau de la France"
 
         <p>
     Mé Hildegarde ensiste sustout sus û punt substancious : l’estat de-dehéns dous paréns au moumén de l‘acte enfluence pregoundamen lou maynàdye à biéne. Ûe unioû biscude déns la caritat, l‘amou franc e la pats dou co fabourise segoun ére la badence d’û èste armounious, abisat e bertuous.
-    
+
         </p>
            
              </>
@@ -472,7 +472,7 @@ Hildegarde descriu tabé certéns desaploums enter lou pay e la may : si l’amo
                 </p>
 
                 <p>
-                 Û cop aquéste bastìsse preparade, Diu da l’amne. Qu’éy alabéts qu'ou maynàdye coumence à maneya-s héns lou bènte, semblàble a û frut biban debath l’arrous.
+                 Û cop aquéste bastìsse preparade, Diu da l’amne. Qu’éy alabéts qu&lsquo;ou maynàdye coumence à maneya-s héns lou bènte, semblàble a û frut biban debath l’arrous.
                 </p>
           
           
@@ -753,7 +753,7 @@ Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flo
   ) : (
     <>     
 
-  <h3>🌑 Lou pecat e l'escurade de l’amne</h3>
+  <h3>🌑 Lou pecat e l&lsquo;escurade de l’amne</h3>
 
               <p>
         Las obres umanes dèchen ûe beritable mèrque sus l’amne.
@@ -769,7 +769,7 @@ Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flo
             </p>
 
               <blockquote>
-            La luts ou l'escurade de l’amne demoustre toute la bertat de l’existénce umane.
+            La luts ou l&lsquo;escurade de l’amne demoustre toute la bertat de l’existénce umane.
 
               </blockquote>
 
