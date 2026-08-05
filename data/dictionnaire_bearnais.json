@@ -2073,7 +2073,7 @@
   {
     "id": 330,
     "titre": "ahanè",
-    "definition": "avidité, cupidité",
+    "definition": "avidité, cupidité, désir ardent",
     "type": "nom masculin",
     "search": "ahanè avidité, cupidité"
   },
@@ -79634,7 +79634,7 @@
     "titre": "gadyadure",
     "definition": "gageure, enjeu",
     "type": "nom féminin",
-    "search": "gadjadure gageure, enjeu"
+    "search": "gadjydure gageure, enjeu"
   }
 
   ,
@@ -79740,4 +79740,166 @@
     "type": "verbe",
     "search": "batisa baptiser"
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ,
+
+    {
+    "id": 12336,
+    "titre": "tenelha-s",
+    "definition": "s’étirer",
+    "type": "verbe",
+    "search": "tenelha-s s’étirer"
+  }
+  ,
+
+    {
+    "id": 12337,
+    "titre": "apoulinga",
+    "definition": "parer d’affiquets",
+    "type": "verbe",
+    "search": "apoulinga parer d’affiquets"
+  }
+
+
+  ,
+
+    {
+    "id": 12338,
+    "titre": "adbiene",
+    "definition": "advernir",
+    "type": "verbe",
+    "search": "adbiene advernir"
+  }
+
+  ,
+
+    {
+    "id": 12339,
+    "titre": "milesime",
+    "definition": "millésime",
+    "type": "nom masculin",
+    "search": "milesime millésime"
+  }
+
+   ,
+
+    {
+    "id": 12340,
+    "titre": "hoegous",
+    "definition": "ardent",
+    "type": "adjectif",
+    "search": "hoegous ardent"
+  }
+
+   ,
+
+    {
+    "id": 12341,
+    "titre": "ardent",
+    "definition": "ardent",
+    "type": "adjectif",
+    "search": "ardent ardent"
+  }
+
+,
+   {
+    "id": 12342,
+    "titre": "saboureya",
+    "definition": "exhaler des senteurs",
+    "type": "verbe",
+    "search": "saboureya exhaler des senteurs"
+  }
+
+   ,
+
+    {
+    "id": 12343,
+    "titre": "pimpim",
+    "definition": "mijaurée",
+    "type": "nom féminin",
+    "search": "pimpim mijaurée"
+  }
+
+
+    ,
+
+    {
+    "id": 12344,
+    "titre": "fraudulen",
+    "definition": "frauduleux",
+    "type": "adjectif",
+    "search": "fraudulen frauduleux"
+  }
+
+
+  
+    ,
+
+    {
+    "id": 12345,
+    "titre": "perfide",
+    "definition": "perfide",
+    "type": "adjectif",
+    "search": "perfide perfide"
+  }
+
+
+    ,
+
+    {
+    "id": 12346,
+    "titre": "traytie",
+    "definition": "perfide",
+    "type": "adjectif",
+    "search": "traytie perfide"
+  }
+
+  
+    ,
+
+    {
+    "id": 12347,
+    "titre": "superfluitat",
+    "definition": "superfluité",
+    "type": "adjectif",
+    "search": "superfluitat superfluité"
+  }
+  ,
+
+    {
+    "id": 12348,
+    "titre": "berginau",
+    "definition": "virginal",
+    "type": "adjectif",
+    "search": "berginau virginal"
+  }
+
+    ,
+
+    {
+    "id": 12349,
+    "titre": "substancious",
+    "definition": "essentiel, substantiel",
+    "type": "adjectif",
+    "search": "substancious essentiel, substantiel"
+  }
+    
 ]

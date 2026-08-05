@@ -205,7 +205,7 @@ alt="Drapeau de la France"
             </>
   ) : (
     <>
-    Sénte Hildegarde de Bingen coùntemple la badence de l&lsquo;uma coum ûe obre còsmique : lou cos reçèu chic à chic la soûe fòrme, puch Diu que y soùfle l&lsquo;àmne, hoéc biben destinat à counduìse l&lsquo;òmi de cap à la luts, per la prabade dinco l’àdyẹ madu
+    Sénte Hildegarde de Bingen coùntemple la badence de l&lsquo;uma coum ûe obre còsmique : lou cos reçèu chic à chic la soûe fòrme, puch Diu que y soùfle l&lsquo;amne, hoéc biben destinat à counduìse l&lsquo;òmi de cap à la luts, per la prabade dinco l’àdye madu
           
           
           
@@ -246,14 +246,14 @@ alt="Drapeau de la France"
   ) : (
     <>     
           
-             <h2>✨ Lou misteri de l&lsquo;àmne e dou cos</h2>
+             <h2>✨ Lou misteri de l&lsquo;amne e dou cos</h2>
 
               <p>
-              Ta Hildegarde, la councepcioû n’éy pas û sìmplẹ fénomène bioulouyique. Lou cos uma qu&lsquo;éy fourmat chic à chic déns lou bènte de la may, coum ûe tèrre graniu preparade à recébẹ û hoéc biénut de Diu. 
+              Ta Hildegarde, la councepcioû n’éy pas û sìmple fénomène bioulouyique. Lou cos uma qu&lsquo;éy fourmat chic à chic déns lou bènte de la may, coum ûe tèrre graniu preparade à recébe û hoéc biénut de Diu. 
               </p>
 
               <p>
-         Quoan lou cos éy prèste, Diu que soùfle l&lsquo;àmne : ûe realitat spirituau, lusènte, bibante, coumparàble a ûe sfère de hoéc caminàn tout l&lsquo;uma.
+         Quoan lou cos éy prèste, Diu que soùfle l&lsquo;amne : ûe realitat spirituau, lusènte, bibante, coumparàble a ûe sfère de hoéc caminàn tout l&lsquo;uma.
               </p>  
             
             </>
@@ -306,18 +306,19 @@ alt="Drapeau de la France"
                 <h3>💞 L&lsquo;empourtance de l&lsquo;unioû dous paréns</h3>
 
         <p>
-         Hildegarde l&lsquo;esplìque de qu&lsquo;ou hìdyẹ qu&lsquo;entertien la calou bitale en rescauhan lou co, alabéts qui la courade qu&lsquo;ou prouteye e qu&lsquo;ou embouloupe.
-          
-        </p>
-
-        <p>
-        Deya déns lou bènte de la may, l&lsquo;àmne couménce à desbelha doussemen lous cinc sèns dou maynàdyẹ, coum ûe presénce spirituau qui prepare chic à chic « l&lsquo;òmi de dehore » abans la badence.
+     Hildegarde l‘esplique qu‘ou hìdye entertien la calou bitale en rescauhan lou co, alabéts qui la courade lou proutedye e l’embelope.
 
         </p>
 
         <p>
-       Mé Hildegarde ensìste sustout sus û punt essencioû : l’estat de-dehéns dous paréns au moumén de l&lsquo;acte enfluence pregoundamen lou maynàdyẹ à biénẹ. Ûe unioû biscude héns la caritat, l&lsquo;amou franc e la pats dou co que faborìse segoun ére la badence d’û èstẹ armounious, abisat e bertuous.
+   Deya déns lou bènte de la may, l‘àmne coumence à desbelha doussemen lous cinc séns dou maynàdye, coum ûe presénce spirituale qui prepare chic à chic « l‘òmi de dehore » abans la badence.
 
+
+        </p>
+
+        <p>
+    Mé Hildegarde ensiste sustout sus û punt substancious : l’estat de-dehéns dous paréns au moumén de l‘acte enfluence pregoundamen lou maynàdye à biéne. Ûe unioû biscude déns la caritat, l‘amou franc e la pats dou co fabourise segoun ére la badence d’û èste armounious, abisat e bertuous.
+    
         </p>
            
              </>
@@ -395,23 +396,23 @@ alt="Drapeau de la France"
            
            
               <p>
-         Au countràri, ûe councepcioû mercade per l’amarè, lou malìci, lous bìcis ou lou mancat d’amou pot destroubla aquére armounie. Lou maynàdyẹ risque alabéts de pourta ûe complexioû méy mauayside : temperamén escu, de malìci ou bìbes de barreyade.       </p>
+ Au countràri, ûe councepcioû mercade per l’amarè, la malì, lous bìcis ou lou mancat d’amou pot troubla aquére armounie. Lou maynàdye risque alabéts de pourta ûe complexioû méy mauayside : temperamén escu, colere ou coumporteméns de barreyade.
+    </p>
+        <p>
+Hildegarde descriu tabé certéns desaploums enter lou pay e la may : si l’amou bertadè abite l’û mé noû l’àute, lou maynàdye poudera bàde méy debìle, ménch stàble ou abé dou mau à trouba la gauyou e l’aploum.
+    </p>
 
         <p>
-    Hildegarde descrìu tabé certéns desequilibris énter lou pay e la may : si l’amou bertadè abite l’û mé noû l’àutẹ, lou maynàdyẹ poudera bàdẹ méy debìle, ménch stàblẹ ou abé dou mau à trouba la gauyou e l’equilibrì.
+  Que-s yuntat tabé lous periodes de la lûe a las dispausicioûs naturales dou maynàdye : certènes dispausicioûs fabourise l’ourgul ou l’asprou, alabéts qui d’àutes que-n anounceren fidelitat, santat e bounur.
+       </p>
+
+        <p>
+    Toutû, arré n’éy pas tout à fèyt estancat. Medich quoan ûe badence sémble mercade per dificultats, Hildegarde afirme que Diu pot encoère transfourma aquéste nature. Coum epices adouban ûe mascadure amare, la force spirituale, ûe bite drète e ûe boune maniere de bìbe pòden goari e tourna aplouma l’uma.
+
         </p>
 
         <p>
-      Que-s yuntat tabé lous mouméns de la lue a las dispousicioûs naturàles dou maynàdyẹ : certènes tempourades que fabourise l’ourgul ou l’asprou, alabéts qui d’àutẹs que-n anounçarẹn fidelitat, santat e bounur.
-        </p>
-
-        <p>
-       Toutû, arré n’éy pas tout à fèyt estancat. Medich quoan ûe badence sémble mercade per dificultats, Hildegarde afirme que Diu pot encoère transfourma aquéste nature. Coum epices adouban ûe mascadure amare, la hòrce spirituau, ûe bite drète e ûe boune maniere de bìbe pòdẹn goari e tourna equilibra l’uma.
-
-        </p>
-
-        <p>
-      Atau, maugrat las feblesses ou lous barréys preséns au moumén de la councepcioû, la gràci dibîne demoùre toustém capàblẹ d’ayda, de repara e de counduìse l’uma de cap à méy d’armounie.
+   Atau, maugrat lous flaquès ou lous barréys preséns au moumén de la councepcioû, la gràci dibîne demoure toustém capàble d’ayda, de repara e de counduìse l’uma de cap à méy d’armounie.
 
         </p>
            
@@ -458,20 +459,20 @@ alt="Drapeau de la France"
   ) : (
     <>    
           
-                <h3>🌱 La fourmacioû dou maynàdyẹ</h3>
+                <h3>🌱 La fourmacioû dou maynàdye</h3>
 
                 <p>
-        Hildegarde descrìu la generacioû umàne coum ûe unioû énter la semence masculìe e la hòrce de gestacioû feminìe.
+        Hildegarde descriu la generacioû umàne coum ûe unioû enter la semence masculìe e la force de gestacioû feminìe.
 
                 </p>
 
                 <p>
-                Lou cos prén fòrme chic à chic graci à la calou mayràne, coum la lèyt debienen roumàdyẹ, car puch os.
+                Lou cos prén fòrme chic à chic graci à la calou mayrane, coum la lèyt debienen roumàdye, car puch os.
 
                 </p>
 
                 <p>
-                 Û cop aquéste bastìsse preparade, Diu da l’àmne. Qu’éy alabéts qui lou maynàdyẹ couménce à maneya-s héns lou bènte, semblàblẹ a û frut biban debath l’arrous.
+                 Û cop aquéste bastìsse preparade, Diu da l’amne. Qu’éy alabéts qu'ou maynàdye coumence à maneya-s héns lou bènte, semblàble a û frut biban debath l’arrous.
                 </p>
           
           
@@ -507,21 +508,21 @@ alt="Drapeau de la France"
   ) : (
     <>     
            
-            <h3>🔥 L’àmne</h3>
+            <h3>🔥 L’amne</h3>
 
                 <p>
-                 L’àmne qu’éy descrìte coum :
+                 L’amne qu’éy descrite coum :
                 </p>
 
                 <ul>
                   <li>ûe sfère de hoéc</li>
                   <li> û bén caut e pouchan</li>
-                  <li>ûe sape caminàn lou cos</li>
+                  <li>ûe sape caminan lou cos</li>
                   <li>ûe luts de-dehéns</li>
                 </ul>
 
                 <p>
-            Qu’anìme lou sanc, l’aledade, lous sèns e la badence de l’uma.
+            Qu’anime lou sanc, l’aledade, lous sèns e la badence de l’uma.
 
                 </p>
            
@@ -593,11 +594,11 @@ alt="Drapeau de la France"
               </p>
 
               <p>
-              Lou co deu lou mieyloc biban de l’uma : las pensades que y éntrẹn e que-n sòrtẹn, puch que pùyẹn de cap tau cerbeth ta esta deleyades e ourdounades.
+              Lou co debién lou mieyloc biban de l’uma : las pensades y entren e que-n sorten, puch que puyen de cap au cerbeth ta esta deleyades e ourdounades.
               </p>
 
               <p>
-             Lou cerbeth espàrs adarroun la soûe hòrce déns tout lou cos coum l’arrous umidifie la terre. Lous oelhs, las aurelhes e lou nas soun las frinestes per lasquoaus l’amne coùntemple lou moùndẹ.
+             Lou cerbeth espàrs ad arroun la soûe force déns tout lou cos coum l’arrous umidifie la terre. Lous oelhs, las aurelhes e lou nas soun las frinestes per lasquoaus l’amne coùntemple lou moùnde.
 
               </p>
 
@@ -651,7 +652,7 @@ alt="Drapeau de la France"
                 </p>
 
                 <p>
-                La boulentat, enracinade déns lou co, transfoùrme l’entencioû en accioû e que goubèrne las passioûs gràci à la cragnénce de Diu.
+                La boulentat, enracinade déns lou co, transfourme l’entencioû en accioû e que gouberne las passioûs gràci à la cragnénce de Diu.
 
                 </p>
           
@@ -695,12 +696,12 @@ alt="Drapeau de la France"
                 </p>
 
                 <p>
-Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flourèch dap bigou. Déns l’àdyẹ madu, qu’abaste la soûe plée sayésse.
+Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flourèch dap bigou. Déns l’àdye madu, qu’abaste la soûe plée sayésse.
 
                 </p>
 
                 <p>
-              Puch, déns lou bielhè, las soûes hòrces sémblẹn que-s retira coum la sape d’û àrbou pendén l’ibèr.
+              Puch, déns lou bielhè, las soûes forces sémblen que-s retira coum la sape d’û àrbou pendén l’ibèr.
 
                 </p>
         
@@ -752,23 +753,23 @@ Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flo
   ) : (
     <>     
 
-  <h3>🌑 Lou pecat e la negrura de l’amne</h3>
+  <h3>🌑 Lou pecat e l'escurade de l’amne</h3>
 
               <p>
-        Las obres umanes dèchẹn ûe beritable mèrque sus l’amne.
+        Las obres umanes dèchen ûe beritable mèrque sus l’amne.
            </p>
 
               <p>
-            Las bounes obres que la coùbrẹn de luts e d’û esclat semblable à l’or. Lou pecat coum la fournicacioû, au countràri, que la coubrèch d’escurade, coum û pousoû arrougagnan de-dehéns.
+            Las bounes obres que la coùbren de luts e d’û esclat menat à l’or. Lou pecat coum la fournicacioû, au countràri, que la coubrèch d’escurade, coum û pousoû arrougagnan de-dehéns.
 
               </p>
 
               <p>
-         Ûe amne qui perserbere déns lou mau que perde chic à chic la bisioû dou dibî e n’éy pas méy capàblẹ de-s lheba de cap à Diu.
+         Ûe amne qui perserbere déns lou mau que perde chic à chic la bisioû dou dibî e n’éy pas méy capàble de-s lheba de cap à Diu.
             </p>
 
               <blockquote>
-            La luts ou la negrura de l’amne demoustre toute la bertat de l’existénce umane.
+            La luts ou l'escurade de l’amne demoustre toute la bertat de l’existénce umane.
 
               </blockquote>
 
@@ -818,12 +819,12 @@ Déns lou maynadè, que sémble a û bouroû debile. Déns la yoenésse, que flo
           <h2>✨ Ûe bisioû pregoundamén spirituau de l’òmi</h2>
 
               <p>
-            Enço de Hildegarde, lou cos, l’amne, la mourale e medich las emoucioûs umanes hòurmẹn ûe unitat bibante.
+            Enço de Hildegarde, lou cos, l’amne, la mourale e medich las emoucioûs umanes hòurmen ûe unitat bibante.
 
               </p>
 
               <p>
-           L’uma qu’éy û miralh miniature dou cosmos : aperat à-d arraya per la luts dibîne, mé capàblẹ tabé de-s assoumbri p’ou pecat.
+           L’uma qu’éy û petitét miralh dou cosmos : aperat à-d arraya per la luts dibîne, mé capàble tabé de-s assoumbri p’ou pecat.
 
               </p>
 
