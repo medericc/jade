@@ -679,7 +679,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Mestreya → dominer (pour un garçon).",
     "Dauneya → dominer (pour une fille).",
     "Abé lou dessus → avoir le dessus.",
-    "Influence → influence.",
+    "Influence → enfluence.",
     "Que m'a hèyt chiscla hangue ta dessus. → Il m’a éclaboussé de boue."
     ,
      "Û cop de méy la resoû qu’abè abut lou dessus dou cabourrudè !",
@@ -707,8 +707,11 @@ const isMobile = useMediaQuery('(max-width: 767px)')
   title: 'Gauche et droite',
   content: [
     "Gauche → gauche.",
+        "Esquèrre → gauche.",
     "Gauchét → gaucher.",
+    "Esquerrè → gaucher.",
     "Dréte → droite.",
+    "Dretè → droite.",
     "Lou Parlamén qu'éy à mâ dréte.",
     "→ Le Parlement est à droite.",
     "Tout drét → tout droit."
@@ -731,7 +734,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Ha bèth → faire beau (en parlant du temps).",
     "Petit / Petite → petit, petite.",
     "Coumû / Coumune → normal, normale.",
-    "Gran / Grane → grand, grande."
+    "Gran / Grane → grand, grande.",
+     "Que soun de grans fruts. → Ce sont de grands fruits."
+ 
   ]
 },
 

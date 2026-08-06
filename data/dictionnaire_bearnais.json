@@ -4949,7 +4949,7 @@
   {
     "id": 799,
     "titre": "arré",
-    "definition": "rien",
+    "definition": "rien, arré",
     "type": "pronom indéfini",
     "search": "arré rien"
   },
@@ -6468,9 +6468,9 @@
   {
     "id": 1038,
     "titre": "atégnẹ",
-    "definition": "(littéraire) atteindre",
+    "definition": "atteindre",
     "type": "verbe transitif",
-    "search": "atégnẹ (littéraire) atteindre"
+    "search": "atégnẹ atteindre"
   },
   {
     "id": 1039,
@@ -50750,10 +50750,10 @@
   },
   {
     "id": 8035,
-    "titre": "menat -ade",
-    "definition": "semblable, ressemblant",
+    "titre": "semblable",
+    "definition": "semblable",
     "type": "adjectif",
-    "search": "menat -ade semblable, ressemblant"
+    "search": "semblable semblable"
   },
   {
     "id": 8036,
@@ -79901,5 +79901,44 @@
     "type": "adjectif",
     "search": "substancious essentiel, substantiel"
   }
-    
+       ,
+
+    {
+    "id": 12350,
+    "titre": "entermediàri",
+    "definition": "intermédiaire",
+    "type": "nom et adjectif",
+    "search": "entermediàri intermédiaire"
+  }
+
+    ,
+
+    {
+    "id": 12351,
+    "titre": "sincère",
+    "definition": "sincère",
+    "type": "adjectif",
+    "search": "sincère sincère"
+  }
+
+
+     ,
+
+    {
+    "id": 12352,
+    "titre": "souletat",
+    "definition": "solitude",
+    "type": "nom féminin",
+    "search": "souletat solitude"
+  }
+
+   ,
+
+    {
+    "id": 12353,
+    "titre": "ambulan",
+    "definition": "ambulant",
+    "type": "adjectif",
+    "search": "ambulan ambulant"
+  }
 ]
