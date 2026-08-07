@@ -76,7 +76,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
               
             "é et è portent toujours un accent.",
             "à, ì, ò et ù portent généralement un accent.",
-             "a, à ou encore ta peuvent recevoir un -d euphonique devant un mot commençant par une voyelle (a-).",
+             "a, à ou encore ta peuvent recevoir un -d euphonique devant un mot commençant par une voyelle.",
             "Le tréma (ü) est rare (flaüte)."
           ]
         },
@@ -791,7 +791,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Dèts e sèt → dix-sept.",
     "Dèts e oéyt → dix-huit.",
     "Dèts e nau → dix-neuf.",
-    "Bint → vingt."
+    "Bin → vingt."
   ]
 },
 
@@ -809,6 +809,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Cén → cent.",
     "Cén û → cent un.",
     "Dus céns → deux cents.",
+     "Dus céns très → deux cent trois.",
     "Mile → mille.",
     "Dus mile → deux mille.",
      "Û milioû → un million."
