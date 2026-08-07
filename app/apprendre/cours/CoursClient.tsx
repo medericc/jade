@@ -469,6 +469,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Aço / Aco → ceci, cela",
     "Aquero → cela",
     "Acero → cela là-bas",
+      "De ceci → d'aço, de'ço",
+    "De cela → d'aco, de'co",
+  
     "Aquéste / Aquéstes → ce, cette, ces",
     "Aquéth / Aquére → celui-ci, celle-ci",
     "Aquéths / Aquéres → ceux-ci, celles-ci",
