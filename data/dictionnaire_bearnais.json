@@ -63588,9 +63588,9 @@
   {
     "id": 9958,
     "titre": "race",
-    "definition": "catégorie, groupe, corporation, race, famille",
+    "definition": "catégorie, groupe, corporation, race, famille, lignée",
     "type": "nom féminin",
-    "search": "catégorie, groupe, corporation, race, famille, race"
+    "search": "catégorie, groupe, corporation, race, famille, race, lignée"
   },
   {
     "id": 9959,
@@ -80047,5 +80047,112 @@
     "definition": "Bertrand",
     "type": "nom propre",
     "search": "Bertran Bertrand"
+  }
+
+
+   ,
+
+    {
+    "id": 12366,
+    "titre": "relhèu",
+    "definition": "reliefs (ce qu'on relève de la table), restes d'un repas",
+    "type": "nom masculin",
+    "search": "relhèu reliefs (ce qu'on relève de la table), restes d'un repas"
+  }
+
+     ,
+
+    {
+    "id": 12367,
+    "titre": "ressourti",
+    "definition": "ressortir, sortir de nouveau",
+    "type": "verbe",
+    "search": "ressourti ressortir, sortir de nouveau"
+  }
+
+   ,
+
+    {
+    "id": 12368,
+    "titre": "lignée",
+    "definition": "ressortir, sortir de nouveau",
+    "type": "verbe",
+    "search": "lignée ressortir, sortir de nouveau"
+  }
+
+    ,
+
+    {
+    "id": 12369,
+    "titre": "parentadye",
+    "definition": "race, 'parentage'",
+    "type": "nom féminin",
+    "search": "parentadye race, 'parentage'"
+  }
+
+   ,
+
+    {
+    "id": 12370,
+    "titre": "petranye",
+    "definition": "engeance",
+    "type": "nom féminin",
+    "search": "petranye engeance"
+  }
+   ,
+
+    {
+    "id": 12371,
+    "titre": "lignadye",
+    "definition": "race, lignée, lignage",
+    "type": "nom féminin",
+    "search": "lignadye race, lignée, lignage"
+  }
+    ,
+
+    {
+    "id": 12372,
+    "titre": "geanterie",
+    "definition": "race des géants",
+    "type": "nom féminin",
+    "search": "geanterie race des géants"
+  }
+    ,
+
+    {
+    "id": 12373,
+    "titre": "biperalhe",
+    "definition": "race de vipères",
+    "type": "nom féminin",
+    "search": "biperalhe race de vipères"
+  }
+
+     ,
+
+    {
+    "id": 12374,
+    "titre": "bastardalhe",
+    "definition": "race de bâtards, les bâtards",
+    "type": "nom féminin",
+    "search": "bastardalhe race de bâtards, les bâtards"
+  }
+
+   ,
+
+    {
+    "id": 12375,
+    "titre": "banditalhe",
+    "definition": "les bandits, race de bandits",
+    "type": "nom féminin",
+    "search": "banditalhe les bandits, race de bandits"
+  }
+   ,
+
+    {
+    "id": 12376,
+    "titre": "cagoutalhe",
+    "definition": "les cagots, race de cagots",
+    "type": "nom féminin",
+    "search": "cagoutalhe les cagots, race de cagots"
   }
 ]
