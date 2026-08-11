@@ -49297,17 +49297,10 @@
   },
   {
     "id": 7822,
-    "titre": "manubra",
+    "titre": "manobra",
     "definition": "manœuvrer. ◊ Que sabou plâ manubra → il a bien su manœuvrer",
     "type": "verbe transitif",
-    "search": "manubra manœuvrer. ◊ Que sabou plâ manubra → il a bien su manœuvrer"
-  },
-  {
-    "id": 7823,
-    "titre": "manubre",
-    "definition": "manœuvre. ◊ Qu'ère toute fière d'aquére manubre. → Elle était toute fière de cette manœuvre. ♦ Manubre → manœuvre (de troupes). ◊ Qu'èrem de manubre → nous étions en manœuvre. ◊ Que tournam de manubre → nous rentrons de manœuvre. ",
-    "type": "nom féminin",
-    "search": "manubre manœuvre. ◊ Qu'ère toute fière de'quére manubre. → Elle était toute fière de cette manœuvre. ♦ Manubre → manœuvre (de troupes). ◊ Qu'èrem de manubre → nous étions en manœuvre. ◊ Que tournam de manubre → nous rentrons de manœuvre."
+    "search": "manobra manœuvrer. ◊ Que sabou plâ manubra → il a bien su manœuvrer"
   },
   {
     "id": 7824,
@@ -79940,5 +79933,119 @@
     "definition": "ambulant",
     "type": "adjectif",
     "search": "ambulan ambulant"
+  }
+
+  ,
+
+    {
+    "id": 12354,
+    "titre": "moutiu",
+    "definition": "motif",
+    "type": "nom masculin",
+    "search": "moutiu motif"
+  }
+
+ ,
+
+    {
+    "id": 12355,
+    "titre": "fiertat",
+    "definition": "fierté",
+    "type": "nom féminin",
+    "search": "fiertat fierté"
+  }
+  ,
+
+    {
+    "id": 12356,
+    "titre": "excès",
+    "definition": "excès",
+    "type": "nom masculin",
+    "search": "excès excès"
+  }
+
+    ,
+
+    {
+    "id": 12357,
+    "titre": "unidamén",
+    "definition": "uniment, conjointement",
+    "type": "adjectif",
+    "search": "unidamén uniment, conjointement"
+  }
+   ,
+
+    {
+    "id": 12358,
+    "titre": "saquemane",
+    "definition": "pillage",
+    "type": "nom masculin",
+    "search": "saquemane pillage"
+  }
+
+    ,
+
+    {
+    "id": 12359,
+    "titre": "Bourdèu",
+    "definition": "Bordeaux",
+    "type": "nom propre",
+    "search": "Bourdèu Bordeaux"
+  }
+   ,
+
+    {
+    "id": 12360,
+    "titre": "Bourdales",
+    "definition": "Bordelais",
+    "type": "nom propre",
+    "search": "Bourdales Bordelais"
+  }
+    ,
+
+    {
+    "id": 12361,
+    "titre": "crechemén",
+    "definition": "accroissement",
+    "type": "nom masculin",
+    "search": "crechemén accroissement"
+  }
+   ,
+
+    {
+    "id": 12362,
+    "titre": "guerreya",
+    "definition": "guerroyer",
+    "type": "verbe",
+    "search": "guerreya guerroyer"
+  }
+
+  ,
+
+    {
+    "id": 12363,
+    "titre": "estendar",
+    "definition": "étendard",
+    "type": "nom masculin",
+    "search": "estendar étendard"
+  }
+  ,
+
+    {
+    "id": 12364,
+    "titre": "conquistadou",
+    "definition": "conquérant",
+    "type": "nom masculin",
+    "search": "conquistadou conquérant"
+  }
+
+  ,
+
+    {
+    "id": 12365,
+    "titre": "Bertran",
+    "definition": "Bertrand",
+    "type": "nom propre",
+    "search": "Bertran Bertrand"
   }
 ]
