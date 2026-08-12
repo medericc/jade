@@ -22854,16 +22854,16 @@
   {
     "id": 3714,
     "titre": "coumerça",
-    "definition": "commercer",
+    "definition": "commercer ; échanger (relation)",
     "type": "verbe intransitif",
-    "search": "coumerça commercer"
+    "search": "coumerça commercer ; échanger (relation)"
   },
   {
     "id": 3715,
     "titre": "coumèrce",
-    "definition": "commerce",
+    "definition": "commerce ; échange, relation ou communication",
     "type": "nom masculin",
-    "search": "coumèrce commerce"
+    "search": "coumèrce commerce ; échange, relation ou communication"
   },
   {
     "id": 3716,
@@ -73330,23 +73330,23 @@
   {
     "id": 11436,
     "titre": "trafic",
-    "definition": "trafic",
+    "definition": "trafic, commerce",
     "type": "nom masculin",
-    "search": "trafic trafic"
+    "search": "trafic trafic commerce"
   },
   {
     "id": 11437,
     "titre": "trafica",
-    "definition": "trafiquer",
+    "definition": "trafiquer, commercer",
     "type": "verbe transitif",
-    "search": "trafica trafiquer"
+    "search": "trafica trafiquer commercer"
   },
   {
     "id": 11438,
     "titre": "traficàyrẹ",
-    "definition": "magouilleur, trafiquant",
+    "definition": "commerçant ; magouilleur, trafiquant",
     "type": "adjectif et nom",
-    "search": "traficàyrẹ magouilleur, trafiquant"
+    "search": " commerçant ;  traficàyrẹ magouilleur, trafiquant"
   },
   {
     "id": 11439,
@@ -80153,6 +80153,16 @@
     "titre": "cagoutalhe",
     "definition": "les cagots, race de cagots",
     "type": "nom féminin",
-    "search": "cagoutalhe les cagots, race de cagots"
+    "sear,
+    ch": "cagoutalhe les cagots, race de cagots"
+  },
+
+
+  {
+    "id": 12377,
+    "titre": "trafican",
+    "definition": "commerçant ; magouilleur, trafiquant",
+    "type": "adjectif et nom",
+    "search": " commerçant ;  trafican magouilleur, trafiquant"
   }
 ]
