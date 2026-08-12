@@ -57350,9 +57350,9 @@
   {
     "id": 9028,
     "titre": "percha",
-    "definition": "serrer le foin ou la paille sur la charrette avec une perche",
+    "definition": "serrer le foin ou la paille sur la charrette avec une perche ; mesurer des terrains à la perche, arpenter",
     "type": "verbe transitif",
-    "search": "percha serrer le foin ou la paille sur la charrette avec une perche"
+    "search": "percha serrer le foin ou la paille sur la charrette avec une perche ; mesurer des terrains à la perche, arpenter"
   },
   {
     "id": 9029,
@@ -80164,5 +80164,12 @@
     "definition": "commerçant ; magouilleur, trafiquant",
     "type": "adjectif et nom",
     "search": " commerçant ;  trafican magouilleur, trafiquant"
+  }
+    {
+    "id": 12378,
+    "titre": "digne",
+    "definition": "digne",
+    "type": "adjectif",
+    "search": " digne digne"
   }
 ]
