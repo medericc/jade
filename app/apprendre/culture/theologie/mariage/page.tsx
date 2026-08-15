@@ -1,31 +1,31 @@
 import type { Metadata } from 'next'
 import MariageClient from './MariageClient'
 
-export const metadata = {
-  title: 'Signification sponsale | Théologie du Corps de saint Jean-Paul II',
+export const metadata: Metadata = {
+  title: 'Signification sponsale du corps | Théologie du Corps',
   description:
-    "Découvrez la signification sponsale du corps selon la Théologie du Corps de saint Jean-Paul II et saint Augustin : création de l'homme et de la femme, mariage, chasteté, communion des personnes, concupiscence, rédemption, fidélité et vocation des époux.",
-
+    "Qu'est-ce que la signification sponsale du corps ? Découvrez cette notion centrale de la Théologie du Corps de saint Jean-Paul II : homme et femme, don de soi, mariage, chasteté, communion et rédemption.",
   keywords: [
+    'signification sponsale du corps',
     'signification sponsale',
     'théologie du corps',
-    'saint Jean-Paul II',
     'Jean-Paul II',
+    'saint Jean-Paul II',
     'mariage chrétien',
-    'théologie catholique',
+    'don de soi',
     'communion des personnes',
     'homme et femme',
-    'Adam et Ève',
-    'création',
-    'sacrement du mariage',
     'chasteté',
     'concupiscence',
     'rédemption',
-    'fidélité conjugale',
-       'saint Augustin',
-    'spiritualité catholique',
-    'enseignement catholique',
+    'saint Augustin',
   ],
+  openGraph: {
+    title: 'Signification sponsale du corps | Théologie du Corps',
+    description:
+      "Comprendre la signification sponsale du corps selon saint Jean-Paul II.",
+    type: 'article',
+  },
 }
 
 export default function Page() {

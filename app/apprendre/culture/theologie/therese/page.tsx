@@ -2,31 +2,29 @@ import type { Metadata } from 'next'
 import ThereseClient from './ThereseClient'
 
 export const metadata: Metadata = {
-  title: "Les Sept Demeures du Château intérieur de Sainte Thérèse d'Avila",
+  title: 'Les 7 Demeures du Château intérieur de Thérèse d’Avila',
   description:
-    "Résumé complet des Sept Demeures du Château intérieur de Sainte Thérèse d'Avila : les étapes de la vie spirituelle, de la conversion jusqu'à l'union transformante avec Dieu.",
+    "Résumé des 7 Demeures du Château intérieur de sainte Thérèse d’Avila : conversion, prière, oraison, vie spirituelle et union transformante avec Dieu.",
   keywords: [
-    'Sainte Thérèse d Avila',
-    'Thérèse d Avila',
+    '7 Demeures',
     'Sept Demeures',
     'Château intérieur',
-    'vie spirituelle',
+    'Sainte Thérèse d’Avila',
+    'Thérèse d’Avila',
+    'Château intérieur résumé',
+    'Sept Demeures résumé',
     'oraison',
+    'vie spirituelle',
     'mystique chrétienne',
-    'théologie catholique',
-    'docteur de l Église',
-    'saints catholiques',
     'union à Dieu',
+    'Docteur de l’Église',
   ],
   openGraph: {
-  title:
-    "Les Sept Demeures du Château intérieur de Sainte Thérèse d'Avila",
-
-  description:
-    "Résumé complet des Sept Demeures du Château intérieur, le grand traité spirituel de Sainte Thérèse d'Avila.",
-
-  type: "article",
-},
+    title: 'Les 7 Demeures du Château intérieur de Thérèse d’Avila',
+    description:
+      "Résumé des 7 Demeures du Château intérieur de sainte Thérèse d’Avila.",
+    type: 'article',
+  },
 }
 
 export default function Page() {

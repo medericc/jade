@@ -20,29 +20,30 @@ type Carte =
 
 
 export const metadata = {
-  title: 'Culture Béarnaise - Histoire du Béarn, du Monde et Théologie',
+  title: 'Culture béarnaise, histoire du Béarn et culture chrétienne',
   description:
-    "Découvrez l'histoire du Béarn, du Monde et les grandes figures historiques, les saints, docteurs de l'Église et les enseignements de la tradition catholique.",
+    "Découvrez l’histoire et la culture du Béarn, son patrimoine et ses grandes figures, ainsi que des articles sur l’histoire du monde, les saints et la tradition chrétienne.",
   keywords: [
+    'culture béarnaise',
     'Béarn',
     'histoire du Béarn',
-    'histoire du Monde',
-    'culture béarnaise',
+    'histoire béarnaise',
+    'patrimoine du Béarn',
+    'histoire du monde',
+    'culture chrétienne',
     'théologie catholique',
     'saints catholiques',
-    'saint Augustin',
-    'sainte Hildegarde',
-    'saint Thomas d’Aquin',
+    'histoire de l’Église',
   ],
-   alternates: {
+  alternates: {
     canonical: '/apprendre/culture',
   },
   openGraph: {
-  title: 'Culture Béarnaise',
-  description:
-    "Histoire du Béarn, du Monde et grandes figures spirituelles.",
-  type: 'website',
-}
+    title: 'Culture béarnaise, histoire du Béarn et culture chrétienne',
+    description:
+      "Histoire et culture du Béarn, patrimoine, grandes figures historiques et culture chrétienne.",
+    type: 'website',
+  },
 }
 const cartes : Carte[] = [
   {

@@ -2,18 +2,28 @@ import type { Metadata } from 'next'
 import ThomasClient from './ThomasClient'
 
 export const metadata: Metadata = {
-  title: "Saint Thomas d'Aquin : résumé de la Somme théologique",
+  title: 'Saint Thomas d’Aquin : résumé de la Somme théologique',
   description:
-    "Synthèse des idées de saint Thomas d'Aquin : foi, charité, prudence, justice, morale, passions et théologie.",
+    "Résumé de la Somme théologique de saint Thomas d’Aquin : foi, raison, Dieu, vertus, passions, morale et vie chrétienne.",
   keywords: [
-    "Saint Thomas d'Aquin",
-    "Somme théologique",
-    "thomisme",
-    "philosophie médiévale",
-    "théologie",
-    "vertus",
+    'Saint Thomas d’Aquin',
+    'Somme théologique',
+    'Somme théologique résumé',
+    'résumé saint Thomas d’Aquin',
+    'thomisme',
+    'théologie de saint Thomas',
+    'vertus',
+    'morale',
+    'philosophie médiévale',
+    'théologie catholique',
   ],
-};
+  openGraph: {
+    title: 'Saint Thomas d’Aquin : résumé de la Somme théologique',
+    description:
+      'Les grandes idées de la Somme théologique de saint Thomas d’Aquin.',
+    type: 'article',
+  },
+}
 
 export default function Page() {
   return <ThomasClient />
