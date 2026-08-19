@@ -23443,7 +23443,7 @@
   {
     "id": 3799,
     "titre": "councèr",
-    "definition": "concert",
+    "definition": "concert, agir ensemble",
     "type": "nom masculin",
     "search": "councèr concert"
   },
@@ -47911,7 +47911,7 @@
   {
     "id": 7616,
     "titre": "licénce",
-    "definition": "licence",
+    "definition": "licence, permission",
     "type": "nom féminin",
     "search": "licénce licence"
   },
@@ -76178,7 +76178,7 @@
   },
   {
     "id": 11880,
-    "titre": "yuncat",
+    "titre": "yuncat, yunquè, yuncâ",
     "definition": "jonchée",
     "type": "nom masculin",
     "search": "yuncat jonchée"
@@ -80171,12 +80171,90 @@
     "type": "adjectif",
     "search": " digne digne"
   }
-
+,
    {
     "id": 12379,
     "titre": "enhardi",
     "definition": "donner du courage, de l'assurance ou de l'audace à quelqu'un",
     "type": "verbe",
     "search": " enhardi enhardir"
+  }
+
+  ,
+   {
+    "id": 12380,
+    "titre": "immigracioû",
+    "definition": "immigration",
+    "type": "nom féminin",
+    "search": " immigracioû immigration"
+  }
+    ,
+   {
+    "id": 12381,
+    "titre": "immigra",
+    "definition": "immigrer",
+    "type": "verbe",
+    "search": " immigra immigrer"
+  } ,
+    {
+    "id": 12382,
+    "titre": "substance",
+    "definition": "substance",
+    "type": "nom et adjectif",
+    "search": " substance substance"
+  }
+    ,
+    {
+    "id": 12383,
+    "titre": "negliya",
+    "definition": "négliger",
+    "type": "verbe",
+    "search": " negliya négliger"
+  }
+
+   ,
+    {
+    "id": 12384,
+    "titre": "enfametat",
+    "definition": "opprobre",
+    "type": "nom féminin",
+    "search": " enfametat opprobre"
+  }
+
+   ,
+    {
+    "id": 12385,
+    "titre": "enfami",
+    "definition": "infâme",
+    "type": "adjectif",
+    "search": " enfami infâme"
+  }
+
+   ,
+    {
+    "id": 12386,
+    "titre": "horebia",
+    "definition": "fourvoyer",
+    "type": "verbe",
+    "search": " horebia fourvoyer"
+  }
+
+   ,
+    {
+    "id": 12387,
+    "titre": "parade",
+    "definition": "ostentation, vanité",
+    "type": "nom féminin",
+    "search": " parade ostentation, vanité"
+  }
+
+
+   ,
+    {
+    "id": 12388,
+    "titre": "berdura",
+    "definition": "joncher, couvrir d'herbe, dissiper",
+    "type": "verbe",
+    "search": " berdura joncher, couvrir d'herbe, dissiper"
   }
 ]
