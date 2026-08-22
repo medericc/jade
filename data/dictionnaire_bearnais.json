@@ -1846,7 +1846,7 @@
   {
     "id": 294,
     "titre": "agrada",
-    "definition": "plaire",
+    "definition": "plaire, agréer",
     "type": "verbe transitif/intransitif",
     "search": "agrada plaire"
   },
@@ -3898,7 +3898,7 @@
   {
     "id": 623,
     "titre": "apresta",
-    "definition": "préparer",
+    "definition": "préparer, apprêter (le linge)",
     "type": "verbe transitif",
     "search": "apresta préparer"
   },
@@ -10049,7 +10049,7 @@
   },
   {
     "id": 1662,
-    "titre": "beré, berê",
+    "titre": "berî",
     "definition": "venin ; mauvaise langue",
     "type": "nom masculin",
     "search": "beré, berê venin ; mauvaise langue"
@@ -18853,10 +18853,10 @@
   
   {
     "id": 3096,
-    "titre": "causi",
+    "titre": "chausi",
     "definition": "choisir, trier",
     "type": "verbe transitif",
-    "search": "causi choisir, trier"
+    "search": "chausi choisir, trier"
   },
   {
     "id": 3097,
@@ -20010,27 +20010,7 @@
     "type": "nom masculin",
     "search": "chay chai"
   },
-  {
-    "id": 3285,
-    "titre": "chebit",
-    "definition": "murmure, chuchotement",
-    "type": "nom masculin",
-    "search": "chebit murmure, chuchotement"
-  },
-  {
-    "id": 3286,
-    "titre": "chebita",
-    "definition": "chuchoter, murmurer",
-    "type": "verbe transitif",
-    "search": "chebita chuchoter, murmurer"
-  },
-  {
-    "id": 3287,
-    "titre": "chebiteya",
-    "definition": "chuchoter, murmurer",
-    "type": "verbe transitif",
-    "search": "chebiteya chuchoter, murmurer"
-  },
+  
   {
     "id": 3288,
     "titre": "chechè",
@@ -22732,13 +22712,7 @@
     "type": "nom féminin",
     "search": "coumbenénce convenance"
   },
-  {
-    "id": 3697,
-    "titre": "coumbénguẹ",
-    "definition": "convenir",
-    "type": "verbe transitif et intransitif",
-    "search": "coumbénguẹ convenir"
-  },
+ 
   {
     "id": 3698,
     "titre": "coumbersioû",
@@ -22861,7 +22835,7 @@
   {
     "id": 3715,
     "titre": "coumèrce",
-    "definition": "commerce ; échange, relation ou communication",
+    "definition": "commerce ; échange, relation ou communication → coumèrce charnau",
     "type": "nom masculin",
     "search": "coumèrce commerce ; échange, relation ou communication"
   },
@@ -27314,9 +27288,9 @@
   {
     "id": 4378,
     "titre": "cure",
-    "definition": "cure ; guérison",
+    "definition": "cure, guérison ; en avoir cure",
     "type": "nom féminin",
-    "search": "cure cure ; guérison"
+    "search": "cure cure, guérison"
   },
   {
     "id": 4379,
@@ -29007,7 +28981,7 @@
   {
     "id": 4641,
     "titre": "desagrada",
-    "definition": "déplaire",
+    "definition": "déplaire, désagréer",
     "type": "verbe transitif indirect",
     "search": "desagrada déplaire"
   },
@@ -31564,14 +31538,14 @@
   {
     "id": 5014,
     "titre": "dibòrcẹ",
-    "definition": "divorce",
+    "definition": "divorce (contrat civil appuyant le crime d'adultère)",
     "type": "nom masculin",
     "search": "dibòrcẹ divorce"
   },
   {
     "id": 5015,
     "titre": "dibourça",
-    "definition": "divorcer",
+    "definition": "divorcer (contrat civil appuyant le crime d'adultère)",
     "type": "verbe intransitif (que dibòrci)",
     "search": "dibourça divorcer"
   },
@@ -41114,7 +41088,7 @@
   {
     "id": 6472,
     "titre": "finésse",
-    "definition": "finesse (minceur ; subtilité)",
+    "definition": "finesse (minceur ; subtilité, acuité)",
     "type": "nom féminin",
     "search": "finésse finesse (minceur ; subtilité)"
   },
@@ -49495,7 +49469,7 @@
   {
     "id": 7852,
     "titre": "maridàdyẹ",
-    "definition": "mariage",
+    "definition": "mariage (union indissoluble entre une femme et son mari)",
     "type": "nom masculin",
     "search": "maridàdyẹ mariage"
   },
@@ -61191,7 +61165,7 @@
   {
     "id": 9601,
     "titre": "praubè",
-    "definition": "pauvreté",
+    "definition": "pauvreté, indigence extrême",
     "type": "nom masculin",
     "search": "praubè pauvreté"
   },
@@ -64107,7 +64081,7 @@
   {
     "id": 10033,
     "titre": "rebèrs -èrse",
-    "definition": "côté opposé ; d'un revers de main",
+    "definition": "côté opposé ; d'un revers de main ; facheuse occurence",
     "type": "nom masculin et adjectif",
     "search": "rebèrs -èrse côté opposé ; d'un revers de main"
   },
@@ -77758,7 +77732,7 @@
   {
     "id": 12085,
     "titre": "ire",
-    "definition": "colère",
+    "definition": "colèr,courroux",
     "type": "nom féminin",
     "search": "ire colère"
   },
@@ -80257,4 +80231,476 @@
     "type": "verbe",
     "search": " berdura joncher, couvrir d'herbe, dissiper"
   }
+
+    ,
+    {
+    "id": 12389,
+    "titre": "refuta",
+    "definition": "réfuter",
+    "type": "verbe",
+    "search": " refuta réfuter"
+  }
+
+  ,
+    {
+    "id": 12390,
+    "titre": "prouceda",
+    "definition": "procéder",
+    "type": "verbe",
+    "search": " prouceda procéder"
+  }
+
+  ,
+    {
+    "id": 12391,
+    "titre": "qui",
+    "definition": "quiconque",
+    "type": "pronom relatif",
+    "search": " qui quiconque"
+  }
+
+   ,
+    {
+    "id": 12392,
+    "titre": "crente",
+    "definition": "crainte",
+    "type": "nom féminin",
+    "search": " crente crainte"
+  }
+
+    ,
+    {
+    "id": 12393,
+    "titre": "rebelle",
+    "definition": "rebelle",
+    "type": "nom et adjectif",
+    "search": " rebelle rebelle"
+  }
+   ,
+    {
+    "id": 12394,
+    "titre": "empudèntimen",
+    "definition": "empuantissement",
+    "type": "nom masculin",
+    "search": " empudèntimen empuantissement"
+  }
+
+    ,
+    {
+    "id": 12395,
+    "titre": "executa",
+    "definition": "exécuter",
+    "type": "verbe",
+    "search": " executa exécuter"
+  }
+
+     ,
+    {
+    "id": 12396,
+    "titre": "enseparable",
+    "definition": "inséparable",
+    "type": "adjectif",
+    "search": " enseparable inséparable"
+  }
+
+   ,
+    {
+    "id": 12397,
+    "titre": "seciccioû",
+    "definition": "sédition",
+    "type": "nom féminin",
+    "search": " seciccioû sédition"
+  }
+
+
+     ,
+    {
+    "id": 12398,
+    "titre": "inic",
+    "definition": "inique",
+    "type": "adjectif",
+    "search": " inic inique"
+  }
+   ,
+    {
+    "id": 12399,
+    "titre": "luseya",
+    "definition": "luire, briller",
+    "type": "verbe",
+    "search": " luseya luire, briller"
+  }
+
+  ,
+    {
+    "id": 12400,
+    "titre": "mourtalitat",
+    "definition": "mortalité, condition de ce qui est sujet à la mort",
+    "type": "nom féminin",
+    "search": " mourtalitat mortalité, condition de ce qui est sujet à la mort"
+  }
+
+  ,
+    {
+    "id": 12401,
+    "titre": "segui-se-n",
+    "definition": "résulter",
+    "type": "verbe",
+    "search": " segui-se-n résulter"
+  }
+
+   ,
+    {
+    "id": 12402,
+    "titre": "tenou",
+    "definition": "teneur",
+    "type": "nom féminin",
+    "search": " tenou teneur"
+  }
+
+    ,
+    {
+    "id": 12403,
+    "titre": "suspesa",
+    "definition": "soupeser",
+    "type": "verbe",
+    "search": " suspesa soupeser"
+  }
+   ,
+    {
+    "id": 12404,
+    "titre": "counfessa",
+    "definition": "confesser, avouer",
+    "type": "verbe",
+    "search": " counfessa confesser, avouer"
+  }
+
+   ,
+    {
+    "id": 12405,
+    "titre": "subtilesse",
+    "definition": "subtilité",
+    "type": "nom féminin",
+    "search": " subtilesse subtilité"
+  }
+
+
+   ,
+    {
+    "id": 12406,
+    "titre": "ayreya",
+    "definition": "aérer",
+    "type": "verbe",
+    "search": " ayreya aérer"
+  }
+
+
+  ,
+    {
+    "id": 12407,
+    "titre": "abranli",
+    "definition": "ébranler, mettre en mouvement, en branle",
+    "type": "verbe",
+    "search": " abranli ébranler"
+  }
+
+
+   ,
+    {
+    "id": 12408,
+    "titre": "sabi",
+    "definition": "savant, docte",
+    "type": "adjectif",
+    "search": " sabi savant, docte"
+  }
+   ,
+    {
+    "id": 12409,
+    "titre": "siénciat",
+    "definition": "qui a de la science, savant, docte",
+    "type": "adjectif",
+    "search": " siénciat qui a de la science, savant, docte"
+  }
+
+
+   ,
+    {
+    "id": 12410,
+    "titre": "siénciatemen",
+    "definition": "doctement",
+    "type": "adjectif",
+    "search": "siénciatemen doctement"
+  }
+
+  ,
+    {
+    "id": 12411,
+    "titre": "repatria",
+    "definition": "retourner dans son pays",
+    "type": "verbe",
+    "search": "repatria retourner dans son pays"
+  }
+
+  
+  ,
+    {
+    "id": 12412,
+    "titre": "arbitradou, se",
+    "definition": "arbitre",
+    "type": "nom masculin",
+    "search": "arbitradou, se arbitre"
+  }
+
+   ,
+    {
+    "id": 12413,
+    "titre": "outradya",
+    "definition": "outrager, bafouer",
+    "type": "verbe",
+    "search": "outradya outrager, bafouer"
+  }
+,
+    {
+    "id": 12414,
+    "titre": "expausa",
+    "definition": "exposer",
+    "type": "verbe",
+    "search": "expausa exposer"
+  }, 
+
+  
+    {
+    "id": 12415,
+    "titre": "ensourelha",
+    "definition": "exposer aux rayons du soleil ; coup de soleil (-at)",
+    "type": "verbe",
+    "search": "ensourelha exposer aux rayons du soleil ; coup de soleil"
+  }
+  ,
+    {
+    "id": 12416,
+    "titre": "carnau, ale",
+    "definition": "charnel",
+    "type": "adjectif",
+    "search": "carnau charnel"
+  }, 
+  
+    {
+    "id": 12417,
+    "titre": "copulacioû",
+    "definition": "copulation ♦ copulacioû carnale → relation sexuelle entre le mari et sa femme",
+    "type": "nom féminin",
+    "search": "copulacioû copulation"
+  }
+    ,
+    {
+    "id": 12418,
+    "titre": "carnaumen",
+    "definition": "relation sexuelle entre la femme et son mari",
+    "type": "nom féminin",
+    "search": "carnaumen relation sexuelle entre la femme et son mari"
+  }
+
+   ,
+    {
+    "id": 12419,
+    "titre": "amourrè",
+    "definition": "engourdissement, vertige",
+    "type": "nom masculin",
+    "search": "amourrè vertige"
+  }
+
+
+
+ ,
+    {
+    "id": 12420,
+    "titre": "remira",
+    "definition": "egarder de nouveau, à diverses reprises, considérer, contemple",
+    "type": "verbe",
+    "search": "remira egarder de nouveau, à diverses reprises, considérer, contemple"
+  }
+ ,
+    {
+    "id": 12421,
+    "titre": "queste",
+    "definition": "chien qui démêle les voies du gibier ; action de chercher, recherche",
+    "type": "nom féminin",
+    "search": "qchien qui démêle les voies du gibier ; action de chercher, recherche"
+  }
+ ,
+
+
+
+
+    {
+    "id": 12422,
+    "titre": "cridauère",
+    "definition": "clameur",
+    "type": "nom féminin",
+    "search": "cridauère clameur"
+  }
+ ,
+    {
+    "id": 12423,
+    "titre": "chuchureya",
+    "definition": "murmurer ; gazouiller",
+    "type": "verbe",
+    "search": "chuchureya murmurer ; gazouiller"
+  }
+ ,
+    {
+    "id": 12424,
+    "titre": "mesquî",
+    "definition": "mesquin",
+    "type": "adjectif",
+    "search": "mesquî mesquin"
+  }
+ ,
+    {
+    "id": 12425,
+    "titre": "cigalhou",
+    "definition": "chétif, petit homme",
+    "type": "nom et adjectif",
+    "search": "cigalhou chétif, petit homme"
+  }
+
+ ,
+    {
+    "id": 12426,
+    "titre": "boeytance",
+    "definition": "action de vider",
+    "type": "nom féminin",
+    "search": "boeytance action de vider"
+  }
+ ,
+    {
+    "id": 12427,
+    "titre": "subyeccioû",
+    "definition": "assujetissement",
+    "type": "nom féminin",
+    "search": "subyeccioû assujetissement"
+  }
+
+ ,
+    {
+    "id": 12428,
+    "titre": "béguè",
+    "definition": "viguier",
+    "type": "nom masculin",
+    "search": "béguè viguier"
+  }
+,
+    {
+    "id": 12429,
+    "titre": "assaut",
+    "definition": "assaut",
+    "type": "nom masculin",
+    "search": "assaut assaut"
+  }
+,
+    {
+    "id": 12430,
+    "titre": "assauta",
+    "definition": "assaillir",
+    "type": "verbe",
+    "search": "assauta assaillir"
+  }
+
+  ,
+    {
+    "id": 12431,
+    "titre": "abisamen",
+    "definition": "avisement, vigilance",
+    "type": "nom féminin",
+    "search": "abisamen avisement"
+  }
+
+   ,
+    {
+    "id": 12432,
+    "titre": "outradye",
+    "definition": "outrage",
+    "type": "nom masculin",
+    "search": "outradye outrage"
+  }
+
+
+   ,
+    {
+    "id": 12433,
+    "titre": "mench-creden",
+    "definition": "mécréant, impie, incrédule",
+    "type": "nom masculin",
+    "search": "mench-creden mécréant, impie, incrédule"
+  }
+
+
+     ,
+    {
+    "id": 12434,
+    "titre": "deshaunou",
+    "definition": "déshonneur",
+    "type": "nom masculin",
+    "search": "deshaunou déshonneur"
+  }
+
+  
+     ,
+    {
+    "id": 12435,
+    "titre": "desereta",
+    "definition": "deshériter",
+    "type": "verbe",
+    "search": "desereta deshériter"
+  }
+
+  
+     ,
+    {
+    "id": 12436,
+    "titre": "deshèyte",
+    "definition": "défaite",
+    "type": "nom féminin",
+    "search": "deshèyte défaite"
+  }
+
+
+  ,
+    {
+    "id": 12437,
+    "titre": "deleya",
+    "definition": "différer, prolonger",
+    "type": "verbe",
+    "search": "deleya différer, prolonger"
+  }
+
+  
+  ,
+    {
+    "id": 12438,
+    "titre": "asseguracioû",
+    "definition": "garantie",
+    "type": "nom féminin",
+    "search": "asseguracioû garantie"
+  }
+  ,
+    {
+    "id": 12439,
+    "titre": "deloungueya",
+    "definition": "différer, traîner en longueur",
+    "type": "verbe",
+    "search": "deloungueya différer, traîner en longueur"
+  }
+
+  ,
+
+
+      {
+    "id": 12440,
+    "titre": "perloungacioû",
+    "definition": "prolongation",
+    "type": "nom féminin",
+    "search": "perloungacioû prolongation"
+  }
+
 ]
