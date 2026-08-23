@@ -69069,7 +69069,7 @@
   {
     "id": 10796,
     "titre": "souladya",
-    "definition": "soulager",
+    "definition": "soulager, adoucir le mal",
     "type": "verbe transitif",
     "search": "souladya soulager"
   },
@@ -80702,5 +80702,48 @@
     "type": "nom féminin",
     "search": "perloungacioû prolongation"
   }
+  ,
 
+
+      {
+    "id": 12441,
+    "titre": "nictemère",
+    "definition": "24h, un cycle complet associant une période diurne (le jour) et une période nocturne (la nuit)",
+    "type": "nom masculin",
+    "search": "nictemère 24h, un cycle complet associant une période diurne (le jour) et une période nocturne (la nuit)"
+  }
+
+    ,
+
+
+      {
+    "id": 12442,
+    "titre": "nictemèrau, ale",
+    "definition": "relatif à la succession du jour et de la nuit",
+    "type": "nom masculin",
+    "search": "nictemèrau relatif à la succession du jour et de la nuit"
+  }
+
+
+    ,
+
+
+      {
+    "id": 12443,
+    "titre": "claretat",
+    "definition": "clarté, gloire",
+    "type": "nom féminin",
+    "search": "claretat clarté, gloire"
+  }
+  ,
+
+
+      {
+    "id": 12444,
+    "titre": "martera",
+    "definition": "marteler",
+    "type": "verbe",
+    "search": "martera marteler"
+  }
+  
 ]

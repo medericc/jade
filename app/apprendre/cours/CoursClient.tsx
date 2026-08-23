@@ -360,7 +360,8 @@ const isMobile = useMediaQuery('(max-width: 767px)')
 {
   title: 'Expression utile',
   content: [
-    "Ric-per-ric → strictement."
+    "Ric-per-ric → strictement.",
+  
   ]
 },
       ]
