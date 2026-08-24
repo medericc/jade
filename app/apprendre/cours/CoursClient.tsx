@@ -361,7 +361,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
   title: 'Expression utile',
   content: [
     "Ric-per-ric → strictement.",
-  
+      "Bé-n-zi → vas-y.",
+          "Anem-zi → Allons-y.",
+              "Anat-zi → Allez-y.",
   ]
 },
       ]
