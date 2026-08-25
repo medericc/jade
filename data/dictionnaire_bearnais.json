@@ -80755,7 +80755,7 @@
     "titre": "eschugère",
     "definition": "sécheresse",
     "type": "nom féminin",
-    "search": "sécheresse"
+    "search": "eschugère sécheresse"
   }
 ,
   {
@@ -80773,5 +80773,15 @@
     "definition": "jamais. ◊ Ne-m parle pas anc → Il / Elle ne me parle jamais. ◊ N'ou béy pas anc → je ne le vois jamais",
     "type": "adverbe",
     "search": "anc jamais. ◊ Ne-m parle pas anc → Il / Elle ne me parle jamais. ◊ N'ou béy pas anc → je ne le vois jamais"
+  },
+
+  
+  {
+    "id": 12448,
+    "titre": "Yésus",
+    "definition": "Jésus",
+    "type": "nom propre",
+    "search": "Yésus Jésus"
   }
+
 ]
