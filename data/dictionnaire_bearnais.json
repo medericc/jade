@@ -46578,10 +46578,10 @@
   
   {
     "id": 7362,
-    "titre": "jaméy",
-    "definition": "jamais. ◊ Ne-m parle pas jaméy → Il / Elle ne me parle jamais. ◊ N'ou béy pas jaméy → je ne le vois jamais",
+    "titre": "yaméy",
+    "definition": "jamais. ◊ Ne-m parle pas yaméy → Il / Elle ne me parle jamais. ◊ N'ou béy pas yaméy → je ne le vois jamais",
     "type": "adverbe",
-    "search": "jaméy jamais. ◊ Ne-m parle pas jaméy → Il / Elle ne me parle jamais. ◊ N'ou béy pas jaméy → je ne le vois jamais"
+    "search": "yaméy jamais. ◊ Ne-m parle pas yaméy → Il / Elle ne me parle jamais. ◊ N'ou béy pas yaméy → je ne le vois jamais"
   },
   {
     "id": 7363,
@@ -80757,8 +80757,21 @@
     "type": "nom féminin",
     "search": "sécheresse"
   }
+,
+  {
+    "id": 12446,
+    "titre": "jamé",
+    "definition": "jamais. ◊ Ne-m parle pas jamé → Il / Elle ne me parle jamais. ◊ N'ou béy pas jamé → je ne le vois jamais",
+    "type": "adverbe",
+    "search": "jamé jamais. ◊ Ne-m parle pas jamé → Il / Elle ne me parle jamais. ◊ N'ou béy pas jamé → je ne le vois jamais"
+  }
 
-
-
-
+,
+  {
+    "id": 12447,
+    "titre": "anc",
+    "definition": "jamais. ◊ Ne-m parle pas anc → Il / Elle ne me parle jamais. ◊ N'ou béy pas anc → je ne le vois jamais",
+    "type": "adverbe",
+    "search": "anc jamais. ◊ Ne-m parle pas anc → Il / Elle ne me parle jamais. ◊ N'ou béy pas anc → je ne le vois jamais"
+  }
 ]
