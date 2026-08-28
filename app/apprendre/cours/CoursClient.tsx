@@ -364,6 +364,8 @@ const isMobile = useMediaQuery('(max-width: 767px)')
       "Bé-n-zi → vas-y.",
           "Anem-zi → Allons-y.",
               "Anat-zi → Allez-y.",
+               "Que-m hiqui de youlhs. → Je me mets à genoux.",
+                "Qu'éy mau au cap. → J'ai mal à la tête.",
   ]
 },
       ]
