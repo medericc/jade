@@ -80834,4 +80834,40 @@
     "type": "nom masculin",
     "search": "desbaratadye déroute, bouleversement"
   }
+
+
+
+  
+    {
+    "id": 12455,
+    "titre": "emenda",
+    "definition": "payer une amende, réparer un dommage ; corriger ; bénéficier",
+    "type": "verbe",
+    "search": "emenda emenda payer une amende, réparer un dommage ; corriger ; bénéficier"
+  },
+
+    {
+    "id": 12456,
+    "titre": "desbaratadye",
+    "definition": "déroute, bouleversement",
+    "type": "nom masculin",
+    "search": "desbaratadye déroute, bouleversement"
+  },
+
+
+   {
+    "id": 12457,
+    "titre": "peryuramen",
+    "definition": "action de parjurer",
+    "type": "adverbe",
+    "search": "peryuramen action de parjurer"
+  },
+
+   {
+    "id": 12458,
+    "titre": "amouncela",
+    "definition": "amonceler",
+    "type": "verbe",
+    "search": "amouncela amonceler"
+  },
 ]
