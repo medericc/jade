@@ -44526,7 +44526,7 @@
   {
     "id": 7023,
     "titre": "hat",
-    "definition": "destin, destinée, sort. ♦ Qu'éy û hat ! → C'est une fatalité !",
+    "definition": "destin, destinée, sort, fatalité. ♦ Qu'éy û hat ! → C'est une fatalité !",
     "type": "nom masculin",
     "search": "hat destin, destinée, sort. ♦ Qu'éy û hat ! → C'est une fatalité !"
   },
@@ -80783,5 +80783,47 @@
     "type": "nom propre",
     "search": "Yésus Jésus"
   }
+,
 
+  
+  {
+    "id": 12449,
+    "titre": "oppremude",
+    "definition": "oppression, action d'opprimer, vexation",
+    "type": "nom féminin",
+    "search": "oppremude oppression"
+  }
+,
+  {
+    "id": 12450,
+    "titre": "oupressiou",
+    "definition": "oppression",
+    "type": "nom féminin",
+    "search": "oupressiou oppression"
+  }
+,
+  
+  {
+    "id": 12451,
+    "titre": "opprimi",
+    "definition": "opprimer",
+    "type": "verbe",
+    "search": "opprimi opprimer"
+  },
+
+    {
+    "id": 12452,
+    "titre": "manifestamen",
+    "definition": "manifestement",
+    "type": "adverbe",
+    "search": "manifestamen manifestement"
+  },
+
+    {
+    "id": 12453,
+    "titre": "fatal",
+    "definition": "fatal",
+    "type": "adjectif",
+    "search": "fatal fatal"
+  }
 ]
