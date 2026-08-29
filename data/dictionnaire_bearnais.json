@@ -80869,5 +80869,29 @@
     "definition": "amonceler",
     "type": "verbe",
     "search": "amouncela amonceler"
+  },
+
+   {
+    "id": 12459,
+    "titre": "recusa",
+    "definition": "refuser, récuser",
+    "type": "verbe",
+    "search": "recusa refuser, récuser"
+  },
+
+   {
+    "id": 12460,
+    "titre": "recusadou",
+    "definition": "récusable, qui peut être récusé, qu’il faut récuser.",
+    "type": "adjectif",
+    "search": "recusadou récusable, qui peut être récusé, qu’il faut récuser."
+  },
+
+   {
+    "id": 12461,
+    "titre": "recusamen",
+    "definition": "action de refuser.",
+    "type": "adverbe",
+    "search": "recusamen action de refuser."
   }
 ]
