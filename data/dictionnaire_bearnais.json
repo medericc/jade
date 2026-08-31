@@ -80882,7 +80882,7 @@
    {
     "id": 12460,
     "titre": "recusadou",
-    "definition": "récusable, qui peut être récusé, qu’il faut récuser.",
+    "definition": "récusable, qui peut être récusé, qu’il faut récuser",
     "type": "adjectif",
     "search": "recusadou récusable, qui peut être récusé, qu’il faut récuser."
   },
@@ -80890,8 +80890,16 @@
    {
     "id": 12461,
     "titre": "recusamen",
-    "definition": "action de refuser, récuser.",
+    "definition": "action de refuser, récuser",
     "type": "adverbe",
     "search": "recusamen action de refuser."
+  },
+
+   {
+    "id": 12462,
+    "titre": "percassa",
+    "definition": "pourchasser, poursuivre, rerchercher",
+    "type": "verbe",
+    "search": "percassa pourchasser, poursuivre, rerchercher"
   }
 ]
