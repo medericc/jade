@@ -110,7 +110,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
             "Que souy à noùste/case.  → Je suis chez moi." ,
             "Que souy en ço de Bertoumiu. → Je suis chez Barthélémy.",
             "Qu’em espagnòus. → Nous sommes espagnols.",
-            "Que souy en trî de tribalha ta esta lou purmè arriba à Riu di Yanèyrou. → Je suis en train de travailler pour être le premier arriver à Rio."         ]
+            "Que souy en trî de tribalha ta(d) esta lou purmè arriba à Riu di Yanèyrou. → Je suis en train de travailler pour être le premier arriver à Rio."         ]
         },
         {
           title: 'Négation',
@@ -158,6 +158,8 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "de → de",
     "Que soun guits. → Ce sont des canards.",
     "dou / de la → du / de la",
+    "pour (référence en général) → per (per + lou = p'ou)",
+    "pour (but ou direction en général) → ta",
     "Qu’éy bén. → C’est plâ.",
     "Lou Yan e la Cataline. → Jean et Catherine.",
     "Le pluriel se forme généralement avec -s, mais certains mots restent invariables."
@@ -217,6 +219,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Que-m-at a dit ! → Il me l’a dit !",
      "Qu'ou/ous (Que-u/us) - Que la/las  →  le/les - la/les",
      "Qu'ou (que + lou) crey. → Je le crois.",
+     "Qu'at crey. → Je le crois.",
           "Toutes aquéres maysoûs que soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon."
  
   ]
@@ -347,6 +350,12 @@ const isMobile = useMediaQuery('(max-width: 767px)')
 {
   title: 'Prépositions : au, aux',
   content: [
+     "À + lou = au",
+      "À + lous = aus",
+       "De + lou = d'ou",
+        "Ta + lou = tau",
+      
+
     "Au → au",
     "Aus → aux",
     "À las → aux",
@@ -426,7 +435,13 @@ const isMobile = useMediaQuery('(max-width: 767px)')
 {
   title: 'Expressions temporelles',
   content: [
-    "Si at bos, que y bam de tire. → Si tu veux, nous y allons tout de suite.",
+     "Si at bos, que y bam de tire. → Si tu veux, nous y allons tout de suite",
+      "Si at bos, que y bam d'abor. → Si tu veux, nous y allons tout de suite.",
+       "Si at bos, que y bam s'ou pic. → Si tu veux, nous y allons tout de suite.",
+    "Si at bos, que y bam autalèu. → Si tu veux, nous y allons tout de suite.",
+      "Que l'èy bis s'ou cop. → je l'ai vu soudainement",
+        "Que l'èy bis tout d'û cop. → je l'ai vu soudainement",
+        
     "Quoan pe déu ? → Combien vous doit-il ?",
     "Qu’ous debi 30 $. → Je leur dois 30 $."
   ]
@@ -673,11 +688,13 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Entér / Éntre → entre.",
     "L'aygue que chourrabe dinco miéye-came entér lous calhaus           .",
     "→ L’eau jaillissait jusqu’à mi-jambe entre les galets.",
-    "Sus → sur.",
+    "Sus → sur.", 
+    
+
     "Dessus → dessus, une surface supérieure.",
    
-    "Aquiu dessus, qu'éy lou gran ausèth. → Là-dessus, c'est le grand oiseau."
- 
+    "Aquiu dessus, qu'éy lou gran ausèth. → Là-dessus, c'est le grand oiseau.",
+ "Sus + lou = s'ou.",
   ]
 },
 
