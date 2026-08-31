@@ -80902,4 +80902,20 @@
     "type": "verbe",
     "search": "percassa pourchasser, poursuivre, rerchercher"
   }
+
+    {
+    "id": 12463,
+    "titre": "d'are enla",
+    "definition": "désormais",
+    "type": "adverbe",
+    "search": "d'are enla désormais"
+  },
+
+    {
+    "id": 12464,
+    "titre": "d'are en daban",
+    "definition": "désormais, dorénavant",
+    "type": "adverbe",
+    "search": "d'are en daban désormais dorénavant"
+  },
 ]
