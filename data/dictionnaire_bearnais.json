@@ -80902,7 +80902,7 @@
     "type": "verbe",
     "search": "percassa pourchasser, poursuivre, rerchercher"
   }
-
+,
     {
     "id": 12463,
     "titre": "d'are enla",
@@ -80917,5 +80917,16 @@
     "definition": "désormais, dorénavant",
     "type": "adverbe",
     "search": "d'are en daban désormais dorénavant"
-  },
+  }
+
+
+  ,
+
+    {
+    "id": 12465,
+    "titre": "nonobstan",
+    "definition": "nonobstant, sans que cela fasse obstacle, malgré, sans s'opposer à",
+    "type": "adverbe",
+    "search": "nonobstan nonobstant sans que cela fasse obstacle malgré, sans s'opposer à"
+  }
 ]
