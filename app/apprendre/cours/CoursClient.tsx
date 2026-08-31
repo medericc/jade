@@ -220,7 +220,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
      "Qu'ou/ous (Que-u/us) - Que la/las  →  le/les - la/les",
      "Qu'ou (que + lou) crey. → Je le crois.",
      "Qu'at crey. → Je le crois.",
-          "Toutes aquéres maysoûs que soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon."
+          "Toutes aquéres maysoûs soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon."
  
   ]
 },
@@ -286,9 +286,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Que bouleri. → Je voudrais.",
     "Que bouli. → Je voulais.",
   "Que bòu. → Il veut.",
-    "Que bouy que-m escoutis. → Je veux que tu m’écoutes.",
+    "Que bouy qui-m escoutis. → Je veux que tu m’écoutes.",
     "Que bouleri que-m escoutis. → Je voudrais que tu m’écoutes.",
-    "Que bouli que-m escoutis. → Je voulais que tu m’écoutes."
+    "Que bouli qui-m escoutis. → Je voulais que tu m’écoutes."
   ]
 },
 {
@@ -400,7 +400,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Que y a hère de brumes. → Il y a beaucoup de brouillard.",
     "Que soy trop coentat. → Je suis trop occupé.",
     "Que-n y a trop. → Il y en a trop.",
-    "Lous camioûs que soun trops. → Les camions sont trop nombreux.",
+    "Lous camioûs soun trops. → Les camions sont trop nombreux.",
     "Nou bén pas prou. → Cela ne suffit pas.",
     "Qu’èm prou. → Nous sommes assez nombreux."
   ]
@@ -467,7 +467,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "coumbiénẹ → convenir.",
     "Que coumbieneré de-p at dìsẹ. → Il conviendrait de vous le dire.",
     "escàdẹ-s → se trouver.",
-    "Oéy que-s escat que souy esbagat. → Aujourd’hui il se trouve que je suis disponible.",
+    "Oéy que-s escat qui souy esbagat. → Aujourd’hui il se trouve que je suis disponible.",
     "desbroumba → oublier.",
     "Qu'éy desbroumbat d'ou at dìsẹ. → J’ai oublié de le dire.",
     "paréchẹ-s → paraître.",
@@ -588,12 +588,15 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Ta qué ? → Pourquoi ?",
     "Perqué ? → Pourquoi ?",
     "Quoau / Quoaus s’emploient lorsqu’on choisit dans une liste.",
+
     "Quin / Quins et Quine / Quines s’emploient pour parler d’un type ou d’une sorte.",
     "Quins filmes que bas béde ? → Quels films vas-tu voir ?",
     "Ne sèy pas quin dise-u tout aco. → Je ne sais pas comment lui dire tout ça.",
     "Ne sèy pas perqué caleré ha atau. → Je ne sais pas pourquoi il faudrait faire comme ça.",
+    "Ne sèy pas ta qué caleré ha atau. → Je ne sais pas pourquoi il faudrait faire comme ça.",
     "Que ço qui hès ? → Qu'est ce que tu fais ?",
-    "Que hès ? → Que fais-tu ?"
+    "Que hès ? → Que fais-tu ?",
+    "Quoan.",
   ]
 },
 
@@ -666,6 +669,12 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Bas → bach.",
     "En bas → cabbath.",
     "Debath → dessous, sous."
+    "Aquéste → ce (ici).",
+    "Aquére → cette (là).",
+    "Aquéth → ce (là).",
+    "Acére → cette (là-bas).",
+    "Acéth → ce (là-bas).",
+    "Aço → ceci.", "Aco/Aquero → cela.", "Acero → cela (là-bas).",
   ]
 },
 

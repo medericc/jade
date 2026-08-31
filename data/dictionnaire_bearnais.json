@@ -57268,7 +57268,7 @@
   {
     "id": 9020,
     "titre": "per",
-    "definition": "par, pour (si échange), à.",
+    "definition": "par, pour (si échange), à → À Nadau = À Noël.",
     "type": "préposition",
     "search": "per par, à, pour, etc."
   },
@@ -70211,7 +70211,7 @@
   {
     "id": 10967,
     "titre": "ta",
-    "definition": "à (direction), vers ; par, à cause de ; quant à ; pour (but ou destination)",
+    "definition": "à (direction, mouvement), vers ; par, à cause de ; quant à ; pour (but ou destination)",
     "type": "préposition et conjonction",
     "search": "ta à (direction), vers ; par, à cause de ; quant à ; pour"
   },
@@ -80928,5 +80928,13 @@
     "definition": "nonobstant, sans que cela fasse obstacle, malgré, sans s'opposer à",
     "type": "adverbe",
     "search": "nonobstan nonobstant sans que cela fasse obstacle malgré, sans s'opposer à"
+  },
+
+   {
+    "id": 12466,
+    "titre": "nada",
+    "definition": "natation",
+    "type": "nom féminin",
+    "search": "nada natation"
   }
 ]
