@@ -668,7 +668,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Là-haut → aquiu haut, acera cap-sus.",
     "Bas → bach.",
     "En bas → cabbath.",
-    "Debath → dessous, sous."
+    "Debath → dessous, sous.",
     "Aquéste → ce (ici).",
     "Aquére → cette (là).",
     "Aquéth → ce (là).",
