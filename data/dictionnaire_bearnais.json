@@ -80937,4 +80937,39 @@
     "type": "nom féminin",
     "search": "nada natation"
   }
+  ,
+
+   {
+    "id": 12467,
+    "titre": "bie",
+    "definition": "voie",
+    "type": "nom féminin",
+    "search": "bie voie"
+  }
+  ,
+
+   {
+    "id": 12468,
+    "titre": "abia",
+    "definition": "mettre sur la voie, envoyer",
+    "type": "verbe",
+    "search": "abia mettre sur la voie, envoyer"
+  }
+  ,
+
+   {
+    "id": 12469,
+    "titre": "horebia",
+    "definition": "mettre hors de la voie, fourvoyer",
+    "type": "verbe",
+    "search": "horebia mettre hors de la voie, fourvoyer"
+  }  ,
+
+   {
+    "id": 12470,
+    "titre": "tèse",
+    "definition": "thèse",
+    "type": "nom féminin",
+    "search": "tèse thèse"
+  }
 ]

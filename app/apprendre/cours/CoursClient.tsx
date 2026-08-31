@@ -362,6 +362,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Au lieu → Au loc",
     "Ha à las quilhes. → Jouer aux quilles.",
     "Que boulerém pourét. → Nous voudrions du poulet.",
+    "Da-u / Balhe-u ! → Donne-lui !",
     "Aquéth tros de broutche aus oélhs blus. → Cette espèce de sorcière aux yeux bleus."
   ]
 },
@@ -716,6 +717,8 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Dauneya → dominer (pour une fille).",
     "Abé lou dessus → avoir le dessus.",
     "Influence → enfluence.",
+        "Qu'éy lou de Yade. → C'est celui de Jade.",
+           "Qu'éy la de Yan. → C'est celle de Jean.",
     "Que m'a hèyt chiscla hangue ta dessus. → Il m’a éclaboussé de boue."
     ,
      "Û cop de méy la resoû qu’abè abut lou dessus dou cabourrudè !",
