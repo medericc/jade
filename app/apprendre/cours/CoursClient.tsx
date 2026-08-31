@@ -197,7 +197,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "me (-m) → me",
     "te (-t) → te",
     "se (-s) → se",
-    "nse (le n peut être muet) → nous",
+    "nse (le n est muet) → nous",
     "pe → vous",
     "Lorsqu’il n’y a pas la particule « que », le pronom s’attache à la fin du verbe.",
     "Que-m làbi. → Je me lave.",
@@ -493,12 +493,14 @@ const isMobile = useMediaQuery('(max-width: 767px)')
       "De ceci → d'aço, de'ço",
     "De cela → d'aco, de'co",
   
-    "Aquéste / Aquéstes → ce, cette, ces",
-    "Aquéth / Aquére → celui-ci, celle-ci",
+    "Aquéste / Aquéstes → ce, cette, ces (ici)",
+    "Aquéth / Aquére → celui-ci, celle-ci (là)",
     "Aquéths / Aquéres → ceux-ci, celles-ci",
     "Acéth / Acére → celui-là, celle-là",
     "Acéths / Acéres → ceux-là, celles-là",
-    "Aquéste maynàdye ba à hoéc de calhau dinco à lou ! → Cet enfant va vite chez lui !"
+    "Aquéste maynàdye ba à hoéc de calhau dinc'à lou ! → Cet enfant va vite chez lui !",
+         "Aquét die → ce jour là.",
+      "En aquéste die → en ce jour.",
   ]
 },
 
@@ -510,6 +512,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "De segu → bien sûr.",
     "Per segu → bien sûr.",
     "Nat / Nade → aucun, aucune.",
+    "Soulide → bien sûr, certain, solide.",
+    "Bahide → sûrement.",
+     "Lhèu → peut être.",
        "Si ne-n abét pas nade, que-n bau préne. → Si vous n’en avez pas, je vais en prendre."
  
   ]
@@ -671,16 +676,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Bas → bach.",
     "En bas → cabbath.",
     "Debath → dessous, sous.",
-    "Aquéste → ce ... (ici).",
-    "Aquére → cette ... (là).",
-    "Aquéth → ce ... (là).",
-    "Acére → cette ... (là-bas).",
-    "Acéth → ce ... (là-bas).",
-    "Aço → ceci.", 
-    "Aco/Aquero → cela.", 
-    "Acero → cela (là-bas).",
-     "Aquét die → ce jour là.",
-      "En aquéste die → en ce jour.",
+   
   ]
 },
 
