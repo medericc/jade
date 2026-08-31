@@ -457,6 +457,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Qu'ou bague toustém ta ére ! → Il a toujours le temps pour elle !",
     "càlẹ / calé → falloir.",
     "Estudia que cau ! → Il faut étudier !",
+        "Estudia que calè ! → Il fallait étudier !",
     
   ]
 },
@@ -596,7 +597,8 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Ne sèy pas ta qué caleré ha atau. → Je ne sais pas pourquoi il faudrait faire comme ça.",
     "Que ço qui hès ? → Qu'est ce que tu fais ?",
     "Que hès ? → Que fais-tu ?",
-    "Quoan.",
+    "Quoan ? → Quand ? ou Combien ?",
+    "Quoan de gats bos ? → Combien de chats veux-tu ?",
   ]
 },
 
@@ -669,12 +671,16 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Bas → bach.",
     "En bas → cabbath.",
     "Debath → dessous, sous.",
-    "Aquéste → ce (ici).",
-    "Aquére → cette (là).",
-    "Aquéth → ce (là).",
-    "Acére → cette (là-bas).",
-    "Acéth → ce (là-bas).",
-    "Aço → ceci.", "Aco/Aquero → cela.", "Acero → cela (là-bas).",
+    "Aquéste → ce ... (ici).",
+    "Aquére → cette ... (là).",
+    "Aquéth → ce ... (là).",
+    "Acére → cette ... (là-bas).",
+    "Acéth → ce ... (là-bas).",
+    "Aço → ceci.", 
+    "Aco/Aquero → cela.", 
+    "Acero → cela (là-bas).",
+     "Aquét die → ce jour là.",
+      "En aquéste die → en ce jour.",
   ]
 },
 
@@ -880,6 +886,16 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Ouctoùbrẹ → octobre.",
     "Noubémbrẹ → novembre.",
     "Decémẹ → décembre."
+    ,
+    "otòne → automne."
+    ,
+    "ibèr → hiver."
+    ,
+    "primabère → printemps."
+    ,
+    "printéms → printemps."
+    ,
+    "estiu → été."
   ]
 },
 
