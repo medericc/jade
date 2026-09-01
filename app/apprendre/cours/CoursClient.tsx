@@ -274,7 +274,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Ne cau pas arré ! (\"ne\" est toujours suivi de \"pas\") → Il ne faut rien !",
      "Ne mie pas à-d arré ! (le son \"d\" entre les \"a\") → Il ne mène à rien !",
     "Que caleré maynàdyes aciu. → Il faudrait des enfants ici.",
-    "Que-t disi d'ou ha. → Je te dis de le faire.",
+    "Que-t disi d'ou (de+lou) ha. → Je te dis de le faire.",
     "Youga dou piano. → Jouer du piano.",
     "Ha à las cartes. → Jouer aux cartes.",    
     "P'ou miélhe, ce respounou la Yade. → Pour le mieux, répondit Jade.",
