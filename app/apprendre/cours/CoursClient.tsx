@@ -220,7 +220,10 @@ const isMobile = useMediaQuery('(max-width: 767px)')
      "Qu'ou/ous (Que-u/us) - Que la/las  →  le/les - la/les",
      "Qu'ou (que + lou) crey. → Je le crois.",
      "Qu'at crey. → Je le crois.",
-          "Toutes aquéres maysoûs soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon."
+          "Toutes aquéres maysoûs soun bastides p'ou medich murralhàyrẹ. → Toutes ces maisons sont construites par le même maçon.",
+          "Si « le » renvoie à une qualité précédemment mentionée, on utilise « -n ».",
+          "Si ne-n pas encoère, que-n badera. → S'il ne l'est pas encore, il le deviendra.",
+     "Grans ? Que créy que-n soun touts. → Grand ? Je crois qu'ils le sont tous.",
  
   ]
 },
@@ -514,7 +517,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
 {
   title: 'Expressions utiles',
   content: [
+     "Nàni, brigue ! → Non, du tout !",
     "N’èy pas brigue coumprés. → Je n’ai pas du tout compris.",
+     "Que créy que ne-s y cau pas tourna. → Je crois qu'il ne faut pas insister.",
     "Soulide → bien sûr, certain, solide.",
     "De segu → bien sûr.",
     "Per segu → bien sûr.",
@@ -522,6 +527,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Soulide → bien sûr, certain, solide.",
     "Bahide → sûrement.",
      "Lhèu → peut être.",
+      "Que serp plâ. → Il sert bien.",
        "Si ne-n abét pas nade, que-n bau préne. → Si vous n’en avez pas, je vais en prendre."
  
   ]

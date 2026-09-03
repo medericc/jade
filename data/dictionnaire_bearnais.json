@@ -81007,5 +81007,31 @@
     "definition": "sportif",
     "type": "nom masculin",
     "search": "esportif sportif"
+  }
+
+  ,
+   {
+    "id": 12475,
+    "titre": "fegne",
+    "definition": "feindre",
+    "type": "verbe",
+    "search": "fegne feindre"
+  }
+   ,
+   {
+    "id": 12476,
+    "titre": "respieyt",
+    "definition": "répit",
+    "type": "nom masculin",
+    "search": "respieyt répit"
   },
+
+
+    {
+    "id": 12477,
+    "titre": "subermesure",
+    "definition": "surplus",
+    "type": "nom masculin",
+    "search": "subermesure surplus "
+  }
 ]
