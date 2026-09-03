@@ -29485,7 +29485,7 @@
   {
     "id": 4713,
     "titre": "descatabat -ade",
-    "definition": "démoli ; (individu) désorienté",
+    "definition": "démoli ; (individu) désorienté ; hors d'usage",
     "type": "adjectif et nom",
     "search": "descatabat -ade démoli ; (individu) désorienté"
   },
@@ -81034,4 +81034,92 @@
     "type": "nom masculin",
     "search": "subermesure surplus "
   }
+  ,
+
+
+    {
+    "id": 12478,
+    "titre": "bèth cop",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "bèth cop parfois, quelquefois "
+  }
+   ,
+
+
+    {
+    "id": 12479,
+    "titre": "quàuquẹ(s) cop(s)",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "quàuquẹ(s) cop(s) parfois, quelquefois "
+  }
+   ,
+
+
+    {
+    "id": 12480,
+    "titre": "quàuquẹ(s) cop(s)",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "quàuquẹ(s) cop(s) parfois, quelquefois "
+  }
+   ,
+
+
+    {
+    "id": 12481,
+    "titre": "cops que y a",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "cops que y a parfois, quelquefois "
+  }
+   ,
+
+
+    {
+    "id": 12482,
+    "titre": "cops que y abè",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "cops que y abè parfois, quelquefois "
+  }
+   ,
+
+
+    {
+    "id": 12483,
+    "titre": "à cops",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "à cops parfois, quelquefois "
+  }
+   ,
+
+
+    {
+    "id": 12484,
+    "titre": "per cops",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "per cops parfois quelquefois "
+  }
+   ,
+
+
+    {
+    "id": 12485,
+    "titre": "de cops",
+    "definition": "parfois, quelquefois",
+    "type": "adverbe",
+    "search": "de cops parfois, quelquefois "
+  },
+  {
+    "id": 12486,
+    "titre": "à cops tabé",
+    "definition": "parfois aussi",
+    "type": "adverbe",
+    "search": "à cops parfois aussi "
+  }
+   
 ]
