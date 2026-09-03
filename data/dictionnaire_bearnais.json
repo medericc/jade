@@ -63978,7 +63978,7 @@
     "titre": "rebat",
     "definition": "réverbération",
     "type": "nom masculin",
-    "search": "rebat réverbération"
+    "search": "rebat réverbération reflet"
   },
   {
     "id": 10019,
@@ -80990,4 +80990,22 @@
     "type": "adverbe",
     "search": "enla de ce côté-là ♦ D'aciu enla → À partir d'ici."
   }
+
+
+,
+
+   {
+    "id": 12473,
+    "titre": "esport",
+    "definition": "sport",
+    "type": "nom masculin",
+    "search": "esport sport"
+  },
+   {
+    "id": 12474,
+    "titre": "esportif -ibe",
+    "definition": "sportif",
+    "type": "nom masculin",
+    "search": "esportif sportif"
+  },
 ]
