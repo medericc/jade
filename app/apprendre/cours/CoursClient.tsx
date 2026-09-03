@@ -277,7 +277,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Que-t disi d'ou (de+lou) ha. → Je te dis de le faire.",
     "Youga dou piano. → Jouer du piano.",
     "Ha à las cartes. → Jouer aux cartes.",    
+      "Dinc'adar. → Jusqu'à maintenant." ,
     "P'ou miélhe, ce respounou la Yade. → Pour le mieux, répondit Jade.",
+   
     "Quio, ce digou. → Oui, dit-il." 
 
   ]
