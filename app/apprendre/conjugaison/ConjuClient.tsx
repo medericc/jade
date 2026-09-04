@@ -556,7 +556,7 @@ window.history.replaceState(null, '', `#${s.key}`)
                  <p>esta « être » → qu&apos;estouy/estéy · qu&apos;estous/estés · qu&apos;estou/esté · qu&apos;estoum/estém · qu&apos;estout/estét · qu&apos;estoun/estén</p> 
             
                 <p>bìbẹ « vivre » → que biscouy</p> 
-                <p>biénẹ « venir » → que biengous</p>  
+                <p>biénẹ « venir » → que bienous</p>  
                  <p>counéchẹ « connaître » → que counegou</p> 
                 <p>disẹ « dire » → que digoum</p> 
                  <p>ha « faire » → que hesout</p>
