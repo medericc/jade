@@ -33726,7 +33726,7 @@
   {
     "id": 5360,
     "titre": "empara",
-    "definition": "appuyer, soutenir",
+    "definition": "appuyer, fortifier, défendre, soutenir",
     "type": "verbe transitif",
     "search": "empara appuyer, soutenir"
   },
@@ -79449,15 +79449,7 @@
     "search": "translata translater"
   }
 
-   ,
-    {
-    "id": 12308,
-    "titre": "trespassa",
-    "definition": "trépasser",
-    "type": "verbe",
-    "search": "trespassa trépasser"
-  }
-
+  
    ,
     {
     "id": 12309,
@@ -81135,5 +81127,62 @@
     "definition": "marionnette",
     "type": "nom féminin",
     "search": "marioulete marionnette "
+  },
+  {
+    "id": 12489,
+    "titre": "proutectou",
+    "definition": "protecteur",
+    "type": "nom masculin",
+    "search": "proutectou protecteur "
+  }
+  ,
+  {
+    "id": 12490,
+    "titre": "sacra",
+    "definition": "sacrer",
+    "type": "verbe",
+    "search": "sacra sacrer "
+  }
+
+   ,
+  {
+    "id": 12491,
+    "titre": "hourtifiacioû",
+    "definition": "fortification",
+    "type": "nom féminin",
+    "search": "hourtifiacioû fortification "
+  }
+ 
+   ,
+  {
+    "id": 12492,
+    "titre": "legat",
+    "definition": "legat",
+    "type": "nom masculin",
+    "search": "legat legat "
+  }
+  ,
+  {
+    "id": 12493,
+    "titre": "bessa",
+    "definition": "verser",
+    "type": "verbe",
+    "search": "bessa verser "
+  }
+   ,
+  {
+    "id": 12494,
+    "titre": "auficiè",
+    "definition": "officier",
+    "type": "nom masculin",
+    "search": "auficiè officier "
+  }
+    ,
+  {
+    "id": 12495,
+    "titre": "textile",
+    "definition": "textile",
+    "type": "nom masculin",
+    "search": "textile textile "
   }
 ]
