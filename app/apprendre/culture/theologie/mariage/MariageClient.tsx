@@ -46,7 +46,7 @@ const teachingsB = [
 
   `Au countràri de l’ermeneutic dou suspectioû, que cau bìbe l’ermeneutic dou sacremén : û apèu à la bertat lançat p'ou Crist dap la gràci de la redempcioû. Atau que cau pourta s'ou l’àute ûe espiade plée de la puretat dou co, lìbre de toute suspectioû. Ne poudem pas quita lou soû espous ta cerca ûe pudou méy grane ou ûe gloère persounale permou qu'aco lespause au danyié e refusa-s l'û a l'àute ne-s pot ha qui d'û coumû acor (counsentimèn dous dus espous), chacû aben û drét sus lou cos de l’àute déns lou quadre de l’aliance counyugale.`,
 
-  `Si l’û dous dus espous a heyt û adultèri, lous espous soun embitats à médita sus la loûe coundicioû coumûe e sus lou loû salut ; ne-us deberé pas esta dificìle de-s recouncilia. Toutû, si ûe recounciliacioû que-s trobe empoussìble, l’abstinence que-s dében adoupta, à ménch qu’arribe la mour fisique de l’û dous espous. Si û espous que-s separen e qui l’û d’éths que-s remàride (dap lou soû espous en bite), que hé û adultèri. Lou qu’espouse ûe persoune dibourçade que hé atau û adultèri pùchque ne cau pas ha û pecat ni ta-n esbita û, ni ta-u yustifica.`,   
+  `Si l’û dous dus espous a heyt û adultèri, lous espous soun embitats à médita sus la loûe coundicioû coumûe e sus lou loû salut ; ne-us deberé pas esta dificìle de-s recouncilia. Toutû, si ûe recounciliacioû que-s troube empoussìble, l’abstinence que-s dében adoupta, à ménch qu’arribe la mour fisique de l’û dous espous. Si û espous que-s separen e qui l’û d’éths que-s remàride (dap lou soû espous en bite), que hé û adultèri. Lou qu’espouse ûe persoune dibourçade que hé atau û adultèri pùchque ne cau pas ha û pecat ni ta-n esbita û, ni ta-u yustifica.`,   
 
 ]
 

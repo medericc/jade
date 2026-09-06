@@ -42345,9 +42345,9 @@
   {
     "id": 6660,
     "titre": "garbure",
-    "definition": "garbure (soupe traditionnelle du Béarn, de la Bigorre, des Landes, du Pays basque et plus généralement de toute la Gascogne). ◊ Garbure ? Que se n'y trobe toustém en Biarn ! → De la garbure ? On en trouve toujours en Béarn !",
+    "definition": "garbure (soupe traditionnelle du Béarn, de la Bigorre, des Landes, du Pays basque et plus généralement de toute la Gascogne). ◊ Garbure ? Que se n'y troube toustém en Biarn ! → De la garbure ? On en trouve toujours en Béarn !",
     "type": "nom féminin",
-    "search": "garbure garbure (soupe traditionnelle du Béarn, de la Bigorre, des Landes, du Pays basque et plus généralement de toute la Gascogne). ◊ Garbure ? Que se n'y trobe toustém en Biarn ! → De la garbure ? On en trouve toujours en Béarn !"
+    "search": "garbure garbure (soupe traditionnelle du Béarn, de la Bigorre, des Landes, du Pays basque et plus généralement de toute la Gascogne). ◊ Garbure ? Que se n'y troube toustém en Biarn ! → De la garbure ? On en trouve toujours en Béarn !"
   },
   {
     "id": 6661,
@@ -77462,13 +77462,7 @@
     "type": "nom masculin",
     "search": "chibalé chevalier"
   },
-  {
-    "id": 12046,
-    "titre": "chibaugueya",
-    "definition": "chevaucher",
-    "type": "verbe",
-    "search": "chibaugueya chevaucher"
-  },
+  
   {
     "id": 12047,
     "titre": "courredou",
@@ -78561,7 +78555,7 @@
 ,
    {
     "id": 12201,
-    "titre": "Magdalene",
+    "titre": "Mag(g)dalene",
     "definition": "Madeleine",
     "type": "nom propre",
     "search": "Magdalene Madeleine"
@@ -81184,5 +81178,29 @@
     "definition": "textile",
     "type": "nom masculin",
     "search": "textile textile "
+  }
+   ,
+  {
+    "id": 12496,
+    "titre": "pèrque",
+    "definition": "peste",
+    "type": "nom féminin",
+    "search": "pèrque peste "
+  }
+    ,
+  {
+    "id": 12497,
+    "titre": "ripousta",
+    "definition": "riposter",
+    "type": "verbe",
+    "search": "ripousta riposter "
+  }
+   ,
+  {
+    "id": 12498,
+    "titre": "desbasta",
+    "definition": "dévaster",
+    "type": "verbe",
+    "search": "desbasta dévaster "
   }
 ]
