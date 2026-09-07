@@ -2309,16 +2309,10 @@
     "type": "verbe pronominal",
     "search": "alecardi-s prendre goût"
   },
-  {
-    "id": 374,
-    "titre": "aleda",
-    "definition": "respirer",
-    "type": "verbe intransitif/transitif",
-    "search": "aleda respirer"
-  },
+ 
   {
     "id": 375,
-    "titre": "aledade",
+    "titre": "aletade",
     "definition": "respiration, bouffée, haleine",
     "type": "nom féminin",
     "search": "aledade respiration, bouffée, haleine"
@@ -80832,14 +80826,7 @@
     "search": "emenda emenda payer une amende, réparer un dommage ; corriger ; bénéficier"
   },
 
-    {
-    "id": 12456,
-    "titre": "desbaratadye",
-    "definition": "déroute, bouleversement",
-    "type": "nom masculin",
-    "search": "desbaratadye déroute, bouleversement"
-  },
-
+ 
 
    {
     "id": 12457,
@@ -81043,14 +81030,7 @@
    ,
 
 
-    {
-    "id": 12480,
-    "titre": "quàuquẹ(s) cop(s)",
-    "definition": "parfois, quelquefois",
-    "type": "adverbe",
-    "search": "quàuquẹ(s) cop(s) parfois, quelquefois "
-  }
-   ,
+   
 
 
     {
@@ -81073,14 +81053,7 @@
    ,
 
 
-    {
-    "id": 12483,
-    "titre": "à cops",
-    "definition": "parfois, quelquefois",
-    "type": "adverbe",
-    "search": "à cops parfois, quelquefois "
-  }
-   ,
+ 
 
 
     {
@@ -81099,13 +81072,6 @@
     "definition": "parfois, quelquefois",
     "type": "adverbe",
     "search": "de cops parfois, quelquefois "
-  },
-  {
-    "id": 12486,
-    "titre": "à cops tabé",
-    "definition": "parfois aussi",
-    "type": "adverbe",
-    "search": "à cops tabé parfois aussi "
   }
    ,
   {
@@ -81202,5 +81168,29 @@
     "definition": "dévaster",
     "type": "verbe",
     "search": "desbasta dévaster "
+  }
+    ,
+  {
+    "id": 12499,
+    "titre": "outre",
+    "definition": "outre",
+    "type": "adverbe",
+    "search": "outre outre "
+  }
+   ,
+  {
+    "id": 12500,
+    "titre": "douari",
+    "definition": "douaire",
+    "type": "nom masculin",
+    "search": "douari douaire "
+  }
+   ,
+  {
+    "id": 12501,
+    "titre": "bouryés",
+    "definition": "bourgeois",
+    "type": "nom masculin",
+    "search": "bouryés bourgeois "
   }
 ]

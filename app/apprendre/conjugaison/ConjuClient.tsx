@@ -562,8 +562,8 @@ window.history.replaceState(null, '', `#${s.key}`)
                  <p>ha « faire » → que hesout</p>
                 
                  <p>paréchẹ « paraître » → que parescoun</p> 
-                 <p>prénẹ « prendre » → que prengouy</p>
-                  <p>tiénẹ « tenir » → que tiengous</p> 
+                 <p>prénẹ « prendre » → que prenouy</p>
+                  <p>tiénẹ « tenir » → que tien(g)ous</p> 
                   <p>tòrsẹ « tordre » → que tourcou</p>
         
             </Card>

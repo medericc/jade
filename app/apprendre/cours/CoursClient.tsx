@@ -763,8 +763,8 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Esquerrè → gaucher.",
     "Dréte → droite.",
     "Dretè → droite.",
-    "Lou Parlamén qu'éy à mâ dréte.",
-    "→ Le Parlement est à droite.",
+     "Que serp à la mée dréte. → Il sert à ma droite.",
+
     "Tout drét → tout droit."
   ]
 },
