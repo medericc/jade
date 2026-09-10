@@ -49421,7 +49421,7 @@
   {
     "id": 7846,
     "titre": "marfandi-s",
-    "definition": "se morfondre. ♦ Gouyat marfandit → amoureux transi",
+    "definition": "se morfondre, transir. ♦ Gouyat marfandit → amoureux transi",
     "type": "verbe pronominal",
     "search": "marfandi-s se morfondre. ♦ Gouyat marfandit → amoureux transi"
   },
@@ -55275,7 +55275,7 @@
   {
     "id": 8722,
     "titre": "palhat",
-    "definition": "couche (sur le sol)",
+    "definition": "couche (sur le sol), litière",
     "type": "nom masculin",
     "search": "palhat couche (sur le sol)"
   },
@@ -60865,7 +60865,7 @@
   {
     "id": 9559,
     "titre": "pousse-cu",
-    "definition": "action de pousser quelqu'un par derrière ; action de pousser quelqu'un contre un tiers ♦ sobriquet des Palois (ils se moquaient des Morlanais par derrière au sens propre)",
+    "definition": "action de pousser quelqu'un par derrière ; action de pousser quelqu'un contre un tiers ; un escroc ♦ sobriquet des Palois (ils se moquaient des Morlanais par derrière au sens propre)",
     "type": "nom masculin",
     "search": "pousse-cu action de pousser quelqu'un par derrière ; action de pousser quelqu'un contre un tiers"
   },
@@ -73438,9 +73438,9 @@
   {
     "id": 11456,
     "titre": "transi",
-    "definition": "engourdir (en parlant du froid)",
+    "definition": "engourdir (en parlant du froid), transir",
     "type": "verbe transitif",
-    "search": "transi engourdir (en parlant du froid)"
+    "search": "transi engourdir (en parlant du froid), transir"
   },
   {
     "id": 11457,
@@ -81201,4 +81201,343 @@
     "type": "verbe",
     "search": "perpensa pourpenser "
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+{
+"id": 1503,
+"titre": "acacagna-s",
+"definition": "s'acagnarder ; prendre des habitudes de canailles",
+"type": "verbe",
+"search": "acacagna-s s'acagnarder ; prendre des habitudes de canailles "
+}
+,
+{
+"id": 1504,
+"titre": "sacrementat",
+"definition": "qui a reçu les sacrements",
+"type": "adjectif",
+"search": "sacrementat qui a reçu les sacrements "
+}
+,
+{
+"id": 1505,
+"titre": "sacrementa",
+"definition": "administrer les sacrements",
+"type": "verbe",
+"search": "sacrementa administrer les sacrements "
+}
+,
+{
+"id": 1506,
+"titre": "sacrementau",
+"definition": "sacrementel",
+"type": "adjectif",
+"search": "sacrementau sacrementel "
+}
+,
+{
+"id": 1507,
+"titre": "sacramentadou",
+"definition": "celui qui adminsitre les sacrements",
+"type": "nom",
+"search": "sacramentadou celui qui adminsitre les sacrements "
+}
+,
+{
+"id": 1508,
+"titre": "amoureya",
+"definition": "faire l'amour (agacerie) ; énamourer",
+"type": "verbe",
+"search": "amoureya faire l'amour ; énamourer "
+}
+,
+{
+"id": 1509,
+"titre": "sourdat",
+"definition": "soldat (mercenaire) ; individu grossier",
+"type": "nom",
+"search": "sourdat soldat (mercenaire) ; individu grossier "
+}
+,
+{
+"id": 1510,
+"titre": "macou",
+"definition": "butor",
+"type": "nom",
+"search": "macou butor "
+}
+,
+{
+"id": 1511,
+"titre": "manestrè",
+"definition": "menestrel, menetrier",
+"type": "nom",
+"search": "manestrè menestrel, menetrier "
+}
+,
+{
+"id": 1512,
+"titre": "escoubadou",
+"definition": "balayeur",
+"type": "nom",
+"search": "escoubadou balayeur "
+}
+,
+{
+"id": 1513,
+"titre": "escoubedis",
+"definition": "balayure",
+"type": "verbe",
+"search": "escoubedis balayure "
+}
+,
+{
+"id": 1514,
+"titre": "engalinàyrẹ",
+"definition": "enjôleur",
+"type": "adjectif et nom",
+"search": "engalinàyrẹ enjôleur "
+}
+,
+{
+"id": 1515,
+"titre": "engalina",
+"definition": "enjôler",
+"type": "verbe",
+"search": "engalina enjôler "
+}
+,
+{
+"id": 1516,
+"titre": "trufèc",
+"definition": "trufèque, moqueur, railleur",
+"type": "adjectif et nom",
+"search": "trufèc  trufèque, moqueur, railleur "
+}
+,
+{
+"id": 1517,
+"titre": "lauzenquè",
+"definition": "médisant",
+"type": "adjectif et nom",
+"search": "lauzenquè médisant "
+}
+,
+{
+"id": 1518,
+"titre": "esparpalha",
+"definition": "déployer, ouvrir, étendre",
+"type": "verbe",
+"search": "esparpalha déployer, ouvrir, étendre "
+}
+,
+{
+"id": 1519,
+"titre": "desplega",
+"definition": "déplier, déployer",
+"type": "verbe",
+"search": "desplega déplier, déployer "
+}
+,
+{
+"id": 1520,
+"titre": "tessoû",
+"definition": "tesson",
+"type": "nom",
+"search": "tessoû tesson "
+}
+,
+{
+"id": 1521,
+"titre": "lengui",
+"definition": "languir",
+"type": "verbe",
+"search": "lengui languir "
+}
+,
+{
+"id": 1522,
+"titre": "freya",
+"definition": "frayer",
+"type": "verbe",
+"search": "freya frayer "
+}
+,
+{
+"id": 1523,
+"titre": "rega",
+"definition": "frôler",
+"type": "verbe",
+"search": "rega frôler "
+}
+,
+{
+"id": 1524,
+"titre": "yentou",
+"definition": "gens",
+"type": "nom",
+"search": "yentou gens "
+}
+,
+{
+"id": 1525,
+"titre": "eschaurat",
+"definition": "essorer, extravagant, évaporé",
+"type": "verbe et adjectif",
+"search": "eschaurat essorer, extravagant, évaporé "
+}
+,
+{
+"id": 1526,
+"titre": "masera",
+"definition": "dresser des animaux",
+"type": "verbe",
+"search": "masera dresser des animaux"
+}
+,
+{
+"id": 1527,
+"titre": "rega",
+"definition": "frôler",
+"type": "verbe",
+"search": "rega frôler "
+}
+,
+{
+"id": 1528,
+"titre": "affidence",
+"definition": "confiance, assurance, donner foi",
+"type": "nom",
+"search": "affidence confiance, assurance, donner foi "
+}
+,
+{
+"id": 1529,
+"titre": "coulpe",
+"definition": "faute, erreur",
+"type": "nom",
+"search": "coulpe faute, erreur "
+}
+,
+{
+"id": 1530,
+"titre": "habla",
+"definition": "hâbler",
+"type": "verbe",
+"search": "habla hâbler "
+}
+,
+{
+"id": 1531,
+"titre": "garfou",
+"definition": "gâteau des rois (épiphanie ou pâques)",
+"type": "nom",
+"search": "garfou gâteau des rois (épiphanie ou pâques) "
+}
+,
+{
+"id": 1532,
+"titre": "ladre",
+"definition": "ladre",
+"type": "adjectif et nom",
+"search": "ladre ladre "
+}
+,
+{
+"id": 1533,
+"titre": "lauzenqueya",
+"definition": "médire",
+"type": "verbe",
+"search": "lauzenqueya médire "
+}
+,
+{
+"id": 1534,
+"titre": "assegurance",
+"definition": "assurance",
+"type": "nom",
+"search": "assegurance assurance "
+}
+,
+{
+"id": 1535,
+"titre": "masere",
+"definition": "ruine",
+"type": "nom",
+"search": "masere ruine "
+}
+,
+{
+"id": 1536,
+"titre": "mamau",
+"definition": "bobo",
+"type": "nom",
+"search": "mamau bobo "
+}
+,
+{
+"id": 1537,
+"titre": "demerit",
+"definition": "démérite",
+"type": "nom",
+"search": "demerit démérite "
+}
+,
+{
+"id": 1538,
+"titre": "malandreya",
+"definition": "avoir le malandrè, languir, être abattu",
+"type": "verbe",
+"search": "malandreya avoir le malandrè, languir, être abattu "
+},
+{
+"id": 1539,
+"titre": "esbaryu",
+"definition": "qui cause de la peur ; sujet à la peur, ombrageux",
+"type": "adjectif et nom",
+"search": "esbaryu-ade qui cause de la peur ; sujet à la peur, ombrageux"
+},
+{
+"id": 1540,
+"titre": "acoucoula-s",
+"definition": "s’accroupir, se blottir, se pelotonner",
+"type": "verbe",
+"search": "acoucoula-s s’accroupir, se blottir, se pelotonner "
+}
+,
+{
+"id": 1541,
+"titre": "acoucoula",
+"definition": "couvrir, abriter, préserver",
+"type": "verbe",
+"search": "acoucoula couvrir, abriter, préserver "
+},
+{
+"id": 1542,
+"titre": "tume-hus",
+"definition": "sournois, grognon",
+"type": "adjectif et nom",
+"search": "tume-hus -ade sournois, grognon"
+}
+
 ]
