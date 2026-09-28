@@ -2,7 +2,7 @@ import HeroSection from './components/hero/HeroSection'
 import CareerSection from './components/career/CareerSection'
 import FanZoneSection from './components/fanzone/FanZoneSection'
 import Footer from './components/layout/Footer'
-
+import BskSection from './components/BasketSection'
 
 export default function HomePage() {
   return (
@@ -17,6 +17,10 @@ export default function HomePage() {
 
       <section aria-labelledby="fan-zone-heading">
         <FanZoneSection />
+      </section>
+
+            <section aria-labelledby="resume-heading">
+        <BskSection />
       </section>
       <Footer />
     </main>
