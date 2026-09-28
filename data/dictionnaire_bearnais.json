@@ -28063,7 +28063,7 @@
   {
     "id": 4501,
     "titre": "debìlẹ",
-    "definition": "débile mental",
+    "definition": "débil ; mauvaise santé, faible",
     "type": "adjectif et nom",
     "search": "debìlẹ débile mental"
   },
@@ -33763,10 +33763,10 @@
   
  {
     "id": 5367,
-    "titre": "serbitous",
+    "titre": "serbitou",
     "definition": "serviteur",
     "type": "nom masculin",
-    "search": "serbitous serviteur"
+    "search": "serbitou serviteur"
   },
     {
     "id": 5368,
@@ -76935,10 +76935,10 @@
   } ,
    {
     "id": 11982,
-    "titre": "débat",
-    "definition": "debat",
+    "titre": "debat",
+    "definition": "débat",
     "type": "nom masculin",
-    "search": "débat debat"
+    "search": "debat deéat"
   },
     {
     "id": 11983,
@@ -77506,13 +77506,7 @@
     "type": "nom masculin",
     "search": "archiprèste archiprêtre"
   },
-  {
-    "id": 12057,
-    "titre": "canounye",
-    "definition": "chanoine",
-    "type": "nom masculin",
-    "search": "canounye chanoine"
-  },
+
   {
     "id": 12058,
     "titre": "caloumniatoû",
@@ -81716,5 +81710,27 @@
 "definition": "excepter",
 "type": "verbe",
 "search": "excepta excepter"
+}
+,
+{"id": 12571,
+
+"titre": "proupagacioû",
+"definition": "progation",
+"type": "nom féminin",
+"search": "proupagacioû progation"
+},
+{"id": 12572,
+
+"titre": "maledictioû",
+"definition": "malédiction",
+"type": "nom féminin",
+"search": "maledictioû malédiction"
+},
+{"id": 12573,
+
+"titre": "lhéyt",
+"definition": "lit",
+"type": "nom masculin",
+"search": "lhéyt lit"
 }
 ]
