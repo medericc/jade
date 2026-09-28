@@ -45231,9 +45231,9 @@
   {
     "id": 7133,
     "titre": "hica",
-    "definition": "1♦ placer, mettre, introduire. ◊ Qu'ou hiquèn û buletî déns la potche → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinco las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)",
+    "definition": "1♦ placer, mettre, introduire. ◊ Qu'ou hiquèn û buletî déns la pothe → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinco las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)",
     "type": "verbe transitif",
-    "search": "hica 1♦ placer, mettre, introduire. ◊ Qu'ou hiquèn û buletî déns la potche → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinco las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)"
+    "search": "hica 1♦ placer, mettre, introduire. ◊ Qu'ou hiquèn û buletî déns la pothe → ils lui ont mis un bulletin dans sa poche. 2♦ Hica-y → y mettre ; miser. ◊ Hique-y lou dit → mets-y le doigt. ♦ Hica à l'esprabe → mettre à l'épreuve. 3♦ Hica-s verbe pronominal se mettre ; entrer, s'installer dans une maison. ◊ Touts que-s hiquèn en roun → tous se sont mis en rond. ◊ Hique-t en place → mets-toi en place. ◊ Hica-s à case → rentrer chez soi. ♦ Hica-s à → se mettre à. ◊ Que-s hiquè à coùrrẹ → il s'est mis à courir. ♦ Hica-s-y dinco las aurélhes → se donner entièrement (à une affaire) (« jusqu'aux oreilles »)"
   },
   {
     "id": 7134,
@@ -76519,14 +76519,7 @@
     "search": "dibidou divisible"
   },
   
-    {
-    "id": 11930,
-    "titre": "bot",
-    "definition": "vœu",
-    "type": "nom masculib",
-    "search": "bot vœu "
-  }
-  ,
+ 
   
     {
     "id": 11931,
@@ -76748,13 +76741,7 @@
     "type": "nom masculin",
     "search": "departimèn partage"
   },
-    {
-    "id": 11957,
-    "titre": "desparti",
-    "definition": "séparer",
-    "type": "verbe",
-    "search": "desparti séparer"
-  },
+  
     {
     "id": 11958,
     "titre": "desparti",
@@ -81684,7 +81671,50 @@
 
 "titre": "caratache",
 "definition": "simagrées, hypocrisie ; faux visage, masque ♦ Ha carataches → Faire des simagrées",
-"type": "nom féminin",
+"type": "nom masculin",
 "search": "caratache simagrées, hypocrisie ; faux visage, masque"
+},
+{"id": 12565,
+
+"titre": "cirurgie",
+"definition": "chirurgie",
+"type": "nom féminin",
+"search": "cirurgie chirurgie"
+},
+{"id": 12566,
+
+"titre": "countamina",
+"definition": "contaminer",
+"type": "verbe",
+"search": "countamina contaminer"
+},
+{"id": 12567,
+
+"titre": "luxúrie",
+"definition": "luxure",
+"type": "nom féminin",
+"search": "luxúrie luxure"
+},
+{"id": 12568,
+
+"titre": "orienta",
+"definition": "orienter",
+"type": "verbe",
+"search": "orienta orienter"
+},
+{"id": 12569,
+
+"titre": "Pau",
+"definition": "Paul",
+"type": "nom propre",
+"search": "Pau Paul"
+}
+,
+{"id": 12570,
+
+"titre": "excepta",
+"definition": "excepter",
+"type": "verbe",
+"search": "excepta excepter"
 }
 ]
