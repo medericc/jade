@@ -11,7 +11,7 @@ export const worldData = {
     sections: [
       {
         titre: "La Primauté de Saint Pierre",
-         titrebe: "La Primat de Sén Pé",
+         titrebe: "La Primesse de Sén Pé",
        
           
        fr: (         <p>
@@ -42,7 +42,7 @@ Despuch 2000 ans, la Glèyse trenque lous errous per las soûes decisioûs (coum
       },
        {
         titre: "Écriture, Tradition et Magistère",
-          titrebe: "Escrìbe, Tradicioû e Magisteri",
+          titrebe: "Escriut, Tradicioû e Magistèri",
        
           
        fr: (         <p>
@@ -60,7 +60,7 @@ La fé repause sus trés pialâs : l’Escriut, doun lou canoû estou fixat p'ou
       },
        {
         titre: "Les Signes Visibles de la Foi",
-          titrebe: "Lous Sìnnẹs Bistables de la Fè",
+          titrebe: "Lous Sìnnes Bistables de la Fè",
        
           
        fr: (         <p>
@@ -92,7 +92,7 @@ Marie est une créature que Jésus nous donne comme mère (Jean 19,26-27), chois
       },
       {
         titre: "De Jérusalem à la Rome Chrétienne",
-             titrebe: "De Jérusalem à la Rome Crestiàne",
+             titrebe: "De Yérusalem à la Roume Crestiane",
        
           
        fr: (         <p>
@@ -140,7 +140,7 @@ Princesse burgonde née vers 475 à Lyon, sainte Clotilde voit ses parents et se
       {
         titre: "Le traité d'Andelot de 587",
        
-           titrebe: "Lou Tratat d'Andelot de 587",
+           titrebe: "Lou Trettat d'Andelo de 587",
         
         fr: (        <p>
  L'Espagnole Brunehaut devient reine d'Austrasie (et de fait reine de France) et voit sa sœur, Galswinthe, tuée par Frédégonde. La faide royale débute alors, et le mari de Brunehaut, Sigebert, est à son tour tué par Frédégonde. En 587, au nom de sa sœur, Brunehaut obtient la juridiction sur le Béarn après la mort de saint Gontran, en vertu du traité d’Andelot. Ensuite, elle épouse le beau-fils de Frédégonde, Mérovée, mais Frédégonde fait tuer ce dernier, ainsi que le fils et la belle-fille de Brunehaut. Très intelligente, Brunehaut restaure les voies romaines, veut centraliser le royaume et converse directement avec le pape ou encore avec l'Empire byzantin. Cependant, les grands seigneurs se dressent contre cette politique de centralisation : ils tuent une partie de sa famille puis la mettent elle-même à mort de façon atroce.
@@ -155,7 +155,7 @@ Princesse burgonde née vers 475 à Lyon, sainte Clotilde voit ses parents et se
       },
        {
         titre: "Les Crimes de la Reine Frédégonde",
-         titrebe: "Lous Crìmis de la Rèyne Frédégonde",
+         titrebe: "Lous Crìmis de la Réyne Fredegounde",
        
           
         fr: (        <p>
@@ -172,7 +172,7 @@ Frédégonde prouboque la desgràci de la reyne Audovère ta préne la soûe pla
        {
         titre: "Sainte Bathilde, l'Esclave devenue Reine",
        
-         titrebe: "Sénte Bathilde, la Sclabe debiénude Rèyne",
+         titrebe: "Sénte Bathilde, l'Esclabe debiénude Réyne",
          
         fr: (        <p>
 La reine Bathilde naît en Saxe vers 626. Capturée dans sa jeunesse, elle est réduite à l’esclavage (St Grégoire de Nysse, Père de l’Église, condamnait l’esclavage au IVe siècle dans son homélie de l'Ecclésiaste 2,7, Lactance dira de racheter les captifs, ce que l'Église fera). Achetée par le maire du palais Erchinoald (Archambault), elle gagne rapidement l'estime du roi Clovis II (petit-fils de Clotaire II, qui vainquit Frédégonde, et fils de Dagobert) et l’épouse. À la mort de son mari, elle assure la régence du royaume. Au niveau judiciaire chez les Francs, la vie d’une femme respectable et en âge d’avoir des enfants valait deux fois celle d’un homme, et jusqu’à trois fois si elle était enceinte. Elle interdit alors la vente d’esclaves chrétiens sur les marchés des Francs, conformément aux conciles catholiques. Elle supprime également la capitation (un impôt prélevé dès la naissance, puisque selon le catholicisme l’enfant est un être humain, ce qui mettait en danger les familles précaires qui ne pouvaient plus vouer leur enfant à l’esclavage) pour aider à vivre, à l’opposé des États modernes qui aident à mourir en appuyant la badauderie, la musardise et le sybaritisme (pour acagnarder le peuple). De plus, elle favorise une profonde réforme du clergé en luttant contre la simonie, suivant les décrets du concile de Chalon. Plus tard, elle se retire au monastère de Chelles qu’elle a elle-même fondé (et qui sera détruit par la Révolution). Elle reste la dernière grande personnalité mérovingienne à exercer l'autorité, puisqu'Ébroïn, maire du palais de Neustrie, a pris le pouvoir. Il rentrera en conflit avec les Pippinides, et son fils perdra la bataille de Tertry contre Pépin de Herstal (imposant son autorité sur le royaume franc). À la mort de Thierry III (fils de Bathilde), c'est Pépin qui décide du roi. Les descendants de Pépin, appuyés par la femme et la concubine de Pépin, se disputeront la succession, et Charles Martel (fils d'Alpaïde sa maîtresse) l'emportera. 
@@ -214,7 +214,7 @@ Hilhe dou coùmpte saxoû Théodoric, Mathilde bat de cap à 895 e grandi au cou
       },
       {
         titre: "La première dramaturge de l'Europe",
-        titrebe: "La purmère dramaturge de l'Europe",
+        titrebe: "La purmère dramadouse de l'Europe",
        
           
         fr: (        <p>
@@ -232,7 +232,7 @@ Hrotsvitha devient chanoinesse au monastère saxon de Gandersheim. Elle écrit d
 
        {
         titre: "La Confession d'Agnès d'Aquitaine",
-          titrebe: "La Counfessioû d'Agnès d'Aquitaine",
+          titrebe: "La Couhèsse d'Agnès d'Aquitanie",
        
           
         fr: (        <p>
@@ -266,7 +266,7 @@ Hilhe de Béatrice de Bar, Mathilde de Toscane reçèu ûe grane enstruccioû, a
       },
        {
         titre: "Blanche de Castille, Régente Ferme",
-         titrebe: "Blanche de Castille, Reyénte Hèrme",
+         titrebe: "Blanque de Castilhe, Reyénte Réme",
        
           
       fr: (       <p>
@@ -285,7 +285,7 @@ L’enteliyénce douréque de Blanque de Castille qu'ou permet d'esta chauside p
       },
        {
         titre: "L'Exclusion des Femmes du Trône",
-          titrebe: "L'Esclousioû de las Hémbles dou Troune",
+          titrebe: "L'Esclousioû de las Hémbles de la Couroune",
        
           
         fr: (     <p>
@@ -317,7 +317,7 @@ Isabelle de France, reyne d'Angletèrre e hilhe de Philippe IV, s'abisè pendén
       
  {
         titre: "Philippe IV : Politique et Finances",
-          titrebe: "L'Esclousioû de las Hémbles dou Troune",
+          titrebe: "Philippe IV : Poulitique e Finances",
        
           
         fr: (     <p>
@@ -353,8 +353,8 @@ Née vers 1412 à Domrémy ("maison du baptiseur de Clovis"), Jeanne d'Arc, qui 
       },
 
         {
-        titre: "Jeanne d'Arc Reine de France",
-          titrebe: "Lous Succès Militàris de Yane",
+        titre: "Jeanne d'Arc, Reine de France",
+          titrebe: "Yane d'Arc, Réyne de France",
        
           
       fr: (          <p>
@@ -374,7 +374,7 @@ Le 17 juillet 1429, à Reims, Jeanne demande au roi de lui remettre symboliqueme
      
         {
         titre: "La Justice Morale d'Isabelle",
-        titrebe: "La Yustìce Mourale d'Isabelle",
+        titrebe: "La Yustìci Mourale d'Isabel",
        
           
        fr: (      <p>
@@ -417,7 +417,7 @@ Yusèp Nasi (banquiè yudiu acassat d’Ibérie qui s’escapera d’Anvers oun 
 
      
       {
-        titrebe: "L'Autouritat de la Rèyne-May",
+        titrebe: "L'Autouritat de la Réyne-May",
          titre: "L'Autorité de la Reine-Mère",
        
           
@@ -436,7 +436,7 @@ Yusèp Nasi (banquiè yudiu acassat d’Ibérie qui s’escapera d’Anvers oun 
       {
         titre: "De Médicis aux Idéologies Modernes",
        
-         titrebe: "De Médicis aus Ideoulouyìes Moudernes",
+         titrebe: "De Médicis aus Ideoulouyies Moudernes",
        
           
        fr: (      <p>
@@ -453,7 +453,7 @@ La Cataline de Médicis, a dade la loctenénce yenerale à Bourbon (l'òmi de Ya
        {
            titre: "Les Coulisses de la Diplomatie Anglaise",
        
-        titrebe: "Las Coulisses de la Diploumacìe Anglése",
+        titrebe: "Las Coulisses de la Diploumacie Anglése",
        
           
       fr: (       <p>
@@ -468,7 +468,7 @@ Dans son discours à Tilbury face à l’Armada espagnole, Élisabeth Iʳᵉ (so
         
       },
        {
-        titrebe: "Madeleine de Miremont au Coumbat",
+        titrebe: "Madelene de Miremoû au Coumbat",
          titre: "Madeleine de Miremont au Combat",
        
           
@@ -501,7 +501,7 @@ Gabriel Nicolas de La Reynie, pay de la poulìce moudèrne, qu'éy encargat de l
         
       },
       {
-        titrebe: "De l'Esclabatàdye African à la Missioû",
+        titrebe: "De l'Esclabàdye Africâ à la Missioû",
        
            titre: "De l'Esclavage Africain à la Mission",
        
@@ -533,7 +533,7 @@ Les Britanniques, protestants, possédaient les Treize Colonies et Terre-Neuve, 
         
       },
       {
-        titrebe: "La Resistence de Pontiac countre lous Anglés",
+        titrebe: "La Resisténce de Pontiac countre lous Anglés",
         titre: "La Résistance de Pontiac face aux Anglais",
        
           
@@ -558,7 +558,7 @@ Après la batalhe de las Planes d'Abraham (1759), la France sinne lou trettat de
     image: "/images/histoire/antiquite.jpg",
     sections: [
 {
-        titrebe: "Lous Hialats d'Enfluence Euroupéens",
+        titrebe: "Lous Hialats d'Enfluence Europeâs",
         titre: "Les Réseaux d'Influence Européens",
        
           
@@ -608,7 +608,7 @@ Le divorce est autorisé par la Révolution (après le roi, le père de famille)
       },
 
        {
-        titrebe: "Lou Martìri dou Frère Saloumou",
+        titrebe: "Lou Martìri dou Ray Saloumoû",
        
             titre: "Le Martyre du Frère Salomon",
        
@@ -658,7 +658,7 @@ Guillaume-Nicolas-Louis Leclercq (en religion Frère Salomon) naît à Boulogne-
           
         
       },  {
-        titrebe: "Que cau Arrasa la Vendée",
+        titrebe: "Que cau Rasa la Vendée",
          titre: "Il Faut Raser la Véndée",
        
           
@@ -688,7 +688,7 @@ Le 1er août 1793, la République naissante est en danger. ”On ne peut pas cha
     sections: [
       
       {
-        titrebe: "Militantes Crestiànes debath la Rebouluciou",
+        titrebe: "Militantes Crestianes debath la Rebouluciou",
        
             titre: "Militantes Chrétiennes sous la Révolution",
        
@@ -734,7 +734,7 @@ Nauau hilhe de l’emperatrìs Marie-Thérèse d'Autriche, Marie-Antoinette debi
         
       },
        {
-        titrebe: "La Loère, Bagnere Naciounau Republicàne",
+        titrebe: "La Loère, Bagnadére Naciounale Republicane",
          titre: "La Loire, Baignoire Nationale Républicaine",
        
           
@@ -750,7 +750,7 @@ La Loère a serbit de « bagnadére naciounau » ta la « race maudite » vendee
       },
        {
         titre: "Mourir plutôt que la République",
-        titrebe: "Mouri meyleu que la Republique",
+        titrebe: "Mouri méyléu qui la Republique",
        
           
      fr: (        <p>
@@ -765,7 +765,7 @@ Après lou depart dous loûes mèstes, Madeleine Virol, simple hémble de crampe
       },
        {
         titre: "Élisabeth de France, servante de Dieu",
-        titrebe: "Élisabeth de France, Gouye de Diu",
+        titrebe: "Élisabeth de France, serbiciale de Diu",
        
           
        fr: (      <p>
@@ -781,7 +781,7 @@ Sœur cadette de Louis XVI, Élisabeth de France perd ses parents très jeune et
       },
       {
         titre: "Le Coup d'État Anti-Royaliste",
-         titrebe: "Lou Cop d'Estat Coùntrẹ-Rouyaliìste",
+         titrebe: "Lou Cop d'Estat Coùntre-Reyalìste",
        
           
       fr: (       <p>
@@ -826,7 +826,7 @@ Henri Planchat est le premier prêtre à rejoindre la jeune congrégation des Re
      
       {
         titre: "L'Alliance Israélite et la Franc-Maçonnerie",
-         titrebe: "L'Aliànce Isuraelite e la Franc-Maçounerie",
+         titrebe: "L'Aliànce Israelite e la Franc-Maçounerie",
        
           
        fr: (      <p>
@@ -877,7 +877,7 @@ Mère Teresa entre à l'âge de dix-huit ans chez les sœurs de Lorette en Irlan
 
   {
         titre: "Chute de la Monarchie au Portugal",
-         titrebe: "Cadude de la Mounarquìe au Pourtugau",
+         titrebe: "Cadude de la Mounarquie au Pourtugau",
        
           
     fr: (        <p>
@@ -920,7 +920,7 @@ Après las aparicioûs e las proufessìs de Fatima (Amélia 19 ans éy au purgat
 
        {
         titre: "Démocratie en Bas, Monarchie en Haut",
-         titrebe: "Democracie cabbath, Mounarquìe au soum",
+         titrebe: "Democracie cabbath, Mounarquie au soum",
        
           
       fr: (      <p>
