@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 
 // Search Console
 
-const siteUrl = 'https://www.ton-domaine.fr'
+const siteUrl = 'https://www.jadecelerierbearn.com'
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

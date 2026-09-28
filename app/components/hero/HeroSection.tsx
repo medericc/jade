@@ -17,7 +17,7 @@ export default function HeroSection() {
 
         <PlayerSpotlight />
 
-        <div className={`${styles.heroBottom} fade-up`}>
+        <div className={`${styles.heroBottom} fade-up z-99`}>
           <blockquote>
             “Après la pluie viendra le soleil”
           </blockquote>
