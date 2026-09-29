@@ -364,7 +364,7 @@ window.history.replaceState(null, '', `#${s.key}`)
               <p>
                 Radical + i, es, forme variable, ém, ét, ẹn.
               </p>
-               <p>forme variable : si -b, -d, -s, -l, -z la lettre change : b devient u (bébẹ « boire »   → béu) ou p (sabé → sap) ; z devient s (debèrzẹ « digérer »   → debèrs), mais aucun si –gn, –lh, –m, -n, -p, -r, -t, -y   </p>
+               <p>forme variable : si -b, -d, -s, -l, -z la lettre change : b devient u (bébẹ « boire »   → béu), p (sabé → sap) ou z devient s (debèrzẹ « digérer »   → debèrs), mais aucun si –gn, –lh, –m, -n, -p, -r, -t, -y   </p>
           </Card>
 
             <Card title="3e groupe" icon="📖">

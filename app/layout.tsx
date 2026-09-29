@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Découvrez Jade Célérier, sa carrière dans le basket, ainsi que des ressources pour apprendre le béarnais : cours, conjugaison, dictionnaire et culture du Béarn et du Monde dans la Vérité.",
+    "Jade Célérier, sa carrière de basket, ainsi que des ressources pour apprendre le béarnais : cours, conjugaison, dictionnaire, culture du Béarn et du Monde dans la Vérité.",
 
   applicationName: 'Jade Célérier',
 
