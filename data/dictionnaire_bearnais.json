@@ -81762,4 +81762,18 @@
 "type": "conjuguaison",
 "search": "soufréch souffre (3e personne du présent)"
 }
+,
+{"id": 12579,
+
+"titre": "sanetat",
+"definition": "salubrité",
+"type": "nom féminin",
+"search": "sanetat salubrité"
+},{"id": 12580,
+
+"titre": "croumpes",
+"definition": "courses (magasin)",
+"type": "nom féminin pluriel",
+"search": "croumpes courses (magasin)"
+}
 ]
