@@ -429,7 +429,7 @@ window.history.replaceState(null, '', `#${s.key}`)
               <Card title="Futur du Passé" icon="🔮">
                    <p>3e personne du passé simple + -r + i, ẹs, ẹ, -ẹm, ẹt, ẹn</p>
         <p>
-        À utiliser après une proposition subordonnée introduite par « si » ou « que » avec un verbe au passé. S&apos;il est au présent, il faut utiliser le futur. </p>
+        À utiliser après une proposition subordonnée introduite par « si » ou « que » avec un verbe au passé. S&apos;il est au présent, il faut utiliser le conditionnel ou le futur. </p>
     
     <p>
          Exemple : Je savais que tu mangerais tout → Que sabi que-t-at minyèrẹs tout.   </p>
