@@ -24393,7 +24393,7 @@
   {
     "id": 3942,
     "titre": "countracepcioû",
-    "definition": "contraception",
+    "definition": "contraception (péché mortel criant vers le ciel)",
     "type": "nom féminin",
     "search": "countracepcioû contraception"
   },
@@ -51853,7 +51853,7 @@
   {
     "id": 8206,
     "titre": "misèri",
-    "definition": "misère",
+    "definition": "misère ♦ l'amic qu'éy l'òmi de la misèri. → l'ami est l'homme qui est présent dans la misère (pas celui qui conseille l'euthanasie).",
     "type": "nom féminin",
     "search": "misèri misère"
   },
@@ -75409,7 +75409,7 @@
     "titre": "bàse",
     "definition": "vase",
     "type": "nom masculin",
-    "search": "bàse bvase"
+    "search": "bàse vase"
   },
   {
     "id": 11770,
@@ -81685,10 +81685,10 @@
 },
 {"id": 12568,
 
-"titre": "orienta",
+"titre": "ourienta",
 "definition": "orienter",
 "type": "verbe",
-"search": "orienta orienter"
+"search": "ourienta orienter"
 },
 {"id": 12569,
 
@@ -81776,4 +81776,518 @@
 "type": "nom féminin pluriel",
 "search": "croumpes courses (magasin)"
 }
+
+
+
+
+
+
+
+
+,{"id": 12581,
+
+"titre": "boutanique",
+"definition": "botanique",
+"type": "nom féminin",
+"search": "boutanique botanique"
+}
+,{"id": 12582,
+
+"titre": "anatomie",
+"definition": "anatomie",
+"type": "nom féminin",
+"search": "anatomie anatomie"
+}
+,{"id": 12583,
+
+"titre": "algèbre",
+"definition": "algèbre",
+"type": "nom masculin",
+"search": "algèbre algèbre"
+}
+,{"id": 12584,
+
+"titre": "centralisa",
+"definition": "centraliser",
+"type": "verbe",
+"search": "centralisa centraliser"
+}
+,{"id": 12585,
+
+"titre": "matematiciâ, ane",
+"definition": "mathématicien",
+"type": "nom masculin",
+"search": "matematiciâ mathématicien"
+}
+
+,{"id": 12586,
+
+"titre": "reflexe",
+"definition": "réflexe",
+"type": "nom masculin",
+"search": "reflexe réflexe"
+},{"id": 12587,
+
+"titre": "pedagogie",
+"definition": "pedagogie",
+"type": "nom féminin",
+"search": "pedagogie pedagogie"
+}
+,{"id": 12588,
+
+"titre": "alienan, te",
+"definition": "aliénant",
+"type": "adjectif",
+"search": "alienante aliénant"
+}
+,{"id": 12589,
+
+"titre": "cadéncie",
+"definition": "cadence",
+"type": "nom féminin",
+"search": "cadéncie cadence"
+}
+
+
+
+
+
+
+
+
+
+,{"id": 12590,
+
+"titre": "superpausa",
+"definition": "superposer",
+"type": "verbe",
+"search": "superpausa superposer"
+}
+,{"id": 12591,
+
+"titre": "atira",
+"definition": "attirer",
+"type": "verbe",
+"search": "atira attirer"
+}
+,{"id": 12592,
+
+"titre": "sériciculture",
+"definition": "sericiculture",
+"type": "nom féminin",
+"search": "sériciculture sericiculture "
+}
+
+,{"id": 12593,
+
+"titre": "Indie",
+"definition": "Inde",
+"type": "nom propre",
+"search": "Indie Inde"
+}
+
+,{"id": 12594,
+
+"titre": "Olande",
+"definition": "Hollande",
+"type": "nom propre",
+"search": "Olande Hollande"
+},{"id": 12595,
+
+"titre": "circulacioû",
+"definition": "circulation",
+"type": "nom féminin",
+"search": "circulacioû circulation"
+}
+,{"id": 12596,
+
+"titre": "coalicioû",
+"definition": "coalition",
+"type": "adjectif",
+"search": "coalicioû coalition"
+}
+,{"id": 12597,
+
+"titre": "discriminatòri, -ie",
+"definition": "discriminatoire",
+"type": "adjectif",
+"search": "discriminatòri  discriminatoire"
+}
+
+
+
+,{"id": 12598,
+
+"titre": "sancciona",
+"definition": "sanctionner",
+"type": "verbe",
+"search": "sancciona  sanctionner"
+}
+
+
+,{"id": 12599,
+
+"titre": "trimèstre",
+"definition": "trimestre",
+"type": "nom masculin",
+"search": "trimèstre  trimestre"
+}
+
+,{"id": 12600,
+
+"titre": "fetichiste",
+"definition": "fétichiste",
+"type": "nom masculin",
+"search": "fetichiste  fétichiste"
+}
+,{"id": 12601,
+
+"titre": "maçounnic, que",
+"definition": "maçonnique",
+"type": "adjectif",
+"search": "maçounnic  maçonnique"
+}
+,{"id": 12602,
+
+"titre": "hourmata",
+"definition": "formater",
+"type": "verbe",
+"search": "hourmata  formater"
+}
+
+
+,{"id": 12603,
+
+"titre": "patrioutic, que",
+"definition": "patriotique",
+"type": "adjectif",
+"search": "patrioutic  patriotique"
+}
+,{"id": 12604,
+
+"titre": "collaboracioû",
+"definition": "collaboration",
+"type": "nom féminin",
+"search": "collaboracioû  collaboration"
+},
+{"id": 12605,
+
+"titre": "fournicacioû",
+"definition": "fornication (péché mortel)",
+"type": "nom féminin",
+"search": "fournicacioû  fornication (péché mortel)"
+},
+{"id": 12606,
+
+"titre": "sodomie",
+"definition": "sodomie (péché mortel criant à la face de Dieu, la Vie)",
+"type": "nom féminin",
+"search": "sodomie  sodomie (péché mortel criant à la face de Dieu, la Vie)"
+}
+
+
+
+
+,{"id": 12607,
+
+"titre": "eficace",
+"definition": "efficace",
+"type": "adjectif",
+"search": "eficace  efficace"
+}
+,{"id": 12608,
+
+"titre": "croucoudil",
+"definition": "crocodile",
+"type": "nom masculin",
+"search": "croucoudil  crocodile"
+},
+{"id": 12609,
+
+"titre": "magistèri",
+"definition": "magistère",
+"type": "nom masculin",
+"search": "magistèri  fornication (péché mortel)"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,{"id": 12610,
+
+"titre": "entrouduccioû",
+"definition": "introduction",
+"type": "nom féminin",
+"search": "entrouduccioû introduction"
+}
+,{"id": 12611,
+
+"titre": "amnistia",
+"definition": "amnistier",
+"type": "verbe",
+"search": "amnistia amnistier"
+}
+,{"id": 12612,
+
+"titre": "perturba",
+"definition": "perturber",
+"type": "verbe",
+"search": "perturba perturber"
+}
+,{"id": 12613,
+
+"titre": "simboulisa",
+"definition": "symboliser",
+"type": "verbe",
+"search": "simboulisa symboliser"
+}
+,{"id": 12614,
+
+"titre": "eutanasie",
+"definition": "euthanasie",
+"type": "nom féminin",
+"search": "eutanasie euthanasie"
+}
+
+,{"id": 12615,
+
+"titre": "proupagacioû",
+"definition": "propagation",
+"type": "nom féminin",
+"search": "proupagacioû propagation"
+},{"id": 12616,
+
+"titre": "patrounat",
+"definition": "patronat",
+"type": "nom masculin",
+"search": "patrounat patronat"
+}
+,{"id": 12617,
+
+"titre": "ierarquie",
+"definition": "hiérarchie",
+"type": "adjectif",
+"search": "ierarquie hiérarchie"
+}
+,{"id": 12618,
+
+"titre": "luciditat",
+"definition": "lucidité",
+"type": "nom féminin",
+"search": "luciditat lucidité"
+}
+
+
+
+
+
+
+
+
+
+,{"id": 12619,
+
+"titre": "poularitat",
+"definition": "polarité",
+"type": "nom féminin",
+"search": "poularitat polarité"
+}
+,{"id": 12620,
+
+"titre": "anoubli",
+"definition": "anoblir",
+"type": "verbe",
+"search": "anoublit anoblir"
+}
+,{"id": 12621,
+
+"titre": "repressioû",
+"definition": "répression",
+"type": "nom féminin",
+"search": "repressioû répression "
+}
+,{"id": 12622,
+
+"titre": "prouyectioû",
+"definition": "projection",
+"type": "nom féminin",
+"search": "prouyectioû projection"
+}
+,{"id": 12623,
+
+"titre": "coullectiu, be",
+"definition": "collectif",
+"type": "adjectif",
+"search": "coullectiu collectif"
+}
+
+,{"id": 12624,
+
+"titre": "deporta",
+"definition": "déporter",
+"type": "verbe",
+"search": "deporta déporter"
+},{"id": 12625,
+
+"titre": "proufana",
+"definition": "profaner",
+"type": "verbe",
+"search": "proufana profaner"
+}
+
+,{"id": 12626,
+
+"titre": "luxùrie",
+"definition": "luxure",
+"type": "nom féminin",
+"search": "luxùrie luxure"
+}
+
+
+
+,{"id": 12627,
+
+"titre": "sancciona",
+"definition": "sanctionner",
+"type": "verbe",
+"search": "sancciona  sanctionner"
+}
+
+
+,{"id": 12628,
+
+"titre": "actitude",
+"definition": "attitude",
+"type": "nom féminin",
+"search": "actitude  attitude"
+}
+
+,{"id": 12629,
+
+"titre": "countamina",
+"definition": "contaminer",
+"type": "verbe",
+"search": "countamina  contaminer"
+}
+,{"id": 12630,
+
+"titre": "touleràncie",
+"definition": "tolérance",
+"type": "adjectif",
+"search": "touleràncie  tolérance"
+}
+,{"id": 12631,
+
+"titre": "dòctrine",
+"definition": "doctrine",
+"type": "nom féminin",
+"search": "dòctrine  doctrine"
+}
+
+
+,{"id": 12632,
+
+"titre": "bassalitat",
+"definition": "vassalité",
+"type": "nom féminin",
+"search": "bassalitat  vassalité"
+}
+
+
+
+,{"id": 12633,
+
+"titre": "soufisme",
+"definition": "sophisme",
+"type": "nom masculin",
+"search": "soufisme  sophisme"
+},
+{"id": 12634,
+
+"titre": "catar",
+"definition": "cathare",
+"type": "nom commun",
+"search": "catar  cathare"
+},
+{"id": 12635,
+
+"titre": "liturgie",
+"definition": "liturgie",
+"type": "nom féminin",
+"search": "liturgie  liturgie"
+}
+
+
+
+
+,{"id": 12636,
+
+"titre": "milenàri",
+"definition": "millénaire",
+"type": "nom et adjectif",
+"search": "milenàri  millénaire"
+}
+,{"id": 12637,
+
+"titre": "paralogisme",
+"definition": "paralogisme",
+"type": "nom masculin",
+"search": "paralogisme  paralogisme"
+},
+{"id": 12638,
+
+"titre": "fanatic, que",
+"definition": "fanatique",
+"type": "nom et adjectif",
+"search": "fanatic  fanatique"
+},
+{"id": 12639,
+
+"titre": "pragmatic, que",
+"definition": "pragmatique",
+"type": "nom et adjectif",
+"search": "pragmatic  pragmatique"
+},
+{"id": 12640,
+
+"titre": "fanatisme",
+"definition": "fanatisme",
+"type": "nom masculin",
+"search": "fanatisme  fanatisme"
+},
+{"id": 12641,
+
+"titre": "precèpte",
+"definition": "précepte",
+"type": "nom masculin",
+"search": "precèpte  précepte"
+}
+,
+{"id": 12642,
+
+"titre": "afourisme",
+"definition": "aphorisme",
+"type": "nom masculin",
+"search": "precèpte  aphorisme"
+}
+
+
 ]
