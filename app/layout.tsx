@@ -1,6 +1,6 @@
 import './globals.css'
 import type { Metadata } from 'next'
-
+import Script from 'next/script'
 
 // Search Console
 
@@ -89,8 +89,10 @@ export default function RootLayout({
   return (
     <html lang="fr">
 
-      <head></head>
-      <body>{children}</body>
+      <body>
+        
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-Q5FNLCZYQ9" strategy="afterInteractive" /> <Script id="google-analytics" strategy="afterInteractive"> {` window.dataLayer = window.dataLayer || []; function gtag(){window.dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q5FNLCZYQ9'); `} </Script>
+        {children}</body>
     </html>
   )
 }
