@@ -39,35 +39,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.85,
     },
-    {
-      url: `${base}/apprendre/culture/theologie/augustin`,
-      changeFrequency: 'yearly',
-      priority: 0.7,
-    },
-    {
-      url: `${base}/apprendre/culture/theologie/catherine`,
-      changeFrequency: 'yearly',
-      priority: 0.7,
-    },
-    {
-      url: `${base}/apprendre/culture/theologie/hildegarde`,
-      changeFrequency: 'yearly',
-      priority: 0.7,
-    },
-    {
-      url: `${base}/apprendre/culture/theologie/therese`,
-      changeFrequency: 'yearly',
-      priority: 0.7,
-    },
-    {
-      url: `${base}/apprendre/culture/theologie/thomasdaquin`,
-      changeFrequency: 'yearly',
-      priority: 0.7,
-    },
-     {
-      url: `${base}/apprendre/culture/theologie/mariage`,
-      changeFrequency: 'yearly',
-      priority: 0.7,
-    },
+    
   ]
 }

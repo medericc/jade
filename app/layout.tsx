@@ -88,6 +88,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
+
+      <head></head>
       <body>{children}</body>
     </html>
   )
