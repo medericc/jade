@@ -88,7 +88,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
-
+<head><meta name="google-site-verification" content="l8_gaBQf59Fvxp2in8pG_2PHUy3k3nAA5yD8GUbirX0" /></head>
       <body>
         
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-Q5FNLCZYQ9" strategy="afterInteractive" /> <Script id="google-analytics" strategy="afterInteractive"> {` window.dataLayer = window.dataLayer || []; function gtag(){window.dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q5FNLCZYQ9'); `} </Script>
