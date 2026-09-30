@@ -81578,13 +81578,7 @@
 "type": "nom propre",
 "search": "Poulougne Pologne"
 },
-{"id": 12553,
 
-"titre": "fanatic",
-"definition": "fanatique",
-"type": "nom masculin",
-"search": "fanatic fanatique"
-},
 {"id": 12554,
 
 "titre": "fanatisa",
@@ -81648,13 +81642,7 @@
 "type": "nom féminin",
 "search": "hourrou horreur"
 },
-{"id": 12563,
 
-"titre": "touleràncie",
-"definition": "tolérance",
-"type": "nom féminin",
-"search": "touleràncie tolérance"
-},
 {"id": 12564,
 
 "titre": "caratache",
@@ -81916,13 +81904,6 @@
 
 
 
-,{"id": 12598,
-
-"titre": "sancciona",
-"definition": "sanctionner",
-"type": "verbe",
-"search": "sancciona  sanctionner"
-}
 
 
 ,{"id": 12599,
@@ -82007,7 +81988,7 @@
 "titre": "magistèri",
 "definition": "magistère",
 "type": "nom masculin",
-"search": "magistèri  fornication (péché mortel)"
+"search": "magistère  magistèri"
 }
 
 
@@ -82067,13 +82048,7 @@
 "search": "eutanasie euthanasie"
 }
 
-,{"id": 12615,
-
-"titre": "proupagacioû",
-"definition": "propagation",
-"type": "nom féminin",
-"search": "proupagacioû propagation"
-},{"id": 12616,
+,{"id": 12616,
 
 "titre": "patrounat",
 "definition": "patronat",
@@ -82133,10 +82108,10 @@
 }
 ,{"id": 12623,
 
-"titre": "coullectiu, be",
+"titre": "coulectiu, be",
 "definition": "collectif",
 "type": "adjectif",
-"search": "coullectiu collectif"
+"search": "coulectiu collectif"
 }
 
 ,{"id": 12624,
@@ -82226,15 +82201,7 @@
 "definition": "cathare",
 "type": "nom commun",
 "search": "catar  cathare"
-},
-{"id": 12635,
-
-"titre": "liturgie",
-"definition": "liturgie",
-"type": "nom féminin",
-"search": "liturgie  liturgie"
 }
-
 
 
 
