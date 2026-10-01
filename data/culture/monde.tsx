@@ -36,7 +36,7 @@ Depuis 2000 ans, l’Église tranche les erreurs par ses décisions (comme l'ins
 
 
 </p>     ), be: (  <p>
-Despuch 2000 ans, la Glèyse trenque lous errous per las soûes decisioûs (coum l'enstitucioû dous diacres héns Àctes 6, lou celibat dous caperas en l’an 306 — ta-s counsacra totalamèn a las soûes aoulhes (Matthièu 19, 27, 1 Corinthiens 7) —, la Bible à la fî dou IVau sècle) e lous soûs councìlis (dou purmè à Jérusalem déns Àctes 15 de cap à l’an 50 dinco Vatican II en 1965). Maugrat las enfiltracioûs istouriques — de Yuda aus òmis denounçats per Sén Pi 10 qui hèn semblan d’abé la fé ta troumpa lous sìmples, en passan p'ou Père de la Glèyse Sén Irénée qu’espiabe lous qui parlaben d’û aùte Crist, ûgn-aùte Père de la Glèyse Sén Cyrille qu’abisabe coùntre lous menistres qui separaben la fé per calculs aciu-bach ou lous abats de la Reboulucioû ou encoère au 20au sècle, l'abèsque Marcinkus (directoû de la banque dou Vatican) déns l'escandal P2 (guèrre entér lòdyes) per lou maçoû Calvi. Ne-s desmente pas jaméy maugrat la grane densitat dous councìlis (coum Nicée en 325, amassat per Constantin ta la pats de l'Empìre, éth-medich chic toucat per la teoloyie) qui-s hiden s'ous Père de la Glèyse, goardiâs dous ensegnaméns dou Crist ta destinga la bertadère doctrìne de las eresies de cap à la gnose (hicat en goarde per 1 Timothée 4, 2-3) dous Àctes dap Simoû lou Mayicien (esoterìsme mian sectes oun bioula las lèys mourales d'aquéste moùnde seré ûe fayçoû de se-n libera, lou moùnde « estan ûe obre dou Malî ») qui bòu abé lou poudé dous apòstoles coùntre sos (deya de l’esotero-lucratìf anti-Crist), l’islam dap Mahomet (qui-ns apère “moùnde dou lìbe” en parlan d’û se-disén Ebanyeli), lou mormonìsme dap Smith (qui emplegue la bible Louis Segond mau traduside dap û canoû qui seguech lous yudìus, après lou Crist qu’an perdut l’autouritat, parabole dous bignès), lou donatìsme dap Constantin que debè goarda la pats ou encoère la doùble predestinacioû de Calvî (refusat permou que Diu qu'éy coum au miéy d’ûe sfere, bèt touts lous noùstes camîs e counech lous noùstes choès chéns nous oubliga) basade sus la Bible, toutes dechade per Diu tad û méy gran bé (chens Luther — pas King l’adultèri més l’aleman — pas de Sén Bellarmin…). Que debem tribalha tau salut dou méy gran noùmbre, aco ray dou countexte, qu’em las mâs de Diu sus la Terre. Tad aco ha, que cau segui la luts qu’éy la Glèyse dibino-umane, féble p’ou lìbre arbìtre dous soûs mèmbres (û abèsque argentî refusè la coumunioû  héns la bouque en 2026 countre la nòrme), mé doun la fé demoure sancerre p'ou sanc dou Cruficiat e la soûe pregari tau Pape, à l’imàdye de la double nature dou Crist. Ûe fé à ne pas perberti. Àd aquéth coùmpte, l'û pouderé tourna batia Marianne "Jules" permou qu’ous rebouluciounàris que-s referaben à la Republique roumane ; ûgn-aùte, decidi qui cau canta La Parisienne meylèu que La Marselhese permou que la capitale éy Paris ; û tresau coumbineré lous dus ta basti "Lou Jules e la Parisienne". Que y aberé trés entitats proutestantes.
+Despuch 2000 ans, la Glèyse trenque lous errous per las soûes decisioûs (coum l'enstitucioû dous diacres héns Àctes 6, lou celibat dous caperas en l’an 306 — ta-s counsacra totalamèn a las soûes aoulhes (Matthièu 19, 27, 1 Corinthiens 7) —, la Bible à la fî dou IVau sècle) e lous soûs councìlis (dou purmè à Yerusalem déns Àctes 15 de cap à l’an 50 dinco Vatican II en 1965). Maugrat las enfiltracioûs istouriques — de Yuda aus òmis denounçats per Sén Pi 10 qui hèn semblan d’abé la fé ta troumpa lous sìmples, en passan p'ou Père de la Glèyse Sén Irénée qu’espiabe lous qui parlaben d’û aùte Crist, ûgn-aùte Père de la Glèyse Sén Cyrille qu’abisabe coùntre lous menistres qui separaben la fé per calculs aciu-bach ou lous abats de la Reboulucioû ou encoère au 20au sècle, l'abèsque Marcinkus (directoû de la banque dou Vatican) déns l'escandal P2 (guèrre entér lòdyes) per lou maçoû Calvi. Ne-s desmente pas jaméy maugrat la grane densitat dous councìlis (coum Nicée en 325, amassat per Constantin ta la pats de l'Empìre, éth-medich chic toucat per la teoloyie) qui-s hiden s'ous Père de la Glèyse, goardiâs dous ensegnaméns dou Crist ta destinga la bertadère doctrìne de las eresies de cap à la gnose (hicat en goarde per 1 Timothée 4, 2-3) dous Àctes dap Simoû lou Mayicien (esoterìsme mian sectes oun bioula las lèys mourales d'aquéste moùnde seré ûe fayçoû de se-n libera, lou moùnde « estan ûe obre dou Malî ») qui bòu abé lou poudé dous apòstoles coùntre sos (deya de l’esotero-lucratìf anti-Crist), l’islam dap Mahomet (qui-ns apère “moùnde dou lìbe” en parlan d’û se-disén Ebanyeli), lou mormonìsme dap Smith (qui emplegue la bible Louis Segond mau traduside dap û canoû qui seguech lous yudìus, après lou Crist qu’an perdut l’autouritat, parabole dous bignès), lou donatìsme dap Constantin que debè goarda la pats ou encoère la doùble predestinacioû de Calvî (refusat permou que Diu qu'éy coum au miéy d’ûe sfere, bèt touts lous noùstes camîs e counech lous noùstes choès chéns nous oubliga) basade sus la Bible, toutes dechade per Diu tad û méy gran bé (chens Luther — pas King l’adultèri més l’aleman — pas de Sén Bellarmin…). Que debem tribalha tau salut dou méy gran noùmbre, aco ray dou countexte, qu’em las mâs de Diu sus la Terre. Tad aco ha, que cau segui la luts qu’éy la Glèyse dibino-umane, féble p’ou lìbre arbìtre dous soûs mèmbres (û abèsque argentî refusè la coumunioû  héns la bouque en 2026 countre la nòrme), mé doun la fé demoure sancerre p'ou sanc dou Cruficiat e la soûe pregari tau Pape, à l’imàdye de la double nature dou Crist. Ûe fé à ne pas perberti. Àd aquéth coùmpte, l'û pouderé tourna batia Marianne "Jules" permou qu’ous rebouluciounàris que-s referaben à la Republique roumane ; ûgn-aùte, decidi qui cau canta La Parisienne meylèu que La Marselhese permou que la capitale éy Paris ; û tresau coumbineré lous dus ta basti "Lou Jules e la Parisienne". Que y aberé trés entitats proutestantes.
 
 </p> ), 
         
@@ -94,7 +94,7 @@ Marie est une créature que Jésus nous donne comme mère (Jn 19,26-27), choisie
       },
       {
         titre: "De Jérusalem à la Rome Chrétienne",
-             titrebe: "De Yérusalem à la Roume Crestiane",
+             titrebe: "De Yerusalem à la Roume Crestiane",
        
           
        fr: (         <p>
@@ -176,7 +176,7 @@ Frédégonde prouboque la desgràci de la reyne Audovère ta préne la soûe pla
        {
         titre: "Sainte Bathilde, l'Esclave devenue Reine",
        
-         titrebe: "Sénte Bathilde, l'Esclabe debiénude Réyne",
+         titrebe: "Sénte Bathilde, l'Esclabe debienude Réyne",
          
         fr: (        <p>
 La reine Bathilde naît en Saxe vers 626. Capturée dans sa jeunesse, elle est réduite à l’esclavage (St Grégoire de Nysse, Père de l’Église, condamnait l’esclavage au IVe siècle dans son homélie de l'Ecclésiaste 2,7, Lactance dira de racheter les captifs, ce que l'Église fera). Achetée par le maire du palais Erchinoald (Archambault), elle gagne rapidement l'estime du roi Clovis II (petit-fils de Clotaire II, qui vainquit Frédégonde, et fils de Dagobert) et l’épouse. À la mort de son mari, elle assure la régence du royaume. Au niveau judiciaire chez les Francs, la vie d’une femme respectable et en âge d’avoir des enfants valait deux fois celle d’un homme, et jusqu’à trois fois si elle était enceinte. Elle interdit alors la vente d’esclaves chrétiens sur les marchés des Francs, conformément aux conciles catholiques. Elle supprime également la capitation (un impôt prélevé dès la naissance, puisque selon le catholicisme l’enfant est un être humain, ce qui mettait en danger les familles précaires qui ne pouvaient plus vouer leur enfant à l’esclavage) pour aider à vivre, à l’opposé des États modernes qui aident à mourir en appuyant la badauderie, la musardise et le sybaritisme (pour acagnarder le peuple). De plus, elle favorise une profonde réforme du clergé en luttant contre la simonie, suivant les décrets du concile de Chalon. Plus tard, elle se retire au monastère de Chelles qu’elle a elle-même fondé (et qui sera détruit par la Révolution). Elle reste la dernière grande personnalité mérovingienne à exercer l'autorité, puisqu'Ébroïn, maire du palais de Neustrie, a pris le pouvoir. Il entrera en conflit avec les Pippinides, et son fils perdra la bataille de Tertry contre Pépin de Herstal (imposant son autorité sur le royaume franc). À la mort de Thierry III (fils de Bathilde), c'est Pépin qui décide du roi. Les descendants de Pépin, appuyés par la femme et la concubine de Pépin, se disputeront la succession, et Charles Martel (fils d'Alpaïde sa maîtresse) l'emportera. 
@@ -287,7 +287,7 @@ L’enteliyénce douréque de Blanque de Castille qu'ou permet d'esta chauside p
       },
        {
         titre: "L'Exclusion des Femmes du Trône",
-          titrebe: "L'Esclousioû de las Hémbles de la Couroune",
+          titrebe: "L'Esclusioû de las Hémbles de la Couroune",
        
           
         fr: (     <p>
@@ -438,7 +438,7 @@ Yusèp Nasi (banquiè yudiu acassat d’Ibérie qui s’escapera d’Anvers oun 
       {
         titre: "De Médicis aux Idéologies Modernes",
        
-         titrebe: "De Médicis aus Ideoulouyies Moudernes",
+         titrebe: "De Médicis aus idées Moudernes",
        
           
        fr: (      <p>
@@ -455,7 +455,7 @@ La Cataline de Médicis, a dade la loctenénce yenerale à Bourbon (l'òmi de Ya
        {
            titre: "Les Coulisses de la Diplomatie Anglaise",
        
-        titrebe: "Las Coulisses de la Diploumacie Anglése",
+        titrebe: "Lous Secréts de la Diploumacie Anglése",
        
           
       fr: (       <p>
@@ -560,7 +560,7 @@ Après la batalhe de las Planes d'Abraham (1759), la France sinne lou trettat de
     image: "/images/histoire/antiquite.jpg",
     sections: [
 {
-        titrebe: "Lous Hialats d'Enfluence Europeâs",
+        titrebe: "Lous Hialats d'Enfluence Europeans",
         titre: "Les Réseaux d'Influence Européens",
        
           
@@ -690,7 +690,7 @@ Le 1er août 1793, la République naissante est en danger. ”On ne peut pas cha
     sections: [
       
       {
-        titrebe: "Militantes Crestianes debath la Rebouluciou",
+        titrebe: "Militantes Crestianes debath la Reboulucioû",
        
             titre: "Militantes Chrétiennes sous la Révolution",
        
@@ -705,7 +705,7 @@ Dans une ambiance fortement anticatholique (après la suppression des jésuites 
           
         
       },  {
-        titrebe: "La Secciou Feminìe de l'Espagne",
+        titrebe: "La Seccioû Feminine de l'Espagne",
          titre: "La Section Féminine de l'Espagne",
        
           
@@ -782,7 +782,7 @@ Sœur cadette de Louis XVI, Élisabeth de France perd ses parents très jeune et
       },
       {
         titre: "Le Coup d'État Anti-Royaliste",
-         titrebe: "Lou Cop d'Estat Coùntre-Reyalìste",
+         titrebe: "Lou Cop d'Estat Coùntre-Reyaliste",
        
           
       fr: (       <p>
@@ -843,7 +843,7 @@ Par leur idéologie commune (anticléricale, laïque et patriotique), la franc-m
       },
         {
         titre: "La Haute Finance en Action",
-       titrebe: "La haute Finance en Accioû",
+       titrebe: "La Haute Finance en Accioû",
        
           
        fr: (      <p>
@@ -917,7 +917,7 @@ Après lou retour de la soûe familhe dou Purtugal, Pedro demoure au Brésil. À
 
        {
         titre: "L'Éducation face à l'État Moderne",
-         titrebe: "L'Educaciou dehén l'Estat Mouderne",
+         titrebe: "L'Educacioû coùntre l'Estat Mouderne",
        
           
      fr: (       <p>
