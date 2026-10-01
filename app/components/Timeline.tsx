@@ -28,34 +28,34 @@ const periodes: Periode[] = [
   
   {
     annee: "XIIe-XIVe siècle",
-    titre: "Formation du Béarn médiéval", 
+    titre: "Formation de la vicomté de Béarn", 
     description: "Émergence de la vicomté de Béarn",
-    titrebe: "Fourmaciou dou Biarn miéyancè",
-    descriptionbe: "Espelide de la Biscoumtat de Biarn",
+    titrebe: "Fourmacioû de la biscoumtat de Biarn",
+    descriptionbe: "Aparechude de la Biscoumtat de Biarn",
     slug: 'fondement',
   },
  {
     annee: "XIVe siècle", 
     titre: "La Souveraineté",
     description: "Sous Fébus, le Béarn atteint son apogée politique",
-    titrebe: "La Souberanitat",
-    descriptionbe: " Debath Febus, lou Biarn qu'atén lou soû soum poulitique",
+    titrebe: "La Soubiranitat",
+    descriptionbe: " Debath Febus, lou Biarn qu'atégn lou soû soum poulitique",
     slug: 'souverain',
   },
  {
     annee: "XIVe-XVIe siècle", 
    titre: "L'Affirmation Béarnaise",
-    description: "Les États en affirmation définitivement l'indépendance",
-    titrebe: "L’Afirmaciou Biarnése",
-    descriptionbe: "Lous Estats qu'ahourtìssẹn plâ l'independénce",
+    description: "Les États continuent d'affirmer l'indépendance",
+    titrebe: "L’Afirmacioû Biarnése",
+    descriptionbe: "Lous Estats que countinuen d'afirma l'independénce",
     slug: 'republique',
   },
    {
     annee: "XVIe siècle", 
     titre: "Union avec la Navarre",
-    description: "Union, perte de territoire mais affermissement de leur pouvoir",
-    titrebe: "Uniou dap la Nabarre",
-    descriptionbe: "Uniou, ménch de territòri mé ahourtimén dou lou poudé",
+    description: "Guerre, perte de territoire mais affermissement du pouvoir",
+    titrebe: "Unioû dap la Nabarre",
+    descriptionbe: "Guèrre, perde de territòri mé counsoulidacioû dou poudé",
     slug: 'navarre',
   }
   
@@ -66,8 +66,8 @@ const periodes: Periode[] = [
     annee: "XVIIe siècle", 
     titre: "Sous la Monarchie Absolue",
     description: "Le Béarn dirigeait depuis la région parisienne",
-     titrebe: "Debath la Mounarquìe Absolue",
-    descriptionbe: "Lou Biarn que miabe despuch la redyiou parisiène",
+     titrebe: "Debath la Mounarquie Absoulude",
+    descriptionbe: "Lou Biarn que miabe despuch la regioû parisiène",
 
     slug: 'monarchie-absolue',
   }
@@ -77,8 +77,8 @@ const periodes: Periode[] = [
     annee: "XVIIIe siècle", 
     titre: "Le Béarn sous la Terreur",
     description: "Jusqu'à l'assassinat de Maximilien de Robespierre...",
-    titrebe: "Lou Biarn debath l'Espauride",
-    descriptionbe: "Dinco l’assassina de Maximilien de Robespierre...",
+    titrebe: "Lou Biarn debath la Terrous",
+    descriptionbe: "Dinco l’assassinat de Maximilien de Robespierre...",
     slug: 'la-terreur',
   }
 
@@ -98,8 +98,8 @@ const periodes2: Periode[] = [
     annee: "Ie-Ve siècle",
     titre: "Naissance de l'Eglise", 
     description: "Les Enseignements du Christ",
-    titrebe: "Badence de la Glèyse",
-    descriptionbe: "Lous Ensegnaméns dou Crist",
+    titrebe: "Badénce de la Glèyse",
+    descriptionbe: "Lous Enségneméns dou Crist",
     slug: 'eglise',
   },
   {
@@ -107,15 +107,15 @@ const periodes2: Periode[] = [
     titre: "Les Mérovingiens", 
     description: "La Naissance de la France",
    titrebe: "Lous Meroubingièns ",
-    descriptionbe: "La Badence de la France",
+    descriptionbe: "La Badénce de la France",
     slug: 'naissance-france',
   },
  {
     annee: "IXe-XIVe siècle", 
     titre: "Les Capétiens",
     description: "De Charlemagne à Gaston Fébus",
-    titrebe: "Lous Capetians",
-    descriptionbe: "De Charlemagne dinco Gastoû Febus",
+    titrebe: "Lous Capeciâs",
+    descriptionbe: "De Charlemagne à Gastoû Febus",
     slug: 'capet',
   },
  {
@@ -123,7 +123,7 @@ const periodes2: Periode[] = [
    titre: "La Pucelle d'Orléans",
     description: "La Providence démarre de Lorraine",
      titrebe: "La Puncèle d'Orléans",
-    descriptionbe: "La Proubidénci que part de Lorraine",
+    descriptionbe: "La Proubidénce que demarre de Lorraine",
     slug: 'sainte-jeanne',
   }
   
@@ -133,7 +133,7 @@ const periodes2: Periode[] = [
     titre: "Les Protestants",
     description: "Une hérésie se disperse à travers l'Europe",
     titrebe: "Lous Proutestans",
-    descriptionbe: "Ûe heretyìe se despartéch a-trubès l'Europe",
+    descriptionbe: "Ûe eresie que-s esbarriscle déns l'Europe",
     slug: 'calviniste',
   }
   
@@ -142,8 +142,8 @@ const periodes2: Periode[] = [
     annee: "XVIIIe siècle", 
     titre: "La Révolution",
     description: "Les Républicains prennent Paris",
-      titrebe: "Le Monde des Banques",
-    descriptionbe: "Lous Republicâs gahen Paris",
+      titrebe: "La Reboulucioû",
+    descriptionbe: "Lous Republicâs que gahen Paris",
     slug: 'paris',
   }
   
@@ -153,8 +153,8 @@ const periodes2: Periode[] = [
     annee: "XVIIIe-XIXe siècle", 
     titre: "Sous la Terreur",
     description: "La République s'impose en France",
-      titrebe: "Debath l'Espauride",
-    descriptionbe: "La Republique s'empose en France",
+      titrebe: "Debath la Terrous",
+    descriptionbe: "La Republique que-s empause en France",
     slug: 'revolution-france',
   }
   ,
@@ -162,8 +162,8 @@ const periodes2: Periode[] = [
   {
     annee: "XIXe-XXe siècle", 
     titre: "Le Monde des Banques",
-    description: "L'être humain est objet...",
-    titrebe: "Lou Moùndẹ dous Banques",
+    description: "L'être humain est un objet...",
+    titrebe: "Lou Moùnde dous Banques",
     descriptionbe: "L'òmi qu’éy û oubyèt...",
     slug: 'technologie',
   }

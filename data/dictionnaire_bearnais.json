@@ -76363,10 +76363,10 @@
    ,
     {
     "id": 11911,
-    "titre": "heretique",
+    "titre": "eretique",
     "definition": "hérétique",
     "type": "adjectif et nom",
-    "search": "heretique hérétique"
+    "search": "eretique hérétique"
   }
    ,
     {
@@ -82271,5 +82271,12 @@
 "type": "nom propre",
 "search": "Amaniu Emmanuel"
 }
+,
+{"id": 12645,
 
+"titre": "eresie",
+"definition": "hérésie",
+"type": "nom féminin",
+"search": "eresie hérésie"
+}
 ]
