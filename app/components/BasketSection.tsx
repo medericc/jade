@@ -35,15 +35,7 @@ export default function SeoSection() {
 </p>
           </div>
 
-          <div className={styles.keywords} aria-label="Thématiques du site">
-            <span>Basket</span>
-            <span>Jade Célérier</span>
-            <span>Béarn</span>
-            <span>Béarnais</span>
-            <span>Culture</span>
-            <span>Monde</span>
-          </div>
-
+        
         </div>
       </div>
     </section>
