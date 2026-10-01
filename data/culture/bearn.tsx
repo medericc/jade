@@ -9,7 +9,8 @@ export const histoireData = {
     image: "/images/histoire/antiquite.jpg",
     sections: [
       {
-        titre: "Les Origines Médiévales du Béarn",
+        titre: "Les Origines de la vicomté de Béarn",
+         titrebe: "Las causes de la Biscoumtat de Biarn",
         
        
         fr: (    <p>
@@ -26,7 +27,7 @@ Lous Bascoûs participèn à la batsarre de Taller coùntre lous Vikings (en 982
       },
       {
         titre: "L'affirmation des Vicomtes",
-        
+           titrebe: "L'affirmacioû dous Biscoumtes",
           
     fr: (        <p>
     Centulle IV récupère sans guerre la vicomté d’Oloron, dirigée conjointement avec un bâtard jusqu’à la mort de ce dernier, orientant désormais le Béarn vers les royaumes hispano-chrétiens au Sud. Centulle V, “défenseur des pauvres et propagateur de la paix”, épouse Gisèle d’Armagnac avec qui il a un fils (Gaston de Béarn) mais le pape les sépare (en pénitence Centulle donne le prieuré de Morlaàs à Cluny). Il se marie à Béatrix, comtesse de Bigorre, avec qui il a Bernard et Centulle de Bigorre, ce qui lui permet de se rapprocher du roi d’Aragon. Profitant de la disparition d’Étienne de Mauléon, Centulle s’impose en Soule (obtenant du duc Guillaume VIII les honores souletins) et accorde des franchises à Montory sur le modèle du for d’Oloron. Centulle fait battre monnaie, Oloron reçoit un viguier local et une poblacion (1080). Centulle V entre en guerre contre le roi d’Aragon et les troupes aragonaises ravagent la région. Alphonse VI de Castille et Gui-Geoffroi de Poitiers (Guillaume VIII d'Aquitaine) décident que Centulle doit prêter hommage au roi d’Aragon (vers 1089), tout en maintenant la suzeraineté française sur la Bigorre et Centulle obtient du duc des conduits le long des vallées des gaves. Il participe à plusieurs campagnes dont celle dans la vallée de Tena au printemps 1090. 
@@ -41,6 +42,7 @@ Centulle IV que gaha chéns guèrre la biscoumtat d'Aulouroû, regi dap û basta
       },
        {
         titre: "L'Épopée Croisée de Gaston IV",
+         titrebe: "La Crudzade de Gastoû IV",
         
           
    fr: (         <p>
@@ -56,6 +58,7 @@ En 1085, Gaston IV épouse Talèse d’Aragon, nièce du roi Sanche Ramírez, re
       },
        {
         titre: "Gaston IV, seigneur de Saragosse",
+          titrebe: "Gastoû IV, segnou de Saragosse",
         
           
     fr: (        <p>
@@ -70,6 +73,7 @@ En 1085, Gaston IV épouse Talèse d’Aragon, nièce du roi Sanche Ramírez, re
       },
        {
         titre: "Le Béarn sous Tutelle Aragonaise",
+         titrebe: "Lou Biarn debath Goarde Aragonèse",
         
           
    fr: (         <p>
@@ -97,6 +101,7 @@ be: (  <p>
     sections: [
       {
         titre: "Le Béarn face à la Croisade",
+             titrebe: "Lou Biarn fàci à la Crudzade",
         
           
   fr: (          <p>
@@ -112,6 +117,7 @@ be: (  <p>
       },
       {
         titre: "Gaston VII face à l'Angleterre",
+         titrebe: "Gastoû VII fàci à l'Angleterre",
         
           
   fr: (          <p>
@@ -127,6 +133,7 @@ Gaston VII, qui a reçu le Marsan de sa femme Mathe de Mastas (fille de Pétroni
       },
        {
         titre: "Jeanne d'Artois et les Fors",
+          titrebe: "Yane d'Artoès e lous Fors",
         
           
   fr: (          <p>
@@ -144,6 +151,7 @@ Yane d’Artoès n’estou retournade déns lous soûs dréts de reyente per Par
       },
        {
         titre: "La Régence d'Aliénor de Comminges",
+         titrebe: "La Reyence d'Aliénor de Comenge",
         
           
    fr: (         <p>
@@ -159,6 +167,7 @@ Aliénor de Comenge, 8au maynàdye de Bernat VII de Comenge, fiançade à Gasto�
       },
        {
         titre: "Les Campagnes Militaires de Fébus",
+           titrebe: "Las Campagnes Militàris dou Fébus",
         
           
    fr: (    <p>
@@ -175,6 +184,7 @@ be: ( <p>
 
         {
         titre: "Le Prince Noir débarque à Bordeaux",
+              titrebe: "Lou Prince Négre debarque à Bourdèu",
         
           
    fr: (         <p>
@@ -193,6 +203,7 @@ be: ( <p>
 
         {
         titre: "L'Art de la Neutralité Payante",
+         titrebe: "L'Art de la Nutralitat Pagante",
         
           
    fr: (         <p>
@@ -210,6 +221,7 @@ En yambiè 1356, Yan lou Boû que sinne létres de perdoû ta-d amnistia lou so�
 
         {
         titre: "Fébus écrase la Jacquerie Médiévale",
+             titrebe: "Fébus qu'escagasse la Yammérie",
         
           
     fr: (        <p>
@@ -218,7 +230,7 @@ Le dauphin Charles est régent du royaume en l'absence de son père, retenu pris
 
 </p>),
 be: ( <p>
-Lou daufî Charles qu'éy reyén dou reyaume pendén l’absénce dou soû pay, embarrat à Londres. Après la pèrque, lous Estats yeneraus de Paris, debath l'enfluence dou prebot dous marchans Étienne Marcel, que demandaben refòrmes e que criticaben la soûe maniere de regi. Bandes d’òmis que desfoucen lou pèys : lous Nabarrés en Nourmanie, lous Anglés en lou Berry, lou Poitou e l'Aubergne. Lou 25 de may 1358 que badou, déns lou Beauvaisis, ûe bioulénte yacquerie miade per Yaqués Bonhomme, qui-s alounguè dinc’au Soissonnais, lou Valois e la Brie, dechan place à terribles bioulénces, permou qui lous segnous francés ne pòden pas méy proutedya lous lous paysâs fàci aus Anglo-Nabarrés. Étienne Marcel, aflaquat (assassinat aban qui n'ourbi Paris aus Nabarrés), que pensabe poudé proufieyta d’aquéste soulebàmen, alabéts qui lou Daufî Charles, ta proutedya la soûe familhe, que hiqua la soûe hémble Yane de Bourboû, la soûe so la duquesse d’Orléans, e las loues daunes d’aunou en securitat déns la ciutat fourtifiade de Meaux. La bouryésie dou loc, miade p'as idèes d'Étienne Marcel, qu’ère encoère û sustién à Charles II de Nabarre. Segoun Honoré Bouvet e Michel du Bernis, las princesses francéses que credèben qui soùnque Febus las poudè sauba e que l'aperèn de Prusse. Arribat s'ou marcat de Meaux, que dit à la Daufine lou soû crit de guèrre « Febus en aban ! ». Lous Yaqués qu'estoun massacrats. La Daufine, beden la desbaratadye dous rebendits, qu'ous dit û darrè apèu : « Hoeyét, gus Yaqués, permou qui lou coùmte de Fouich que marche sus bousauts ! ». Per la fî, la ciutat qu'estou saubade, las princesses liberades, e de granes hèstes qu'estoun hèytes à l'aunou de Febus e dous soûs òmis, la daune ére-mediche participa déns lou gauyou. Febus tourne déns lou Biarn. Segoun Esquerrier, qu'éy à Meaux qui Febus qu'a dit à la Daufine la soûe hère counechude debise : « Toque-y si gauses ».
+Lou daufî Charles qu'éy reyén dou reyaume pendén l’absénce dou soû pay, embarrat à Londres. Après la pèrque, lous Estats yeneraus de Paris, debath l'enfluence dou prebot dous marchans Étienne Marcel, que demandaben refòrmes e que criticaben la soûe maniere de regi. Bandes d’òmis que desfoucen lou pèys : lous Nabarrés en Nourmanie, lous Anglés en lou Berry, lou Poitou e l'Aubergne. Lou 25 de may 1358 que badou, déns lou Beauvaisis, ûe bioulénte yammérie miade per Yammé Bonhomme, qui-s alounguè dinc’au Soissonnais, lou Valois e la Brie, dechan place à terribles bioulénces, permou qui lous segnous francés ne pòden pas méy proutedya lous lous paysâs fàci aus Anglo-Nabarrés. Étienne Marcel, aflaquat (assassinat aban qui n'ourbi Paris aus Nabarrés), que pensabe poudé proufieyta d’aquéste soulebàmen, alabéts qui lou Daufî Charles, ta proutedya la soûe familhe, que hiqua la soûe hémble Yane de Bourboû, la soûe so la duquesse d’Orléans, e las loues daunes d’aunou en securitat déns la ciutat fourtifiade de Meaux. La bouryésie dou loc, miade p'as idèes d'Étienne Marcel, qu’ère encoère û sustién à Charles II de Nabarre. Segoun Honoré Bouvet e Michel du Bernis, las princesses francéses que credèben qui soùnque Febus las poudè sauba e que l'aperèn de Prusse. Arribat s'ou marcat de Meaux, que dit à la Daufine lou soû crit de guèrre « Febus en aban ! ». Lous Yaqués qu'estoun massacrats. La Daufine, beden la desbaratadye dous rebendits, qu'ous dit û darrè apèu : « Hoeyét, gus Yaqués, permou qui lou coùmte de Fouich que marche sus bousauts ! ». Per la fî, la ciutat qu'estou saubade, las princesses liberades, e de granes hèstes qu'estoun hèytes à l'aunou de Febus e dous soûs òmis, la daune ére-mediche participa déns lou gauyou. Febus tourne déns lou Biarn. Segoun Esquerrier, qu'éy à Meaux qui Febus qu'a dit à la Daufine la soûe hère counechude debise : « Toque-y si gauses ».
 
 
      </p>),
@@ -227,6 +239,7 @@ Lou daufî Charles qu'éy reyén dou reyaume pendén l’absénce dou soû pay, 
 
         {
         titre: "La Grande Victoire de Launac",
+              titrebe: "La Grane Bictoère de Launac",
         
           
     fr: (        <p>
@@ -243,6 +256,7 @@ be: ( <p>
 
         {
         titre: "Fébus esquive le Prince Noir",
+        titrebe: "Fébus qu'esbite lou Prince Négre",
         
           
     fr: (        <p>
@@ -269,6 +283,7 @@ be: ( <p>
     sections: [
         {
         titre: "Le Justicier du Château de Pau",
+        titrebe: "Lou Yusticiè dou Castèth de Pau",
         
           
    fr: (         <p>
@@ -282,7 +297,8 @@ Debath lou pradéu de la soûe bigne à Moncade ou au ras dou gabe au pè dou ca
          
       },
       {
-        titre: "AYolande de Bar, reine-lieutenante",
+        titre: "Yolande de Bar, reine-lieutenante",
+        titrebe: "Yolande de Bar, réyne-loctiénente",
         
           
   fr: (          <p>
@@ -299,6 +315,7 @@ Yolande de Bar, maridade à Yan Iè d’Aragoû, que cercabe ûe place poulitiqu
       },
       {
         titre: "Fébus entre France et Angleterre",
+            titrebe: "Fébus entér France e Angleterre",
         
           
   fr: (          <p>
@@ -320,8 +337,9 @@ Yolande de Bar, maridade à Yan Iè d’Aragoû, que cercabe ûe place poulitiqu
 
 
         {
-        titre: "La guerre pour le Comminges",
-        
+         titre: "La Guerre pour le Comminges",
+         titrebe: "La Guèrre tau Comenge",
+       
           
     fr: (        <p>
  La mort de Pierre-Raymond II de Comminges, le 15 octobre 1375, pose un problème de succession. En 1339, après la mort d'un garçon en bas âge, le comté aurait pu revenir à la sœur aînée, Cécile, mais Pierre-Raymond n'en sort vainqueur qu'avec l'aide de son beau-père, Gui de Comminges (le « redoutable roi de l'Albigeois »), et du roi de France Philippe VI. Pour éviter que le Comminges ne tombe aux mains des Anglais, ces derniers en font un fief masculin, ce qui constitue une justification post hoc (sophisme de la rationalisation). En 1375, on se retrouve face au même problème, d'autant plus que l'héritière est de forte chétive constitution. Fébus réclame cette couronne par l'intermédiaire de sa défunte mère, qui souhaitait être inhumée à Notre-Dame de Salanques, qu'elle a fondée. Il rencontre Jeanne de Muret sur un pont. Armagnac prévoit de marier son fils à l'héritière. Alors que la guerre se prépare, Fébus fait revenir son fils naturel Bernard (qui aida Henri II de Castille), comte de Medinaceli par mariage — l'actuelle duchesse (de la race de Bernard) étant l'aristocrate la plus titrée du monde —, et dont les descendants prirent le nom de la comtesse. Le 6 janvier 1375, à Orthez, plusieurs seigneurs commingeois, contre de fortes sommes d'argent, promettent de le servir « contre tous à l'exception de leur seigneur naturel, le comte de Comminges ». Cependant, si ce dernier « meurt sans enfant mâle, ils mettront tout leur pouvoir » au service du comte de Foix. Après l'échec de son entrevue avec Jeanne de Comminges, Gaston X attaque dès le mois de juillet. Il laisse en couverture le captal de Buch à Cazères-sur-l'Adour, mais Jean II d'Armagnac s'en empare. Fébus les emmure ! Ils se rendent, mais avec l'appui du roi, la coalition Armagnac-Albret-Comminges est sûre de l'emporter tôt ou tard. Gaston juge donc préférable de mettre fin à la guerre. Jeanne de Comminges, inquiète pour l’avenir de sa fille Marguerite, envisage de la marier au roi de Navarre. Pour empêcher cette alliance, Jean d’Armagnac impose, le 18 juin 1378, le mariage de Marguerite avec son propre fils, Jean III. Ils acceptent alors de reprendre les négociations avec le Béarn, sous la médiation du duc d’Anjou. L'héritier béarnais, le jeune prince Gaston, est uni à Béatrix d’Armagnac ; Fébus renonce au Comminges mais reçoit maintes terres, et des dizaines de seigneurs du Comminges deviennent ses vassaux directs (du vivant de Fébus). L’emprise sur Lannemezan, Tournay et Mauvezin isole la puissante famille de La Barthe, jusque-là pilier de la domination armagnacaise, et prive Jean d’Armagnac de son contrôle traditionnel sur presque tout le haut cours du fleuve, à l’exception du secteur de Miramont. Désormais, il devient possible de chevaucher d’un seul trait depuis le château de Mazères jusqu’à celui de Mauvezin en restant constamment sur des terres tenues par le Béarn ou sur des fiefs nouvellement vassalisés. 
@@ -338,6 +356,7 @@ La mour de Pé-Ramoun II de Comenge, lou 15 d'ouctoùbre 1375, qu’amie û prou
 
       {
         titre: "La Mort du Jeune Gaston",
+          titrebe: "La Mour du Yoén Gastoû",
         
           
    fr: (         <p>
@@ -354,6 +373,7 @@ be: (    <p>
       },
         {
         titre: "La Foi Profonde de Fébus",
+          titrebe: "La Fé Pregounde dou Fébus",
         
           
      fr: (       <p>
@@ -376,6 +396,7 @@ Gastoû Febus que par d’Ortes ta demoure soul à Pau, oun qu'escribou lou soû
 
       {
         titre: "La Lutte pour le Languedoc",
+         titrebe: "La Lute tau Lengadoc",
         
           
    fr: (         <p>
@@ -401,7 +422,8 @@ Après la mour de Charles V en setéme 1380, lou soû hilh Charles VI, qui qu'ab
 
 
        {
-        titre: "Le massacre des Béarnais à Aljubarrota",
+        titre: "Le Massacre des Béarnais à Aljubarrota",
+          titrebe: "Le Massàcre Biarnés à Aljubarrota",
         
           
     fr: (        <p>
@@ -418,6 +440,7 @@ Yan Iè de Castilhe, aliat de Febus, que demande la couroune, alabéts qui lous 
       },
       {
         titre: "L'ingéniosité Financière de Fébus",
+          titrebe: "L'assurance dou Fébus",
         
           
    fr: (         <p>
@@ -432,6 +455,7 @@ Yan Iè de Castilhe, aliat de Febus, que demande la couroune, alabéts qui lous 
       },
       {
         titre: "Les Pillages organisés en Languedoc",
+        titrebe: "Lous Pilhadyes qu'ourganisats en Lengadoc",
         
           
    fr: (         <p>
@@ -440,7 +464,7 @@ Yan Iè de Castilhe, aliat de Febus, que demande la couroune, alabéts qui lous 
 
   </p>),
     be: (        <p>
-En 1388, Charles VI que decide de sourti de la goarde dous soûs ouncles (Berry e Bourgogne). Que-s entoure dous Marmousets (qui boulén lou retour de l'autouritat dou réy e la pats dap l'Angleterre) e que bòu hìca fî aus abus d'Anyau e de Berry déns lou Lengadoc. Lou marechal Louìs de Sancerre que biéne béde Febus à Ortes tau maridàdye de Berry dap Yane de Boulogne (neuride au castèth de Moncade), mé sustout ta yudya las entencioûs dou coùmte de Fouich. Febus que demoure nùtre de cap au pape e antipape ; que recéu d’aulhous à Nadau 1388 abèsques d'Abignoû e de Roume (Roume ta las soûes tèrres d'Aquitanie angléses e Abignoû ta las de Fouich), mé que preste d'aryén au proufiéyt dou pape d'Abignoû. Toutû, éth-medich que-s oucupe dou drét de regale sus lous benefìcis de la Glèyse (ûe bisioû pròche de la de John Wyclif). De suberpés, Febus que gaha òmis de hore (lous soûs pròpis òmis, lous bassalhs de Lanta...) e de petits segnous roéynats coum Yaqués de Naiz ou Pé de Chaudière, qui pilhen lou Lengadoc. Aquéstes coumporteméns que soun semblables aus de lous mercenàris de cap à Tarbes, han pensa à Michel de Serres, sénéchal de Bigorre, de demanda l'ayde de Febus. Sancerre qu'ou demande d'estanca. En aquéste moumén, Febus que tién lou hilh de L'Isle-Jourdain (aliat de l'Armagnac) en gàdye d’û emproun ta Mondonville, alabéts qui Yan III d’Armagnac qu'abè gahat proches de Gastoû, coum lou soû counselhè Bernat de Duras. En 1389, lou duc de Lancastre que coumpause û acor enter Febus e Yan III d'Armagnac. Febus que déu libera lou hilh dou coùmte de L'Isle-Jourdain (mé coum aquéste darrè qu’éy mour, L'Isle-Jourdain déu paga Febus) e que tourne balhe las tèrres de Mondonville e de Gensac. Dou soû coustat, Yan que libere Duras chéns demanda rançoû e que deche las soûes reclamacioûs sus las Terres-Baches d'Albigès.
+En 1388, Charles VI que decide de sourti de la goarde dous soûs ouncles (Berry e Bourgogne). Que-s entoure dous Marmousets (qui boulén lou retour de l'autouritat dou réy e la pats dap l'Angleterre) e que bòu hìca fî aus abus d'Anyau e de Berry déns lou Lengadoc. Lou marechal Louìs de Sancerre que biéne béde Febus à Ortes tau maridàdye de Berry dap Yane de Boulogne (neuride au castèth de Moncade), mé sustout ta yudya las entencioûs dou coùmte de Fouich. Febus que demoure nùtre de cap au pape e antipape ; que recéu d’aulhous à Nadau 1388 abèsques d'Abignoû e de Roume (Roume ta las soûes tèrres d'Aquitanie angléses e Abignoû ta las de Fouich), mé que preste d'aryén au proufiéyt dou pape d'Abignoû. Toutû, éth-medich que-s oucupe dou drét de regale sus lous benefìcis de la Glèyse (ûe bisioû pròche de la de John Wyclif). De suberpés, Febus que gaha òmis de hore (lous soûs pròpis òmis, lous bassalhs de Lanta...) e de petits segnous roéynats coum Yammé de Naiz ou Pé de Chaudière, qui pilhen lou Lengadoc. Aquéstes coumporteméns que soun semblables aus de lous mercenàris de cap à Tarbes, han pensa à Michel de Serres, sénéchal de Bigorre, de demanda l'ayde de Febus. Sancerre qu'ou demande d'estanca. En aquéste moumén, Febus que tién lou hilh de L'Isle-Jourdain (aliat de l'Armagnac) en gàdye d’û emproun ta Mondonville, alabéts qui Yan III d’Armagnac qu'abè gahat proches de Gastoû, coum lou soû counselhè Bernat de Duras. En 1389, lou duc de Lancastre que coumpause û acor enter Febus e Yan III d'Armagnac. Febus que déu libera lou hilh dou coùmte de L'Isle-Jourdain (mé coum aquéste darrè qu’éy mour, L'Isle-Jourdain déu paga Febus) e que tourne balhe las tèrres de Mondonville e de Gensac. Dou soû coustat, Yan que libere Duras chéns demanda rançoû e que deche las soûes reclamacioûs sus las Terres-Baches d'Albigès.
 
       </p>),
          
@@ -454,6 +478,7 @@ En 1388, Charles VI que decide de sourti de la goarde dous soûs ouncles (Berry 
 
        {
         titre: "Une Alliance Lucrative pour Fébus",
+         titrebe: "Ûe Aliànce Lucratibe ta Fébus",
         
           
  fr: (           <p>
@@ -470,6 +495,7 @@ Eretère dou Comenge per la soûe may, Yane de Boulogne qu'éy debath la goarde 
       },
        {
         titre: "Mariette, Patronne de la Maison",
+         titrebe: "Mariette, Daune de Case",
         
           
   fr: (          <p>
@@ -484,6 +510,7 @@ Déns las campagnes biarnéses, l'oùrdi souciau que-s freme s'ou purmè badut (
       },
        {
         titre: "Les Castelbon et la Couronne",
+          titrebe: "Lous Castelboû e la Couroune",
         
           
  fr: (           <p>
@@ -502,6 +529,7 @@ Déns las campagnes biarnéses, l'oùrdi souciau que-s freme s'ou purmè badut (
 
       {
         titre: "Les Foix Maîtres du Midi",
+          titrebe: "Lous Fouich Mèstes dou Mieydie",
         
           
   fr: (          <p>
@@ -516,6 +544,7 @@ Déns las campagnes biarnéses, l'oùrdi souciau que-s freme s'ou purmè badut (
       },
        {
         titre: "La succession de François Fébus",
+            titrebe: "La successioû dou Francès Fébus",
         
           
   fr: (          <p>
@@ -530,6 +559,7 @@ Madalene de France, may dou yoén Francès Febus, qu’assegure la réyence. La 
       },
   {
         titre: "La Pression des Rois Catholiques",
+           titrebe: "La Pressioû dous Réys Catouliques",
         
           
 fr: (            <p>
@@ -575,6 +605,7 @@ En 1486-1487, Herran lou catoulique que prepare l’encerclamén de la Nabarre e
       
         {
         titre: "La Souveraineté reconnue à Blois",
+         titrebe: "La Soubiranitat recounude à Blois",
         
           
    fr: (         <p>
@@ -589,7 +620,8 @@ En 1486-1487, Herran lou catoulique que prepare l’encerclamén de la Nabarre e
       },
 
        {
-        titre: "La guerre pour la Navarre",
+        titre: "La Guerre pour la Navarre",
+          titrebe: "La Guèrre ta la Nabarre",
         
           
 fr: (            <p>
@@ -611,6 +643,7 @@ fr: (            <p>
 
        {
         titre: "De Pavie à la Paix des Dames",
+           titrebe: "De Pavie à la Pats de las Daunes",
         
           
    fr: (         <p>
@@ -618,13 +651,14 @@ fr: (            <p>
 
    </p>),
  be: (   <p>
-  Enric Iè, qu'a pelerîs ta pairîs, que hè bàte ûe mounéde pròpi à la Bach-Nabarre, û gran yèste daban Charles Quint. Sén-Palay, badut lou céntre d’auperacioû dou Biarn e dou bach de la France, qu'éy toutû abandounat lou die de Nadau 1523 après lou massàcre dou prince d’Irandye sus la Soule, lou Labourd e la Bach-Nabarre. En 1525, la bictoère dou Sén-Empèri à Pavie — oun Francès Iè e Enric Iè dou Biarn qu'estoun presounès — counsacre la douminacioû de Charles Quint sus la Nabarre. Enric qu'arribe à hoéye, alabéts qui la Margalide de Nabarre qui bién debisa tau soû ray Francès Iè. La Nabarre qu'éy alabéts separade en dues partides : la Haute-Nabarre qu”éy à l'Espagne e la Bach-Nabarre demoure ligade aus de Labrit (ço qui qu'éy counfirmat en 1530). Au trettat de Madrid dou 14 de yambiè 1526, lou réy de France que deche ta û téms las soûes reclamacioûs sus l'Italie e la Bourgonhe. De retour s'as loues tèrres, Enric e Margalide creen la Crampe de lous Coùmpte de Pau, agalhardan l’administracioû fàci à la France. Enric, hère aymat dou moùnde biarnés, que bastit tabé la Cour criminale, redusin atau l'enfluence dous yùdyes. En 1529, la « pats de las Daunes » qu'éy sinnade enter Margalide d’Autriche e Louìse de  Saboìe. Aquéste pats que hique la fî ta û téms de la lute enter la France e l'Emperi. Lous debis sus la restitution dous bês navarréns que-s alounguen toutû dinco 1539. La Haute-Nabarre debién ûe tèrre espagnòle, alabéts qui la Bach-Nabarre que demoure ligade aus Labrit. Déns las ahas de-dehéns, p'ou mancat d'Enric II de Labrit, la guide qu'éy tienude despuch 1535 per la soûe so, Anne de Labrit, e per Yaqués de Fouich, abèsque de Lesca e chancelier de Fouich-Biarn. Enter 1538 e 1547, Enric que transfourme la bastide de Nabarréns en ûe grane place horte. Beritàble moudèle de hourtificacioû plâ aban Vauban, que hè pòu à Charles Quint, doun l'espioû qu’ou dit : « segnou, que y a places qui-s gahen, e d'àutes qui-s dechen. Nabarréncs qu'éy d'aquéres. » En 1545, Tristan de Monein debién lou purmè goubernadou de la place horte.
+  Enric Iè, qu'a pelerîs ta pairîs, que hè bàte ûe mounéde pròpi à la Bach-Nabarre, û gran yèste daban Charles Quint. Sén-Palay, badut lou céntre d’auperacioû dou Biarn e dou bach de la France, qu'éy toutû abandounat lou die de Nadau 1523 après lou massàcre dou prince d’Irandye sus la Soule, lou Labourd e la Bach-Nabarre. En 1525, la bictoère dou Sén-Empèri à Pavie — oun Francès Iè e Enric Iè dou Biarn qu'estoun presounès — counsacre la douminacioû de Charles Quint sus la Nabarre. Enric qu'arribe à hoéye, alabéts qui la Margalide de Nabarre qui bién debisa tau soû ray Francès Iè. La Nabarre qu'éy alabéts separade en dues partides : la Haute-Nabarre qu”éy à l'Espagne e la Bach-Nabarre demoure ligade aus de Labrit (ço qui qu'éy counfirmat en 1530). Au trettat de Madrid dou 14 de yambiè 1526, lou réy de France que deche ta û téms las soûes reclamacioûs sus l'Italie e la Bourgonhe. De retour s'as loues tèrres, Enric e Margalide creen la Crampe de lous Coùmpte de Pau, agalhardan l’administracioû fàci à la France. Enric, hère aymat dou moùnde biarnés, que bastit tabé la Cour criminale, redusin atau l'enfluence dous yùdyes. En 1529, la « pats de las Daunes » qu'éy sinnade enter Margalide d’Autriche e Louìse de  Saboìe. Aquéste pats que hique la fî ta û téms de la lute enter la France e l'Emperi. Lous debis sus la restitution dous bês navarréns que-s alounguen toutû dinco 1539. La Haute-Nabarre debién ûe tèrre espagnòle, alabéts qui la Bach-Nabarre que demoure ligade aus Labrit. Déns las ahas de-dehéns, p'ou mancat d'Enric II de Labrit, la guide qu'éy tienude despuch 1535 per la soûe so, Anne de Labrit, e per Yammé de Fouich, abèsque de Lesca e chancelier de Fouich-Biarn. Enter 1538 e 1547, Enric que transfourme la bastide de Nabarréns en ûe grane place horte. Beritàble moudèle de hourtificacioû plâ aban Vauban, que hè pòu à Charles Quint, doun l'espioû qu’ou dit : « segnou, que y a places qui-s gahen, e d'àutes qui-s dechen. Nabarréncs qu'éy d'aquéres. » En 1545, Tristan de Monein debién lou purmè goubernadou de la place horte.
 
     </p>),
          
       },
   {
         titre: "La Résistance face à la France",
+           titrebe: "La Resistènce fàci à la France",
         
           
   fr: (          <p>
@@ -640,6 +674,7 @@ Enric n’arribe pas à tourna counqueri la Haute-Nabarre e Charles Quint n’ou
       },
        {
         titre: "Propagande et Pouvoir en Béarn",
+        titrebe: "Proupagande e Poudé en Biarn",
         
           
   fr: (          <p>
@@ -656,6 +691,7 @@ Merlin, envoyé par Calvin comme agent d'influence intérieur pour protestantise
 
        {
         titre: "L'Instruction pour Tous en Béarn",
+         titrebe: "L'Enstruccioû ta Touts en Biarn",
         
           
     fr: (        <p>
@@ -675,6 +711,7 @@ Marguerite de Navarre est la sœur de François Iᵉʳ qui a protégé le cercle
       
       {
         titre: "Jeanne d'Albret, Ordre et Morale",
+         titrebe: "La Yane de Labrit, Oùrdi et Mourale",
         
           
     fr: (        <p>
