@@ -82116,10 +82116,10 @@
 
 ,{"id": 12624,
 
-"titre": "deporta",
+"titre": "depourta",
 "definition": "déporter",
 "type": "verbe",
-"search": "deporta déporter"
+"search": "depourta déporter"
 },{"id": 12625,
 
 "titre": "proufana",
@@ -82278,12 +82278,24 @@
 "definition": "hérésie",
 "type": "nom féminin",
 "search": "eresie hérésie"
-},{"id": 12645,
+},{"id": 12646,
 
 "titre": "Yerusalem",
 "definition": "Jérusalem",
 "type": "nom propre",
 "search": "Yerusalem Jérusalem"
+},{"id": 12647,
+
+"titre": "etique",
+"definition": "éthique",
+"type": "nom et adjectif",
+"search": "etique éthique"
+},{"id": 12648,
+
+"titre": "guida",
+"definition": "guider",
+"type": "verbe",
+"search": "guida guider"
 }
 
 ]

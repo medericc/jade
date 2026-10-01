@@ -728,6 +728,7 @@ Saint Louis (qui a condamné le livre des Juifs après un procès mené par un J
 
        {
         titre: "Le Béarn Change de Calendrier",
+          titrebe: "Lou Biarn cambie de Calandriè",
         
           
      fr: (       <p>
@@ -741,7 +742,8 @@ Il existait à l'époque quatre styles de Nouvel An : la Circoncision, la Nativi
   
       },
   {
-        titre: "Jeanne et Ses Ennemis",
+        titre: "Jeanne et Ses Ennemies",
+         titrebe: "La Yane et las souês Enemigues",
         
           
    fr: (         <p>
@@ -757,6 +759,7 @@ Après l'assassinat de son mari, Anne d'Este (duchesse de Guise) veut se venger 
       },
        {
         titre: "Jeanne Face à la Mort",
+         titrebe: "La Yane Fàci à la Mour",
         
           
    fr: (         <p>
@@ -771,6 +774,7 @@ La Yane que prepare lou maridàdye dou soû hilh (Médicis que trufa d'ére pend
       },
   {
         titre: "Catherine, Gouvernante de Gascogne",
+         titrebe: "Cataline, Goubernadouse de Gascougne",
         
           
     fr: (        <p>
@@ -796,6 +800,7 @@ Catherine de Bourbon (nom qu'elle tient de son aïeule, comme Bernadotte — roi
     sections: [
       {
         titre: "L'Éducation Rustique d'Henri IV",
+           titrebe: "L'Educacioû Rurale d'Enric IV",
         
           
   fr: (          <p>
@@ -809,7 +814,8 @@ Catherine de Bourbon (nom qu'elle tient de son aïeule, comme Bernadotte — roi
          
       },
       {
-        titre: "L'Éducation Intellectuelle d'Henri IV",
+        titre: "L'Instruction d'Henri IV",
+         titrebe: "L'Enstruccioû d'Enric IV",
         
           
    fr: (         <p>
@@ -823,6 +829,7 @@ Le premier précepteur d'Henri est La Gaucherie (un choix validé par Médicis, 
          
       },  {
         titre: "Les Maximes d'Henri IV",
+         titrebe: "Les Maximes d'Enric IV",
         
           
    fr: (         <p>
@@ -835,6 +842,7 @@ Le premier précepteur d'Henri est La Gaucherie (un choix validé par Médicis, 
       },
       {
         titre: "L'Avènement de la Monarchie Absolue",
+         titrebe: "L'Adbenemèn de la Mounarquie Absoulude",
         
           
   fr: (          <p>
@@ -848,7 +856,8 @@ Saisi d'effroi en devenant roi, Henri IV ne peut se dérober à ses lourdes resp
       },  {
         titre: "Henri IV Gouverne en Marchant",
         
-          
+           titrebe: "Enric IV que Gouberne en Marchan",
+        
   fr: (          <p>
 Hostile aux lourdeurs cérémonielles, Henri IV impose un rythme rapide et efficace : les décisions sont prises en deux heures. Il tient souvent conseil en marchant dans les galeries du Louvre, de Fontainebleau ou des Tuileries. Tout comme Sully, il hait les discours lénifiants et complexes des juristes, qu'il juge déconnectés des réalités militaires et paysannes (une rhétorique de nanti comme Jeanne qui dit à Lansac de sortir son épée pour se battre contre quelqu’un d’autre qu’elle et demande à Médicis de le châtier), il privilégie le pragmatisme, sans termes élastiques que n'importe qui peut redéfinir à sa guise. Au Parlement de Paris, il dira à Achille de Harlay : "Les grandes causes ne sauraient souffrir de vains délais. À l'instar des règles de Béarn ('sur ordre de mon feu grand-père'), les avocats doivent s'exempter de paroles superflues (la substance d'un discours l'emporte sur l'artifice de l'éloquence)". Le Conseil se réunit chaque matin, de 6 h à 8 h, avec les princes du sang et les officiers de la couronne. Le roi complète ces séances collectives par des entretiens individuels afin de tester personnellement ses conseillers (son ami Biron — son descendant Armand-Louis sera député, proche des USA et franc-maçon (né d’adultère par sa mère) — sera puni de mort après l’un d’eux pour trahison envers le peuple français qu’Henri doit protéger). Après un débat marquant le 4 mai 1600, où l'évêque Du Perron démonte les arguments du protestantisme, Henri en sort pleinement conforté dans sa foi catholique (à l'exception de la question du culte des saints (antérieur à la bible, la basilique Sainte-Marie ou Saint-Paulin le met en pratique avant l'ajout — ou rajout — de la femme adultère : quand les gens partent, Jésus ne regarde pas puis il ordonne à la femme de ne plus péché), ce qui reste "compréhensible" au vu des "dérives" liées aux reliques à cette époque (absence de réseaux, mais elles seront corrigés par Trente pour une réforme de l’Église (création des séminaires, par exemple) qui verra des évêques comme Spifame, voleur et fornicateur — puni de mort à Genève pour cela mais pas sa collègue — opter pour le défroquage, ils laissaient faire puisque cela menait à la foi), il voulait même retirer des jours fériés mais les Parlements bloquèrent (près d'un jour sur deux était chômé). Immédiatement après cet événement, il insiste auprès de sa sœur, Catherine de Bourbon, pour qu'elle se convertisse à son tour.
 
@@ -863,6 +872,7 @@ Hostile aux lourdeurs cérémonielles, Henri IV impose un rythme rapide et effic
       
        {
         titre: "Henri IV et le Peuple",
+         titrebe: "Enric IV e lou Pùple",
         
           
      fr: (       <p>
@@ -878,6 +888,7 @@ Henri IV, qui jouait souvent au jeu de paume comme sa 1ère femme (qui ne guerro
       
        {
         titre: "Le Renouveau Économique et Agricole",
+         titrebe: "La Renabide Ecounoumique et Agricole",
         
           
       fr: (      <p>
@@ -894,6 +905,7 @@ Sous l’impulsion de Maximilien de Béthune, partisan d’une politique favorab
       
       {
         titre: "La Modernisation de Paris",
+          titrebe: "La Moudernisacioû de Paris",
         
           
      fr: (       <p>
@@ -909,6 +921,7 @@ Enric IV que superbise e pague lous soûs maçoûs (que hesèn capères en plusi
       },
        {
         titre: "De la Fronde à Versailles",
+         titrebe: "De la Houne à Bersalhes",
         
           
       fr: (      <p>
@@ -925,6 +938,7 @@ Debath la Reyence, Mazarî que bòu retira lou salàris dous robîs (noublesse d
       ,
        {
         titre: "Un Colon Béarnais",
+         titrebe: "Û Couloû Biarnés",
         
           
      fr: (       <p>
@@ -953,6 +967,7 @@ Le Béarnais Jean-Vincent d’Abbadie de Saint-Castin (descendant de Marie Borde
      
         {
         titre: "L'Éthique de la Guerre",
+         titrebe: "L'Etique de la Guèrre",
         
           
       fr: (      <p>
@@ -969,6 +984,7 @@ be: (  <p>
      
       {
         titre: "La Loge Maçonnique de Pau",
+          titrebe: "La Lòdye Maçounnique de Pau",
         
           
      fr: (       <p>
@@ -985,6 +1001,7 @@ La loge maçonnique de Pau — une franc-maçonnerie qui prône une vertu sans f
       },
        {
         titre: "Le Béarn face à la Révolution",
+         titrebe: "Lou Biarn fàci à la Reboulucioû",
         
           
       fr: (      <p>
@@ -1000,6 +1017,7 @@ be: (  <p>
       },
       {
         titre: "La Démocratie Directe au Labourd",
+          titrebe: "La Democracie Dirècte au Labourd",
         
           
    fr: (         <p>
@@ -1013,6 +1031,7 @@ Jusqu’à la Révolution — qui fait suite à celle des États-Unis (financée
       },
       {
         titre: "La Fin des Libertés du Labourd",
+         titrebe: "La Fî Libertats dou Labourd",
         
           
      fr: (       <p>
@@ -1029,6 +1048,7 @@ Après qui lou bàscou Enric de Belsunce qu’estou minya p’ous republicâs, l
       },
       {
         titre: "Pierre Hourcastrémé Face à l'Église",
+          titrebe: "Pé Hourcastreme Fàci à la Glèyse",
         
           
     fr: (        <p>
@@ -1044,7 +1064,8 @@ Sous la Monarchie, si une communauté faisait la même chose pendant 10, 20 ou 3
       {
         titre: "Le Martyre de Marguerite Rutan",
         
-          
+            titrebe: "Le Martìri de Margalide Rutan",
+       
      fr: (       <p>
 Dans une famille de quinze enfants, la bienheureuse Marguerite Rutan aide son père au travail avant de devenir sœur (Fille de la Charité). Elle dirige l’hôpital de Pau, œuvre pour l'aide aux enfants, puis devient la première dirigeante de l’hôpital de Dax. En 1793, elle refuse de prêter serment à la Constitution civile du clergé et de se soumettre à la République, un régime faisant le panégyrique du péché (pour que tous tombent dans l’obscurité du péché) avec comme devise “liberté, égalité, fraternité ou la mort”. La République le lui reproche (suivant ses lois) et la fait arrêter. Devant le tribunal républicain, elle réitère son refus et le régime l’assassine en la condamnant à la guillotine (« Pour être fort, il faut être craint », comme disait la marionnette Macron — appuyé par le maçon Patriat (camarilla muée en aréopage) — en 2025 aux côtés de ses ministres « soldats de l’an II » qui produisent chaque jour 666 assassinats par avortement — un fœtus sorti et vivant doit être baptisé — toujours dans l’optique de ne pas œuvrer pour le salut du monde, “c'est mieux de pas aller au paradis” en partant donc de l’an 0, 1792). Marie Vivé voit ses vœux annulés par la Révolution car elle n’a que 17 ans, elle rentrera à Salies et prêtera serment à la Liberté et à l’Égalité. Ce même régime — mené par les réseaux du GODF (Ferry, Manuel Valls, Mélenchon ou encore le trio, banquier exhibitionniste Maurice Rouvier de la commune de Marseille, Briand et Combes de la séparation de l'Église et de l'État, icelui qui a fermé plus de 2 000 écoles religieuses — suite à la main tendue de Léon XIII (étant une contre-religion) — et a été trahi (haro a été crié sur son nom et litière a été faite de son passé), comme Robespierre qui faisait face au système de Cloots après avoir fait tomber leur ennemi commun) — expulse sainte Léonie Aviat et ses religieuses (grâce à l’aide des prêtres pendant la Guerre, le catholicisme sera un peu moins persécuté jusqu’à 1939) un siècle plus tard pour détruire la seule véritable barrière face au système bancaire : la morale de Dieu !
 
@@ -1059,7 +1080,8 @@ be: (  <p>
 
   {
         titre: "La Déportation des Villages Basques",
-        
+          titrebe: "La Depourtacioû Bilàdyes Basquétes",
+       
           
       fr: (      <p>
 En avril 1793, Dartigoeyte dénonce le « fanatisme » des Basques — en réaction aux déportations du clergé, à l'élimination de 96 % des religieuses de France et aux massacres de septembre de Danton, proche (par l'intermédiaire du "religieux” Chabot) de Dobruška (banquier et rabbin juif, faussement converti pour être anobli, qui a fondé une secte kabbaliste voulant reconstruire sans Révélation (avant l’Empire romain chrétien c’était la République romaine, d’où les changements de noms des révolutionnaires comme Babeuf) ni morale avec Brunswick de Valmy) qui a sa communauté active en Allemagne selon Cloots, pendant que les loges sont fermées pour éviter une contre-révolution — qui refusent de se soumettre à la propagande républicaine, ce qui pousse le pouvoir à ordonner au général Dumas de les « terrasser ». Dès novembre 1793, les « aristocrates locaux » (jugeant les Labourdins comme une exception, traiter les êtres humains comme des objets lucratifs dès leur conception un principe républicain) sont accusés d'espionnage pour le compte de l'Inquisition espagnole (à Ustaritz, ils étaient emmenés de force à la messe d’un républicain, donc ils allaient en Espagne) et surtout de tiédeur républicaine (à Espelette les habitants insultaient les prêtres républicains, le maire fut guillotiné à Bayonne le 11 mars). « Le fanatisme parle basque, brisons ces instruments de dommage et d'erreur (ils confondent religion et loi, les prêtres (“dieux de l'ignorance”) sont le problème) » : le franc-maçon Barère, rapport du Comité de salut public (27 janvier 1794) qui appuyait la langue nationale (hormis le Gascon car il le parle). Ces « aristocrates » (paravent, ce sont des “hérétiques”) ne le sont que pour la République car ce sont des paysans, des artisans et des domestiques. Par la suite, la République définira elle-même ses termes (fixant ses opposants par une bipolarité forçant sciemment une modétation avec une idolâtrie de cette modération par faux dilemme, comme si entre Jésus est Dieu et qu’il est dans des excréments, l’Islam serait la modération ou qu’entre la virginité cathare et la débauche républicaine ça serait l’Église) pour ne plus faire erreur (les inversions sémantiques et épouvantails — une débauche d’adjectifs (concepts abscons) pour masquer l’indigence argumentative — : «arriéré», «moyenâgeux», «tradition» ou «raciste» (arroumère d'enterpretacioû hère cla) de Mitterrand via les planches du GODF (sa ministre franc-maçonne — décorée par le GODF en 2026 — Roudy appuiera l’assassinat d’enfants à naître, l’androgynie  — "tirée de la côte pour marquer son égale dignité, n'étant ni dominatrice comme si elle venait de la tête ni esclave comme si elle venait des pieds, la femme possède néanmoins une lucidité et une raison moins solides que celles de l'homme, ce qui justifie une hiérarchie basée sur l'intelligence afin de garantir l'harmonie sociale et domestique" : saint Thomas  — et l’abominable crime de la contraception, publiquement pour “les femmes”  — …pour que les femmes aillent en enfer  — scellant son appartenance privée), pour protéger l’immigration qui baisse les salaires face au PCF au nom du “grand patronat”, à l'instar des «papistes» ou «idolâtres» des calvinistes pervertissant déjà les termes — ils jugeaient qu’emmener son enfant à la messe était de la maltraitance —, pour éliminer les gens bons) en pratiquant une sélection partiale des faits historiques sur la base d'une pétition de principe favorable à la centralisation parisienne. L’hiver 1794 est marqué par une pénurie alimentaire, les contre-révolutionnaires sont jugés coupables et Ustaritz (ex-capitale du Labourd, déplacée à Bayonne — qui parle gascon — malgré les plaintes) est visée, de nombreux habitants du secteur purent se réfugier en Espagne. Les habitants de Sare avaient autrefois aidé Louis XIV à Vera de Bidasoa, et même la République naissante (alors qu’ils étaient paysans donc pas conscrits normalement, de surcroît le for du Labourd stipulait de se battre seulement pour le Labourd, certains sont partis en Espagne) comme le soulignait Barère (“leur problème c’est leurs prêtres”). Ce sont des milliers de Basques (« monstres indignes d’être français, il faut faire couler “le sang des traîtres”, faire tomber “la foudre nationale” sur eux en les enchaînant comme des bêtes féroces », Arrêté Pinet-Cavaignac 3 mars 1794) de villages entiers (Sare, Ainhoa, Espelette...) qui sont déportés dans des camps de concentration (la moitié périrent), au son de La Marseillaise du franc-maçon Rouget de Lisle — qu’il chante chez son frère de loge, le baron protestant, maçon, illuminé et fils de banquier anobli par Louis XV, Philippe Frédéric de Dietrich — (le « sang impur » repris par Lénine à sa sortie du wagon) et sous l'effigie de la Marianne bleu-blanc-rouge (« sainte Marianne » selon le juif porphyrogénète Debré fils du rédacteur de la constitution de la Ve République). Ils ne pouvaient pas quitter leur nouvelle commune sous peine d’être mis aux fers (ou juste en prison pour les femmes). Au milieu de ces épreuves, Pierre Iharour, après un long supplice, parvient à sauver des objets liturgiques. La contestation basque se dirigera contre l'État, sur le quasi 1 million de livres demandées seule la Restauration en donnera un petit % (Charles X perdra contre les maçons). Pinet, Dartigoeyte et Cavaignac seront amnistiés quand les républicains tueurs de Robespierre et Carrier s’auto-amnistient (25 octobre 1795). Nonobstant cela, Biarritz subit plus tard des bombardements au nom de la « Nation » par les forces alliées menées par les maçons Churchill, Eisenhower et Roosevelt (dont l'épouse signera la DUDH aux côtés du maçon juif bayonnais Cassin) et même des changements de noms de rues pour détruire son histoire.
@@ -1075,6 +1097,7 @@ En avril 1793, Dartigoeyte dénonce le « fanatisme » des Basques — en réact
       },
  {
         titre: "Le Curé Capuran",
+         titrebe: "Lou Curè Capurâ",
         
           
     fr: (        <p>
@@ -1091,9 +1114,10 @@ Le curé Capuran, prêtre jureur qui a fourni des vases sacrés à la Républiqu
 
 
        {
-        titre: "Guider les âmes vers le Bien",
+        titre: "Guider les Âmes vers le Bien",
         
-          
+              titrebe: "Guida las Amnes bérs lou Bê",
+        
       fr: (      <p>
 Lorsque je m'adresse à un Béarnais, je m'appuie sur la tradition béarnaise (la légitimité) en harmonie avec la vision de l’Église catholique (Mc 8:33) — car le Béarn est catholique (la Vérité) — et non sur un impérialisme idéologique païen qui met le corps au-dessus de l’âme (jusqu’à l’écraser, la volonté du diable), l’objectif d’un humain est de devenir saint en construisant des saints (pas de suivre des idéologies éphémères hédonistes (vivre pour le plaisir → animaux) — anti-paradis — et séculières pro-péché) à l’instar des apôtres avec St Paul (un événement ne définit pas une personne, ce n’est qu’un accident — personne n’a une vie linéaire (commettre une injustice sous le coup d'une passion est atténuant, on ne peut pas être injuste envers soi ) — car elle est créée par Dieu (comme la femme adultère), par contre si elle se définit comme pécheresse, c’est une possibilité de contamination donc un grand danger, si on va dans un hôpital pour contaminer les gens (analogie de l’âme), ils vont mourir, “s'imaginer le faire et compatir avec le pécheur (la faiblesse humaine est palliée par la charité ; Tt 2) — jusqu’à accomplir sa pénitence avec lui car ce péché dort en nous (avoir peur de soi — de commettre un péché mortel — et non de notre voleur, par exemple, ça serait une joie de le ramener vers le Christ) —, si Dieu te fait sentir la souffrance de cette âme c’est pour que tu l’aides", “ne plus voir selon mes yeux et sentiments, mais selon la perspective de Jésus”, comme le disait sainte Catherine, Mt 5,24 ou st Thomas qui précise que, sans demande de l’autorité, on n’a pas d’obligation morale de dénonciation si ça ne nuit pas au bien commun). Dieu est un Dieu d'ordre (comme le monde est ordonné) que l'on craint de décevoir parce qu'il nous aime à l’instar d’un père avec son enfant (il le laisse faire seul parfois pour qu'il progresse comme l’évolution humaine) ou son chat (il sait mieux que nous ce qui est bon pour nous, même si on ne comprend pas sur le moment). L'être humain est ordonné à la vie dès sa conception, sa respiration même étant téléonomique (l’ordre est le bien, le désordre le mal, comme stopper sa respiration mène à la mort, l’ordre de la vie n’est pas de s'annihiler avant la naissance). Aimer, c’est vouloir du bien à quelqu’un donc il faut oser corriger l’autre (avec des paroles dures si besoin) pour qu’il reste éclairé et dans l’ordre (la « Sainte Colère »). Ce n’est pas le juger par orgueil, par haine — “Celui qui n'aime pas son frère demeure dans la mort”, 1 Jn 3:14, si on juge normal de détester un homme pécheur, Dieu (la perfection) pense quoi de nous, pécheurs ?, Mt 7,12 — ou par biais de conformisme (“le salut de l'âme du prochain prime sur notre vie corporelle”, St Thomas) mais tout comme mettre un médicament dans la gorge de quelqu'un ne le soignera pas s'il ne l'avale pas, son changement devra être accompli par lui-même, avec l'aide de Dieu. En effet, nous portons une responsabilité lorsque nous conseillons ou approuvons le mal (propagation du péché, détester les gens publiquement), à l'image de la contraception (aucun respect pour la race humaine) d’État ou de l’euthanasie (symbole des dirigeants des régimes post-révolution qui considèrent que les faibles (embryons, handicapés) ont moins de dignité qu’eux) symbolisant l'individualisme (antithétique pour ces prétendus socialistes, je n'aide pas les autres donc ils ne m'aident pas, en rupture avec le principe chrétien où on peut aller jusqu’à donner son corps pour l’âme de son prochain en pleurant pour l’âme des autres et non par amour-propre) anti-bien commun par principe (créant de la souffrance par rhétorique de nanti avec des “études” menées sur des républicains endoctrinés appuyant l’impérialisme — au lieu d’être menées sur nos exemples (les saints), le républicain moyen devient “un saint” — et la débauche — tout en se plaignant s’il nous y arrive un acte de débauché (Dieu peut le permettre pour qu’on réalise) — en opposition aux martyrs et à St Carlo Acutis qui n’avait peur que du péché). Il ne faut pas conforter l'autre dans son péché mortel (« prendre le fruit », car le péché noircit l’âme, Mt 13:15) ni y consentir (c’est l’anti-révélation de Voltaire sécularisé au XXe siècle, le relativisme) par des illusions comme un sophisme des deux torts. Ne pas regretter un péché mortel conduit à l’enfer, et égarer son prochain ("autre soi-même ") est fatal (le Christ a pris ces péchés-là sur la croix) car on ne pourra pas forcer son repentir, ce qui se fait souvent par faiblesse (Adam). Les saints sont morts pour avoir refusé l'idéologie dominante afin de faire vivre la vraie foi et non “le veau d’or” (pervertir Dieu selon ses sentiments du moment), le progrès consiste à s'inspirer d'eux pour une progression constante (progresser sans la Révélation, comme la maçonnerie, c’est régresser) et non s'asservir au libéralisme, encore plus arriéré que celui des tribus païennes de l’Antiquité. Pourtant, c'est ce que souhaitent les maçons au service des banques, ils servent ce même principe dirigé contre le corps et l’âme de leurs sujets. Il faut toujours définir ses termes lors d’une prise de parole (tactique de l'encre de seiche ou sophisme d'ambiguïté) et juger (sans soupçon) le principe des dires des locuteurs (en analysant l’origine de leurs définitions préalables pour évaluer la légitimité de cette source) afin de ne pas tomber dans le sophisme (à l’instar de rentrer dans un mauvais principe, comme l’individualisme, alors qu’on y est contre d’office, on ne respecte pas l’erreur) tout en étant ouvert (ouvert à la Vérité (chercher le bon dogme), c'est ne pas tomber dans le sophisme de l’ouverture d’esprit relativiste qui consiste à écouter "vérité comme mensonge" sans jugement pour continuer de "faire ce qu’on veut sans endoctrinement", cela revient à être fermé (vu qu’on ne tient compte de rien et on s’oblige à tourner en rond autour de la vérité) et à être endoctriné car on décide que la vérité objective n’existe pas par principe, dogmatisme formel non matériel (différence sciemment éludée par la propagande républicaine), tout en se soumettant aux lois de Paris (si un groupe est bloqué dans un manoir mais que l'un d'eux a balisé le chemin, l'ouverture d'esprit consiste à comprendre qu'il a raison, non à écouter tout le monde, perdre du temps et faire un vote subjectif). Seule la vérité rend libre et heureux, sans que l'on s'invente des chaînes matérielles souvent occultes comme le concours sophistique, propagandiste et aliénant de « la plus belle femme de France » (inventé par l’anti-catholique de Waleffe en opposition à la canonisation de Jeanne d’Arc). Tous les chefs d'État légitimes du Béarn dirigeaient en se basant sur le Paradis et l'Enfer (pour faire des saints et participer au dessein de Dieu — sauver tous les hommes — et non pour créer des zombies payeurs d’impôts), pas sur des inventions philosophiques (avec des sophismes tels que "c'était avant", comme si les chirurgiens un jour se mettraient à tuer des patients en disant : "C'est la chirurgie moderne."), ils ne voulaient pas offenser Dieu. Il faut vivre chaque jour comme si, le soir même, nous devions paraître devant Dieu, cela implique de chercher constamment à accomplir Sa volonté par le discernement : les dons que nous recevons (Dieu donne différentes vertus aux hommes — qu’il connaît avant même leur conception — pour qu’ils éprouvent et aident les autres) peuvent porter de bons fruits comme des fruits amers, se remettre en question sans juger l'autre face à soi (avoir de la haine c’est objectivement du poison, donc conforme aux enseignements du Christ, il faut voir les gens comme des instruments de Dieu dans nos vies) ou avoir trop de déconcentration (une obsession qui prend le dessus sur la vérité, c’est un péché qui crie vers le ciel, et on n'aurait jamais envie de boire du sirop si on n'en avait jamais bu). Devant le Christ, on ne pourra pas dire : « Alors lui, il a fait ça, mais moi j’ai fait moins pire donc c'est bon » (200 000 innocents sont éliminés chaque jour, on ne peut pas rien faire pour Dieu). On ne connaît pas l'intention de l'autre (nos impressions nous poussent à mal juger”, ste Catherine). Il faut juger selon la justice, et non pas pseudo-sonder son esprit ou juger avec hypocrisie (ne pas se repentir d’un péché plus gros, Mt 7,3-5). Il faut guider (juger dans l’optique de s’améliorer et d’améliorer son prochain, dans le doute toujours interpréter de manière positive) ses frères vers Dieu (Lc 12, 37,38), et donc vers la vie (vouloir son bien donc ne pas vouloir qu’il pèche). Ce guidage (sans créer d'effet d'alerte en réfutant une accusation non formulée mais avec une recontextualisation positive ou neutre) commence par le respect des lois fondamentales (pour la vie) des Béarnais, qui existent depuis plus d'un millénaire sous la vraie Église de Dieu. C'est tout l'inverse de les exterminer dès leur conception (la vie après l'accouchement serait-elle plus utopique que celle après la mort ?) et/ou de les mettre en état de péché mortel, comme le voudraient les banques pour leur business. 
 
