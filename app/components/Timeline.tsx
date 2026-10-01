@@ -30,7 +30,7 @@ const periodes: Periode[] = [
     annee: "XIIe-XIVe siècle",
     titre: "Formation de la vicomté de Béarn", 
     description: "Émergence de la vicomté de Béarn",
-    titrebe: "Fourmacioû de la biscoumtat de Biarn",
+    titrebe: "Hourmacioû de la biscoumtat de Biarn",
     descriptionbe: "Aparechude de la Biscoumtat de Biarn",
     slug: 'fondement',
   },
