@@ -20,21 +20,10 @@ type Carte =
 
 
 export const metadata = {
-  title: 'Culture béarnaise, histoire du Béarn et culture chrétienne',
+  title: 'Culture Béarnaise, Histoire du Béarn et Culture Chrétienne',
   description:
     "Découvrez l’histoire et la culture du Béarn, son patrimoine et ses grandes figures, ainsi que des articles sur l’histoire du monde, les saints et la tradition chrétienne.",
-  keywords: [
-    'culture béarnaise',
-    'Béarn',
-    'histoire du Béarn',
-    'histoire béarnaise',
-    'patrimoine du Béarn',
-    'histoire du monde',
-    'culture chrétienne',
-    'théologie catholique',
-    'saints catholiques',
-    'histoire de l’Église',
-  ],
+
   alternates: {
     canonical: '/apprendre/culture',
   },

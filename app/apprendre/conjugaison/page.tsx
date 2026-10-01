@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import ConjuClient from './ConjuClient'
 
 export const metadata = {
-  title: "Conjugaison béarnaise complète | Présent, futur, passé et subjonctif",
+  title: "Conjugaison Béarnaise Complète | Présent, Futur, Passé et Subjonctif",
   description:
     "Apprenez la conjugaison béarnaise avec des règles détaillées, les temps verbaux, les verbes irréguliers, des exemples et les participes en langue béarnaise.",
 }
