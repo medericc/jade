@@ -2270,14 +2270,14 @@
   {
     "id": 368,
     "titre": "aleba",
-    "definition": "blesser",
+    "definition": "blesser ; froisser, vexer",
     "type": "verbe transitif",
     "search": "aleba blesser"
   },
   {
     "id": 369,
     "titre": "alebat -ade",
-    "definition": "blessé, infirme, handicapé",
+    "definition": "blessé, infirme, handicapé ; vexé",
     "type": "adjectif/nom",
     "search": "alebat -ade blessé, infirme, handicapé"
   },
@@ -82296,6 +82296,12 @@
 "definition": "guider",
 "type": "verbe",
 "search": "guida guider"
+},{"id": 12649,
+
+"titre": "bexa",
+"definition": "vexer",
+"type": "verbe",
+"search": "bexa vexer"
 }
 
 ]
