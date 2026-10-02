@@ -528,7 +528,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Bahide → sûrement.",
      "Lhèu → peut être.",
       "Que serp plâ. → Il sert bien.",
-       "Si ne-n abét pas nade, que-n bau préne. → Si vous n’en avez pas, je vais en prendre."
+       "Si ne-n abét pas nade, que-n bau préne. → Si vous n’en avez pas, je vais en prendre.",
+        "Que-m éy mancat lou cop. → J'ai loupé le coche",
+         "Que-m éy perdut las claus. → J'ai perdu mes clefs.",
  
   ]
 },
@@ -563,7 +565,18 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Les verbes transitifs de mouvement comme mia(-n), embia(-n) et manda(-n) s’emploient avec la préposition « ta » devant l’infinitif.",
     "Qu'ou bau embia ta croumpa pâ. → Je vais l’envoyer acheter du pain."
 ,
-  
+"Si le verbe pronominal a un complément d'objet le verbe exige l'auxiliaire avoir."
+,
+ "Que-m souy labat. → Je me suis lavé."
+,
+   "Que-m èy labat las mâs. → Je me suis lavé les mains."
+,
+"Pour les semi-auxiliaires + infinitif avec pronoms compléments, on choisit l'auxiliaire en fonction de l'infinitif."
+,
+ "Que-m a bienut emplega. → Il est venu m'engager."
+,
+   "Que-s éy poudute aleba. → Elle a pu se blesser."
+,
   ]
 },
 
