@@ -567,9 +567,9 @@ const isMobile = useMediaQuery('(max-width: 767px)')
 ,
 "Si le verbe pronominal a un complément d'objet le verbe exige l'auxiliaire avoir."
 ,
- "Que-m souy labat. → Je me suis lavé."
+ "Que-s soun labats. → Ils se sont lavés."
 ,
-   "Que-m èy labat las mâs. → Je me suis lavé les mains."
+   "Que-s an labat las mâs. → Ils se sont lavé les mains."
 ,
 "Pour les semi-auxiliaires + infinitif avec pronoms compléments, on choisit l'auxiliaire en fonction de l'infinitif."
 ,
