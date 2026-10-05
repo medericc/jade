@@ -78303,13 +78303,7 @@
     "type": "nom masculin",
     "search": "abatèmen abattement, affaiblissement des forces physiques"
   },
-  {
-    "id": 12176,
-    "titre": "esbarata",
-    "definition": "détruire, renverser",
-    "type": "verbe",
-    "search": "esbarata détruire, renverser"
-  },
+
   {
     "id": 12177,
     "titre": "esbarat",
@@ -82314,6 +82308,26 @@
 "definition": "baron",
 "type": "nom mascculin",
 "search": "baroû baron"
+},{"id": 12654,
+
+"titre": "oustracisa",
+"definition": "ostraciser",
+"type": "verbe",
+"search": "oustracisa ostraciser"
+},{"id": 12655,
+
+"titre": "instrumentalisa",
+"definition": "instrumentaliser",
+"type": "verbe",
+"search": "instrumentalisa instrumentaliser"
+},{"id": 12656,
+
+"titre": "instrumentalisacioû",
+"definition": "instrumentalisation",
+"type": "nom féminin",
+"search": "instrumentalisacioû instrumentalisation"
 }
+
+
 
 ]
