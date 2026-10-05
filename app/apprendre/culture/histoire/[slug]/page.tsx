@@ -103,19 +103,27 @@ minHeight: '100vh',
         margin: '0 auto',
       }}
     >
-      <span
-        style={{
-          display: 'inline-block',
-          background: '#f3c623',
-          color: '#2a0c45',
-          padding: '.55rem 1rem',
-          borderRadius: '999px',
-          fontWeight: 800,
-          marginBottom: '1.5rem',
-        }}
-      >
-        {pageData.periode}
-      </span>
+   <Link
+  href="/apprendre/culture"
+  style={{
+    textDecoration: 'none',
+  }}
+>
+  <span
+    style={{
+      display: 'inline-block',
+      background: '#f3c623',
+      color: '#2a0c45',
+      padding: '.55rem 1rem',
+      borderRadius: '999px',
+      fontWeight: 800,
+      marginBottom: '1.5rem',
+      cursor: 'pointer',
+    }}
+  >
+    {pageData.periode}
+  </span>
+</Link>
 
       <h1
         style={{
