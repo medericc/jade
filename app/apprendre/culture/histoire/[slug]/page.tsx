@@ -72,7 +72,14 @@ console.log(
   Object.keys(histoireData)
 );
 if (!pageData) notFound();
-
+const estMonde = slug === 'eglise'
+  || slug === 'naissance-france'
+  || slug === 'capet'
+  || slug === 'sainte-jeanne'
+  || slug === 'calviniste'
+  || slug === 'paris'
+  || slug === 'revolution-france'
+  || slug === 'technologie';
 return (
 <main
 style={{
@@ -154,7 +161,7 @@ minHeight: '100vh',
     >
    <HistoireAnalyse
   sections={pageData.sections}
-  categorie={categorie}
+  categorie={estMonde ? 'monde' : 'bearn'}
 />
     </div>
   </section>
