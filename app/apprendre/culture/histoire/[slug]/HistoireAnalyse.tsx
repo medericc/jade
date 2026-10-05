@@ -13,8 +13,10 @@ type Section = {
 
 export default function HistoireAnalyse({
   sections,
+   categorie,
 }: {
   sections: Section[];
+  categorie: string;
 }) {
   const [langue, setLangue] = useState<'fr' | 'be'>('fr');
   const [isMobile, setIsMobile] = useState(false);
@@ -91,35 +93,39 @@ export default function HistoireAnalyse({
 />
             </button>
 
-            <button
-              onClick={() => setLangue('be')}
-              style={{
-                border: 'none',
-                background:
-                  langue === 'be'
-                    ? '#2a0c45'
-                    : 'transparent',
-                color:
-                  langue === 'be'
-                    ? '#fff'
-                    : '#2a0c45',
-                fontWeight: 700,
-                padding: '.65rem 1rem',
-                borderRadius: '999px',
-                cursor: 'pointer',
-                zIndex: 9999,
-              }}
-            >
-           <Image
-  src="/bearn.png"
- alt="Drapeau du Béarn"
-  width={24}
-  height={24}
+        <button
+  onClick={() => categorie !== 'monde' && setLangue('be')}
+  disabled={categorie === 'monde'}
   style={{
-    objectFit: "contain",
+    border: 'none',
+    background:
+      langue === 'be' && categorie !== 'monde'
+        ? '#2a0c45'
+        : 'transparent',
+    color:
+      categorie === 'monde'
+        ? '#aaa'
+        : langue === 'be'
+        ? '#fff'
+        : '#2a0c45',
+    fontWeight: 700,
+    padding: '.65rem 1rem',
+    borderRadius: '999px',
+    cursor: categorie === 'monde' ? 'not-allowed' : 'pointer',
+    opacity: categorie === 'monde' ? 0.45 : 1,
+    zIndex: 9999,
   }}
-/>
-            </button>
+>
+  <Image
+    src="/bearn.png"
+    alt="Drapeau du Béarn"
+    width={24}
+    height={24}
+    style={{
+      objectFit: 'contain',
+    }}
+  />
+</button>
           </div>
         </div>
 

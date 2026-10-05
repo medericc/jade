@@ -54178,20 +54178,8 @@
     "type": "adjectif",
     "search": "oélh-birat -ade qui louche (personne)"
   },
-  {
-    "id": 8550,
-    "titre": "aulhe",
-    "definition": "brebis",
-    "type": "nom féminin",
-    "search": "aulhe brebis"
-  },
-  {
-    "id": 8551,
-    "titre": "aulhè -re",
-    "definition": "berger",
-    "type": "nom",
-    "search": "aulhè -re berger"
-  },
+
+
 
   {
     "id": 8553,
@@ -67413,14 +67401,14 @@
   },
   {
     "id": 10548,
-    "titre": "secrét",
+    "titre": "secrét, segrét",
     "definition": "secret",
     "type": "nom masculin",
     "search": "secrét secret"
   },
   {
     "id": 10549,
-    "titre": "secrét",
+    "titre": "secrét, segrét",
     "definition": "secret",
     "type": "adjectif",
     "search": "secrét secret"
@@ -67441,7 +67429,7 @@
   },
   {
     "id": 10552,
-    "titre": "secreteya",
+    "titre": "secreteya, segreteya",
     "definition": "dire des secrets, murmurer",
     "type": "verbe transitif",
     "search": "secreteya dire des secrets, murmurer"
@@ -82320,6 +82308,12 @@
 "definition": "trajet",
 "type": "nom féminin",
 "search": "caminade trajet"
+},{"id": 12653,
+
+"titre": "baroû",
+"definition": "baron",
+"type": "nom mascculin",
+"search": "baroû baron"
 }
 
 ]

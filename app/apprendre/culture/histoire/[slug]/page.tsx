@@ -152,8 +152,9 @@ minHeight: '100vh',
         margin: '0 auto',
       }}
     >
-    <HistoireAnalyse
+   <HistoireAnalyse
   sections={pageData.sections}
+  categorie={categorie}
 />
     </div>
   </section>
