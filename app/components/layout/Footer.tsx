@@ -26,7 +26,7 @@ export default function Footer() {
             Dodge City
           </span>
 
-         <a href="https://histoiredubearn.fr" className={styles.motto} target="_blank" rel="noopener noreferrer" > Toque-y Si Gauses ⚜️ </a>
+         <a href="https://www.histoirebearn.fr" className={styles.motto} target="_blank" rel="noopener noreferrer" > Toque-y Si Gauses ⚜️ </a>
         </div>
 
       </div>
