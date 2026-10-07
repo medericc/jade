@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import BreadcrumbSchema from "../../components/seo/BreadcrumbSchema"
+
 function useMediaQuery(query: string) {
   const [matches, setMatches] = useState(false)
 
@@ -974,6 +976,27 @@ const isMobile = useMediaQuery('(max-width: 767px)')
   const current = lessons[lesson]
 
   return (
+
+
+    <>
+<BreadcrumbSchema
+  items={[
+    {
+      name: "Accueil",
+      url: "https://www.jadecelerierbearn.com/",
+    },
+    {
+      name: "Apprendre",
+      url: "https://www.jadecelerierbearn.com/apprendre",
+    },
+    {
+      name: "Cours",
+      url: "https://www.jadecelerierbearn.com/apprendre/cours",
+    },
+  ]}
+/>
+
+
     <main
       style={{
         minHeight: '100vh',
@@ -1342,6 +1365,6 @@ Oéyt Leçoûs
      
      
       </div>
-    </main>
+    </main></>
   )
 }

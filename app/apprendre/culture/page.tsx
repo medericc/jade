@@ -2,7 +2,7 @@
 
 import Timeline from '../../components/Timeline'
 import Link from 'next/link'
-
+import BreadcrumbSchema from "../../components/seo/BreadcrumbSchema"
 
 
 type Carte =
@@ -69,6 +69,24 @@ const cartes : Carte[] = [
 ]
 export default function HistoirePage() {
   return (
+    <>
+
+    <BreadcrumbSchema
+  items={[
+    {
+      name: "Accueil",
+      url: "https://www.jadecelerierbearn.com/",
+    },
+    {
+      name: "Apprendre",
+      url: "https://www.jadecelerierbearn.com/apprendre",
+    },
+    {
+      name: "Culture",
+      url: "https://www.jadecelerierbearn.com/apprendre/culture",
+    },
+  ]}
+/>
     <main
       style={{
         background: '#f3eef8',
@@ -254,6 +272,6 @@ export default function HistoirePage() {
     </p>
   </div>
 </section>
-    </main>
+    </main></>
   )
 }

@@ -6,6 +6,7 @@ import data from '@/data/dictionnaire_bearnais.json'
 import { Nunito } from 'next/font/google'
 import { Search } from 'lucide-react'
 import Fuse from 'fuse.js'
+import BreadcrumbSchema from "../../components/seo/BreadcrumbSchema"
 
 const nunito = Nunito({
   subsets: ['latin'],
@@ -121,6 +122,23 @@ return fuse.search(q).map(r => ({
 
   return (
     <>
+<BreadcrumbSchema
+  items={[
+    {
+      name: "Accueil",
+      url: "https://www.jadecelerierbearn.com/",
+    },
+    {
+      name: "Apprendre",
+      url: "https://www.jadecelerierbearn.com/apprendre",
+    },
+    {
+      name: "Dictionnaire",
+      url: "https://www.jadecelerierbearn.com/apprendre/dictionnaire",
+    },
+  ]}
+/>
+
       <style jsx global>{`
         :root {
       --violet-profond: #2a0c45;

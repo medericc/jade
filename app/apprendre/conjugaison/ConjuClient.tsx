@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-
+import BreadcrumbSchema from "../../components/seo/BreadcrumbSchema"
 
 
 
@@ -54,6 +54,25 @@ export default function ConjugaisonPage() {
   const [hovered, setHovered] = useState<string | null>(null)
 const isMobile = useMediaQuery('(max-width: 767px)')
   return (
+
+    <>
+
+    <BreadcrumbSchema
+  items={[
+    {
+      name: "Accueil",
+      url: "https://www.jadecelerierbearn.com/",
+    },
+    {
+      name: "Apprendre",
+      url: "https://www.jadecelerierbearn.com/apprendre",
+    },
+    {
+      name: "Conjugaison",
+      url: "https://www.jadecelerierbearn.com/apprendre/conjugaison",
+    },
+  ]}
+/>
     <main
       style={{
         background: '#f3eef8',
@@ -636,7 +655,7 @@ window.history.replaceState(null, '', `#${s.key}`)
           </Container>
         </section>
       )}
-    </main>
+    </main></>
   )
 }
 

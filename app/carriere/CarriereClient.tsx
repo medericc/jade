@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { useState } from 'react'
-
+import BreadcrumbSchema from "../components/seo/BreadcrumbSchema"
 
 export default function CarrierePage() {
   const [activeTab, setActiveTab] = useState('timeline')
@@ -113,6 +113,18 @@ export default function CarrierePage() {
 
   return (
     <>
+    <BreadcrumbSchema
+  items={[
+    {
+      name: "Accueil",
+      url: "https://www.jadecelerierbearn.com/",
+    },
+    {
+      name: "Carrière",
+      url: "https://www.jadecelerierbearn.com/carriere",
+    },
+  ]}
+/>
       <style jsx global>{`
         :root {
           --violet-profond: #4B1E6D;

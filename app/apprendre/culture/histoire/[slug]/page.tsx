@@ -6,6 +6,7 @@ import HistoireAnalyse from './HistoireAnalyse';
 import ExpandableSection from '../../../../components/ExpandableSection';
 import { histoireData } from '../../../../../data/culture/bearn';
 import { worldData } from '../../../../../data/culture/monde';
+import BreadcrumbSchema from '@/app/components/seo/BreadcrumbSchema';
 
 
 
@@ -80,7 +81,33 @@ const estMonde = slug === 'eglise'
   || slug === 'paris'
   || slug === 'revolution-france'
   || slug === 'technologie';
+
+  const breadcrumbSchemaItems = [
+  {
+    name: "Accueil",
+    url: "https://www.jadecelerierbearn.com/",
+  },
+  {
+    name: "Apprendre",
+    url: "https://www.jadecelerierbearn.com/apprendre",
+  },
+  {
+    name: "Culture",
+    url: "https://www.jadecelerierbearn.com/apprendre/culture",
+  },
+  {
+    name: categorie === "monde" ? "Monde" : "Histoire du Béarn",
+    url: `https://www.jadecelerierbearn.com/apprendre/culture/${categorie}`,
+  },
+  {
+    name: pageData.titre,
+    url: `https://www.jadecelerierbearn.com/apprendre/culture/${categorie}/${slug}`,
+  },
+];
 return (
+
+  <>
+  <BreadcrumbSchema items={breadcrumbSchemaItems} />
 <main
 style={{
 background: '#f3eef8',
@@ -211,6 +238,6 @@ minHeight: '100vh',
       </div>
     </Link>
   </section>
-</main>
+</main></>
 );
 }   
