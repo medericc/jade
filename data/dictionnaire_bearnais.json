@@ -7526,13 +7526,7 @@
     "search": "ayère, lierre"
   },
  
-  {
-    "id": 1242,
-    "titre": "aygas",
-    "definition": "flot (masse d'eau), inondation",
-    "type": "nom masculin",
-    "search": "aygas flot (masse d'eau), inondation"
-  },
+ 
   {
     "id": 1243,
     "titre": "aygassè -re",
@@ -82326,7 +82320,33 @@
 "definition": "éphémère",
 "type": "adjectif",
 "search": "efemèr éphémère"
+},{"id": 12658,
+
+"titre": "gorye",
+"definition": "gorge",
+"type": "nom féminin",
+"search": "gorye gorge"
+},{"id": 12659,
+
+"titre": "Cristau",
+"definition": "Christophe",
+"type": "nom propre",
+"search": "Cristau Christophe"
+},{"id": 12660,
+
+"titre": "loubère",
+"definition": "les environs, les lieux circonvoisins ; repaire, retraite de loups",
+"type": "nom féminin",
+"search": "loubère les environs, les lieux circonvoisins ; repaire, retraite de loups"
+},{"id": 12661,
+
+"titre": "seube",
+"definition": "bois, forêt, sylve",
+"type": "nom féminin",
+"search": "seube bois, forêt, sylve"
 }
+
+
 
 
 
