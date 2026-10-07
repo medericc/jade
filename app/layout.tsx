@@ -86,9 +86,44 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+
+    const organizationSchema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Jade Célérier",
+    "url": siteUrl,
+    "logo": `${siteUrl}/favicon.svg`,
+  }
+
+  const personSchema = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jade Célérier",
+    "url": siteUrl,
+    "image": `${siteUrl}/jadece.png`,
+    "jobTitle": "Joueuse de basket",
+    "sameAs": [
+      "https://www.instagram.com/lena_jade_backcourt/",
+    ],
+  }
+
   return (
     <html lang="fr">
+ <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationSchema),
+          }}
+        />
 
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(personSchema),
+          }}
+        />
+      </head>
       <body>
         
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-Q5FNLCZYQ9" strategy="afterInteractive" /> <Script id="google-analytics" strategy="afterInteractive"> {` window.dataLayer = window.dataLayer || []; function gtag(){window.dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q5FNLCZYQ9'); `} </Script>
