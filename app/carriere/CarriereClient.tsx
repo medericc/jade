@@ -817,9 +817,9 @@ export default function CarrierePage() {
             <p style={{ fontSize: 'var(--fs-base)' }}>
               #04 • Jade Celerier • Dodge City 🏀
             </p>
-            <p style={{ marginTop: 'var(--space-xs)', fontSize: 'var(--fs-xs)' }}>
+         <a href="https://www.carlaleitefan.com" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }} >  <p style={{ marginTop: 'var(--space-xs)', fontSize: 'var(--fs-xs)' }}>
               © 2026 • Compte Fan
-            </p>
+            </p></a>
           </div>
         </footer>
       </main>
