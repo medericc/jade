@@ -100,7 +100,7 @@ export default function RootLayout({
     "@type": "Person",
     "name": "Jade Célérier",
     "url": siteUrl,
-    "image": `${siteUrl}/jadece.png`,
+    "image": `${siteUrl}/jade-site.png`,
     "jobTitle": "Joueuse de basket",
     "sameAs": [
       "https://www.instagram.com/lena_jade_backcourt/",
