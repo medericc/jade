@@ -4,7 +4,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: 'Jade, Béarn, Monde',
     short_name: 'Jade, Béarn, Monde',
-   start_url: '/',
+   start_url: '/apprendre',
     display: 'standalone',
     background_color: '#ffffff',
     theme_color: '#ffffff',
