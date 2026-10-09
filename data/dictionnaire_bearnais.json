@@ -3462,7 +3462,7 @@
   {
     "id": 557,
     "titre": "aparelhat -ade",
-    "definition": "assorti",
+    "definition": "assorti, prêt",
     "type": "adjectif",
     "search": "aparelhat -ade assorti"
   },
@@ -4590,10 +4590,10 @@
   },
   {
     "id": 747,
-    "titre": "irouncle",
+    "titre": "aurincle, irouncle",
     "definition": "hirondelle",
     "type": "nom féminin",
-    "search": "irouncle hirondelle"
+    "search": "aurincle  irouncle hirondelle"
   },
   {
     "id": 748,
@@ -7241,9 +7241,9 @@
   {
     "id": 1173,
     "titre": "auquoau",
-    "definition": "auquel (littéraire)",
+    "definition": "auquel",
     "type": "préposition",
-    "search": "auquoau auquel (littéraire)"
+    "search": "auquoau auquel"
   },
   {
     "id": 1174,
@@ -10034,7 +10034,7 @@
     "titre": "berî",
     "definition": "venin ; mauvaise langue",
     "type": "nom masculin",
-    "search": "beré, berê venin ; mauvaise langue"
+    "search": "berî, berê venin ; mauvaise langue"
   },
   
   {
@@ -12481,10 +12481,10 @@
   },
   {
     "id": 2086,
-    "titre": "boulentarimén",
+    "titre": "boulentaremen",
     "definition": "volontairement",
     "type": "adverbe",
-    "search": "boulentarimén volontairement"
+    "search": "boulentaremen volontairement"
   },
   {
     "id": 2087,
@@ -27891,8 +27891,7 @@
   {
     "id": 4479,
     "titre": "debara",
-    "definition": "descendre, baisser, décroître",
-    "type": "verbe intransitif et transitif",
+    "definition": "descendre, baisser, décroître, déballer",
     "search": "debara descendre, baisser, décroître"
   },
   {
@@ -32211,9 +32210,9 @@
   {
     "id": 5125,
     "titre": "douquoau",
-    "definition": "(littéraire) duquel, dont",
+    "definition": "duquel, dont",
     "type": "préposition + pronom relatif masculin",
-    "search": "douquoau (littéraire) duquel, dont"
+    "search": "douquoau duquel, dont"
   },
  
   {
@@ -41581,10 +41580,10 @@
   },
   {
     "id": 6551,
-    "titre": "franquemén",
+    "titre": "francamén, frenquemén",
     "definition": "franchement ; subitement, d'un coup. ◊ Lou mau qu'éy bienut francamén. → Le mal est venu d'un coup",
     "type": "adverbe",
-    "search": "franquemén franchement ; subitement, d'un coup. ◊ Lou mau qu'éy bienut francamén. → Le mal est venu d'un coup"
+    "search": "francamén frenquemén franchement ; subitement, d'un coup. ◊ Lou mau qu'éy bienut francamén. → Le mal est venu d'un coup"
   },
   {
     "id": 6552,
@@ -42173,9 +42172,9 @@
   {
     "id": 6638,
     "titre": "galihorce",
-    "definition": "ravin, précipice",
+    "definition": "ravin, précipice ; abîme",
     "type": "nom féminin",
-    "search": "galihorce ravin, précipice"
+    "search": "galihorce ravin, précipice abîme"
   },
   {
     "id": 6639,
@@ -49051,10 +49050,10 @@
   },
   {
     "id": 7794,
-    "titre": "mandian -te",
+    "titre": "mendian -te",
     "definition": "mendiant",
     "type": "nom",
-    "search": "mandian -te mendiant. "
+    "search": "mendian -te mendiant. "
   },
   {
     "id": 7795,
@@ -50727,13 +50726,7 @@
     "type": "verbe transitif",
     "search": "mendia mendier"
   },
-  {
-    "id": 8043,
-    "titre": "mendian -te",
-    "definition": "mendiant",
-    "type": "nom",
-    "search": "mendian -te mendiant"
-  },
+
   {
     "id": 8044,
     "titre": "mendras",
@@ -55619,17 +55612,17 @@
   },
   {
     "id": 8781,
-    "titre": "parfum",
+    "titre": "perhum",
     "definition": "parfum (produit)",
     "type": "nom masculin",
-    "search": "parfum parfum (produit)"
+    "search": "perhum parfum (produit)"
   },
   {
     "id": 8782,
-    "titre": "parfuma",
+    "titre": "perhuma",
     "definition": "parfumer (avec du parfum)",
     "type": "verbe transitif",
-    "search": "parfuma parfumer (avec du parfum)"
+    "search": "perhuma parfumer (avec du parfum)"
   },
   {
     "id": 8783,
@@ -59835,7 +59828,7 @@
   },
   {
     "id": 9412,
-    "titre": "plurièl",
+    "titre": "plurièl, plurau",
     "definition": "pluriel (grammaire)",
     "type": "adjectif et nom masculin",
     "search": "plurièl pluriel (grammaire)"
@@ -60695,9 +60688,9 @@
   {
     "id": 9539,
     "titre": "pourtadére",
-    "definition": "civière, brancard",
+    "definition": "civière spéciale",
     "type": "nom féminin",
-    "search": "pourtadére civière, brancard"
+    "search": "pourtadére civière spéciale"
   },
   {
     "id": 9540,
@@ -62055,7 +62048,7 @@
   {
     "id": 9740,
     "titre": "proubedi",
-    "definition": "approvisionner",
+    "definition": "approvisionner, pourvoir",
     "type": "verbe transitif",
     "search": "proubedi approvisionner"
   },
@@ -64102,7 +64095,7 @@
   {
     "id": 10042,
     "titre": "rebouca",
-    "definition": "refluer",
+    "definition": "refluer, déborder",
     "type": "verbe transitif",
     "search": "rebouca refluer"
   },
@@ -66739,13 +66732,7 @@
     "type": "verbe transitif",
     "search": "saluda saluer"
   },
-  {
-    "id": 10436,
-    "titre": "saliade",
-    "definition": "écume du confit",
-    "type": "nom féminin",
-    "search": "saliade écume du confit"
-  },
+
   {
     "id": 10437,
     "titre": "salut",
@@ -69318,20 +69305,7 @@
     "type": "adjectif",
     "search": "soùplẹ souple"
   },
-  {
-    "id": 10838,
-    "titre": "soùptẹ",
-    "definition": "prompt ; brusque ; soudain ; soudain",
-    "type": "adjectif et adverbe",
-    "search": "soùptẹ prompt ; brusque ; soudain ; soudain"
-  },
-  {
-    "id": 10839,
-    "titre": "souptemén",
-    "definition": "promptement, subitement, soudainement",
-    "type": "adverbe",
-    "search": "souptemén promptement, subitement, soudainement"
-  },
+ 
   {
     "id": 10840,
     "titre": "souque",
@@ -75588,9 +75562,9 @@
   {
     "id": 11801,
     "titre": "yas",
-    "definition": "gîte (d'un animal)",
+    "definition": "gîte",
     "type": "nom masculin",
-    "search": "yas gîte (d'un animal)"
+    "search": "yas gîte"
   },
   {
     "id": 11802,
@@ -77725,7 +77699,7 @@
   },
   {
     "id": 12094,
-    "titre": "acabè",
+    "titre": "acabamen",
     "definition": "achèvement complet",
     "type": "adjectif",
     "search": "acabè achèvement complet"
@@ -82344,10 +82318,400 @@
 "definition": "bois, forêt, sylve",
 "type": "nom féminin",
 "search": "seube bois, forêt, sylve"
+
+},
+
+
+
+{"id": 12662,
+
+"titre": "desembeloupa",
+"definition": "enlever ce qui enveloppe",
+"type": "verbe",
+"search": "desembeloupa enlever ce qui enveloppe"
+},
+{"id": 12663,
+
+"titre": "bessoa",
+"definition": "enfanter des jumeaux",
+"type": "verbe",
+"search": "bessoa enfanter des jumeaux"
+},
+{"id": 12664,
+
+"titre": "enfanta",
+"definition": "enfanter",
+"type": "verbe",
+"search": "enfanta enfanter"
+},
+{"id": 12665,
+
+"titre": "hilha",
+"definition": "enfanter",
+"type": "verbe",
+"search": "hilha enfanter"
+},
+{"id": 12666,
+
+"titre": "maynada",
+"definition": "enfanter",
+"type": "verbe",
+"search": "maynada enfanter"
+},
+{"id": 12667,
+
+"titre": "maye",
+"definition": "mage",
+"type": "nom masculin",
+"search": "maye mage"
+},
+{"id": 12668,
+
+"titre": "escribedou, -re",
+"definition": "écrivain",
+"type": "nom masculin",
+"search": "escribedou écrivain"
+},{"id": 12669,
+
+"titre": "rebedi",
+"definition": "reverdir",
+"type": "verbe",
+"search": "rebedi reverdir"
+},
+{"id": 12670,
+
+"titre": "furiousitat",
+"definition": "fureur",
+"type": "nom féminin",
+"search": "furiousitat fureur"
+},{"id": 12671,
+
+"titre": "furou",
+"definition": "fureur",
+"type": "nom féminin",
+"search": "furou fureur"
+},
+{"id": 12672,
+
+"titre": "regna",
+"definition": "régner",
+"type": "verbe",
+"search": "regna régner"
+},{"id": 12673,
+
+"titre": "furou",
+"definition": "fureur",
+"type": "nom féminin",
+"search": "furou fureur"
+},{"id": 12674,
+
+"titre": "tentadou",
+"definition": "tentateur",
+"type": "nom masculin",
+"search": "tentadou tentateur"
+},{"id": 12675,
+
+"titre": "tougna",
+"definition": "heurter",
+"type": "verbe",
+"search": "tougna heurter"
+},{"id": 12676,
+
+"titre": "destrau",
+"definition": "hâche, cognée",
+"type": "nom féminin",
+"search": "destrau hâche, cognée"
+},{"id": 12677,
+
+"titre": "enfirmitat",
+"definition": "infirmité",
+"type": "nom féminin",
+"search": "enfirmitat infirmité"
+},{"id": 12678,
+
+"titre": "esgaudi",
+"definition": "réjouir",
+"type": "verbe",
+"search": "esgaudi réjouir"
+},{"id": 12679,
+
+"titre": "cela",
+"definition": "sceller",
+"type": "verbe",
+"search": "cela sceller"
+},{"id": 12680,
+
+"titre": "cela",
+"definition": "sceller",
+"type": "verbe",
+"search": "cela sceller"
+},{"id": 12681,
+
+"titre": "ambrec",
+"definition": "vif, rapide, éclair",
+"type": "nom masculin",
+"search": "ambrec vif, rapide, éclair"
+}
+
+,{"id": 12682,
+
+"titre": "arrauyit",
+"definition": "enragé",
+"type": "adjectif",
+"search": "arrauyit enragé"
+}
+
+,{"id": 12683,
+
+"titre": "gritch",
+"definition": "criquet grillon",
+"type": "nom masculin",
+"search": "gritch criquet grillon"
+}
+
+,{"id": 12684,
+
+"titre": "trepi",
+"definition": "piétiner",
+"type": "verbe",
+"search": "trepi piétiner"
 }
 
 
+,{"id": 12685,
+
+"titre": "enfinimen",
+"definition": "infiniment",
+"type": "adverbe",
+"search": "enfinimen infiniment"
+}
+
+,{"id": 12686,
+
+"titre": "escalot",
+"definition": "marche-pied",
+"type": "nom masculin",
+"search": "escalot marche-pied"
+}
+
+,{"id": 12687,
+
+"titre": "sendicau",
+"definition": "syndical",
+"type": "adjectif",
+"search": "sendicau syndical"
+}
 
 
+,{"id": 12688,
 
+"titre": "troumpete",
+"definition": "trompette",
+"type": "nom féminin",
+"search": "troumpete trompette"
+}
+
+,{"id": 12689,
+
+"titre": "troumpetayre",
+"definition": "personne qui fait de la trompett ; qui divulgue",
+"type": "nom féminin",
+"search": "troumpetayre personne qui fait de la trompett ; qui divulgue"
+}
+,{"id": 12690,
+
+"titre": "arremouliâ",
+"definition": "rabâcher",
+"type": "verbe",
+"search": "arremouliâ rabâcher"
+}
+
+,{"id": 12691,
+
+"titre": "hauni",
+"definition": "honnir",
+"type": "verbe",
+"search": "hauni honnir"
+}
+
+,{"id": 12692,
+
+"titre": "amenda",
+"definition": "amender",
+"type": "verbe",
+"search": "amenda amender"
+}
+,{"id": 12693,
+
+"titre": "entaula",
+"definition": "attabler",
+"type": "verbe",
+"search": "entaula attabler"
+}
+
+,{"id": 12694,
+
+"titre": "bayar",
+"definition": "civière, brancard",
+"type": "nom masculin",
+"search": "bayar civière, brancard"
+}
+,{"id": 12695,
+
+"titre": "fé-menti",
+"definition": "qqn qui renie sa foi",
+"type": "nom masculin",
+"search": "fé-menti qqn qui renie sa foi"
+}
+
+,{"id": 12696,
+
+"titre": "galapia",
+"definition": "qqn qui mange avec appétit ; sacripant",
+"type": "nom masculin",
+"search": "galapia qqn qui mange avec appétit"
+}
+
+,{"id": 12697,
+
+"titre": "granha",
+"definition": "récolter les grains",
+"type": "verbe",
+"search": "granha récolter les grains"
+}
+,{"id": 12698,
+
+"titre": "naberemen",
+"definition": "nouvellement",
+"type": "adverbe",
+"search": "naberemen nouvellement"
+}
+,{"id": 12699,
+
+"titre": "penén",
+"definition": "pente",
+"type": "nom masculin",
+"search": "penén pente"
+},{"id": 12700,
+
+"titre": "precipìci",
+"definition": "précipice",
+"type": "nom masculin",
+"search": "precipìci précipice"
+},{"id": 12701,
+
+"titre": "audi",
+"definition": "entendre",
+"type": "verbe",
+"search": "audi entendre"
+},{"id": 12702,
+
+"titre": "perle",
+"definition": "perle",
+"type": "nom féminin",
+"search": "perle perle"
+},
+ {
+    "id": 12703,
+    "titre": "grame",
+    "definition": "écume",
+    "type": "nom féminin",
+    "search": "grame écume"
+  }, {
+    "id": 12704,
+    "titre": "mourfoundi",
+    "definition": "morfondre",
+    "type": "verbe",
+    "search": "mourfoundi morfondre"
+  },{
+    "id": 12705,
+    "titre": "superfluitat",
+    "definition": "superfluité",
+    "type": "nom féminin",
+    "search": "superfluitat superfluité"
+  },{
+    "id": 12706,
+    "titre": "superfluitat",
+    "definition": "superfluité",
+    "type": "nom féminin",
+    "search": "superfluitat superfluité"
+  },{
+    "id": 12707,
+    "titre": "inimitat",
+    "definition": "inimité",
+    "type": "nom féminin",
+    "search": "inimitat inimité"
+  },{
+    "id": 12708,
+    "titre": "parét",
+    "definition": "paroi",
+    "type": "nom féminin",
+    "search": "parét paroi"
+  },{
+    "id": 12709,
+    "titre": "amena",
+    "definition": "emmener, emmener",
+    "type": "verbe",
+    "search": "amena emmener, amener"
+  },{
+    "id": 12710,
+    "titre": "tinte",
+    "definition": "teinture",
+    "type": "nom féminin",
+    "search": "tinte teinture"
+  },{
+    "id": 12711,
+    "titre": "tintè",
+    "definition": "teinturier",
+    "type": "nom masculin",
+    "search": "tintè teinturier"
+  },{
+    "id": 12712,
+    "titre": "tourture",
+    "definition": "torture",
+    "type": "nom féminin",
+    "search": "tourture torture"
+  },{
+    "id": 12713,
+    "titre": "decade",
+    "definition": "déchoir",
+    "type": "verbe",
+    "search": "decade déchoir"
+  },{
+    "id": 12714,
+    "titre": "mousquetèu",
+    "definition": "mousquetaire",
+    "type": "nom masculin",
+    "search": "mousquetèu mousquetaire"
+  },{
+    "id": 12715,
+    "titre": "macorrou",
+    "definition": "homme de mauvaise vie",
+    "type": "nom masculin",
+    "search": "macorrou homme de mauvaise vie"
+  },{
+    "id": 12716,
+    "titre": "sanguinari",
+    "definition": "sanguinaire",
+    "type": "adjectif",
+    "search": "sanguinari sanguinaire"
+  },{
+    "id": 12717,
+    "titre": "sepulcre",
+    "definition": "sépulcre",
+    "type": "nom masculin",
+    "search": "sepulcre sépulcre"
+  },{
+    "id": 12718,
+    "titre": "amellea",
+    "definition": "faire du miel",
+    "type": "verbe",
+    "search": "amellea faire du miel"
+  },{
+    "id": 12719,
+    "titre": "pet",
+    "definition": "pet",
+    "type": "nom masculin",
+    "search": "pet pet"
+  }
 ]
