@@ -2703,9 +2703,9 @@
   {
     "id": 436,
     "titre": "amas",
-    "definition": "abcès",
+    "definition": "abcès ; amas",
     "type": "nom masculin",
-    "search": "amas abcès"
+    "search": "amas abcès amas"
   },
   {
     "id": 437,
@@ -5277,10 +5277,10 @@
   },
   {
     "id": 852,
-    "titre": "arrequilha-s",
+    "titre": "requilha-s",
     "definition": "se redresser ; guérir",
     "type": "verbe pronominal",
-    "search": "arrequilha-s se redresser ; guérir"
+    "search": "requilha-s se redresser ; guérir"
   },
   {
     "id": 853,
@@ -10813,7 +10813,7 @@
   {
     "id": 1802,
     "titre": "bicia",
-    "definition": "gâter (un enfant)",
+    "definition": "gâter (un enfant), vicier, corrompre",
     "type": "verbe transitif",
     "search": "bicia gâter (un enfant)"
   },
@@ -12304,7 +12304,7 @@
   {
     "id": 2057,
     "titre": "bouharoc -oque",
-    "definition": "creux ; (individu) miné par la maladie",
+    "definition": "creux ; (individu) miné par la maladie ; vide",
     "type": "adjectif/nom",
     "search": "bouharoc -oque creux ; (individu) miné par la maladie"
   },
@@ -14451,7 +14451,7 @@
   {
     "id": 2415,
     "titre": "brume",
-    "definition": "nuage ; épiphytie",
+    "definition": "nuage ; épiphytie ; brouillard",
     "type": "nom féminin",
     "search": "brume nuage ; épiphytie"
   },
@@ -18135,9 +18135,9 @@
   {
     "id": 2986,
     "titre": "carte",
-    "definition": "carte (tous les sens de ce mot français)",
+    "definition": "carte (tous les sens de ce mot français) ; menu",
     "type": "nom féminin",
-    "search": "carte carte (tous les sens de ce mot français)"
+    "search": "carte carte (tous les sens de ce mot français) ; menu"
   },
   {
     "id": 2987,
@@ -43011,7 +43011,7 @@
   {
     "id": 6789,
     "titre": "goasta",
-    "definition": "gâter",
+    "definition": "gâter ; gaspiller, abîmer",
     "type": "verbe transitif",
     "search": "goasta gâter"
   },
@@ -46686,14 +46686,7 @@
     "type": "nom féminin",
     "search": "èrbe herbe"
   },
-  {
-    "id": 7402,
-    "titre": "jermiâ",
-    "definition": "germer",
-    "type": "verbe intransitif",
-    "search": "jermiâ germer"
-  },
- 
+
 
   
   {
@@ -70545,13 +70538,7 @@
     "type": "nom masculin",
     "search": "tanàyrẹ tanneur"
   },
-  {
-    "id": 11024,
-    "titre": "tanlèu",
-    "definition": "dès ; aussitôt que",
-    "type": "adverbe",
-    "search": "tanlèu dès ; aussitôt que"
-  },
+
   {
     "id": 11025,
     "titre": "tanoc",
@@ -78760,10 +78747,10 @@
    ,
   {
     "id": 12236,
-    "titre": "pasture",
-    "definition": "pâture",
-    "type": "nom féminin",
-    "search": "pasture pâture "
+    "titre": "apastura",
+    "definition": "donner la pâture",
+    "type": "verbe",
+    "search": "apastura donner la pâture "
   }
    ,
   {
@@ -82638,7 +82625,7 @@
   },{
     "id": 12709,
     "titre": "amena",
-    "definition": "emmener, emmener",
+    "definition": "emmener, amener",
     "type": "verbe",
     "search": "amena emmener, amener"
   },{
@@ -82701,5 +82688,261 @@
     "definition": "pet",
     "type": "nom masculin",
     "search": "pet pet"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {"id": 12720,
+
+"titre": "blasma",
+"definition": "blâmer",
+"type": "verbe",
+"search": "precipìci blâmer"
+},{"id": 12721,
+
+"titre": "Oulibé",
+"definition": "Olivier",
+"type": "nom propre",
+"search": "Oulibé Olivier"
+},{"id": 12722,
+
+"titre": "abourda",
+"definition": "aborder",
+"type": "verbe",
+"search": "abourda aborder"
+},
+ {
+    "id": 12723,
+    "titre": "assoupleya",
+    "definition": "rendre souple",
+    "type": "verbe",
+    "search": "assoupleya rendre souple"
+  }, {
+    "id": 12724,
+    "titre": "enduri",
+    "definition": "endurcir",
+    "type": "verbe",
+    "search": "enduri endurcir"
+  },{
+    "id": 12725,
+    "titre": "flème",
+    "definition": "flemme",
+    "type": "nom féminin",
+    "search": "flème flemme"
+  },{
+    "id": 12726,
+    "titre": "tauleyade",
+    "definition": "banquet",
+    "type": "nom féminin",
+    "search": "tauleyade banquet"
+  },{
+    "id": 12727,
+    "titre": "rebesti",
+    "definition": "revêtir",
+    "type": "verbe",
+    "search": "rebesti revêtir"
+  },{
+    "id": 12728,
+    "titre": "escuncaga",
+    "definition": "humiliation",
+    "type": "verbe",
+    "search": "escuncaga humiliation"
+  },{
+    "id": 12729,
+    "titre": "carrucha",
+    "definition": "hisser, porter",
+    "type": "verbe",
+    "search": "carrucha hisser, porter"
+  },{
+    "id": 12730,
+    "titre": "edifici",
+    "definition": "édifice",
+    "type": "nom masculin",
+    "search": "edifici édifice"
+  },{
+    "id": 12731,
+    "titre": "hourtalesse",
+    "definition": "forteresse",
+    "type": "nom féminin",
+    "search": "hourtalesse forteresse"
+  },{
+    "id": 12732,
+    "titre": "prenedé",
+    "definition": "prenable",
+    "type": "adjectif",
+    "search": "prenedé prenable"
+  },{
+    "id": 12733,
+    "titre": "ribadye",
+    "definition": "rivage",
+    "type": "nom masculin",
+    "search": "ribadye rivage"
+  },{
+    "id": 12734,
+    "titre": "demassouna",
+    "definition": "démaçonner",
+    "type": "verbe",
+    "search": "demassouna démaçonner"
+  },{
+    "id": 12735,
+    "titre": "sourroulha",
+    "definition": "bloquer, remplir les vides de petites pierres et de mortier",
+    "type": "verbe",
+    "search": "sourroulha bloquer, remplir les vides de petites pierres et de mortier"
+  },{
+    "id": 12736,
+    "titre": "maumete",
+    "definition": "mettre en mauvaise état ; brouiller, désunir des personnes",
+    "type": "verbe",
+    "search": "maumete mettre en mauvaise état ; brouiller des personnes"
+  },{
+    "id": 12737,
+    "titre": "desencuse",
+    "definition": "excuse, prétexte ou justification pour se sortir d'une situation",
+    "type": "nom féminin",
+    "search": "excuse desencuse prétexte ou justification pour se sortir d'une situation"
+  },{
+    "id": 12738,
+    "titre": "couloumbe",
+    "definition": "colombe",
+    "type": "nom féminin",
+    "search": "couloumbe colombe"
+  },{
+    "id": 12739,
+    "titre": "parpalheya",
+    "definition": "papilloner",
+    "type": "nom féminin",
+    "search": "parpalheya papilloner"
+  },
+
+
+
+
+
+  {
+    "id": 12740,
+    "titre": "resida",
+    "definition": "résider",
+    "type": "verbe",
+    "search": "resida résider"
+  },{
+    "id": 12741,
+    "titre": "recitadou, -se",
+    "definition": "celui qui récite, raconte",
+    "type": "nom masculin",
+    "search": "recitadou celui qui récite, raconte"
+  },{
+    "id": 12742,
+    "titre": "plouyous",
+    "definition": "pluvieux",
+    "type": "adjectif",
+    "search": "plouyous pluvieux"
+  },{
+    "id": 12743,
+    "titre": "patura",
+    "definition": "pâturer",
+    "type": "verbe",
+    "search": "patura pâturer"
+  },{
+    "id": 12744,
+    "titre": "ouradyous",
+    "definition": "orageux",
+    "type": "adjectif",
+    "search": "ouradyous orageux"
+  },{
+    "id": 12745,
+    "titre": "tempesteya",
+    "definition": "tempêter",
+    "type": "verbe",
+    "search": "tempesteya tempêter"
+  },{
+    "id": 12746,
+    "titre": "priglade",
+    "definition": "orage",
+    "type": "nom féminin",
+    "search": "priglade orage"
+  },{
+    "id": 12747,
+    "titre": "rigou",
+    "definition": "rigueur",
+    "type": "nom féminin",
+    "search": "rigou  rigueur"
+  },{
+    "id": 12748,
+    "titre": "rudou",
+    "definition": "rudesse",
+    "type": "nom féminin",
+    "search": "rudou rudesse"
+  },{
+    "id": 12749,
+    "titre": "houlét",
+    "definition": "tourbillon",
+    "type": "nom masculin",
+    "search": "houlét tourbillon"
+  },
+
+
+  {
+    "id": 12750,
+    "titre": "prouhaysén",
+    "definition": "avenant, qui a bon air",
+    "type": "adjectif",
+    "search": "prouhaysén avenant, qui a bon air"
+  },{
+    "id": 12751,
+    "titre": "estupa",
+    "definition": "éteindre",
+    "type": "verbe",
+    "search": "estupa éteindre"
+  },{
+    "id": 12752,
+    "titre": "amuta",
+    "definition": "ameuter",
+    "type": "verbe",
+    "search": "amuta ameuter"
+  },{
+    "id": 12753,
+    "titre": "geauliè",
+    "definition": "geôlier",
+    "type": "nom masculin",
+    "search": "geauliè geôlier"
+  },{
+    "id": 12754,
+    "titre": "garloupa",
+    "definition": "bouillir à gros bouillons",
+    "type": "verbe",
+    "search": "garloupa  bouillir à gros bouillons"
+  },{
+    "id": 12755,
+    "titre": "repita",
+    "definition": "redresser",
+    "type": "verbe",
+    "search": "repita redresser"
+  },{
+    "id": 12756,
+    "titre": "descrouchi ",
+    "definition": "redresser",
+    "type": "verbe",
+    "search": "descrouchi redresser"
+  },{
+    "id": 12757,
+    "titre": "arregagnat",
+    "definition": "hargneux",
+    "type": "adjectif",
+    "search": "arregagnathargneux"
   }
 ]
