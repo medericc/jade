@@ -337,7 +337,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
     "Oun ? → Où ?",
     "Quoan ? → Quand ?",
     "Quin ? → Quel ?",
-    "Que et qui se traduisent généralement par « qui ».",
+    "Que et qui se traduisent généralement par « qui » mais parfois « que » se traduit en que.",
     "Qu'éy ço qui prenét ? → Qu'est ce que vous prenez ?",
     "Que prenét ? → Que prenez-vous ?",
     "Oun éy la clau ? → Où est la clé ?",
