@@ -83479,5 +83479,17 @@
     "definition": "émailler",
     "type": "verbe",
     "search": "esmalha émailler"
+  },  {
+    "id": 12890,
+    "titre": "enquisicioû",
+    "definition": "inquisition, recherche, enquête",
+    "type": "nom féminin",
+    "search": "enquisicioû inquisition, recherche, enquête"
+  },  {
+    "id": 12891,
+    "titre": "definitiu",
+    "definition": "définitif",
+    "type": "adjectif",
+    "search": "definitiu définitif"
   }
 ]
