@@ -669,9 +669,9 @@
   {
     "id": 107,
     "titre": "abrasa",
-    "definition": "répandre des cendres sur le sol",
+    "definition": "répandre des cendres sur le sol ; embraser",
     "type": "verbe transitif",
-    "search": "abrasa répandre des cendres sur le sol"
+    "search": "abrasa répandre des cendres sur le sol ; embraser"
   },
 
   {
@@ -3878,7 +3878,7 @@
   {
     "id": 621,
     "titre": "apressa",
-    "definition": "rapprocher",
+    "definition": "rapprocher ; demander instantanément",
     "type": "verbe transitif",
     "search": "apressa rapprocher"
   },
@@ -5373,20 +5373,8 @@
     "type": "locution",
     "search": "arrè-téms (à) à contretemps"
   },
-  {
-    "id": 866,
-    "titre": "arretiénẹ",
-    "definition": "retenir",
-    "type": "verbe transitif",
-    "search": "arretiénẹ retenir"
-  },
-  {
-    "id": 867,
-    "titre": "arretreni",
-    "definition": "retentir",
-    "type": "verbe intransitif",
-    "search": "arretreni retentir"
-  },
+ 
+
   {
     "id": 868,
     "titre": "arriba",
@@ -20626,7 +20614,7 @@
   {
     "id": 3390,
     "titre": "chourra",
-    "definition": "couler abondamment",
+    "definition": "couler abondamment, jaillir",
     "type": "verbe intransitif",
     "search": "chourra couler abondamment"
   },
@@ -39553,7 +39541,7 @@
   {
     "id": 6245,
     "titre": "estabani",
-    "definition": "assommer, donner un coup violent (à) ; étourdir, abasourdir",
+    "definition": "assommer, donner un coup violent (à) ; étourdir, abasourdir, accabler de chaleur",
     "type": "verbe transitif (qu'estabanéchi)",
     "search": "estabani assommer, donner un coup violent (à) ; étourdir, abasourdir"
   },
@@ -43394,9 +43382,9 @@
   {
     "id": 6849,
     "titre": "grafie",
-    "definition": "graphie, orthographe (littéraire). ◊ La grafie deu biarnés e deu gascoû → la graphie du béarnais et gascon",
+    "definition": "graphie, orthographe (littéraire). ◊ La grafie dou biarnés e dou gascoû → la graphie du béarnais et gascon",
     "type": "nom féminin",
-    "search": "grafie graphie, orthographe (littéraire). ◊ La grafie deu biarnés e deu gascoû → la graphie du béarnais et gascon"
+    "search": "grafie graphie, orthographe (littéraire). ◊ La grafie dou biarnés e dou gascoû → la graphie du béarnais et gascon"
   },
   {
     "id": 6850,
@@ -43555,9 +43543,9 @@
   {
     "id": 6872,
     "titre": "grat",
-    "definition": "gré ; gratitude. ♦ de grat ou per force, per force ou de grat → de gré ou de force. ♦ De boû grat / de mau grat → de bon gré / de mauvais gré. ♦ Au soû grat → à son gré. ◊ Au grat deus més saunéys → au gré de mes rêves. ♦ Sabé(-n) grat à → (en) savoir gré à. ◊ Qu'ou sabè grat de l'abé aprés aco. → Elle lui savait gré de lui avoir appris cela. ◊ Que pe-n saberan grat → ils / elles vous en sauront gré",
+    "definition": "gré ; gratitude. ♦ de grat ou per force, per force ou de grat → de gré ou de force. ♦ De boû grat / de mau grat → de bon gré / de mauvais gré. ♦ Au soû grat → à son gré. ◊ Au grat dous més saunéys → au gré de mes rêves. ♦ Sabé(-n) grat à → (en) savoir gré à. ◊ Qu'ou sabè grat de l'abé aprés aco. → Elle lui savait gré de lui avoir appris cela. ◊ Que pe-n saberan grat → ils / elles vous en sauront gré",
     "type": "nom masculin",
-    "search": "grat gré ; gratitude. ♦ de grat ou per force, per force ou de grat → de gré ou de force. ♦ De boû grat / de mau grat → de bon gré / de mauvais gré. ♦ Au soû grat → à son gré. Au grat deus més saunéys → au gré de mes rêves. ♦ Sabé(-n) grat à → (en) savoir gré à. ◊ Qu'ou sabè grat de l'abé aprés aco. → Elle lui savait gré de lui avoir appris cela. ◊ Que pe-n saberan grat → ils / elles vous en sauront gré"
+    "search": "grat gré ; gratitude. ♦ de grat ou per force, per force ou de grat → de gré ou de force. ♦ De boû grat / de mau grat → de bon gré / de mauvais gré. ♦ Au soû grat → à son gré. Au grat dous més saunéys → au gré de mes rêves. ♦ Sabé(-n) grat à → (en) savoir gré à. ◊ Qu'ou sabè grat de l'abé aprés aco. → Elle lui savait gré de lui avoir appris cela. ◊ Que pe-n saberan grat → ils / elles vous en sauront gré"
   },
   {
     "id": 6873,
@@ -43606,9 +43594,9 @@
   {
     "id": 6881,
     "titre": "grèch",
-    "definition": "1♦ Graisse. 2♦ Confit, gras. ♦ Car deu grèch → confit (viande confite dans la graisse). ♦ Hica-s grèch à la toupîe → faire des réserves, économiser (« mettre du confit dans le pot »)",
+    "definition": "1♦ Graisse. 2♦ Confit, gras. ♦ Car dou grèch → confit (viande confite dans la graisse). ♦ Hica-s grèch à la toupîe → faire des réserves, économiser (« mettre du confit dans le pot »)",
     "type": "nom masculin",
-    "search": "grèch 1♦ Graisse. 2♦ Confit, gras. ♦ Car deu grèch → confit (viande confite dans la graisse). ♦ Hica-s grèch à la toupîe → faire des réserves, économiser (« mettre du confit dans le pot »)"
+    "search": "grèch 1♦ Graisse. 2♦ Confit, gras. ♦ Car dou grèch → confit (viande confite dans la graisse). ♦ Hica-s grèch à la toupîe → faire des réserves, économiser (« mettre du confit dans le pot »)"
   },
   {
     "id": 6882,
@@ -44118,9 +44106,9 @@
   {
     "id": 6956,
     "titre": "ha",
-    "definition": "Faire. 1♦ Créer, produire, provoquer. ♦ Ha lou milhoc → faire, produire le maïs. ♦ Ha betèth → faire le veau, mettre bas (en parlant de la vache). ♦ Ha ûe maysoû → faire (construire) une maison. ♦ Ha cançoûs → faire, composer des chansons. ♦ Ha mounéde → faire, ramasser de l'argent, faire la monnaie. ◊ Ha essénce → faire, se procurer de l'essence. ♦ Ha légne → faire, couper du bois. ♦ Ha luts → éclairer. ♦ Ha mau → faire (du) mal. ◊ Ha doumau → faire des dégats, causer des dommages. ♦ Quoan n'as hèyt deu betèth ? Combien as-tu vendu ton veau (« combien en as-tu fait ») ? ♦ Ha rampèu → affronter, tenir le coup, résister, tenir tête. ♦ Ha hàsti → dégoûter, faire horreur. ♦ Ha dòu → provoquer du regret. ♦ Esta de dòu ha → être dommage. ◊ Qu'éy de dòu ha → c'est dommage, ça fait mal au cœur, c'est regrettable. ◊ Qu'ou hèn dòu lous sos → Il donne difficilement son argent (« ses sous lui donnent du regret »). ♦ Lous sos que-m hèn rèyte. → J'ai besoin de sous, d'argent. 2♦ Effectuer, accomplir, exécuter, se comporter, agir. ◊ Ha aha → faire une affaire, conclure un marché. ♦ Ha lou blat → semer le blé / le seigle. ♦ Camî hasén → chemin faisant. ♦ Ha las cames → commencer à marcher (en parlant d'un enfant). ♦ Ha oélhs → ouvrir de grands yeux. ◊ Ha lou mus → faire la tête, faire la moue. ◊ Ha la mine → bouder. ◊ Ha poutine → faire des bises, embrasser. ♦ Ha lou sanc → avoir du sang dans les urines, cracher le sang, avoir une hémorragie. ♦ Ha à → jouer. ◊ Ha à las quilhes → jouer aux quilles, (etc.). ◊ Ha au patac → jouer à la bagarre, se bagarrer. ♦ Ha lou pesquitoû → barboter. ♦ Ha rìchẹ → faire le riche, prendre des airs de riche. ♦ Ha l'òmi → jouer à l'homme. ♦ Quin la hèm ? → Comment va-t-on faire ? ♦ Tan qui la hèm, hèm-le /-la ! → Quitte à le faire, faisons-le ! ♦ De boû ha → commode. ◊ Que hès ? → Que fais-tu ? ◊ ne hè (pas) que ploura → Elle / Il ne fait que pleurer. ◊ Plâ hèyt ! → (C'est) bien fait ! ◊ Bìstẹ hèyt (e plâ foutut) → vite fait (bien fait). 3♦ Dire (en incise). ◊ Atau qu'éy, ce hé. → C'est comme ça, fit-il / -elle. 4♦ Se porter. ◊ Hè beroy ! → Porte-toi bien ! ◊ Hèt beroy ! → Portez-vous bien ! ◊ Que t'at hès coum bos ? → Ça va comme tu veux ? 5♦ Emplois impersonnels. ♦ Oéy hè l'an, lou més → il y a un an, un mois. ♦ Que hè bèth, que hè lè → il fait beau, il fait mauvais. ♦ –Quin ba ? –Que hè de tout. → –Comment ça va ? –Moyennement. 6♦ (quin + ) infinitif + que + ha conjugué.◊ Marcha que calou ha. → Il a vraiment fallu marcher. 7♦ Ha-s. A♦ Venir. ◊ Ha-s en daban → avancer, s'avancer, entrer. B♦ Ha-s segui → emmener, emporter, amener. C♦ Ha-s'y → s'y faire, se faire à, s'adapter à. ◊ Que s'y cau ha → Il faut s'y faire. ♦ S'appliquer, s'efforcer, s'activer, se dépêcher. ♦ Ha-se-n → s'en faire. ◊ ne pas ha-se-n → ne pas s'en faire, ne pas se tracasser.  ◊ Que me-n èy hèyt quoàtẹ → Je m'en suis fait quatre. ◊ Hèt-pe quoàtẹ gahes de soupe cadû → Prenez-vous quatre louches de soupe chacun",
+    "definition": "Faire. 1♦ Créer, produire, provoquer. ♦ Ha lou milhoc → faire, produire le maïs. ♦ Ha betèth → faire le veau, mettre bas (en parlant de la vache). ♦ Ha ûe maysoû → faire (construire) une maison. ♦ Ha cançoûs → faire, composer des chansons. ♦ Ha mounéde → faire, ramasser de l'argent, faire la monnaie. ◊ Ha essénce → faire, se procurer de l'essence. ♦ Ha légne → faire, couper du bois. ♦ Ha luts → éclairer. ♦ Ha mau → faire (du) mal. ◊ Ha doumau → faire des dégats, causer des dommages. ♦ Quoan n'as hèyt dou betèth ? Combien as-tu vendu ton veau (« combien en as-tu fait ») ? ♦ Ha rampèu → affronter, tenir le coup, résister, tenir tête. ♦ Ha hàsti → dégoûter, faire horreur. ♦ Ha dòu → provoquer du regret. ♦ Esta de dòu ha → être dommage. ◊ Qu'éy de dòu ha → c'est dommage, ça fait mal au cœur, c'est regrettable. ◊ Qu'ou hèn dòu lous sos → Il donne difficilement son argent (« ses sous lui donnent du regret »). ♦ Lous sos que-m hèn rèyte. → J'ai besoin de sous, d'argent. 2♦ Effectuer, accomplir, exécuter, se comporter, agir. ◊ Ha aha → faire une affaire, conclure un marché. ♦ Ha lou blat → semer le blé / le seigle. ♦ Camî hasén → chemin faisant. ♦ Ha las cames → commencer à marcher (en parlant d'un enfant). ♦ Ha oélhs → ouvrir de grands yeux. ◊ Ha lou mus → faire la tête, faire la moue. ◊ Ha la mine → bouder. ◊ Ha poutine → faire des bises, embrasser. ♦ Ha lou sanc → avoir du sang dans les urines, cracher le sang, avoir une hémorragie. ♦ Ha à → jouer. ◊ Ha à las quilhes → jouer aux quilles, (etc.). ◊ Ha au patac → jouer à la bagarre, se bagarrer. ♦ Ha lou pesquitoû → barboter. ♦ Ha rìchẹ → faire le riche, prendre des airs de riche. ♦ Ha l'òmi → jouer à l'homme. ♦ Quin la hèm ? → Comment va-t-on faire ? ♦ Tan qui la hèm, hèm-le /-la ! → Quitte à le faire, faisons-le ! ♦ De boû ha → commode. ◊ Que hès ? → Que fais-tu ? ◊ ne hè (pas) que ploura → Elle / Il ne fait que pleurer. ◊ Plâ hèyt ! → (C'est) bien fait ! ◊ Bìstẹ hèyt (e plâ foutut) → vite fait (bien fait). 3♦ Dire (en incise). ◊ Atau qu'éy, ce hé. → C'est comme ça, fit-il / -elle. 4♦ Se porter. ◊ Hè beroy ! → Porte-toi bien ! ◊ Hèt beroy ! → Portez-vous bien ! ◊ Que t'at hès coum bos ? → Ça va comme tu veux ? 5♦ Emplois impersonnels. ♦ Oéy hè l'an, lou més → il y a un an, un mois. ♦ Que hè bèth, que hè lè → il fait beau, il fait mauvais. ♦ –Quin ba ? –Que hè de tout. → –Comment ça va ? –Moyennement. 6♦ (quin + ) infinitif + que + ha conjugué.◊ Marcha que calou ha. → Il a vraiment fallu marcher. 7♦ Ha-s. A♦ Venir. ◊ Ha-s en daban → avancer, s'avancer, entrer. B♦ Ha-s segui → emmener, emporter, amener. C♦ Ha-s'y → s'y faire, se faire à, s'adapter à. ◊ Que s'y cau ha → Il faut s'y faire. ♦ S'appliquer, s'efforcer, s'activer, se dépêcher. ♦ Ha-se-n → s'en faire. ◊ ne pas ha-se-n → ne pas s'en faire, ne pas se tracasser.  ◊ Que me-n èy hèyt quoàtẹ → Je m'en suis fait quatre. ◊ Hèt-pe quoàtẹ gahes de soupe cadû → Prenez-vous quatre louches de soupe chacun",
     "type": "verbe transitif",
-    "search": "ha Faire. 1♦ Créer, produire, provoquer. ♦ Ha lou milhoc → faire, produire le maïs. ♦ Ha betèth → faire le veau, mettre bas (en parlant de la vache). ♦ Ha ûe maysoû → faire (construire) une maison. ♦ Ha cançoûs → faire, composer des chansons. ♦ Ha mounéde → faire, ramasser de l'argent, faire la monnaie. ◊ Ha essénce → faire, se procurer de l'essence. ♦ Ha légne → faire, couper du bois. ♦ Ha luts → éclairer. ♦ Ha mau → faire (du) mal. ◊ Ha doumau → faire des dégats, causer des dommages. ♦ Quoan n'as hèyt deu betèth ? Combien as-tu vendu ton veau (« combien en as-tu fait ») ? ♦ Ha rampèu → affronter, tenir le coup, résister, tenir tête. ♦ Ha hàsti → dégoûter, faire horreur. ♦ Ha dòu → provoquer du regret. ♦ Esta de dòu ha → être dommage. ◊ Qu'éy de dòu ha → c'est dommage, ça fait mal au cœur, c'est regrettable. ◊ Qu'ou hèn dòu lous sos → Il donne difficilement son argent (« ses sous lui donnent du regret »). ♦ Lous sos que-m hèn rèyte. → J'ai besoin de sous, d'argent. 2♦ Effectuer, accomplir, exécuter, se comporter, agir. ◊ Ha aha → faire une affaire, conclure un marché. ♦ Ha lou blat → semer le blé / le seigle. ♦ Camî hasén → chemin faisant. ♦ Ha las cames → commencer à marcher (en parlant d'un enfant). ♦ Ha oélhs → ouvrir de grands yeux. ◊ Ha lou mus → faire la tête, faire la moue. ◊ Ha la mine → bouder. ◊ Ha poutine → faire des bises, embrasser. ♦ Ha lou sanc → avoir du sang dans les urines, cracher le sang, avoir une hémorragie. ♦ Ha à → jouer. ◊ Ha à las quilhes → jouer aux quilles, (etc.). ◊ Ha au patac → jouer à la bagarre, se bagarrer. ♦ Ha lou pesquitoû → barboter. ♦ Ha rìchẹ → faire le riche, prendre des airs de riche. ♦ Ha l'òmi → jouer à l'homme. ♦ Quin la hèm ? → Comment va-t-on faire ? ♦ Tan qui la hèm, hèm-le /-la ! → Quitte à le faire, faisons-le ! ♦ De boû ha → commode. ◊ Que hès ? → Que fais-tu ? ◊ ne hè (pas) que ploura → Elle / Il ne fait que pleurer. ◊ Plâ hèyt ! → (C'est) bien fait ! ◊ Bìstẹ hèyt (e plâ foutut) → vite fait (bien fait). 3♦ Dire (en incise). ◊ Atau qu'éy, ce hé. → C'est comme ça, fit-il / -elle. 4♦ Se porter. ◊ Hè beroy ! → Porte-toi bien ! ◊ Hèt beroy ! → Portez-vous bien ! ◊ Que t'at hès coum bos ? → Ça va comme tu veux ? 5♦ Emplois impersonnels. ♦ Oéy hè l'an, lou més → il y a un an, un mois. ♦ Que hè bèth, que hè lè → il fait beau, il fait mauvais. ♦ –Quin ba ? –Que hè de tout. → –Comment ça va ? –Moyennement. 6♦ (quin + ) infinitif + que + ha conjugué.  ◊ Marcha que calou ha. → Il a vraiment fallu marcher. 7♦ Ha-s. A♦ Venir.  ◊ Ha-s en daban → avancer, s'avancer, entrer. B♦ Ha-s segui → emmener, emporter, amener. C♦ Ha-s'y → s'y faire, se faire à, s'adapter à. ◊ Que s'y cau ha → Il faut s'y faire. ♦ S'appliquer, s'efforcer, s'activer, se dépêcher. ♦ Ha-se-n → s'en faire. ◊ ne pas ha-se-n → ne pas s'en faire, ne pas se tracasser. ◊ Que me-n èy hèyt quoàtẹ → Je m'en suis fait quatre. ◊ Hèt-pe quoàtẹ gahes de soupe cadû → Prenez-vous quatre louches de soupe chacun"
+    "search": "ha Faire. 1♦ Créer, produire, provoquer. ♦ Ha lou milhoc → faire, produire le maïs. ♦ Ha betèth → faire le veau, mettre bas (en parlant de la vache). ♦ Ha ûe maysoû → faire (construire) une maison. ♦ Ha cançoûs → faire, composer des chansons. ♦ Ha mounéde → faire, ramasser de l'argent, faire la monnaie. ◊ Ha essénce → faire, se procurer de l'essence. ♦ Ha légne → faire, couper du bois. ♦ Ha luts → éclairer. ♦ Ha mau → faire (du) mal. ◊ Ha doumau → faire des dégats, causer des dommages. ♦ Quoan n'as hèyt dou betèth ? Combien as-tu vendu ton veau (« combien en as-tu fait ») ? ♦ Ha rampèu → affronter, tenir le coup, résister, tenir tête. ♦ Ha hàsti → dégoûter, faire horreur. ♦ Ha dòu → provoquer du regret. ♦ Esta de dòu ha → être dommage. ◊ Qu'éy de dòu ha → c'est dommage, ça fait mal au cœur, c'est regrettable. ◊ Qu'ou hèn dòu lous sos → Il donne difficilement son argent (« ses sous lui donnent du regret »). ♦ Lous sos que-m hèn rèyte. → J'ai besoin de sous, d'argent. 2♦ Effectuer, accomplir, exécuter, se comporter, agir. ◊ Ha aha → faire une affaire, conclure un marché. ♦ Ha lou blat → semer le blé / le seigle. ♦ Camî hasén → chemin faisant. ♦ Ha las cames → commencer à marcher (en parlant d'un enfant). ♦ Ha oélhs → ouvrir de grands yeux. ◊ Ha lou mus → faire la tête, faire la moue. ◊ Ha la mine → bouder. ◊ Ha poutine → faire des bises, embrasser. ♦ Ha lou sanc → avoir du sang dans les urines, cracher le sang, avoir une hémorragie. ♦ Ha à → jouer. ◊ Ha à las quilhes → jouer aux quilles, (etc.). ◊ Ha au patac → jouer à la bagarre, se bagarrer. ♦ Ha lou pesquitoû → barboter. ♦ Ha rìchẹ → faire le riche, prendre des airs de riche. ♦ Ha l'òmi → jouer à l'homme. ♦ Quin la hèm ? → Comment va-t-on faire ? ♦ Tan qui la hèm, hèm-le /-la ! → Quitte à le faire, faisons-le ! ♦ De boû ha → commode. ◊ Que hès ? → Que fais-tu ? ◊ ne hè (pas) que ploura → Elle / Il ne fait que pleurer. ◊ Plâ hèyt ! → (C'est) bien fait ! ◊ Bìstẹ hèyt (e plâ foutut) → vite fait (bien fait). 3♦ Dire (en incise). ◊ Atau qu'éy, ce hé. → C'est comme ça, fit-il / -elle. 4♦ Se porter. ◊ Hè beroy ! → Porte-toi bien ! ◊ Hèt beroy ! → Portez-vous bien ! ◊ Que t'at hès coum bos ? → Ça va comme tu veux ? 5♦ Emplois impersonnels. ♦ Oéy hè l'an, lou més → il y a un an, un mois. ♦ Que hè bèth, que hè lè → il fait beau, il fait mauvais. ♦ –Quin ba ? –Que hè de tout. → –Comment ça va ? –Moyennement. 6♦ (quin + ) infinitif + que + ha conjugué.  ◊ Marcha que calou ha. → Il a vraiment fallu marcher. 7♦ Ha-s. A♦ Venir.  ◊ Ha-s en daban → avancer, s'avancer, entrer. B♦ Ha-s segui → emmener, emporter, amener. C♦ Ha-s'y → s'y faire, se faire à, s'adapter à. ◊ Que s'y cau ha → Il faut s'y faire. ♦ S'appliquer, s'efforcer, s'activer, se dépêcher. ♦ Ha-se-n → s'en faire. ◊ ne pas ha-se-n → ne pas s'en faire, ne pas se tracasser. ◊ Que me-n èy hèyt quoàtẹ → Je m'en suis fait quatre. ◊ Hèt-pe quoàtẹ gahes de soupe cadû → Prenez-vous quatre louches de soupe chacun"
   },
   {
     "id": 6957,
@@ -45204,9 +45192,9 @@
   {
     "id": 7131,
     "titre": "hic",
-    "definition": "verrue. ♦ Èrbe deu hic → chélidoine (« herbe à verrue »)",
+    "definition": "verrue. ♦ Èrbe dou hic → chélidoine (« herbe à verrue »)",
     "type": "nom masculin",
-    "search": "hic verrue. ♦ Èrbe deu hic → chélidoine (« herbe à verrue »)"
+    "search": "hic verrue. ♦ Èrbe dou hic → chélidoine (« herbe à verrue »)"
   },
 
   {
@@ -45269,9 +45257,9 @@
   {
     "id": 7143,
     "titre": "hilh",
-    "definition": "fils (terme de parenté). ◊ Û òmi n'abè pas que dus hilhs [hilʃ] → un homme n'avait que deux fils. ♦ Hilh de pute ! Hilh de pique ! Hilh deu diàblẹ ! → jurons dont le sens et la valeur affective dépendent du contexte et qui sont marqués par l'intonation",
+    "definition": "fils (terme de parenté). ◊ Û òmi n'abè pas que dus hilhs [hilʃ] → un homme n'avait que deux fils. ♦ Hilh de pute ! Hilh de pique ! Hilh dou diàblẹ ! → jurons dont le sens et la valeur affective dépendent du contexte et qui sont marqués par l'intonation",
     "type": "nom masculin",
-    "search": "hilh fils (terme de parenté). ◊ Û òmi n'abè pas que dus hilhs [hilʃ] → un homme n'avait que deux fils. ♦ Hilh de pute ! Hilh de pique ! Hilh deu diàblẹ ! → jurons dont le sens et la valeur affective dépendent du contexte et qui sont marqués par l'intonation"
+    "search": "hilh fils (terme de parenté). ◊ Û òmi n'abè pas que dus hilhs [hilʃ] → un homme n'avait que deux fils. ♦ Hilh de pute ! Hilh de pique ! Hilh dou diàblẹ ! → jurons dont le sens et la valeur affective dépendent du contexte et qui sont marqués par l'intonation"
   },
   {
     "id": 7144,
@@ -45532,7 +45520,7 @@
   {
     "id": 7188,
     "titre": "houni",
-    "definition": "fondre (sur), foncer (sur), se jeter (sur). ♦ Houni de plàbẹ → pleuvoir à verse",
+    "definition": "fondre (sur), foncer (sur), se jeter (sur), foncer sur ♦ Houni de plàbẹ → pleuvoir à verse",
     "type": "verbe intransitif",
     "search": "houni fondre (sur), foncer (sur), se jeter (sur). ♦ Houni de plàbẹ → pleuvoir à verse"
   },
@@ -45694,9 +45682,9 @@
   {
     "id": 7212,
     "titre": "hourque",
-    "definition": "fourche (forme). ♦ Bifurcation. ◊ Hourque deu camî → bifurcation. ♦ Enfourchure. ♦ Dinco la hourque → jusqu'en haut des cuisses",
+    "definition": "fourche (forme). ♦ Bifurcation. ◊ Hourque dou camî → bifurcation. ♦ Enfourchure. ♦ Dinco la hourque → jusqu'en haut des cuisses",
     "type": "nom féminin",
-    "search": "hourque fourche (forme). ♦ Bifurcation. ◊ Hourque deu camî → bifurcation. ♦ Enfourchure. ♦ Dinco la hourque → jusqu'en haut des cuisses"
+    "search": "hourque fourche (forme). ♦ Bifurcation. ◊ Hourque dou camî → bifurcation. ♦ Enfourchure. ♦ Dinco la hourque → jusqu'en haut des cuisses"
   },
   {
     "id": 7213,
@@ -45778,9 +45766,9 @@
   {
     "id": 7224,
     "titre": "hum",
-    "definition": "1♦ Fumée. ♦ À hum (de calhau) → à toute allure (« à fumée de caillou »). 2♦ Fumet, odeur. ◊ Lou hum deu frico → l'odeur du fricot. ♦ Abé û hum de → avoir vent de. 3♦ Incident, dispute. 4♦ De mau hum → de mauvais poil",
+    "definition": "1♦ Fumée. ♦ À hum (de calhau) → à toute allure (« à fumée de caillou »). 2♦ Fumet, odeur. ◊ Lou hum dou frico → l'odeur du fricot. ♦ Abé û hum de → avoir vent de. 3♦ Incident, dispute. 4♦ De mau hum → de mauvais poil",
     "type": "nom masculin",
-    "search": "hum 1♦ Fumée. ♦ À hum (de calhau) → à toute allure (« à fumée de caillou »). 2♦ Fumet, odeur. ◊ Lou hum deu frico → l'odeur du fricot. ♦ Abé û hum de → avoir vent de. 3♦ Incident, dispute. 4♦ De mau hum → de mauvais poil"
+    "search": "hum 1♦ Fumée. ♦ À hum (de calhau) → à toute allure (« à fumée de caillou »). 2♦ Fumet, odeur. ◊ Lou hum dou frico → l'odeur du fricot. ♦ Abé û hum de → avoir vent de. 3♦ Incident, dispute. 4♦ De mau hum → de mauvais poil"
   },
   {
     "id": 7225,
@@ -48393,9 +48381,9 @@
   {
     "id": 7694,
     "titre": "loup",
-    "definition": "loup ; vice caché, défaut dans le bois etc. ♦ Abé û loup au béntẹ → avoir une maladie grave. ♦ À la lantèrne deu loup → au clair de lune (littéraire). ♦ Loups pluriel → roupies (crottes de nez)",
+    "definition": "loup ; vice caché, défaut dans le bois etc. ♦ Abé û loup au béntẹ → avoir une maladie grave. ♦ À la lantèrne dou loup → au clair de lune (littéraire). ♦ Loups pluriel → roupies (crottes de nez)",
     "type": "nom masculin",
-    "search": "loup loup ; vice caché, défaut dans le bois etc. ♦ Abé û loup au béntẹ → avoir une maladie grave. ♦ À la lantèrne deu loup → au clair de lune (littéraire). ♦ Loups pluriel → roupies (crottes de nez)"
+    "search": "loup loup ; vice caché, défaut dans le bois etc. ♦ Abé û loup au béntẹ → avoir une maladie grave. ♦ À la lantèrne dou loup → au clair de lune (littéraire). ♦ Loups pluriel → roupies (crottes de nez)"
   },
   {
     "id": 7695,
@@ -48548,9 +48536,9 @@
   {
     "id": 7717,
     "titre": "lustrou",
-    "definition": "lueur, clarté, brillant. ◊ La lustrou deus eslambrécs → la clarté des éclairs",
+    "definition": "lueur, clarté, brillant. ◊ La lustrou dous eslambrécs → la clarté des éclairs",
     "type": "nom féminin",
-    "search": "lustrou lueur, clarté, brillant. ◊ La lustrou deus eslambrécs → la clarté des éclairs"
+    "search": "lustrou lueur, clarté, brillant. ◊ La lustrou dous eslambrécs → la clarté des éclairs"
   },
   {
     "id": 7718,
@@ -48656,9 +48644,9 @@
   {
     "id": 7736,
     "titre": "machère",
-    "definition": "mâchoire ; joue. ♦ Machère deu cu / machère de darrè → fesse",
+    "definition": "mâchoire ; joue. ♦ Machère dou cu / machère de darrè → fesse",
     "type": "nom féminin",
-    "search": "machère mâchoire ; joue. ♦ Machère deu cu / machère de darrè → fesse"
+    "search": "machère mâchoire ; joue. ♦ Machère dou cu / machère de darrè → fesse"
   },
   {
     "id": 7737,
@@ -53498,9 +53486,9 @@
   {
     "id": 8451,
     "titre": "negrou",
-    "definition": "noir, obscurité",
+    "definition": "noir, obscurité, noirceur, obscurcissement, ténèbres",
     "type": "nom féminin",
-    "search": "negrou noir, obscurité"
+    "search": "negrou noir, obscurité, noirceur, obscurcissement, ténèbres"
   },
   {
     "id": 8452,
@@ -54021,7 +54009,7 @@
   {
     "id": 8530,
     "titre": "nuble",
-    "definition": "nuage",
+    "definition": "nuage ; nuée",
     "type": "nom féminin",
     "search": "nuble nuage"
   },
@@ -56745,13 +56733,7 @@
     "type": "nom masculin",
     "search": "pedas pièce de tissu"
   },
-  {
-    "id": 8951,
-    "titre": "pedassa",
-    "definition": "rapiécer, rapetasser ; raccommoder ; réconcilier",
-    "type": "verbe transitif",
-    "search": "pedassa rapiécer, rapetasser ; raccommoder ; réconcilier"
-  },
+
   {
     "id": 8952,
     "titre": "pedère",
@@ -59892,7 +59874,7 @@
   {
     "id": 9422,
     "titre": "porte",
-    "definition": "porte",
+    "definition": "porte ; portière de voiture",
     "type": "nom féminin",
     "search": "porte porte"
   },
@@ -63659,17 +63641,17 @@
   },
   {
     "id": 9980,
-    "titre": "rancune",
+    "titre": "rancune, rencou",
     "definition": "rancune",
     "type": "nom féminin",
     "search": "rancune rancune"
   },
   {
     "id": 9981,
-    "titre": "rancuniè -re",
+    "titre": "rencuniè, rencourus",
     "definition": "rancunier",
     "type": "adjectif et nom",
-    "search": "rancuniè -re rancunier"
+    "search": "rencuniè -re rancunier"
   },
   {
     "id": 9982,
@@ -65969,9 +65951,9 @@
   {
     "id": 10323,
     "titre": "roullèu",
-    "definition": "rouleau (spécialement engin agricole)",
+    "definition": "rouleau",
     "type": "nom masculin",
-    "search": "roullèu rouleau (spécialement engin agricole)"
+    "search": "roullèu rouleau"
   },
   {
     "id": 10324,
@@ -68212,7 +68194,7 @@
   {
     "id": 10674,
     "titre": "sèrre",
-    "definition": "serre",
+    "definition": "serre ; colline",
     "type": "nom féminin",
     "search": "sèrre serre"
   },
@@ -71647,7 +71629,7 @@
   {
     "id": 11189,
     "titre": "terrè",
-    "definition": "colline, coteau, talus",
+    "definition": "colline, coteau, talus, fosse",
     "type": "nom masculin",
     "search": "terrè colline, coteau, talus"
   },
@@ -74066,7 +74048,7 @@
   {
     "id": 11573,
     "titre": "tripe",
-    "definition": "petit boudin",
+    "definition": "petit boudin ; tripe",
     "type": "nom féminin",
     "search": "tripe petit boudin"
   },
@@ -75609,41 +75591,8 @@
     "type": "adjectif",
     "search": "yelat -ade gelé ; frileux"
   },
-  {
-    "id": 11810,
-    "titre": "yelou",
-    "definition": "jalousie",
-    "type": "nom féminin",
-    "search": "yelou jalousie"
-  },
-  {
-    "id": 11811,
-    "titre": "yelous",
-    "definition": "jaloux",
-    "type": "adjectif et nom",
-    "search": "yelous jaloux"
-  },
-  {
-    "id": 11812,
-    "titre": "yelousa",
-    "definition": "jalouser",
-    "type": "verbe transitif",
-    "search": "yelousa jalouser"
-  },
-  {
-    "id": 11813,
-    "titre": "yelousè",
-    "definition": "jalousie",
-    "type": "nom masculin",
-    "search": "yelousè jalousie"
-  },
-  {
-    "id": 11814,
-    "titre": "yelousie",
-    "definition": "jalousie",
-    "type": "nom féminin",
-    "search": "yelousie jalousie"
-  },
+
+ 
   {
     "id": 11815,
     "titre": "yemi",
@@ -82943,6 +82892,538 @@
     "titre": "arregagnat",
     "definition": "hargneux",
     "type": "adjectif",
-    "search": "arregagnathargneux"
+    "search": "arregagnat hargneux"
+  }
+
+
+
+
+
+
+
+  ,{
+    "id": 12758,
+    "titre": "mautretta",
+    "definition": "maltraiter",
+    "type": "verbe",
+    "search": "mautretta maltraiter"
+  },{
+    "id": 12759,
+    "titre": "fenoulh",
+    "definition": "fenouil",
+    "type": "nom masculin",
+    "search": "fenoulh fenouil"
+  },{
+    "id": 12760,
+    "titre": "assauna-s",
+    "definition": "s'assoupir, dormir",
+    "type": "verbe",
+    "search": "assauna-s s'assoupir, dormir"
+  },{
+    "id": 12761,
+    "titre": "remissioû",
+    "definition": "rémission",
+    "type": "nom féminin",
+    "search": "remissioû rémission"
+  },{
+    "id": 12762,
+    "titre": "sandale",
+    "definition": "sandale",
+    "type": "nom fémnin",
+    "search": "sandale sandale"
+  }
+  
+  ,{
+    "id": 12763,
+    "titre": "ounctioû",
+    "definition": "onction",
+    "type": "nom féminin",
+    "search": "ounctioû onction"
+  },{
+    "id": 12764,
+    "titre": "acousta",
+    "definition": "accoster",
+    "type": "verbe",
+    "search": "acousta accoster"
+  },{
+    "id": 12765,
+    "titre": "suffouca",
+    "definition": "suffoquer, étouffer",
+    "type": "verbe",
+    "search": "suffouca suffoquer, étouffer"
+  },{
+    "id": 12766,
+    "titre": "reberdi",
+    "definition": "réverdir",
+    "type": "verbe",
+    "search": "reberdi réverdir"
+  },{
+    "id": 12767,
+    "titre": "pourpre",
+    "definition": "pourpre",
+    "type": "nom et adjectif",
+    "search": "pourpre pourpre"
+  }
+
+
+   ,{
+    "id": 12768,
+    "titre": "counsistori",
+    "definition": "consistoire",
+    "type": "nom masculin",
+    "search": "counsistori consistoire"
+  },{
+    "id": 12769,
+    "titre": "pourtè",
+    "definition": "portier, concierge",
+    "type": "nom masculin",
+    "search": "pourtè portier, concierge"
+  },{
+    "id": 12770,
+    "titre": "endura",
+    "definition": "endurer",
+    "type": "verbe",
+    "search": "endura endurer"
+  },{
+    "id": 12771,
+    "titre": "diftoungue",
+    "definition": "diphtongue",
+    "type": "nom féminin",
+    "search": "diftoungue diphtongue"
+  },{
+    "id": 12772,
+    "titre": "bèth téms a, que y a dies, que y a hère",
+    "definition": "jadis",
+    "type": "adverbe",
+    "search": "bèth téms a, que y a dies, que y a hère jadis"
+  }
+
+
+  
+   ,{
+    "id": 12773,
+    "titre": "paysâ, ane",
+    "definition": "cultivateur",
+    "type": "nom masculin",
+    "search": "paysâ, ane cultivateur"
+  },{
+    "id": 12774,
+    "titre": "armurè",
+    "definition": "armurier",
+    "type": "nom masculin",
+    "search": "armurè armurier"
+  },{
+    "id": 12775,
+    "titre": "boucliè",
+    "definition": "bouclier",
+    "type": "nom masculin",
+    "search": "boucliè bouclier"
+  },{
+    "id": 12776,
+    "titre": "furie",
+    "definition": "furie",
+    "type": "nom féminin",
+    "search": "furie furie"
+  },{
+    "id": 12777,
+    "titre": "benignitat",
+    "definition": "bénignité",
+    "type": "nom féminin",
+    "search": "benignitat bénignité"
+  }
+   ,{
+    "id": 12778,
+    "titre": "santifia",
+    "definition": "sanctifier",
+    "type": "verbe",
+    "search": "santifia sanctifier"
+  },{
+    "id": 12779,
+    "titre": "oupta",
+    "definition": "opter",
+    "type": "verbe",
+    "search": "oupta opter"
+  },{
+    "id": 12780,
+    "titre": "abisme",
+    "definition": "abîme",
+    "type": "nom masculin",
+    "search": "abisme abîme"
+  },{
+    "id": 12781,
+    "titre": "deboura",
+    "definition": "dévorer",
+    "type": "verbe",
+    "search": "deboura dévorer"
+  },{
+    "id": 12782,
+    "titre": "captiu, -be",
+    "definition": "captif",
+    "type": "nom masculin",
+    "search": "captiu captif"
+  }
+
+
+
+   ,{
+    "id": 12783,
+    "titre": "fat",
+    "definition": "prétentieux",
+    "type": "adjectif",
+    "search": "fat prétentieux"
+  },{
+    "id": 12784,
+    "titre": "nuditat",
+    "definition": "nudité",
+    "type": "nom féminin",
+    "search": "nuditat nudité"
+  },{
+    "id": 12785,
+    "titre": "batistari",
+    "definition": "baptistère",
+    "type": "nom et adjectif",
+    "search": "batistari baptistère"
+  },{
+    "id": 12786,
+    "titre": "argansa",
+    "definition": "disposer, ranger",
+    "type": "verbe",
+    "search": "argansa disposer, ranger"
+  },{
+    "id": 12787,
+    "titre": "captiu, -be",
+    "definition": "captif",
+    "type": "nom masculin",
+    "search": "captiu captif"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  ,{
+    "id": 12788,
+    "titre": "cristal",
+    "definition": "cristau",
+    "type": "nom masculin",
+    "search": "cristal cristau"
+  },{
+    "id": 12789,
+    "titre": "yene",
+    "definition": "engendrer",
+    "type": "verbe",
+    "search": "yene engendrer"
+  },{
+    "id": 12790,
+    "titre": "engouli",
+    "definition": "englutir",
+    "type": "verbe",
+    "search": "engouli englutir"
+  },{
+    "id": 12791,
+    "titre": "nobi",
+    "definition": "fiancé, fiancée",
+    "type": "nom",
+    "search": "nobi fiancé, fiancée"
+  },{
+    "id": 12792,
+    "titre": "desloudya",
+    "definition": "déloger",
+    "type": "verbe",
+    "search": "desloudya déloger"
+  }
+  
+  ,{
+    "id": 127593,
+    "titre": "paradye",
+    "definition": "parure",
+    "type": "nom féminin",
+    "search": "paradye parure"
+  },{
+    "id": 12794,
+    "titre": "caussa",
+    "definition": "(jardinage) butter",
+    "type": "verbe",
+    "search": "caussa butter"
+  },{
+    "id": 12795,
+    "titre": "destresse",
+    "definition": "détresse",
+    "type": "nom féminin",
+    "search": "destresse détresse"
+  },{
+    "id": 12796,
+    "titre": "desempacha",
+    "definition": "dégager, débarrasser",
+    "type": "verbe",
+    "search": "desempacha dénarasser"
+  },{
+    "id": 12797,
+    "titre": "pinna",
+    "definition": "sauter, bondir, gambader",
+    "type": "verbe",
+    "search": "pinna sauter, bondir, gambader"
+  }
+
+
+   ,{
+    "id": 12798,
+    "titre": "labatori",
+    "definition": "lotion, ablution",
+    "type": "nom masculin",
+    "search": "labatori lotion, ablution"
+  },{
+    "id": 12799,
+    "titre": "pradèu",
+    "definition": "préau",
+    "type": "nom masculin",
+    "search": "pradèu préau"
+  },{
+    "id": 12800,
+    "titre": "camèu",
+    "definition": "chameau",
+    "type": "nom masculin",
+    "search": "camèu chameau"
+  },{
+    "id": 12801,
+    "titre": "luminari, -ie",
+    "definition": "illumination",
+    "type": "nom masculin",
+    "search": "luminari illumination"
+  },{
+    "id": 12802,
+    "titre": "despéns",
+    "definition": "dépens (aux dépens de)",
+    "type": "nom masculin",
+    "search": "despéns dépens (aux dépens de)"
+  }
+
+
+  
+   ,{
+    "id": 12803,
+    "titre": "tenèbre",
+    "definition": "ténèbre",
+    "type": "nom féminin",
+    "search": "tenèbre ténèbre"
+  },{
+    "id": 12804,
+    "titre": "tenebrous",
+    "definition": "ténébreux",
+    "type": "adjectif",
+    "search": "tenebrous ténébreux"
+  },{
+    "id": 12805,
+    "titre": "endousta",
+    "definition": "abriter contre le vent, contre l’ardeur du soleil",
+    "type": "verbe",
+    "search": "endousta abriter contre le vent, contre l’ardeur du soleil"
+  },{
+    "id": 12806,
+    "titre": "arrulha",
+    "definition": "creuser une rigole",
+    "type": "verbe",
+    "search": "arrulha creuser une rigole"
+  },{
+    "id": 12807,
+    "titre": "mousquilh",
+    "definition": "moucheron",
+    "type": "nom masculin",
+    "search": "mousquilh moucheron"
+  }
+   ,{
+    "id": 12808,
+    "titre": "ahouni",
+    "definition": "dépenser, dissiper",
+    "type": "verbe",
+    "search": "ahouni dépenser, dissiper"
+  },{
+    "id": 12809,
+    "titre": "flacoû",
+    "definition": "flacon",
+    "type": "nom masculin",
+    "search": "flacoû flacon"
+  },{
+    "id": 12810,
+    "titre": "layrou",
+    "definition": "larron",
+    "type": "nom masculin",
+    "search": "layrou larron"
+  },{
+    "id": 12811,
+    "titre": "marélhe ",
+    "definition": "étang",
+    "type": "nom féminin",
+    "search": "marélhe  étang"
+  },{
+    "id": 12812,
+    "titre": "amaremen",
+    "definition": "amèrement",
+    "type": "adverbe",
+    "search": "amaremen amèrement"
+  }
+
+
+
+   ,{
+    "id": 12813,
+    "titre": "embinagra",
+    "definition": "vinaigrer ; irriter, enrager, aigrir",
+    "type": "adjectif",
+    "search": "embinagra vinaigrer ; irriter,enrager, aigrir"
+  },{
+    "id": 12814,
+    "titre": "coumbouca",
+    "definition": "convoquer",
+    "type": "verbe",
+    "search": "coumbouca convoquer"
+  },{
+    "id": 12815,
+    "titre": "atuca",
+    "definition": "accabler",
+    "type": "verbe",
+    "search": "atuca accabler"
+  },{
+    "id": 12816,
+    "titre": "chourrère",
+    "definition": "jaillissement",
+    "type": "nom féminin",
+    "search": "chourrère jaillissement"
+  }
+
+
+
+
+   ,{
+    "id": 12817,
+    "titre": "arresauta",
+    "definition": "tressailir, sauter de nouveau",
+    "type": "verbe",
+    "search": "arresauta tressailir, sauter de nouveau"
+  },{
+    "id": 12818,
+    "titre": "arrisa",
+    "definition": "hérisser",
+    "type": "verbe",
+    "search": "arrisa hérisser"
+  },{
+    "id": 12819,
+    "titre": "trema",
+    "definition": "tréma",
+    "type": "nom masculin",
+    "search": "trema tréma"
+  },{
+    "id": 12820,
+    "titre": "esta arrissat",
+    "definition": "frissoner",
+    "type": "forme verbale",
+    "search": "esta arrissat frissoner"
+  },{
+    "id": 12821,
+    "titre": "arrouncilha",
+    "definition": "froncer, froisser, chiffonner ; rider",
+    "type": "verbe",
+    "search": "arrouncilha froncer, froisser, chiffonner ; rider"
+  }
+   ,{
+    "id": 12822,
+    "titre": "cautelous",
+    "definition": "cauteleux",
+    "type": "adjectif",
+    "search": "cautelous cauteleux"
+  },{
+    "id": 12823,
+    "titre": "abasta",
+    "definition": "suffire",
+    "type": "verbe",
+    "search": "abasta suffire"
+  },{
+    "id": 12824,
+    "titre": "coupadou",
+    "definition": "coupeur",
+    "type": "nom masculin",
+    "search": "coupadou coupeur"
+  },{
+    "id": 12825,
+    "titre": "esglas",
+    "definition": "frayeur qui glace",
+    "type": "nom masculin",
+    "search": "esglas frayeur qui glace"
+  },{
+    "id": 12826,
+    "titre": "esglassa",
+    "definition": "glacer de frayeur",
+    "type": "verbe",
+    "search": "esglassa glacer de frayeur"
+  }
+
+
+
+   ,{
+    "id": 12827,
+    "titre": "espantou",
+    "definition": "frayeur",
+    "type": "nom masculin",
+    "search": "espantou frayeur"
+  },{
+    "id": 12828,
+    "titre": "guiroufleye",
+    "definition": "giroflée",
+    "type": "nom féminin",
+    "search": "guiroufleye giroflée"
+  },
+  
+  
+  
+  
+  {
+    "id": 12829,
+    "titre": "rusademen",
+    "definition": "de manière rusée",
+    "type": "adverbe",
+    "search": "rusademen de manière rusée"
+  },{
+    "id": 12830,
+    "titre": "renardeya",
+    "definition": "renarder, employer la ruse",
+    "type": "verbe",
+    "search": "renardeya renarder, employer la ruse"
   }
 ]
