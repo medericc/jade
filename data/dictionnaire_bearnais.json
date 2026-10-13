@@ -21566,7 +21566,7 @@
   {
     "id": 3532,
     "titre": "coenta-s",
-    "definition": "se charger d'occupations ; s'empresser",
+    "definition": "se charger d'occupations ou d'affaires ; s'empresser",
     "type": "verbe pronominal",
     "search": "coenta-s se charger d'occupations ; s'empresser"
   },
@@ -44209,7 +44209,7 @@
   {
     "id": 6975,
     "titre": "halhe",
-    "definition": "crête (de volaille). ♦ Abé-n coum l'auque halhe → ne pas en avoir du tout (« en avoir comme l'oie a une crête »). ♦ Abé la halhe rouye → avoir un teint rubicond",
+    "definition": "crête (de volaille). ♦ Tira de la halhe → débarasser, fichez le camp ! ♦ Abé-n coum l'auque halhe → ne pas en avoir du tout (« en avoir comme l'oie a une crête »). ♦ Abé la halhe rouye → avoir un teint rubicond",
     "type": "nom féminin",
     "search": "halhe crête (de volaille). ♦ Abé-n coum l'auque halhe → ne pas en avoir du tout (« en avoir comme l'oie a une crête »). ♦ Abé la halhe rouye → avoir un teint rubicond"
   },
@@ -49396,10 +49396,10 @@
   },
   {
     "id": 7848,
-    "titre": "margalide",
+    "titre": "margaride",
     "definition": "marguerite",
     "type": "nom féminin",
-    "search": "margalide marguerite"
+    "search": "margaride marguerite"
   },
   {
     "id": 7849,
@@ -83425,5 +83425,59 @@
     "definition": "renarder, employer la ruse",
     "type": "verbe",
     "search": "renardeya renarder, employer la ruse"
+  },{
+    "id": 12831,
+    "titre": "espabenta",
+    "definition": "épouvanter",
+    "type": "verbe",
+    "search": "espabenta épouvanter"
+  },{
+    "id": 12832,
+    "titre": "espabentable",
+    "definition": "épouvantable",
+    "type": "adjectif",
+    "search": "espabentable épouvantable"
+  },{
+    "id": 12833,
+    "titre": "garrapa",
+    "definition": "saisir, grimper",
+    "type": "verbe",
+    "search": "garrapa saisir grimper"
+  },{
+    "id": 12834,
+    "titre": "reyture",
+    "definition": "dénûment, angoisse, détresse",
+    "type": "nom féminin",
+    "search": "reyture dénûment, angoisse, détresse"
+  },{
+    "id": 12835,
+    "titre": "segnouria",
+    "definition": "gouverner, maîtriser",
+    "type": "verbe",
+    "search": "segnouria gouverner, maîtriser"
+  },{
+    "id": 12836,
+    "titre": "arregoula",
+    "definition": "rassassier, goinfrer, gaver ; dégoûter",
+    "type": "verbe",
+    "search": "arregoula rassassier, goinfrer, gaver ; dégoûter"
+  },{
+    "id": 12837,
+    "titre": "arregoulat",
+    "definition": "repu",
+    "type": "adjectif",
+    "search": "arregoulat repu"
+  },{
+    "id": 12838,
+    "titre": "labamen",
+    "definition": "lavement",
+    "type": "adverbe",
+    "search": "labamen lavement"
+  },{
+    "id": 12839,
+    "titre": "esmalha",
+    "definition": "émailler",
+    "type": "verbe",
+    "search": "esmalha émailler"
   }
 ]
