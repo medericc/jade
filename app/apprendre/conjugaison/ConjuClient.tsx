@@ -388,7 +388,7 @@ window.history.replaceState(null, '', `#${s.key}`)
 
             <Card title="3e groupe" icon="📖">
               <p>
-                Radical + éch? (sauf nous et vous) + i, s, -, im, it, in.
+                Radical + éch? (sauf nous et vous) + i, s, -, im, it, in/ẹn.
               </p>
 
             </Card>
