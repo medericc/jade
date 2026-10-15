@@ -1503,7 +1503,7 @@
   {
     "id": 245,
     "titre": "adoup",
-    "definition": "assaisonnement",
+    "definition": "assaisonnement, sauce",
     "type": "nom masculin",
     "search": "adoup assaisonnement"
   },
@@ -8576,7 +8576,7 @@
   {
     "id": 1409,
     "titre": "barat",
-    "definition": "fossé",
+    "definition": "fossé, canal de moulin",
     "type": "nom masculin",
     "search": "barat fossé"
   },
@@ -38527,17 +38527,11 @@
   {
     "id": 6095,
     "titre": "esmoule",
-    "definition": "meule (à aiguiser)",
+    "definition": "meule (à aiguiser), émoudre",
     "type": "nom féminin",
     "search": "esmoule meule (à aiguiser)"
   },
-  {
-    "id": 6096,
-    "titre": "esmoùlẹ",
-    "definition": "aiguiser (à la meule)",
-    "type": "verbe transitif",
-    "search": "esmoùlẹ aiguiser (à la meule)"
-  },
+ 
   {
     "id": 6097,
     "titre": "esmousca",
@@ -39436,7 +39430,7 @@
   {
     "id": 6230,
     "titre": "esquiroû",
-    "definition": "grelot ; bulle",
+    "definition": "grelot, sonnette de bicyclette  ; bulle",
     "type": "nom masculin",
     "search": "esquiroû grelot ; bulle"
   },
@@ -63200,7 +63194,7 @@
   {
     "id": 9916,
     "titre": "qui",
-    "definition": "que ; pendant que ; avant que ; tant que ; parce que ; bien que ; même si",
+    "definition": "que ; pendant que ; avant que ; tant que ; parce que ; bien que ; même si ; quiconque",
     "type": "conjonction",
     "search": "qui que ; pendant que ; avant que ; tant que ; parce que ; bien que ; même si"
   },
@@ -65598,10 +65592,10 @@
   },
   {
     "id": 10271,
-    "titre": "retreni",
-    "definition": "retentir, résonner",
+    "titre": "retenti",
+    "definition": "retentir, résonner ♦ retentéch",
     "type": "verbe intransitif",
-    "search": "retreni retentir, résonner"
+    "search": "retenti retentir, résonner"
   },
   {
     "id": 10272,
@@ -71629,9 +71623,9 @@
   {
     "id": 11189,
     "titre": "terrè",
-    "definition": "colline, coteau, talus, fosse",
+    "definition": "butte, colline, coteau, talus, fosse",
     "type": "nom masculin",
-    "search": "terrè colline, coteau, talus"
+    "search": "terrè colline, coteau, talus fosse butte"
   },
 
   {
@@ -73001,9 +72995,9 @@
   {
     "id": 11406,
     "titre": "tout",
-    "definition": "tout",
+    "definition": "tout, chaque (tout die → chaque jour)",
     "type": "pronom indéfini",
-    "search": "tout tout"
+    "search": "tout, chaque tout"
   },
   {
     "id": 11407,
@@ -83491,5 +83485,174 @@
     "definition": "définitif",
     "type": "adjectif",
     "search": "definitiu définitif"
+  },  {
+    "id": 12892,
+    "titre": "rauyous",
+    "definition": "fou de rage, enragé",
+    "type": "adjectif",
+    "search": "rauyous fou de rage, enragé"
+  },  {
+    "id": 12893,
+    "titre": "arrauyeya",
+    "definition": "enrager",
+    "type": "verbe",
+    "search": "arrauyeya enrager"
+  },  {
+    "id": 12894,
+    "titre": "escut",
+    "definition": "écus",
+    "type": "nom masculin",
+    "search": "escut écus"
+  },  {
+    "id": 12895,
+    "titre": "sacrifica",
+    "definition": "immoler, sacrifier, offrir un sacrifice",
+    "type": "verbe",
+    "search": "sacrifica immoler, sacrifier, offrir un sacrifice"
+  },  {
+    "id": 12896,
+    "titre": "entegre",
+    "definition": "intégre",
+    "type": "adjectif",
+    "search": "entegre intégre"
+  },  {
+    "id": 12897,
+    "titre": "entegremen",
+    "definition": "intégralement",
+    "type": "adverbe",
+    "search": "entegremen intégralement"
+  }
+
+
+
+
+,
+   {
+    "id": 12898,
+    "titre": "esquarri",
+    "definition": "équarrir",
+    "type": "verbe",
+    "search": "esquarri équarrir"
+  },  {
+    "id": 12899,
+    "titre": "faraman",
+    "definition": "celui, celle dont les compliments sont hypocrites ; diseur, diseuse de sornettes",
+    "type": "nom masculin",
+    "search": "faraman celui, celle dont les compliments sont hypocrites ; diseur, diseuse de sornettes"
+  },  {
+    "id": 12900,
+    "titre": "remounstra",
+    "definition": "remontrer, faire des remontrances ; démontrer",
+    "type": "verbe",
+    "search": "remounstra remontrer ; démontrer"
+  },  {
+    "id": 12901,
+    "titre": "remounstracioû",
+    "definition": "remontrance",
+    "type": "nom féminin",
+    "search": "remounstracioû remontrance"
+  }
+
+
+,
+  
+   {
+    "id": 12902,
+    "titre": "brasouqueya",
+    "definition": "remuer la cendre, ne pas quitter le coin du feu, tisonner",
+    "type": "verbe",
+    "search": "brasouqueya remuer la cendre, ne pas quitter le coin du feu, tisonner"
+  },  {
+    "id": 12903,
+    "titre": "roubi",
+    "definition": "polir, fourbir, nettoyer en frottant, récurer",
+    "type": "verbe",
+    "search": "roubi polir, fourbir, nettoyer en frottant, récurer"
+  },  {
+    "id": 12904,
+    "titre": "gritchou",
+    "definition": "grillon, sauterelle",
+    "type": "nom masculin",
+    "search": "gritchou grillon, sauterelle"
+  },  {
+    "id": 12905,
+    "titre": "fulmina",
+    "definition": "fulminer",
+    "type": "verbe",
+    "search": "fulmina fulminer"
+  }
+
+
+
+  ,
+  
+   {
+    "id": 12906,
+    "titre": "fulminade",
+    "definition": "action d'accabler de reproches, de coups ; action de fluminer",
+    "type": "nom féminin",
+    "search": "fulminade action d'accabler de reproches, de coups ; action de fluminer"
+  },  {
+    "id": 12907,
+    "titre": "emprunta",
+    "definition": "emprunter",
+    "type": "verbe",
+    "search": "emprunta emprunter"
+  },  {
+    "id": 12908,
+    "titre": "yan-l'auquè",
+    "definition": "un musard, un désoeuvré",
+    "type": "nom masculin",
+    "search": "yan-l'auquè un musard, un désoeuvré"
+  },  {
+    "id": 12909,
+    "titre": "yan-l'aysit",
+    "definition": "l'indolent",
+    "type": "nom masculin",
+    "search": "yan-l'aysit l'indolent"
+  },  {
+    "id": 12910,
+    "titre": "yan-trangle",
+    "definition": "un dégingandé",
+    "type": "nom masculin",
+    "search": "yan-trangle un dégingandé"
+  }
+
+
+
+
+  
+  ,
+  
+   {
+    "id": 12911,
+    "titre": "arraut",
+    "definition": "rot",
+    "type": "nom masculin",
+    "search": "arraut rot"
+  },  {
+    "id": 12912,
+    "titre": "arrauta",
+    "definition": "roter",
+    "type": "verbe",
+    "search": "arrauta roter"
+  },  {
+    "id": 12913,
+    "titre": "hounimen",
+    "definition": "action de se précipiter sur",
+    "type": "nom masculin",
+    "search": "hounimen action de se précipiter sur"
+  },  {
+    "id": 12914,
+    "titre": "saubetat",
+    "definition": "salut, délivrance, sauvegarde",
+    "type": "nom féminin",
+    "search": "saubetat salut, délivrance"
+  },  {
+    "id": 12915,
+    "titre": "amurtri",
+    "definition": "tuer, blesser",
+    "type": "verbe",
+    "search": "amurtri tuer, blesser"
   }
 ]
