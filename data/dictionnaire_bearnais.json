@@ -65867,9 +65867,9 @@
   {
     "id": 10311,
     "titre": "roubi",
-    "definition": "récurer ; user (un vêtement, des souliers etc.) ; épuiser (une pâture) ; (plaisant) manger",
+    "definition": "user (un vêtement, des souliers etc.) ; épuiser (une pâture) ; (plaisant) manger",
     "type": "verbe transitif",
-    "search": "roubi récurer ; user (un vêtement, des souliers etc.) ; épuiser (une pâture) ; (plaisant) manger"
+    "search": "roubi  user (un vêtement, des souliers etc.) ; épuiser (une pâture) ; (plaisant) manger"
   },
   {
     "id": 10312,
@@ -83654,5 +83654,23 @@
     "definition": "tuer, blesser",
     "type": "verbe",
     "search": "amurtri tuer, blesser"
+  },  {
+    "id": 12916,
+    "titre": "proubisioû",
+    "definition": "provision",
+    "type": "nom féminin",
+    "search": "proubisioû provision"
+  },  {
+    "id": 12916,
+    "titre": "croubidou",
+    "definition": "couvreur, qui couvre les maisons",
+    "type": "nom masculin",
+    "search": "croubidou couvreur, qui couvre les maisons"
+  },  {
+    "id": 12916,
+    "titre": "roubide",
+    "definition": "action de fourbir, nettoyer en frottant",
+    "type": "nom féminin",
+    "search": "roubide action de fourbir, nettoyer en frottant"
   }
 ]
