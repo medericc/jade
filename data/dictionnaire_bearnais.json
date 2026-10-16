@@ -12082,7 +12082,7 @@
   },
   {
     "id": 2019,
-    "titre": "bòstẹ",
+    "titre": "lou bòstẹ, la bòstẹ",
     "definition": "votre ; vôtre ; chez vous",
     "type": "adjectif/pronom possessif",
     "search": "bòstẹ votre ; vôtre ; chez vous"
@@ -20717,13 +20717,7 @@
     "type": "verbe intransitif et transitif",
     "search": "chusma suinter"
   },
-  {
-    "id": 3406,
-    "titre": "'ci",
-    "definition": "ici",
-    "type": "adverbe",
-    "search": "'ci ici"
-  },
+ 
   {
     "id": 3407,
     "titre": "ciarrè",
@@ -53946,7 +53940,7 @@
   },
   {
     "id": 8522,
-    "titre": "noùstẹ",
+    "titre": "lou noùstẹ, la noùstẹ",
     "definition": "notre (le / la nôtre) ; à nous ; chez nous",
     "type": "adjectif et pronom possessif masculin et féminin",
     "search": "noùstẹ notre (le / la nôtre) ; à nous ; chez nous"
@@ -68733,7 +68727,7 @@
   },
   {
     "id": 10758,
-    "titre": "soû",
+    "titre": "lou soû, la soûe",
     "definition": "son, sa, sien, sienne ; à lui, à elle",
     "type": "adjectif et pronom possessif",
     "search": "soû son, sa, sien, sienne ; à lui, à elle"
@@ -83672,5 +83666,23 @@
     "definition": "action de fourbir, nettoyer en frottant",
     "type": "nom féminin",
     "search": "roubide action de fourbir, nettoyer en frottant"
+  },  {
+    "id": 12917,
+    "titre": "lou toû, la toûe",
+    "definition": "le tien, la tienne ; ton, ta",
+    "type": "pronom possessif",
+    "search": "lou toû, la toûe le tien, la tienne ; ton, ta"
+  },  {
+    "id": 12917,
+    "titre": "lou mê, la mêe",
+    "definition": "le mien, la mienne ; mon, ma",
+    "type": "pronom possessif",
+    "search": "lou mê, la mêe le mien, la mienne ; mon, ma"
+  },  {
+    "id": 12917,
+    "titre": "lou soû, la soûe",
+    "definition": "le sien, la sienne ; son, sa",
+    "type": "pronom possessif",
+    "search": "lou soû, la soûe le sien, la sienne ; son, sa"
   }
 ]
