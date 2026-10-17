@@ -2,6 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import Script from 'next/script'
 import PWAClient from "./PWAClient";
+import { GoogleAnalytics } from '@next/third-parties/google'
 // Search Console
 
 const siteUrl = 'https://www.jadecelerierbearn.com'
@@ -126,8 +127,8 @@ export default function RootLayout({
       </head>
       <body>
         
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-Q5FNLCZYQ9" strategy="afterInteractive" /> <Script id="google-analytics" strategy="afterInteractive"> {` window.dataLayer = window.dataLayer || []; function gtag(){window.dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q5FNLCZYQ9'); `} </Script>
-       <PWAClient />
+    <GoogleAnalytics gaId="G-Q5FNLCZYQ9" />
+        <PWAClient />
         {children}</body>
     </html>
   )

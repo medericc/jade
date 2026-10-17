@@ -5,7 +5,8 @@ export const metadata = {
   title: "Conjugaison Béarnaise Complète | Présent, Futur, Passé et Subjonctif",
   description:
     "Apprenez la conjugaison béarnaise avec des règles détaillées, les temps verbaux, les verbes irréguliers, des exemples et les participes en langue béarnaise.",
-}
+ alternates: { canonical: '/apprendre/conjuguaison' },
+  }
 
 export default function Page() {
   return <ConjuClient />

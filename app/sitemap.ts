@@ -1,7 +1,28 @@
 import type { MetadataRoute } from 'next'
+// Pages détaillées présentes dans Timeline.tsx
+const cultureHistorySlugs = [
+  // Histoire du Béarn
+  'fondement',
+  'souverain',
+  'republique',
+  'navarre',
+  'monarchie-absolue',
+  'la-terreur',
+
+  // Histoire du monde
+  'eglise',
+  'naissance-france',
+  'capet',
+  'sainte-jeanne',
+  'calviniste',
+  'paris',
+  'revolution-france',
+  'technologie',
+]
+  const base = 'https://www.jadecelerierbearn.com'
+
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = 'https://www.jadecelerierbearn.com'
 
   return [
     {
@@ -39,6 +60,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.85,
     },
-    
+     ...cultureHistorySlugs.map((slug) => ({
+      url: `${base}/apprendre/culture/histoire/${slug}`,
+      changeFrequency: 'monthly' as const,
+      priority: 0.75,
+    })),
   ]
 }

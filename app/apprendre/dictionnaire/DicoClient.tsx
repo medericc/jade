@@ -1,12 +1,13 @@
 'use client'
 
 import Link from 'next/link'
-import { useMemo, useState } from 'react'
+import { useMemo, useState, useEffect } from 'react'
 import data from '@/data/dictionnaire_bearnais.json'
 import { Nunito } from 'next/font/google'
 import { Search } from 'lucide-react'
 import Fuse from 'fuse.js'
 import BreadcrumbSchema from "../../components/seo/BreadcrumbSchema"
+import { sendGAEvent } from '@next/third-parties/google'
 
 const nunito = Nunito({
   subsets: ['latin'],
@@ -109,6 +110,18 @@ return fuse.search(q).map(r => ({
 }))
    
   }, [query, fuse])
+
+useEffect(() => {
+  if (query.trim().length < 3) return
+
+  const timer = setTimeout(() => {
+    sendGAEvent('event', 'dictionary_search', {
+      results_count: results.length,
+    })
+  }, 1200)
+
+  return () => clearTimeout(timer)
+}, [query, results.length])
 
   // PAGINATION
   const totalPages = Math.ceil(

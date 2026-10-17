@@ -5,7 +5,7 @@ export const metadata = {
   title: "Cours de Béarnais | Apprendre la langue béarnaise pas à pas",
   description:
     "Apprenez le béarnais grâce à des leçons complètes et progressives : grammaire, vocabulaire, prononciation, expressions, règles essentielles et exemples pratiques pour tous les niveaux.",
-
+ alternates: { canonical: '/apprendre/cours' },
 }
 
 export default function Page() {

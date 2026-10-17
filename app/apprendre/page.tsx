@@ -9,7 +9,7 @@ export const metadata = {
   title: "Apprendre le Béarnais | Cours, Conjugaison, Dictionnaire et Culture",
   description:
     "Découvrez le béarnais grâce à des cours gratuits, une conjugaison complète, un dictionnaire, des ressources culturelles et l'histoire du Béarn.",
-
+ alternates: { canonical: '/apprendre' },
 }
 export default function ApprendrePage() {
   return (

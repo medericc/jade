@@ -139,7 +139,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
               margin: 0,
             }}
           >
-Counyuguesoû
+Conjuguaison
 
           </h1>
 
