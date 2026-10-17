@@ -344,7 +344,7 @@ overflow: hidden;
         textAlign: 'center'
       }}
     >
-      📖 Dicciounàri Biarnés
+      📖 Dictionnaire Béarnais
     </h1>
   </div>
 </header>
@@ -506,7 +506,7 @@ overflow: hidden;
     }}
   >
     Ce <strong>dictionnaire béarnais–français</strong> vous permet de rechercher
-    rapidement la traduction et la définition de nombreux mots en béarnais.
+    rapidement la traduction et la définition de plus de 10 000 mots en béarnais.
     Que vous cherchiez un terme précis ou que vous souhaitiez enrichir votre
     vocabulaire, cette ressource a été conçue pour offrir une consultation
     simple, rapide et gratuite.

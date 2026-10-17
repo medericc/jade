@@ -1062,7 +1062,7 @@ const isMobile = useMediaQuery('(max-width: 767px)')
               margin: 0,
             }}
           >
-Oéyt Leçoûs
+Leçons de Béarnais
 
           </h1>
 
